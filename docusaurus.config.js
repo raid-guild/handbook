@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: "/",
   favicon: "img/rg-icon.png",
   organizationName: "raid-guild", // Usually your GitHub org/user name.
-  projectName: "HQ", // Usually your repo name.
+  projectName: "Handbook", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "RaidGuild",

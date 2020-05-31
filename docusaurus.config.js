@@ -20,39 +20,39 @@ module.exports = {
         //   label: "Member Registry",
         //   position: "left"
         // },
-        // {
-        //   href: "https://raidguild.org",
-        //   label: "Homepage",
-        //   position: "right"
-        // }
+        {
+          href: "https://raidguild.org",
+          label: "Dot Org",
+          position: "right"
+        }
       ]
     },
     footer: {
       style: "dark",
-      links: [
-        {}, // keep this empty object in so the footer objects are "centered" in desktop view
-        {
-          title: "Our Presence",
-          items: [
-            {
-              label: "Homepage",
-              href: "https://raidguild.org"
-            },
-            {
-              label: "DAO",
-              href: "https://twitter.com/RaidGuild"
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/RaidGuild"
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/raid-guild"
-            }
-          ]
-        }
-      ],
+      // links: [
+      //   {}, // keep this empty object in so the footer objects are "centered" in desktop view
+      //   {
+      //     title: "Our Presence",
+      //     items: [
+      //       {
+      //         label: "Homepage",
+      //         href: "https://raidguild.org"
+      //       },
+      //       {
+      //         label: "DAO",
+      //         href: "https://twitter.com/RaidGuild"
+      //       },
+      //       {
+      //         label: "Twitter",
+      //         href: "https://twitter.com/RaidGuild"
+      //       },
+      //       {
+      //         label: "GitHub",
+      //         href: "https://github.com/raid-guild"
+      //       }
+      //     ]
+      //   }
+      // ],
       copyright: `Copyright © ${new Date().getFullYear()} RaidGuild, DAO`
     }
   },

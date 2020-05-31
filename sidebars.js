@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: {
-    "Introduction": ["overview", "raiding", "quests"],
-    "Field Manual": ["roles", "rooms", "glossary", "resources"]
+    "Introduction": ["overview"],
+    "Light House": ["onboard", "raiding"],
+    "Field Manual": ["roles", "rooms", "glossary", "library"]
   }
 };

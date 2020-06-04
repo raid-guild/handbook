@@ -25,7 +25,7 @@ All new entries will start as an Apprentice. Apprentices can earn a maximum of 1
 
 Note: In some cases, Members may earn shares for past work instead of pledging tribute. However, each Member is expected to contribute 1 WETH (or 1 WETH worth of value) to the DAO in order to become a Member.
 
-#### Become a Member
+### Become a Member
 Once you’ve been Championed, you are eligible to level up from an Apprentice to a Member - signalled by 10 Shares as opposed to 1.
 
 Follow the Proposal Process and use the Membership Proposal to request the difference in Shares to get to your 10 Share cap in [Pokemol](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d).
@@ -34,7 +34,7 @@ Please note that all new members are capped at 10 Shares for 1WETH.
 
 Once you’ve received 10 Shares, you’ll be given access to member-exclusive channels and are now an official member ready to Join a Raid
 
-#### Join a Raid
+### Join a Raid
 
 Any member with at least one Share is eligible to join an existing Raid. 
 
@@ -46,7 +46,7 @@ Seeing as the cost and budget of each Raid varies, please ensure that your expec
 
 For questions on how to price a given issue, please drop a note in #back-tavern
 
-#### Lead a Raid
+### Lead a Raid
 
 Well well well! Welcome to the big leagues.
 

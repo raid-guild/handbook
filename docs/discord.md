@@ -58,6 +58,10 @@ The larger vision is that your player card will follow you from community to com
 
 Within the Raid Guild Discord, you’ll notice a suite of Categories each full of different sub-channels. Here’s what you need to know about each.
 
+#### Public
+
+Public channels are available to everyone in the Discord. This offers a crossing ground for Apprentices and Guilders and is largely recreational. Guilders should keep a close eye on #apprentice-good-first-issues as this is where Apprentices are earning their chops and contributing to better refine the Guild.
+
 | Name | Category      | Visibility | Purpose |
 | -------- | --------- | ---------- | -- -- -- -- -- |
 | _#tavern_  | Public | Open | Welcome messages, small talk, basic Q & A. |
@@ -66,10 +70,27 @@ Within the Raid Guild Discord, you’ll notice a suite of Categories each full o
 | _#apprentice-lobby_  | Public | Open | A place for new applicants to chat and ask questions. |
 | _#good-first-issues_  | Public | Open | A place for new applicants to pick up issues to work on. |
 | _#show-n-tell_  | Public | Open | A place for new applicants to show their skills/previous accomplishments. |
+
+#### Battlefield
+
+A place for Guilders to chat with one another about general Raid questions and feedback, discuss Client submissions and find new Guilders to form a Raid Party. If you’re looking for people to help you on your Raid, Battlefield is a great first place to start.
+
+| Name | Category      | Visibility | Purpose |
+| -------- | --------- | ---------- | -- -- -- -- -- |
 | _#dev_  | Battle Field | Members Only | A place to discuss developer specific thoughts and ideas. |
 | _#design_  | Battle Field | Members Only | A place to discuss design specific thoughts and ideas. |
+| _#back-tavern_ | Battle Field | Members Only | Internal chat for members only, ideas, thoughts, questions. |
 | _#client-submissions_  | Battle Field | Members Only | Data from client requests on Airtable form are dropped into this channel. |
 | _#who-is-avaliable_  | Battle Field | Members Only | A place to find team members to jump on new raids by mentioning roles required. |
+
+#### Guild HQ
+
+HQ is where we discuss Raid Guild improvements. From championing new members to enhanced operations and treasury management, Guild HQ is where you’ll look when chatting about anything to help make Raid Guild better than it is today. 
+
+Got an idea for how to improve Raid Guild with an internal Raid? Check out #rip-discussion to make a Raid Improvement Proposal (RIP) and get feedback and soft consensus form other Guilders.
+
+| Name | Category      | Visibility | Purpose |
+| -------- | --------- | ---------- | -- -- -- -- -- |
 | _#announcements_  | Guild HQ | Members Only | Bot drops new member proposals, things that require DAO member visibility. |
 | _#rip-discussion_  | Guild HQ | Members Only | RaidGuild Internal Improvements are things we fund internal for the good of the Guild. |
 | _#champions_  | Guild HQ | Members Only | Where we promote new applicants to the existing members of the Guild. |
@@ -78,9 +99,30 @@ Within the Raid Guild Discord, you’ll notice a suite of Categories each full o
 | _#props_  | Guild HQ | Members Only | A place to promote someone who did awesome work. |
 | _#did-a-thing_ | Guild HQ | Members Only | A place to share something awesome that you did for the Guild. |
 | _#shill_ | Guild HQ | Members Only | Get retweets/likes for our twitter/medium articles. |
+
+#### Active Raids 
+
+This is where all active Raids are listed. You will notice each subchannel starts with #raid signalling it is an ongoing engagement. Each Raid is given a unique name and a pinned message which describes what the Raid is about.
+
+Keen to get involved with a given Raid? Kinda slide through the subchannel and politely ask where you can add value. More times than not Raids can always use an extra hand!
+
+| Name | Category      | Visibility | Purpose |
+| -------- | --------- | ---------- | -- -- -- -- -- |
 | _#[raid-project/rip-project]_ | Active-Raids | Members Only | Projects you’re working on go here. Each channel requires a pinned message so other members know what the raid entails. |
+
+#### Client Chats
+
+As we sort out an engagement with a client, we may open a Client Chat subchannel to discuss the scope and figure out exactly what is needed. Client chats are a great way to get some visibility into who’s on the other side of a Raid, and their tone, expectations and budget for an ongoing Raid.
+
+Not all Raids have a Client Chat in Discord, as many times this happens outside of Discord on platforms like Telegram. Please respect that all Client Chats are proprietary and that any information taken from Client Chats and used maliciously may result in a permanent banning from Raid Guild.
+
+| Name | Category      | Visibility | Purpose |
+| -------- | --------- | ---------- | -- -- -- -- -- |
 | _#[client-project]_ | Client-Chat | Members Only | Client and team discussions before starting the raid. |
-| _#[#raid-project/rip-project]_ | Crypt-Closed-Raid | Members Only | Archived raid channels that have been closed out. |
+
+#### Crypt Closed Raids
+
+Archived Raid channels that have been closed out. Learn more about when it’s time to close a Raid using How To Close a Raid.
 
 ### Navigating Discord
 

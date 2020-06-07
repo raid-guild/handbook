@@ -72,16 +72,15 @@ function Home() {
                     <h1 className='hero__title'>{siteConfig.title}</h1>
                     <p className='hero__subtitle'>{siteConfig.tagline}</p>
                     <div className={styles.buttons}>
-                        {/* <Link
-              className={classnames(
-                "button button--outline button--secondary button--lg",
-                styles.getStarted
-              )}
-              to={useBaseUrl("docs/overview")}
-            >
-              Get Started
-            </Link> */}
-                        {(window.location.href = "docs/overview")}
+                        <Link
+                            className={classnames(
+                                "button button--outline button--secondary button--lg",
+                                styles.getStarted
+                            )}
+                            to={useBaseUrl("docs/overview")}
+                        >
+                            Get Started
+                        </Link>
                     </div>
                 </div>
             </header>

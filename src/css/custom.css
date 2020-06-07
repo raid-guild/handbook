@@ -28,7 +28,7 @@ span {
 }
 
 .channels {
-    border: 1px solid black;
+    border: 1.2px solid #f53862;
     border-radius: 5px;
     padding: 0.1rem 0.3rem;
     font-style: italic;
@@ -48,10 +48,6 @@ span {
 
 #paladin {
     color: green;
-}
-
-#necromancer {
-    color: black;
 }
 
 #ranger {

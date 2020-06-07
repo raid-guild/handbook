@@ -105,7 +105,7 @@ Next, be sure to archive your Raid Channel gets Archived by sending it to the Cr
 
 ### Apply for RIP Funding
 
-While not required, we recommend that anyone looking to make a Proposal receive soft consensus from the DAO before doing so. The best way to do this is as follows:
+Looking to receive funding for a Raid Guild Improvement Proposal (RIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
 
 -   Create a post on the [Raid Guild Forum](https://forum.raidguild.org/) detailing why it benefits the DAO and how it will be executed.
 -   Submit a Github Pull Request [here](https://github.com/raid-guild/RIPs) following the chronological order of the last RIP and attach it to the Forum post.

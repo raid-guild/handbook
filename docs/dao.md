@@ -26,11 +26,11 @@ The TLDR of Moloch V2 is that it allows for an optimized War Chest and new Propo
 
 Within the War Chest, members can make a number of different proposals including:
 
--   Membership - Requesting new shares to join the DAO
--   Funding - Requesting funding from the DAO
--   Whitelist Token - Request to add support for a new ERC20 token.
--   GuildKick - Request to forcibly remove a malicious member through a vote
--   Trading - Request the DAO to swap assets within the War Chest
+-   **Membership** - Requesting new shares to join the DAO
+-   **Funding** - Requesting funding from the DAO
+-   **Whitelist Token** - Request to add support for a new ERC20 token.
+-   **GuildKick** - Request to forcibly remove a malicious member through a vote
+-   **Trading** - Request the DAO to swap assets within the War Chest
 
 ### Proposal Process
 
@@ -70,14 +70,3 @@ Each share represents a pro-rata claim on the underlying capital pool and can be
 There is no cap on the amount of shares which can be issued, and each share carries one vote.
 
 All new shares are issued at a rate of 0.1WETH/share and new members may request a maximum of 10 shares when joining.
-
-### Funding Proposal Etiquette
-
-While not required, we recommend that anyone looking to make a Proposal receive soft consensus from the DAO before doing so. The best way to do this is as follows:
-
--   Create a post on the [Raid Guild Forum](https://forum.raidguild.org/) detailing why it benefits the DAO and how it will be executed.
--   Submit a Github Pull Request [here](https://github.com/raid-guild/RIPs) following the chronological order of the last RIP and attach it to the Forum post.
--   Share that Forum post in Discord under the #rip-discussion Guild HQ channel.
--   Share the proposal during the weekly Roundtable for additional comments and feedback.
-
-By following these steps, your Proposal will receive far more feedback and have a much higher chance of being passed.

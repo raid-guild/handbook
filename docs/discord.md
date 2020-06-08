@@ -47,6 +47,7 @@ Just as with any strong Discord, we use Roles to showcase different skill sets. 
 | <span id='rogue'>Rogue</span>                       | _Legal_           | Assigned to members with legal advising and analysing capabilities.                    |
 | <span id='scribe'>Scribe</span>                     | _Content Creator_ | Assigned to members with media expertise such as writing, video taping and podcasting. |
 | <span id='tavern-keeper'>Tavern Keeper</span>       | _Community_       | Assigned to members for managing community related activities.                         |
+| <span id='healer'>Healer</span>                     | _Internal Ops_    | Assigned to members for managing internal operations of the guild.                     |
 
 Notice a role (or skill) we’re missing? Suggest a new one in the #ops channel and if you get soft consensus deploy it !
 

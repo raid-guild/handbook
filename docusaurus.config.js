@@ -63,7 +63,7 @@ module.exports = {
                 docs: {
                     sidebarPath: require.resolve("./sidebars.js"),
                     editUrl:
-                        "https://github.com/raid-guild/HQ/edit/master/handbook/",
+                        "https://github.com/raid-guild/handbook/edit/master/",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),

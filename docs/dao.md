@@ -73,13 +73,13 @@ All new shares are issued at a rate of 0.1WETH/share and new members may request
 
 ### Contract Addresses
 
-| Name                   | Address                                    |
-| ---------------------- | ------------------------------------------ |
-| DAO                    | 0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d |
-| Minion                 | 0x17405148473E521b62cBCf8eBd929E8A30C4D3aA |
-| NFT Certificates       | 0x7b408ad9019c20c5a1222Bf7f7e58A6Fa00A086a |
-| NFT Badges             | 0xAA65E7c8BBf3F2C6d2d8634Fc830F050a55BBbF9 |
-| NFT Sale Trading Cards | 0x3480a5E2E8A381F200F2e547f5aE6c3042e67449 |
-| ENS Registrar          | Coming soon                                |
-| ENS Controller         | Coming soon                                |
-| Guild Token            | Coming soon                                |
+| Name                    | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| DAO                     | 0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d |
+| Minion                  | 0x17405148473E521b62cBCf8eBd929E8A30C4D3aA |
+| NFT Certificates        | 0x7b408ad9019c20c5a1222Bf7f7e58A6Fa00A086a |
+| NFT Badges              | 0xAA65E7c8BBf3F2C6d2d8634Fc830F050a55BBbF9 |
+| NFT Sale Trading Cards  | 0x3480a5E2E8A381F200F2e547f5aE6c3042e67449 |
+| ENS Subdomain Registrar | 0x5Cb634C351A03FF2BfB59C73dB8B429FFdFBbB62 |
+| ETH Registry            | 0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85 |
+| Public Resolver         | 0xDaaF96c344f63131acadD0Ea35170E7892d3dfBA |

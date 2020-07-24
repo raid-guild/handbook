@@ -38,6 +38,32 @@ Please note that all new members are capped at 10 Shares for 1WETH.
 
 Once you’ve received 10 Shares, you’ll be given access to member-exclusive channels and are now an official member ready to Join a Raid
 
+
+### Convert Client Submission into a Raid
+
+All project submissions will soon require a deposit to the guildBank for a consultation. 
+
+**Uncategorized**
+
+All client submissions that have paid for a consultation land into Airtable as `Uncategorized`.
+
+Client managers (could be you!) reach out to clients to setup a consultation. Once you've reached out to a client, add that to the notes. Then people will know that you're the lead on that project.
+
+**Prepping for Battle and/or Lost**
+
+Once a consultation (30-60min) is conducted, either:
+
+- Refer them to someone else who's a better fit and move the project to the `Lost` category. 
+- Send them a Raid Proposal and move to the `Prepping for Battle` category. 
+
+**Raiding**
+
+Once the client has agreed to the project **and sent the first half of the project payment** then move the project to `Raiding`.
+
+**Shipped**
+
+Once the client has paid the second half of the project, move the deal to `Shipped`.
+
 ### Join a Raid
 
 Any member with at least one Share is eligible to join an existing Raid.
@@ -60,7 +86,7 @@ As a Leader of a Raid, you will bear the responsibility of seeing it through fro
 
 Where leading certain Raids may not have hard coded economic benefits, you do stand to earn a DAO Badge for successfully completing your first Raid. To Lead a Raid, please do the following:
 
-1. Ensure the Raid is logged in Airtable as an Active Raid.
+1. Ensure the Raid is logged in Airtable as `Raiding`.
 2. Find a **Cleric** (Account Manager) and a **Monk** (Project Manager) responsible for interfacing with the client. If you wish to perform these aspects yourself, please self-assign yourself the role.
 3. Signal that you will be leading a Raid either during Round Table or by posting in Guild HQ <span class='channels'>#general</span>.
 4. Establish a Scope of Work for the Raid. This task is generally handled by Clerics or Monks, but in the case this is you, please ensure a timeline, scope and budget is properly laid out to ensure expectations are aligned. An outline of a Scope of Work can be found [here](https://github.com/raid-guild/HQ/blob/master/Templates/Proposal.md).
@@ -81,7 +107,7 @@ This is meant to be a framework and as such, different Raid breakdowns may vary.
 
 ### Summon a Raid Party
 
-The best place to Summon new Members for a Raid is in the Battefield <span class='channels'>#who-is-available</span> channel by tagging the roles in question.
+The best place to Summon new Members for a Raid is in the Battlefield <span class='channels'>#who-is-available</span> channel by tagging the roles in question.
 
 Please give a realistic expectation of expected hours, a generalized overview on the Raid (including the client name + project), and budget. The more detail you can provide - the easier it will be to find a Raid Party.
 

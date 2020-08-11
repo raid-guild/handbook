@@ -22,7 +22,7 @@ A smart contract account which can call other smart contracts on behalf of the D
 Personal Tokens. These are tokens which are unique to specific Raiders which can be used to Summon them for a given Raid or feedback on a Proposal. Specific pTokens are Whitelisted by the DAO and stored in the War Chest.
 
 #### Proposal
-A means of requesting something (shares, funding, token whitelists, etc.) from the DAO. All Proposals are made onchain and voted on using Shares by Guilders. Proposals much have more Yes than No votes to pass.
+A means of requesting something (shares, funding, token whitelists, etc.) from the DAO. All Proposals are made onchain and voted on using Shares by Guilders. Proposals must have more Yes than No votes to pass.
 
 #### RageQuit
 The act of exiting shares from the DAO in exchange for a pro-rata share of the underlying capital bank relative to Share Value. 

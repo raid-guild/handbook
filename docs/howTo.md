@@ -38,7 +38,6 @@ Please note that all new members are capped at 10 Shares for 1WETH.
 
 Once you’ve received 10 Shares, you’ll be given access to member-exclusive channels and are now an official member ready to Join a Raid
 
-
 ### Convert Client Submission into a Raid
 
 All project submissions will soon require a deposit to the guildBank for a consultation. 
@@ -94,10 +93,11 @@ Where leading certain Raids may not have hard coded economic benefits, you do st
 6. If a Client Chat has not been started, please **start one** using the project name so others can easily identify the Raid. (i.e. <span class='channels'>#aave</span>)
 7. Start a <span class='channels'>#raid</span> channel and ensure access is restricted only to Raid Guild Members and Apprentices. Please reference the permissions of other Raid Channels for guidance
 8. While not mandatory, we strongly recommend setting up a [Gnosis Safe Multisig Wallet](https://gnosis-safe.io/) for your Raid Party to accept client payment. This ensures that funding can be allocated and distributed with consensus from all participants.
+9. We also recommend using the [Raid Guid Escrow service](./escrow) to facilitate payments from the client.
 
 For those looking for guidance on how to structure a Raid bounty, here’s what we suggest:
 
--   10% War Chest Treasury _mandatory_
+-   10% War Chest Treasury &mdash; _mandatory_
 -   5% Hunter (Biz Dev)
 -   10% Cleric (Account Manager)
 -   15% Monk (Project Manager)

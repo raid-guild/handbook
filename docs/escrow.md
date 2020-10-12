@@ -36,7 +36,7 @@ Raid Guild has developed an on-chain escrow service to facilitate payments from 
 
 In both cases, the `Lock` triggers the arbitration provider (i.e., LexDAO) to review the dispute. Based on their review, the arbitration provider will decide which party should receive what amount of funds, and will send a transaction to the escrow contract that will transfer the appropriate amounts to each party.
 
-### References
+## References
 
 -   Raid Guild Escrow home page: https://escrow.raidguild.org/
 -   Direct link to a specific raid escrow: `https://escrow.raidguild.org/escrow/[raidID]`

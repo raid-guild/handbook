@@ -20,7 +20,7 @@ Raid Guild has developed an on-chain escrow service to facilitate payments from 
     - **Total payment amount**
     - **Number of milestones** (a typical raid will have 2). Currently, milestones must have uniform payments. Future versions may allow different payment amounts per milestone.
     - **Safety valve withdrawal date**. This is the date past which the client can withdraw any remaining funds in escrow, on the assumption that the raid has not delivered on its promise. Make sure to leave plenty of buffer after the expected end of the raid.
-2. Raid party lead sends the client the raid ID (from [Raid Central](https://airtable.com/tblSrMtojR9mVSfY2/viwxgpUEIjgXIY1f7?blocks=hide)) or the url to the raid escrow
+2. Raid party lead sends the client the raid ID (from Raid Central) or the url to the raid escrow
 3. Client deposits total raid payment
 4. Client releases first milestone payment
 5. Raid commences

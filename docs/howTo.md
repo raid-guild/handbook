@@ -125,7 +125,7 @@ When payment is received, the very first step is to deposit 10% of that Raid tot
 
 This can be done by sending WETH (or any whitelisted token) to the [DAO contract](https://etherscan.io/address/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d) (0x...bf3d) and posting in <span class='channels'>#did-a-thing</span> with the transaction hash.
 
-While we can not manually enforce that you send your 10% tribute back to the War Chest - rest assured that should you skrt that law - Raid Guild will find you and you will be socially shamed to oblivion. If you do not have a compelling reason for not giving 10% of the DAO, you stand to be stripped of your Raid Guild Membership.
+While we can not manually enforce that you send your 10% tribute back to the War Chest - rest assured that should you skirt that law - Raid Guild will find you and you will be socially shamed to oblivion. If you do not have a compelling reason for not giving 10% of the DAO, you stand to be stripped of your Raid Guild Membership.
 
 Next, be sure to archive your Raid Channel gets Archived by sending it to the Crypt. To do this, tag @Tavern Keeper in your channel and let them know to shut the Raid channel down.
 

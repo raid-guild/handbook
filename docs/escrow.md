@@ -21,7 +21,7 @@ The escrow has 4 main functions:
 
 ### Happy path
 
-> :warning: **WARNING:** Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.
+> :warning:&nbsp; **WARNING:** Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.
 
 1. Raid party lead (i.e., <span id='monk'>Cleric</span> or <span id='monk'>Monk</span>) [creates an escrow](https://escrow.raidguild.org/) for the raid, with the following info:
     - **Raid party multisig address**
@@ -51,4 +51,4 @@ In both cases, the `Lock` triggers the arbitration provider (i.e., LexDAO) to re
 -   Direct link to a specific raid escrow: `https://escrow.raidguild.org/escrow/[raidID]`
 -   LexGuildLocker contract: [0x3a08f5cf2c77d003fe07b69e76ff27cbb1520b4f](https://etherscan.io/address/0x3a08f5cf2c77d003fe07b69e76ff27cbb1520b4f#code)
 
-> :warning: **WARNING:** Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.
+> :warning:&nbsp; **WARNING:** Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.

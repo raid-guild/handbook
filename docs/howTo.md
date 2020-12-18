@@ -40,7 +40,7 @@ Once you’ve received 10 Shares, you’ll be given access to member-exclusive c
 
 ### Convert Client Submission into a Raid
 
-All project submissions will soon require a deposit to the guildBank for a consultation. 
+All project submissions will soon require a deposit to the guildBank for a consultation.
 
 **Uncategorized**
 
@@ -52,8 +52,8 @@ Client managers (could be you!) reach out to clients to setup a consultation. On
 
 Once a consultation (30-60min) is conducted, either:
 
-- Refer them to someone else who's a better fit and move the project to the `Lost` category. 
-- Send them a Raid Proposal and move to the `Prepping for Battle` category. 
+- Refer them to someone else who's a better fit and move the project to the `Lost` category.
+- Send them a Raid Proposal and move to the `Prepping for Battle` category.
 
 **Raiding**
 
@@ -97,11 +97,11 @@ Where leading certain Raids may not have hard coded economic benefits, you do st
 
 For those looking for guidance on how to structure a Raid bounty, here’s what we suggest:
 
--   10% War Chest Treasury &mdash; _mandatory_
--   5% Hunter (Biz Dev)
--   10% Cleric (Account Manager)
--   15% Monk (Project Manager)
--   60% Project (Wizard, Paladin, Archer, etc.)
+- 10% War Chest Treasury &mdash; _mandatory_
+- 5% Hunter (Biz Dev)
+- 10% Cleric (Account Manager)
+- 15% Monk (Project Manager)
+- 60% Project (Wizard, Paladin, Archer, etc.)
 
 This is meant to be a framework and as such, different Raid breakdowns may vary. All that we ask is that a minimum of 10% of Raid work is tributed back to the War Chest upon completion.
 
@@ -133,9 +133,9 @@ Next, be sure to archive your Raid Channel gets Archived by sending it to the Cr
 
 Looking to receive funding for a Raid Guild Improvement Proposal (RIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
 
--   Create a post on the [Raid Guild Forum](https://forum.raidguild.org/) detailing why it benefits the DAO and how it will be executed.
--   Submit a Github Pull Request [here](https://github.com/raid-guild/RIPs) following the chronological order of the last RIP and attach it to the Forum post.
--   Share that Forum post in Discord under the <span class='channels'>#rip-discussion</span> Guild HQ channel.
--   Share the proposal during the weekly Roundtable for additional comments and feedback.
+- Create an issue on the [RIPs Repo](https://github.com/raid-guild/RIPs/issues/new?assignees=&labels=RIP&template=rip-request.md&title=) detailing why it benefits the DAO and how it will be executed.
+- Add the new issue to the [RIP Requests](https://github.com/raid-guild/RIPs/projects/1) Project (or ask a keeper).
+- Share that request in Discord under the <span class='channels'>#rip-discussion</span> Guild HQ channel.
+- Share the proposal during the weekly Roundtable for additional comments and feedback.
 
 By following these steps, your Proposal will receive far more feedback and have a much higher chance of being passed.

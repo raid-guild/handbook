@@ -45,6 +45,12 @@ The escrow has 4 main functions:
 
 In both cases, the `Lock` triggers the arbitration provider (i.e., LexDAO) to review the dispute. Based on their review, the arbitration provider will decide which party should receive what amount of funds, and will send a transaction to the escrow contract that will transfer the appropriate amounts to each party.
 
+## Interacting with the escrow
+
+-   As the warning above states, **_never send ETH or ERC20 tokens directly to the escrow contract_**. They will be lost forever. All deposits into an escrow must happen via the `Deposit` function. This can be done easily via the [escrow app](https://escrow.raidguild.org/).
+-   Clients should **_never use centralized exchange accounts_** to make deposits into an escrow. For one, they wouldn't be able to use the app to `Deposit` in the first place. Secondly, they wouldn't be able to `Release` funds to the raid party as milestones are completed.
+-   Clients depositing from a smart contract account (such as a DAO or multisig) will need to **_ensure that the account can interact with other smart contracts_** (e.g. via Aragon Agent, Moloch Minion, or a Gnosis Safe contract interaction).
+
 ## References
 
 -   Raid Guild Escrow home page: https://escrow.raidguild.org/

@@ -10,18 +10,18 @@ Please note that these processes are ever evolving and that we encourage people 
 
 ### Become an Apprentice
 
-All new entries will start as an Apprentice. Apprentices can earn a maximum of 1 share and may be upgraded to a Guilder by pledging 1WETH as tribute for 10 Shares after being championed. Here’s how it works:
+All new entries will start as an Apprentice. Apprentices can earn a maximum of 1 share and may be upgraded to a Guilder by pledging 500 wxDAI as tribute for 100 Shares after being championed. Here’s how it works:
 
 1. Submit an application on the Raid Guild homepage > [Join Us](https://raidguild.org/join).
 2. Join the [Raid Guild Discord](https://discord.gg/Z2PMbXN) and introduce yourself in <span class='channels'>#tavern</span>. We recommend hunting down a **Tavern Keeper** to assign you the **Apprentice** Role so that you can start picking up new issues to earn your keep.
 3. Showcase your past work and skills in <span class='channels'>#show-n-tell</span>.
 4. Look out for issues to work on in <span class='channels'>#good-first-issues</span> to earn reputation.
 5. Once you prove yourself with the skills and reputation, a member of the Guild will signal your eligibility to receive your 1 Apprentice Share.
-6. Submit a Membership Proposal for 1 Share with 0 Token Tribute in [Pokemol](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d).
+6. Submit a Membership Proposal for 1 Share with 0 Token Tribute in [DAOhaus](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
 7. Once the proposal passes, you will be given access to member exclusive channels.
-8. For the remaining 9 shares to get yourself promoted from an Apprentice to Member, you need to work on Raids (See How to Join a Raid) or pledge with funds you earn while raiding.
+8. For the remaining 99 shares to get yourself promoted from an Apprentice to Member, you need to work on Raids (See How to Join a Raid) or pledge with funds you earn while raiding.
 9. A Member will oversee your progress and once it's done, you will be championed in <span class='channels'>#champions</span> as a signal for your remaining 9 share proposal.
-10. Submit a Member Proposal for 9 Share with 1 WETH Tribute in [Pokemol](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d).
+10. Submit a Member Proposal for 99 Shares with 5000 wxDAIWETH Tribute in [DAOhaus](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
 11. Once the proposal passes, you are now a complete RaidGuild Member.
 
 Note: In some cases, Members may earn shares for past work instead of pledging tribute. However, each Member is expected to contribute 1 WETH (or 1 WETH worth of value) to the DAO in order to become a Member.
@@ -30,13 +30,13 @@ Note: In some cases, Members may earn shares for past work instead of pledging t
 
 To advance from an Apprentice to a Member, you will need to be Championed by an existing Raid Guild Member. This can be seen in the Guild HQ <span class='channels'>#champions</span> channel and will be brought up during the RoundTable by the Member looking to champion you.
 
-Once you’ve been Championed, you are eligible to level up from an Apprentice to a Member - signalled by 10 Shares as opposed to 1.
+Once you’ve been Championed, you are eligible to level up from an Apprentice to a Member - signalled by 100 Shares as opposed to 1.
 
-Follow the Proposal Process and use the Membership Proposal to request the difference in Shares to get to your 10 Share cap in [Pokemol](https://pokemol.com/dao/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d).
+Follow the Proposal Process and use the Membership Proposal to request the difference in Shares to get to your 100 Share cap in [DAOhaus](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
 
-Please note that all new members are capped at 10 Shares for 1WETH.
+Please note that all new members are capped at 100 Shares for 500 wxDAI.
 
-Once you’ve received 10 Shares, you’ll be given access to member-exclusive channels and are now an official member ready to Join a Raid
+Once you’ve received 100 Shares, you’ll be given access to member-exclusive channels and are now an official member ready to Join a Raid
 
 ### Convert Client Submission into a Raid
 
@@ -52,8 +52,8 @@ Client managers (could be you!) reach out to clients to setup a consultation. On
 
 Once a consultation (30-60min) is conducted, either:
 
-- Refer them to someone else who's a better fit and move the project to the `Lost` category.
-- Send them a Raid Proposal and move to the `Prepping for Battle` category.
+-   Refer them to someone else who's a better fit and move the project to the `Lost` category.
+-   Send them a Raid Proposal and move to the `Prepping for Battle` category.
 
 **Raiding**
 
@@ -97,11 +97,11 @@ Where leading certain Raids may not have hard coded economic benefits, you do st
 
 For those looking for guidance on how to structure a Raid bounty, here’s what we suggest:
 
-- 10% War Chest Treasury &mdash; _mandatory_
-- 5% Hunter (Biz Dev)
-- 10% Cleric (Account Manager)
-- 15% Monk (Project Manager)
-- 60% Project (Wizard, Paladin, Archer, etc.)
+-   10% War Chest Treasury &mdash; _mandatory_
+-   5% Hunter (Biz Dev)
+-   10% Cleric (Account Manager)
+-   15% Monk (Project Manager)
+-   60% Project (Wizard, Paladin, Archer, etc.)
 
 This is meant to be a framework and as such, different Raid breakdowns may vary. All that we ask is that a minimum of 10% of Raid work is tributed back to the War Chest upon completion.
 
@@ -123,7 +123,7 @@ Once you’ve delivered on your Scope of Work, please have a Cleric communicate 
 
 When payment is received, the very first step is to deposit 10% of that Raid total back to the War Chest.
 
-This can be done by sending WETH (or any whitelisted token) to the [DAO contract](https://etherscan.io/address/0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d) (0x...bf3d) and posting in <span class='channels'>#did-a-thing</span> with the transaction hash.
+This can be done by sending wxDAI or WETH (or any whitelisted token) to the [DAO contract](https://blockscout.com/poa/xdai/address/0xfe1084bC16427e5EB7f13Fc19bCD4E641F7d571f) (0xfe10...571f) and posting in <span class='channels'>#did-a-thing</span> with the transaction hash.
 
 While we can not manually enforce that you send your 10% tribute back to the War Chest - rest assured that should you skirt that law - Raid Guild will find you and you will be socially shamed to oblivion. If you do not have a compelling reason for not giving 10% of the DAO, you stand to be stripped of your Raid Guild Membership.
 
@@ -133,9 +133,9 @@ Next, be sure to archive your Raid Channel gets Archived by sending it to the Cr
 
 Looking to receive funding for a Raid Guild Improvement Proposal (RIP)? We suggest receiving soft consensus from the DAO before putting anything onchain. The best way to do this is as follows:
 
-- Create an issue on the [RIPs Repo](https://github.com/raid-guild/RIPs/issues/new?assignees=&labels=RIP&template=rip-request.md&title=) detailing why it benefits the DAO and how it will be executed.
-- Add the new issue to the [RIP Requests](https://github.com/raid-guild/RIPs/projects/1) Project (or ask a keeper).
-- Share that request in Discord under the <span class='channels'>#rip-discussion</span> Guild HQ channel.
-- Share the proposal during the weekly Roundtable for additional comments and feedback.
+-   Create an issue on the [RIPs Repo](https://github.com/raid-guild/RIPs/issues/new?assignees=&labels=RIP&template=rip-request.md&title=) detailing why it benefits the DAO and how it will be executed.
+-   Add the new issue to the [RIP Requests](https://github.com/raid-guild/RIPs/projects/1) Project (or ask a keeper).
+-   Share that request in Discord under the <span class='channels'>#rip-discussion</span> Guild HQ channel.
+-   Share the proposal during the weekly Roundtable for additional comments and feedback.
 
 By following these steps, your Proposal will receive far more feedback and have a much higher chance of being passed.

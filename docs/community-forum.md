@@ -1,5 +1,5 @@
 ---
-id: forum
+id: community-forum
 title: Forum
 sidebar_label: Forum
 ---

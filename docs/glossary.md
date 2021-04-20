@@ -52,7 +52,7 @@ Voting Shares in the DAO. Members can ragequit Shares to withdraw a proportional
 
 #### Share Value
 
-The value of 1 share at any given time. In the case of Raid Guild, Share Value is denominated in wxDAI and can be determined by dividing the outstanding amount of share by the total amount of WETH (and all other Whitelisted Tokens) in the War Chest.
+The value of 1 share at any given time. In the case of Raid Guild, Share Value is denominated in wxDAI and can be determined by dividing the outstanding amount of shares by the total amount of WETH (and all other Whitelisted Tokens) in the War Chest.
 
 #### Tavern
 

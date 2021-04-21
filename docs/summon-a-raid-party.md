@@ -8,7 +8,7 @@ The best place to Summon new Members for a Raid is in the Guild HQ <span class='
 
 Please give a realistic expectation of expected hours, a generalized overview on the Raid (including the client name + project), and budget. The more detail you can provide - the easier it will be to find a Raid Party.
 
-Outside of <span class='channels'>#who-is-available</span> you may also look in #general or scour active Raids to find Members which best suite your needs.
+Outside of <span class='channels'>#who-is-available</span> you may also look in <span class='channels'>#general</span> or scour active Raids to find Members which best suite your needs.
 
 If all else fails, please find a Monk to help you establish a Raid Party, and be sure to draw from Apprentices to fill gaps as needed.
 

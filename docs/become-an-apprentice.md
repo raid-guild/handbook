@@ -8,7 +8,7 @@ Raid Guild has instituted an onboaring process through the utilization of Cohort
 
 The TL;DR on Cohorts is that Raid Guild saw an immediate need to onboard various different roles into the Guild and get them up to speed on how Raid Guild operates so they would be ready to slay web3 product demons.
 
-_Note If Season(n) is in session or has not yet begun, we recommend that you find someone in the Raid Guild to vouch for you and get you setup as an apprentice._
+_Note If Season(n) is in session or has not yet begun, we recommend that you find someone with the role @TavernKeeper to vouch for you and get you setup as an apprentice._
 
 All new entries will start as an Apprentice. Apprentices can earn a maximum of 1 share and may be upgraded to a Guilder by pledging 500 wxDAI as tribute for 100 Shares after being championed. Here’s how it works:
 
@@ -24,8 +24,8 @@ All new entries will start as an Apprentice. Apprentices can earn a maximum of 1
 7. Once the proposal passes, you will be given access to member exclusive channels.
 8. For the remaining 99 shares to get yourself promoted from an Apprentice to Member, you will need to have worked on one Raid or RIP (See How to Join a Raid) and pledge with funds you earn while raiding or have at your disposal through other means.
 9. A Member will oversee your progress and once it's done, you will be championed in <span class='channels'>#champions</span> as a signal for your remaining 99 share proposal.
-10. Submit a Member Proposal for 99 Shares with 495 wxDAIWETH Tribute in [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
-11. Once the proposal passes, you are now a complete RaidGuild Member.
+10. Submit a Member Proposal for 99 Shares with 495 wxDAI Tribute in [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
+11. Once the proposal passes, you are now a full RaidGuild Member.
 
 _Note: In some cases, Members may earn shares for past work instead of pledging tribute. However, each Member is expected to contribute 500wxDAI (or 500 wxdDAI worth of value) to the DAO in order to become a Member._
 

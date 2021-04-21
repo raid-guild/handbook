@@ -17,4 +17,3 @@ You’ll notice there are a few <span class='channels'>#apprentice channels</spa
 
 Long story short, you’ll need to work your way into the Guild, so the more issues you tackle to improve the Guild, the quicker you’ll receive a share! (and become part of the Guild).
 
-Discord is the central communications hub for all things Raid Guild.

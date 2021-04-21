@@ -13,13 +13,13 @@ Account managers (a.k.a. Clerics) reach out to clients to set up a consultation.
 
 ### Consultation Fee 
 
-Raid Guild has introduced a 300 DAI payment for Clerics (Account Managers) to be compensated for kicking off the conversation between the Guild and Clients that come to the Guild seeking our services.  10% of this payment is to be tributed backed to the Guild as spoils to the Raid Guild War Chest.
+Raid Guild requires a 500 DAI consultation fee be paid by the Client to Raid Guild, this ensures that Clerics (Account Managers) are compensated for their work with Clients before any work commenses.
 
 The Consultations are designed to be handled by one to two persons max to keep payment per person high enough to be equitable. 
 
-We reccomend that within one month of completing the consultation you submit a `Funding Proposal` to the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f/proposals/new) requesting your fair share of the consultation fee.  After you have received payment, make sure to submit a funding proposal to tribute funds back to the Raid Guild War Chest.  
+We reccomend that within one month of completing the consultation you submit a `Funding Proposal` to the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f/proposals/new) requesting your fair share of the consultation fee.  After you have received payment, make sure to submit a funding proposal to tribute 10% as spoils back to the Raid Guild War Chest.  
 
-If your a Cleric who chooses not to claim your consultation fee within one month of completing the consultation, be aware that you risk losing the opportunity to claim the funds for that consultation all together, that is if the Guild does not recognize your funding proposal.
+If your a Cleric who chooses not to claim your consultation fee within one month of completing the consultation, be aware that the longer you wait the more you risk losing the opportunity to claim the funds for that consultation all together, that is if the Guild does not recognize your funding proposal.
 
 ### Prepping for Battle and/or Lost
 

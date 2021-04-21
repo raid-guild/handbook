@@ -6,8 +6,14 @@ module.exports = {
 			'overview-molochv2-primer',  
 			'overview-raid-guild-shares'
 		],
-		GettingStarted: ['become-an-apprentice','become-a-member', 'proposal-types', 'rips'],
-		Raids: ['join-a-raid', 'lead-a-raid', 'summon-a-raid-party', 'convert-client-submission', 'comission-process', 'raiding'],
+		GettingStarted: ['become-an-apprentice','become-a-member', 'rips','proposal-types'],
+		Raids: [
+			'convert-client-submission',
+			'comission-process',
+			'summon-a-raid-party',
+			'join-a-raid', 
+			'lead-a-raid',
+			 'shipped'],
 		Escrow: [
 			'how-does-it-work', 
 			'happy-path', 

@@ -4,8 +4,6 @@ title: Become a Member
 sidebar_label: Become a Member
 ---
 
-### Become a Member
-
 To advance from an Apprentice to a Member, you will need to be Championed by an existing Raid Guild Member. This can be seen in the Guild HQ <span class='channels'>#champions</span> channel and will be brought up during the RoundTable by the Member looking to champion you.
 
 Once you’ve been Championed, you are eligible to level up from an Apprentice to a Member - signalled by 100 Shares as opposed to 1.

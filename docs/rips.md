@@ -10,7 +10,7 @@ Raid Guild Improvement Proposals, commonly referred to as “RIPs”, are an inv
 
 RIPs are generally focused on Guild internal operations, but in some cases, RIPs have manifested in the Guild building open-source tools for the wider web3 ecosystem.  
 
-Smart Invoice is a great example, as it began development as an internal tool (escrow) for Raiders to obtain payment from their clients.  
+[Smart Invoice](https://smartinvoice.xyz/) is a great example, as it began development as an internal tool (escrow) for Raiders to obtain payment from their clients.  
 
 If this excites you, we encourage you to keep reading! 
 
@@ -24,6 +24,6 @@ If you don’t yet have the talent you need to execute the RIP, make sure to dro
 
 Once you have completed the preceding steps, double check to make sure you and your team have everything you need to make an official proposal to the DAO
 
-Next, refer to the proposal process above to request funding for your RIP.
+Next, refer to the proposal process below to request funding for your RIP.
 
 By following these steps, your Proposal will receive far more feedback and have a much higher chance of being passed.

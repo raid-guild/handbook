@@ -23,10 +23,10 @@ Select the Proposal Type (described above) and fill in all fields. Here are some
 -   **TITLE:** Enter a description of the proposal. Example: New Member - Igor Bogdanoff
 -   **DESCRIPTION:** Anything you believe is relevant to your proposal. The shorter the description the better, and the important piece here is the _WHAT_ you are asking for and _WHY_.
 -   **LINK:** Whatever information gives us the best context to review your proposal and make an informed decision.
--   **Applicant** With respect to funding proposals, this is the recipient or sender address you would like to have funds sent to or from.  
--   **PAYMENT REQUESTED:** The number of Shares request. Every Raid Guild Share is equal to 5 wxDAI. New membership proposals may request a maximum of 100 shares for a total of 500 wxDAI.
--   **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made up to 20% of the total amount.  
--   **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular share at 5 wxDAI/share.
+-   **APPLICANT** With respect to funding proposals, this is the recipient or sender address you would like to have funds sent to or from.  
+-   **PAYMENT REQUESTED:** The number of Shares requested. Every Raid Guild Share is equal to 5 wxDAI. New membership proposals may request a maximum of 100 shares for a total of 500 wxDAI.
+-   **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made in shares up to 20% of the total amount requested.
+-   **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares at 5 wxDAI/share.
 -   **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the War Chest. (Tribute is relevant to Membership and Funding Proposals).
 
 After submitting a proposal, it will enter the **Unsponsored Proposals** section. This means someone with shares (which could be you) must Champion the proposal in order for it to be moved to voting.

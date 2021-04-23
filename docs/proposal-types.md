@@ -38,7 +38,7 @@ Once the proposal has been sponsored it will enter the **Queue**. The queue ensu
 
 Once in the **Voting Period**, members can now vote on the proposal. Every proposal has a 72 hour voting period in which it must receive more Yes than No votes to pass.
 
-After voting has ended, the proposal enters a **Grace Period** which gives members time to raqeguit if they do not like the outcome of the vote. The grace period lasts 48 hours.
+After voting has ended, the proposal enters a **Grace Period** which gives members time to ragequit if they do not like the outcome of the vote. The grace period lasts 48 hours.
 
 Next, The proposal is sent to **Processing** in which the vote is time stamped on-chain.
 

@@ -9,7 +9,7 @@ module.exports = {
 		GettingStarted: ['become-an-apprentice','become-a-member', 'rips','proposal-types'],
 		Raids: [
 			'convert-client-submission',
-			'comission-process',
+			'commission-process',
 			'summon-a-raid-party',
 			'join-a-raid', 
 			'lead-a-raid',

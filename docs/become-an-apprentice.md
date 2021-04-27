@@ -4,7 +4,7 @@ title: Become an Apprentice
 sidebar_label: Become an Apprentice
 ---
 
-Raid Guild has instituted an onboaring process through the utilization of Cohorts, you can see how Raid Guild introduced Season0 participants to the Guild [here](https://docs.google.com/presentation/d/1vU5Qu_n-THe_qcRfO8blVSjb_nxPNpn3m7DxnkAAUek/edit#slide=id.gbcc4521e42_0_7).  
+Raid Guild has instituted an onboarding process through the utilization of Cohorts, you can see how Raid Guild introduced Season0 participants to the Guild [here](https://docs.google.com/presentation/d/1vU5Qu_n-THe_qcRfO8blVSjb_nxPNpn3m7DxnkAAUek/edit#slide=id.gbcc4521e42_0_7).  
 
 The TL;DR on Cohorts is that Raid Guild saw an immediate need to onboard various different roles into the Guild and get them up to speed on how Raid Guild operates so they would be ready to slay web3 product demons.
 

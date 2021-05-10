@@ -4,7 +4,8 @@ module.exports = {
 			'overview', 
 			'overview-code-of-conduct', 
 			'overview-molochv2-primer',  
-			'overview-raid-guild-shares'
+			'overview-raid-guild-shares',
+			'overview-roles'
 		],
 		GettingStarted: ['become-an-apprentice','become-a-member', 'rips','proposal-types'],
 		Raids: [
@@ -25,7 +26,6 @@ module.exports = {
 		Discord: [
 			'discord-etiquette',
 			'discord-getting-started',
-			'discord-roles',
 			'discord-channels',
 			'discord-navigation-help',
 			

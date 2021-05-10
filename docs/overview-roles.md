@@ -1,5 +1,5 @@
 ---
-id: discord-roles
+id: overview-roles
 title: Roles
 sidebar_label: Roles
 ---
@@ -34,7 +34,7 @@ Just as with any strong Discord, we use Roles to showcase different skill sets. 
 | <span id='tavern-keeper'>Tavern Keeper</span>       | _Community_       | Assigned to members for managing community related activities.                         |
 | <span id='healer'>Healer</span>                     | _Internal Ops_    | Assigned to members for managing internal operations of the guild.                     |
 
-Notice a role (or skill) we’re missing? Suggest a new one in the #ops channel and if you get soft consensus deploy it!
+Notice a role (or skill) we’re missing? Suggest a new one in the <span class='channels'>#ops</span> channel and if you get soft consensus deploy it!
 
 As it stands today, Guilders holding at least one share can assign themselves any role they see fit. Please do not overassign yourself in order to give those who are highly skilled in specific areas the chance to shine. We recommend assigning a maximum of 5 roles to start and branching outwards over time.
 

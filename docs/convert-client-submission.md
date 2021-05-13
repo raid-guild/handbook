@@ -19,7 +19,7 @@ The Consultations are designed to be handled by one to two persons max to keep p
 
 We reccomend that within one month of completing the consultation you submit a `Funding Proposal` to the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f/proposals/new) requesting your fair share of the consultation fee.  After you have received payment, make sure to submit a funding proposal to tribute 10% as spoils back to the Raid Guild War Chest.  
 
-If your a Cleric who chooses not to claim your consultation fee within one month of completing the consultation, be aware that the longer you wait the more you risk losing the opportunity to claim the funds for that consultation all together, that is if the Guild does not recognize your funding proposal.
+If you're a Cleric who chooses not to claim your consultation fee within one month of completing the consultation, be aware that the longer you wait the more you risk losing the opportunity to claim the funds for that consultation all together, that is if the Guild does not recognize your funding proposal.
 
 ### Prepping for Battle and/or Lost
 

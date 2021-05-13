@@ -26,4 +26,4 @@ Once you have completed the preceding steps, double check to make sure you and y
 
 Next, refer to the proposal process below to request funding for your RIP.
 
-By following these steps, your Proposal will receive far more feedback and have a much higher chance of being passed.
+By following these steps, your proposal will receive far more feedback and have a much higher chance of being passed.

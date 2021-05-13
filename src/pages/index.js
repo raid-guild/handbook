@@ -12,7 +12,7 @@ const features = [
         imageUrl: "img/crown.svg",
         description: (
             <>
-                Learn how RaidGuild is structured into different factions and
+                Learn how Raid Guild is structured into different factions and
                 ranks and how you can make your journey from Apprentice to
                 Master.
             </>
@@ -34,7 +34,7 @@ const features = [
         description: (
             <>
                 How we collaborate and coordinate is the most important thing
-                for RaidGuild's success. Inside you'll find the tools and
+                for Raid Guild's success. Inside you'll find the tools and
                 processes we use to keep organized.
             </>
         ),

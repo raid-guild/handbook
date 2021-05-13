@@ -4,7 +4,7 @@ title: Code of Conduct
 sidebar_label: Code of Conduct
 ---
 
-Before we dive in, here are a quick code of conduct to keep in mind:
+Before we dive in, here is a quick code of conduct to keep in mind:
 
   * **Professionalism** - We prioritize shipping at all costs. Our main goal is to meet deadlines and deliver valuable output in a timely manner. If you commit to a Raid, you should be prepared to do anything and everything to make sure it gets done.
 

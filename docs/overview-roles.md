@@ -24,7 +24,7 @@ Just as with any strong Discord, we use Roles to showcase different skill sets. 
 | Name                                                | Type              | Description                                                                            |
 | --------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------- |
 | <span id='angry-dwarf'>Angry Dwarf</span>           | _Treasury_        | Assigned to members with accounting and finance speciality.                            |
-| <span id='Bard'>Bard</span>                         | _Marketing_       | Assigned to members with expertise in marketing, social media, and growth         |
+| <span id='Bard'>Bard</span>                         | _Marketing_       | Assigned to members with expertise in marketing, social media, and growth.         |
 | <span id='cleric'>Cleric</span>                     | _Account Manager_ | Assigned to members with hybrid comms or project management speciality.                |
 | <span id='hunter'>Hunter</span>                     | _BizDev_          | Assigned to members with business and sales development speciality.                    |
 | <span id='monk'>Monk</span>                         | _PM_              | Assigned to members with managing, budgeting and documentation speciality.             |

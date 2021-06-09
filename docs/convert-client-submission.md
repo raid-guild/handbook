@@ -13,7 +13,7 @@ Account managers (a.k.a. Clerics) reach out to clients to set up a consultation.
 
 ### Consultation Fee 
 
-Raid Guild requires a 500 DAI consultation fee be paid by the Client to Raid Guild, this ensures that Clerics (Account Managers) are compensated for their work with Clients before any work commenses.
+Raid Guild requires a 500 DAI consultation fee be paid by the Client to Raid Guild, this ensures that Clerics (Account Managers) are compensated for their work with Clients before any work commences.
 
 The Consultations are designed to be handled by one to two persons max to keep payment per person high enough to be equitable. 
 

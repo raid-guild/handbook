@@ -37,11 +37,11 @@ module.exports = {
 			'community-social-media'
 		],
 		AdditionalResources:[
+			'learn-about-web3',
 			'glossary',
 			'requesting-payment',
 			'migration-to-xdai',
-			'helping-docs'
-			
+			'helping-docs'	
 		]
 	},
 };

@@ -20,6 +20,8 @@ sidebar_label: Learn About Web3
 
 #### Getting Started With Web3
 
-1) [The Ultimate Ethereum Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) - This article (and video) by Dapp University is a step-by-step guide that goes over how to build a full stack decentralized application on the Ethereum blockchain.
+1) [CupOJoseph's (a guild member) Guide to becoming an Ethereum developer](https://hackmd.io/@1LsqLgZ9SFyvmF1L1suBIw/dapp-dev) - A guide that provides some more direction and is less overwhelming than other giant lists, and has most of the resources you need to become a successful Ethereum developer.
 
-2) [Alchemy API Guide](https://docs.alchemy.com/alchemy/) - Alchemy is a blockchain platform that makes web3 much faster with an easy-to-use API. This set of documents by Alchemy is a great way to get started using their API and building out your first Dapp.
+2) [The Ultimate Ethereum Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) - This article (and video) by Dapp University is a step-by-step guide that goes over how to build a full stack decentralized application on the Ethereum blockchain.
+
+3) [Alchemy API Guide](https://docs.alchemy.com/alchemy/) - Alchemy is a blockchain platform that makes web3 much faster with an easy-to-use API. This set of documents by Alchemy is a great way to get started using their API and building out your first Dapp.

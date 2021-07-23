@@ -98,7 +98,7 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 
 ## Sesh
 
-# 😀EZPZ event creation
+😀EZPZ event creation
 
 - Specify times however the hell you want. No more rigid formats to follow.
 - Simple RSVP via reactions, plus reminders (optional).

@@ -22,13 +22,17 @@ Here's a link to [Collab.land](https://collab.land/) if you'd like to learn more
 
 [Collab.land YouTube video](https://www.youtube.com/watch?v=fiVEyVsR7k8)
 
-## **Groovy**
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/fiVEyVsR7k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Groovy
 
 Groovy is a music playing bot.
 
 > Groovy is the quickest way to turn your Discord server into the big stage. Whether you're an upcoming artist, a super star, or a hobby DJ: Sharing music through Discord has never been easier. -[https://groovy.bot/](https://groovy.bot/)
 
 A list of of Groovy commands can be seen below:
+
+<iframe src="https://groovy.bot/commands/" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" loading="lazy" width='100%' height='500'></iframe>
 
 [https://groovy.bot/commands](https://groovy.bot/commands)
 
@@ -48,35 +52,35 @@ To set your timezone type "-ft map" After that, you will be take to a map where 
 -ft set <pasted time zone>
 ```
 
-# **BrightID Discord Bot**
+## BrightID Discord Bot
 
-verify users with Bright ID.
+Verify users with Bright ID.
 
 [https://github.com/ShenaniganDApp/brightid-discord-bot](https://github.com/ShenaniganDApp/brightid-discord-bot)
 
 [https://discord.com/channels/709210493549674598/747917717050490960/761748220694888478](https://discord.com/channels/709210493549674598/747917717050490960/761748220694888478)
 
-created by [YoungKidWarrior](https://www.notion.so/YoungKidWarrior-a5025778570f4a558a490978177c5bff)
+- Created by [YoungKidWarrior](https://www.notion.so/YoungKidWarrior-a5025778570f4a558a490978177c5bff)
 
 🤖 BrightID Bot to verify users in Discord.
 
 [Click here to Invite BrightID Bot to your server](https://bot.brightid.org/)
 
-## **Quick end-user guide**
+### Quick end-user guide
 
 Interacting with the bot is simple; it offers 2 commands
 
 - "!verify": Sends a QR Code to link the BrightID app to Discord
 - "!me": Adds the "Verified" role to verified users
 
-### **To use BrightID Bot:**
+### To use BrightID Bot:
 
 1. Type !verify
 2. Scan the code (or click the link) BrightID Bot shows you
 3. Use an app that has sponsorships. See [https://explorer.brightid.org/apps/index.html](https://explorer.brightid.org/apps/index.html)
 4. Type !me
 
-## **MG-Skillbot**
+## MG-Skillbot
 
 Skillbot is used in the Raid Guild to make it easier for members to connect with people based on their skills. It is used to find people and help other to be found based on your roles in the guild.
 
@@ -94,7 +98,7 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 
 ## Sesh
 
-# **😀EZPZ event creation**
+# 😀EZPZ event creation
 
 - Specify times however the hell you want. No more rigid formats to follow.
 - Simple RSVP via reactions, plus reminders (optional).
@@ -103,6 +107,8 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 [https://sesh.fyi/](https://sesh.fyi/)
 
 [https://sesh.fyi/manual/](https://sesh.fyi/manual/)
+
+<iframe src="https://sesh.fyi/manual/" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" loading="lazy" width='100%' height='500'></iframe>
 
 ## Suggestion Bot.
 

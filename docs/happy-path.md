@@ -7,7 +7,7 @@ sidebar_label: Happy Path
 > :warning:&nbsp; **WARNING:** Never send funds (tokens or ETH) directly to the escrow smart contract. Those funds will not be recoverable.
 
 1. Raid party lead (i.e., <span id='monk'>Cleric</span> or <span id='monk'>Monk</span>) [creates an escrow](https://xdai.escrow.raidguild.org/) for the raid, with the following info:
-    - **Raid party multisig address**
+    - **Raid party multisig address** (xDAI Gnosis Safe Address)
     - **The client's address**
     - **Total payment amount**
     - **Number of milestones** (a typical raid will have 2). Currently, milestones must have uniform payments. Future versions may allow different payment amounts per milestone.

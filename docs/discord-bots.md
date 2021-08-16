@@ -46,7 +46,7 @@ Friend Time will automatically react with a clock emoji (🕰️) to times menti
 
 [https://docs.friendtime.ml/](https://docs.friendtime.ml/)
 
-To set your timezone type "-ft map" After that, you will be take to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
+To set your timezone type "-ft map" After that, you will be taken to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
 
 ```jsx
 -ft set <pasted time zone>

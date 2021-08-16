@@ -8,7 +8,7 @@ Raid Guild has instituted an onboarding process through the utilization of Cohor
 
 The TL;DR on Cohorts is that Raid Guild saw an immediate need to onboard various different roles into the Guild and get them up to speed on how Raid Guild operates so they would be ready to slay web3 product demons.
 
-_Note If Season(n) is in session or has not yet begun, we recommend that you find someone with the role @TavernKeeper to vouch for you and get you setup as an apprentice._
+_Note If Season(n) is in session or has not yet begun, we recommend that you find someone with the role @TavernKeeper to vouch for you and get you setup as an Apprentice._
 
 All new entries will start as an Apprentice. Apprentices can earn a maximum of 1 share and may be upgraded to a Guilder by pledging 500 wxDAI as tribute for 100 Shares after being championed. Here’s how it works:
 

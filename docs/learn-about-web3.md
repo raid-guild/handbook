@@ -49,3 +49,5 @@ sidebar_label: Learn About Web3
 6) [Ethereum contract overciew - OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) - Ethereum contract overview, including Truffle or Hardhat tutorials for Solidity.
 
 7) [Ethereum dev stack for fast product iterations](https://github.com/austintgriffith/scaffold-eth) - Quick and easy way to set up a scaffold and start fiddling around with contracts and the connected frontend.
+
+8) [Solidity Expamples](https://solidity-by-example.org/) -  List of Solidity sample coding.

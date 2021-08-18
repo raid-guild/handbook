@@ -6,6 +6,8 @@ sidebar_label: Roles
 
 Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different Raids, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.
 
+You can assign yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+
 ### Developer Roles
 
 | Name                                      | Type                     | Description                                                                              |

@@ -12,6 +12,8 @@ sidebar_label: Learn About Web3
 
 3) [Everything You Need To Know About DAOs](https://foundation.app/blog/everything-you-need-to-know-about-daos) - This article by Foundation gives a primer on Decentralized Autonomous Organizations (DAO). It explains what a DAO is, how it works, and the benefits of participating in a DAO.
 
+4) [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - This is a free book available on GitHub. It's updated frequently, so if you really need to go deep or want to understand everything this is good.
+
 ## Non Dev Web3 Topics (or applied web3)
 
 1) [Enter The Metaverse](https://foundation.app/blog/enter-the-metaverse) - This article, also by Foundation, talks about the “metaverse”, first mentioned in Neil Stephenson’s Snow Crash. It explains how the metaverse empowers us to own our data, decentralizes power, and helps free the internet.
@@ -46,11 +48,11 @@ sidebar_label: Learn About Web3
 
 5) [Pet Shop Tutorial](https://www.trufflesuite.com/tutorial) - Get started with Solidity using Truffe and Ganache.
 
-6) [Ethereum contract overciew - OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) - Ethereum contract overview, including Truffle or Hardhat tutorials for Solidity.
+6) [Ethereum contract overview - OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/) - Ethereum contract overview, including Truffle or Hardhat tutorials for Solidity.
 
 7) [Ethereum dev stack for fast product iterations](https://github.com/austintgriffith/scaffold-eth) - Quick and easy way to set up a scaffold and start fiddling around with contracts and the connected frontend.
 
-8) [Solidity Expamples](https://solidity-by-example.org/) -  List of Solidity sample coding.
+8) [Solidity Examples](https://solidity-by-example.org/) -  List of Solidity sample coding.
 
 9) [Use web3.xyz](https://useweb3.xyz/) - useWeb3 provides a curated overview of the best and latest resources on Ethereum, blockchain and Web3 development. These resources help you develop your own smart contracts, DeFi project, ERC20 or NFT tokens in Solidity or Vyper.
 

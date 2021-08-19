@@ -28,7 +28,7 @@ sidebar_label: Learn About Web3
 
 6) [Shapeshift is decentralising](https://erikvoorhees.medium.com/shapeshift-is-decentralizing-639bb4c82fc8) - what does this have to do with learning about web3? Decentralising a real company and turning into a DAO gives you a glimpse on where this is all heading!
 
-7) [1729 Earn Crypto by learning](https://1729.com/all) - Cool portal that pays you for completing tasks mostly around crypto and web3. Lot's of interesting articles too.
+7) [1729 Earn Crypto by learning](https://1729.com/all) - Cool portal that pays you for completing tasks mostly around crypto and web3. Lots of interesting articles too.
 
 ## The Web3 Stack
 

@@ -4,7 +4,7 @@ title: Learn About Web3
 sidebar_label: Learn About Web3
 ---
 
-## General, Basics & Overview of Web3
+## General, Basics & Overview of Web3/Crypto
 
 1) [Crypto Reading — Dan Romero](https://danromero.org/crypto-reading/) - Let’s start with a reading list link to a reading list. This has a ton of great fundamental and mostly non tech basics.
 
@@ -14,7 +14,7 @@ sidebar_label: Learn About Web3
 
 4) [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - This is a free book available on GitHub. It's updated frequently, so if you really need to go deep or want to understand everything this is good.
 
-## Non Dev Web3 Topics (or applied web3)
+## Non Dev Web3/Crypto Topics (or applied web3)
 
 1) [Enter The Metaverse](https://foundation.app/blog/enter-the-metaverse) - This article, also by Foundation, talks about the “metaverse”, first mentioned in Neil Stephenson’s Snow Crash. It explains how the metaverse empowers us to own our data, decentralizes power, and helps free the internet.
 
@@ -33,6 +33,8 @@ sidebar_label: Learn About Web3
 8) [Work full time for a DAO](https://twitter.com/spengrah/status/1428456525744545800) - Interesting thread about how to work for a DAO full time.
 
 9) [Blockchains as App stores](https://twitter.com/cdixon/status/1427452454543663129) - Lots to learn from this thread and in general from Chris Dixon on Twitter.
+
+10) [Beginners guides on NFT, DEFI and DAOs](https://twitter.com/ljxie/status/1371465334121762822?s=20) - Links to some great intro articles and also worth following on twitter.
 
 ## The Web3 Stack
 
@@ -69,3 +71,5 @@ sidebar_label: Learn About Web3
 1) [Bankless](https://open.spotify.com/show/41TNnXSv5ExcQSzEGLlGhy?si=F9EVCFCHT0-0tUjDftYO8g&dl_branch=1) - Great Defi podcast, covering a broad range of topics.
 
 2) [Finematics](https://www.youtube.com/c/Finematics/videos) - Animated, simple learning videos on Defi, crypto and web3.
+
+3) [Unchained](https://www.youtube.com/channel/UCWiiMnsnw5Isc2PP1to9nNw) - Podcast with a lot of great guests from a diverse background. The host breaks topics down well for non crypto natives.

@@ -30,6 +30,10 @@ sidebar_label: Learn About Web3
 
 7) [1729 Earn Crypto by learning](https://1729.com/all) - Cool portal that pays you for completing tasks mostly around crypto and web3. Lots of interesting articles too.
 
+8) [Work full time for a DAO](https://twitter.com/spengrah/status/1428456525744545800) - Interesting thread about how to work for a DAO full time.
+
+9) [Blockchains as App stores](https://twitter.com/cdixon/status/1427452454543663129) - Lots to learn from this thread and in general from Chris Dixon on Twitter.
+
 ## The Web3 Stack
 
 1) [The Web3 Stack (AVC)](https://avc.com/2018/07/the-web-3-stack/) - This article by Fred Wilson talks about decentralized apps (DAPPs). Decentralized applications will allow us to truly take back control of our data. He mentions that in the future, he hopes to see new social media apps where we actually own our data.

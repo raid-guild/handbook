@@ -36,6 +36,14 @@ sidebar_label: Learn About Web3
 
 10) [Beginners guides on NFT, DEFI and DAOs](https://twitter.com/ljxie/status/1371465334121762822?s=20) - Links to some great intro articles and also worth following on twitter.
 
+11) [vfat tools](https://vfat.tools/) - An ETH/ Web3 DEFI Pool 0 Aggregator.
+
+12) [Defi Prime](https://defiprime.com/) -  DeFiprime.com is a media outlet and analytical services provider for the DeFi community. Its mandate is to inform, educate, and connect the community as the definitive source of news dedicated to decentralized finance space.
+
+13) [SOLANA Ecosystem](https://solana.com/ecosystem) - The official solana site that showcases their entire ecosystem.
+
+14) [Dune Analytics](https://dune.xyz/home) - Dune Analytics is a powerful tool for blockchain research. Dune gives you all the tools to query, extract, and visualize vast amounts of data from the blockchain. Dune is unlocking the power of public blockchain data by making it accessible to everyone
+
 ## The Web3 Stack
 
 1) [The Web3 Stack (AVC)](https://avc.com/2018/07/the-web-3-stack/) - This article by Fred Wilson talks about decentralized apps (DAPPs). Decentralized applications will allow us to truly take back control of our data. He mentions that in the future, he hopes to see new social media apps where we actually own our data.
@@ -73,3 +81,11 @@ sidebar_label: Learn About Web3
 2) [Finematics](https://www.youtube.com/c/Finematics/videos) - Animated, simple learning videos on Defi, crypto and web3.
 
 3) [Unchained](https://www.youtube.com/channel/UCWiiMnsnw5Isc2PP1to9nNw) - Podcast with a lot of great guests from a diverse background. The host breaks topics down well for non crypto natives.
+
+4) [Defiant](https://www.youtube.com/c/TheDefiant/featured) - The Defiant curates, digests, and analyzes all the major developments in decentralized finance, so that we can stay informed and smart about the most cutting-edge and fastest-changing corner of crypto and finance. It delivers journalism with authority; objective, data-backed, primary-source, reported pieces, written by insiders who can also provide informed analysis on the latest moves.
+
+## Web 2 Stack
+
+1) [FreeCodeCamp.org](https://www.freecodecamp.org/) - is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone. Beginning with tutorials that introduce students to HTML, CSS and JavaScript, students progress to project assignments that they complete either alone or in pairs.
+
+2) [Codecademy](https://www.codecademy.com/) - An American online interactive platform that offers free coding classes in different programming languages including Python (pandas-Python library, Beautiful Soup-Python Library), Java, Go, JavaScript (jQuery, AngularJS, React.js), Ruby (Ruby on Rails-Ruby framework), SQL, C++, C#, Swift, and Sass, as well as markup languages HTML and CSS.

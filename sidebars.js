@@ -10,6 +10,7 @@ module.exports = {
     GettingStarted: [
       "become-an-apprentice",
       "become-a-member",
+      "champion-an-apprentice",
       "rips",
       "proposal-types",
     ],

@@ -7,12 +7,10 @@ module.exports = {
       "overview-raid-guild-shares",
       "overview-roles",
     ],
-    GettingStarted: [
+    "Membership": [
       "become-an-apprentice",
       "become-a-member",
-      "champion-an-apprentice",
-      "rips",
-      "proposal-types",
+      "champion-a-member"
     ],
     Raids: [
       "convert-client-submission",

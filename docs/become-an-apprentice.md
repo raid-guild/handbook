@@ -17,7 +17,7 @@ All new entries will start as an Apprentice. Apprentices can earn a maximum of 1
     - Take your time filling out the Join Us form, as we will determine whether or not you’re a good fit for the Guild based on your ability to effectively communicate your skills and the value you will bring to the Guild as an Apprentice. Also, keep in mind that simply filling out the “Join Us” form does not guarantee you entry into Raid Guild as an Apprentice.
 
 2. Join the [Raid Guild Discord](https://discord.com/invite/RWjkQ6DNnv) and introduce yourself in <span class='channels'>#tavern</span>. 
-3. Showcase your past work and skills in <span class='channels'>#shill-you-stuff</span>.
+3. Showcase your past work and skills in <span class='channels'>#shill-your-stuff</span>.
 4. Look out for issues to work on in <span class='channels'>#projects</span> to earn reputation.
 5. Once you prove yourself with the skills and reputation, a member of the Guild will signal your eligibility to receive your 1 Apprentice Share.
 6. Submit a Membership Proposal for 1 Share with 0 Token Tribute in [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).

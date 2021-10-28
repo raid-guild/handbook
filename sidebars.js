@@ -7,28 +7,34 @@ module.exports = {
       "overview-raid-guild-shares",
       "overview-roles",
     ],
-    GettingStarted: [
+    "Membership": [
       "become-an-apprentice",
       "become-a-member",
-      "rips",
-      "proposal-types",
+      "champion-a-member"
+
     ],
     Raids: [
       "convert-client-submission",
       "commission-process",
+      {
+        Escrow: [
+          "how-does-it-work",
+          "happy-path",
+          "dispute",
+          "interacting-with-escrow",
+          "client-instructions",
+          "references",
+        ],
+      },
       "summon-a-raid-party",
       "join-a-raid",
       "lead-a-raid",
-      "shipped",
+      "shipped", 
     ],
-    Escrow: [
-      "how-does-it-work",
-      "happy-path",
-      "dispute",
-      "interacting-with-escrow",
-      "client-instructions",
-      "references",
-    ],
+    "Operations": [
+      "rips",
+      "proposal-types"
+    ], 
     Discord: [
       "discord-etiquette",
       "discord-getting-started",
@@ -42,7 +48,7 @@ module.exports = {
       "community-forum",
       "community-social-media",
     ],
-    AdditionalResources: [
+    "Additional Resources": [
       "learn-about-web3",
       "glossary",
       "requesting-payment",

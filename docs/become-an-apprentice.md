@@ -4,9 +4,9 @@ title: Become an Apprentice
 sidebar_label: Become an Apprentice
 ---
 
-Raid Guild has instituted an onboarding process through the utilization of Cohorts, you can see how Raid Guild introduced Season0 participants to the Guild [here](https://docs.google.com/presentation/d/1vU5Qu_n-THe_qcRfO8blVSjb_nxPNpn3m7DxnkAAUek/edit#slide=id.gbcc4521e42_0_7).  
+Raid Guild has instituted a new onboarding process through the utilization of Cohorts. 
 
-The TL;DR on Cohorts is that Raid Guild saw an immediate need to onboard various different roles into the Guild and get them up to speed on how Raid Guild operates so they would be ready to slay web3 product demons.
+As each cohort evolves, this process will change. In 2022, the below information regarding 1 share tributes is no longer current, but has been left for the posterity.  
 
 _Note If Season(n) is in session or has not yet begun, we recommend that you find someone with the role @TavernKeeper to vouch for you and get you setup as an apprentice._
 

@@ -6,7 +6,7 @@ sidebar_label: Become an Apprentice
 
 Raid Guild has instituted a new onboarding process through the utilization of Cohorts. 
 
-As each cohort evolves, this process will change. In 2022, the below information regarding 1 share tributes is no longer current, but has been left for the posterity.  
+As each cohort evolves, this process will change. In 2022, the below information regarding 1 share tributes is no longer current, but has been left for posterity.  
 
 _Note If Season(n) is in session or has not yet begun, we recommend that you find someone with the role @TavernKeeper to vouch for you and get you setup as an apprentice._
 

@@ -10,7 +10,7 @@ The raid party lead is responsible for working with the client to help them make
 
 If you are paying Raid Guild from an EOA like MetaMask, follow these instructions:
 
-1. Go to https://xdai.escrow.raidguild.org/escrow/[RaidID] -- _[raid party lead: replace [RaidID] with the RaidID from Airtable]_
+1. Go to https://smartescrow.raidguild.org/escrow/[RaidID] -- _[raid party lead: replace [RaidID] with the RaidID from Airtable]_
 2. Connect your MetaMask or WalletConnect wallet
 3. Follow the instructions to deposit. There will be 2 transactions - the first to approve the Raid Guid Escrow contract to transfer your tokens, and the second to make the deposit itself.
 4. Refresh to verify that the deposit has been made (you may need to reconnect your wallet).

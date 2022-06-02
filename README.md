@@ -41,9 +41,9 @@ Make changes on a feature branch; submit a Pull Request into the `staging` branc
 
 The following custom styles are available.
 
-**Highlight a channel**
+**Highlight a channel**<br>
 `.channels` e.g. `<span class="channels">#channel-name</span>`
 
-**Highlight a role**
-e.g. `<span class="archer">Archer</span>` 
+**Highlight a role**<br>
+e.g. `<span class="archer">Archer</span>`<br>
 See `/src/css/custom.css` for the full list of roles

@@ -45,5 +45,6 @@ The following custom styles are available.
 `.channels` e.g. `<span class="channels">#channel-name</span>`
 
 **Highlight a role**<br>
-e.g. `<span class="archer">Archer</span>`<br>
-See `/src/css/custom.css` for the full list of roles
+e.g. `<span class="archer">Archer</span>`  
+
+See `/src/css/custom.css` for the full list of roles.

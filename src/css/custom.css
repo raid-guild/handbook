@@ -27,6 +27,11 @@ span {
     font-weight: 500;
 }
 
+/**
+ * use channels like <span class="channels">#channel-name</span>
+ * to highlight it
+ */
+
 .channels {
     border: 1.2px solid #f53862;
     border-radius: 5px;
@@ -34,66 +39,74 @@ span {
     font-style: italic;
 }
 
-#apprentice {
+/** 
+ * HHH adding classed versions so the style could be used
+ * more than once on the same page. (previously the roles
+ * were all styled with ID selectors, left in for 
+ * backwards compatibility.)
+ * ref: https://css-tricks.com/the-difference-between-id-and-class/#aa-ids-are-unique
+ */
+
+.apprentice, #apprentice {
     color: brown;
 }
 
-#archer {
+.archer, #archer {
     color: rgb(209, 30, 170);
 }
 
-#druid {
+.druid, #druid {
     color: rgb(201, 164, 164);
 }
 
-#paladin {
+.paladin, #paladin {
     color: green;
 }
 
-#ranger {
+.ranger, #ranger {
     color: #888888;
 }
 
-#warrior {
+.warrior, #warrior {
     color: #d63447;
 }
 
-#wizard {
+.wizard, #wizard {
     color: #035aa6;
 }
 
-#angry-dwarf {
+.angry-dwarf, #angry-dwarf {
     color: #fcbf1e;
 }
 
-#cleric {
+.cleric, #cleric {
     color: #588da8;
 }
 
-#hunter {
+.hunter, #hunter {
     color: #ff5733;
 }
 
-#monk {
+.monk, #monk {
     color: #1eb2a6;
 }
 
-#mystic-alchemist {
+.mystic-alchemist, #mystic-alchemist {
     color: #e9f58f;
 }
 
-#rogue {
+.rogue, #rogue {
     color: #a6b1e1;
 }
 
-#scribe {
+.scribe, #scribe {
     color: #9dc6a7;
 }
 
-#tavern-keeper {
+.tavern-keeper, #tavern-keeper {
     color: #05dfd7;
 }
 
-#healer {
+.healer, #healer {
     color: #ff9595;
 }

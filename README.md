@@ -36,3 +36,14 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 ### Edits and updates
 
 Make changes on a feature branch; submit a Pull Request into the `staging` branch.
+
+#### Custom CSS
+
+The following custom styles are available.
+
+**Highlight a channel**
+`.channels` e.g. `<span class="channels">#channel-name</span>`
+
+**Highlight a role**
+e.g. `<span class="archer">Archer</span>` 
+See `/src/css/custom.css` for the full list of roles

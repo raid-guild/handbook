@@ -10,4 +10,4 @@ We see you’ve stumbled across the Handbook. Well done! This guide will serve a
 If you’ve made it this far we can tell you’re interested in joining (or have already 
 joined) our decentralized collective of freelance mercenaries ready to slay web3 product demons.
 
-![](https://i.imgur.com/0XNg6mj.png)
+![A demon looms over raiders](https://i.imgur.com/0XNg6mj.png)

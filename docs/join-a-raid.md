@@ -4,7 +4,7 @@ title: Join a Raid
 sidebar_label: Join a Raid
 ---
 
-![image](https://user-images.githubusercontent.com/93854208/171785765-663f3474-6bf5-40ed-afff-8f844c4959f5.png)
+
 
 
 Any Raid Guild members or succesful cohort apprentices are eligible to join Raids. 
@@ -16,6 +16,8 @@ If apprentices are experienced in a certain field, it’s possible to jump strai
 Raids are discussed on the cohort-voice channel and Raiding parties are formed at the weekly Raider Roundup Meetings ( Tuesdays 1pm EDT / 10am PST / 6pm UTC). During these meetings, clerics announce the client work that has been going on and apprentices and members will have a chance to contact the cleric to gain a position on the Raid. 
 
 To get access to the cohort-voice channel apprentices will have to have successfully completed a cohort. 
+
+![image](https://user-images.githubusercontent.com/93854208/171785765-663f3474-6bf5-40ed-afff-8f844c4959f5.png)
 
 One way to view the Raids underway is to check out [Dungeon Master](https://dungeonmaster.raidguild.org/raids). Dungeon Master is only available for those who are part of a cohort DAO or the Raid Guild DAO. 
 

@@ -4,7 +4,7 @@ title: How to wrap xDAI to make wxDAI
 sidebar_label: How to wrap xDAI to make wxDAI
 ---
 
-Raid Guild made [wrapeth.com](wrapeth.com), and you can use it to wrap your xDAI into wxDAI. Wrap Eth is super-minimal, and if you prefer to see confirmation and success messages on the page you can use [Sushiswap](https://app.sushi.com/swap) instead.
+Raid Guild made [wrapeth.com](wrapeth.com), and you can use it to wrap your xDAI into wxDAI. Wrap Eth is super-minimal, and if you prefer to see confirmation and success messages on the page you could try [Sushiswap](https://app.sushi.com/swap) instead.
 
 ## 1. Add the wxDAI token to your Gnosis Chain wallet
 

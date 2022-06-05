@@ -101,7 +101,7 @@ Don’t swap 100% of your MATIC. Leave enough to cover gas fees, or the transact
 If your regular exchange allows you to withdraw MATIC to the Polygon Mainnet, go ahead and make your purchase from them. Other options for purchase and withdrawal of MATIC to the Polygon Mainnet (at the time of writing) include [Binance](https://blog.polygon.technology/how-to-deposit-and-withdraw-on-polygon-pos-commit-chain-on-binance/) and [Crypto.com](https://help.crypto.com/en/articles/5597853-send-and-receive-polygon-matic).
 
 ![Copy wallet address](https://i.imgur.com/VSiswiR.png)
-<small>Send the MATIC to your wallet address.</small>
+<br><small>Send the MATIC to your wallet address.</small>
 
 #### 3.3. Add the DAI token to your Polygon wallet
 
@@ -161,6 +161,8 @@ Here’s what’s typically involved with bridging:
 If you get stuck between steps 2 and 3, try the transaction again from the beginning.
 
 The Gnosis Chain website has a [section on bridges](https://www.xdaichain.com/for-users/bridges "Bridges on the Gnosis Chain website") (somewhat out of date as at April 4, 2022), and we’ll pick the [Connext bridge for Polygon to xDAI bridging](https://bridge.connext.network/DAI-from-polygon-to-gnosis).
+
+**How to bridge**
 
 * [Open the Connext site](https://bridge.connext.network/DAI-from-polygon-to-gnosis) and connect your wallet.
 * Enter the amount to bridge, review the transaction details and fees after a  route is found, click the ‘Approve DAI’ button.

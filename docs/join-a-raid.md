@@ -4,27 +4,22 @@ title: Join a Raid
 sidebar_label: Join a Raid
 ---
 
+Raid Guild members and capable apprentices from onboarding cohorts are eligible to join a Raid. 
 
+The <span class='cleric'>Cleric</span> in charge of the Raid will determine if an apprentice has shown sufficient skill to be included in the raiding party.
 
+Raids are discussed on the <span class='channels'>#cohort-voice</span> channel and Raiding parties are formed at the weekly Raider Roundup Meetings (Tuesdays 1pm EDT / 10am PST / 6pm UTC). During these meetings, <span class='cleric'>clerics</span> announce the client work that has been going on, and <span class='apprentice'>apprentices</span> and members will have a chance to contact the <span class='cleric'>cleric</span> to become part of the raiding party. 
 
-Any Raid Guild members or succesful cohort apprentices are eligible to join Raids. 
+The <span class='channels'>#cohort-voice</span> channel can be accessed by members, and <span class='apprentice'>apprentices</span> who have been onboarded. 
 
-Before taking part in a Raid, most apprentices will have demonstrated their capability during a cohort project. 
+![decorative image of a raiding party](https://user-images.githubusercontent.com/93854208/171785765-663f3474-6bf5-40ed-afff-8f844c4959f5.png)
 
-If apprentices are experienced in a certain field, it’s possible to jump straight into client raids, but they will need to prove their experience to the cleric concerned. 
-
-Raids are discussed on the cohort-voice channel and Raiding parties are formed at the weekly Raider Roundup Meetings ( Tuesdays 1pm EDT / 10am PST / 6pm UTC). During these meetings, clerics announce the client work that has been going on and apprentices and members will have a chance to contact the cleric to gain a position on the Raid. 
-
-To get access to the cohort-voice channel apprentices will have to have successfully completed a cohort. 
-
-![image](https://user-images.githubusercontent.com/93854208/171785765-663f3474-6bf5-40ed-afff-8f844c4959f5.png)
-
-One way to view the Raids underway is to check out [Dungeon Master](https://dungeonmaster.raidguild.org/raids). Dungeon Master is only available for those who are part of a cohort DAO or the Raid Guild DAO. 
+One way to view the Raids currently underway is to check out [Dungeon Master](https://dungeonmaster.raidguild.org/raids). Dungeon Master is only available to those who are members of the Raid Guild DAO or a cohort sub-DAO. 
 
 Active Raids can be seen under the Raids channel. To join an existing Raid, please look for Guilders which are most active in the channel and shoot them a DM to discuss where you can add value.
 
-We’d like to emphasize that jumping into a Raid without prior consent and context from existing members may be counterproductive, so please use the Raid channels and DM’s to get caught up to speed.
+We’d like to emphasize that jumping into a Raid without prior consent and context from existing members may be counterproductive. Please use the Raid channels and DMs as a starting point.
 
-Seeing as the cost and budget of each Raid varies, please ensure that your expectations for payouts for completed tasks are discussed prior to work being performed.
+As the costs and budget for each Raid varies, please ensure that your expectations for payouts on completed tasks are discussed before you begin work.
 
-For questions on how to price a given issue, please drop a note in #general.
+For questions on how to price a given issue, please drop a note in <span class='channels'>#general</span>.

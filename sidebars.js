@@ -56,7 +56,7 @@ module.exports = {
       "how-to-wrap-xdai-to-wxdai",
       "how-to-get-raid-tokens",
       "how-to-daohaus-guide",
-      "how-do-gain-consensus",
+      "how-to-gain-consensus",
     ],
     "Additional Resources": [
       "learn-about-web3",

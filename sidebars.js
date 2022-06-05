@@ -50,7 +50,7 @@ module.exports = {
       "community-forum",
       "community-social-media",
     ],
-    "How to": [
+    "How To": [
       "how-to-getting-paid",
       "how-to-get-xdai",
       "how-to-wrap-xdai-to-wxdai",

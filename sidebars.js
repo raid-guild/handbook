@@ -2,7 +2,8 @@ module.exports = {
   howSidebar: {
     Overview: [
       "overview",
-      "what-is-raid-guild",
+      "overview-what-is-raid-guild",
+      "overview-getting-started.md",
       "overview-code-of-conduct",
       "overview-molochv2-primer",
       "overview-raid-guild-shares",
@@ -34,7 +35,7 @@ module.exports = {
     ],
     "Operations": [
       "rips",
-      "proposal-types"
+      "proposal-types",
     ], 
     Discord: [
       "discord-etiquette",

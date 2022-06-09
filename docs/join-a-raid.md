@@ -22,4 +22,4 @@ We’d like to emphasize that jumping into a Raid without prior consent and cont
 
 As the costs and budget for each Raid varies, please ensure that your expectations for payouts on completed tasks are discussed before you begin work.
 
-For questions on how to price a given issue, please drop a note in <span class='channels'>#general</span>.
+For questions on how to price a given issue, please drop a note in <span class='channels'>#general</span> (members only channel) or reach out to the cleric on the job.

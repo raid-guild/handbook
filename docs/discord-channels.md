@@ -47,8 +47,8 @@ Seasons are a method of engagement that were introduced by Guild members in Febr
 | _#clerics_           | Cohort | A place to coordinate Cleric availability and client submissions                        |
 | _#projects_          | Cohort | A place for Apprentices to coordinate and collaborate on projects                       |
 | _#project-suggestion-box| Cohort | A place to make suggestions and get feedback on your ideas                           |
-| _#season(n)-dao      | Cohort | A sandbox DAO so you can REALLY understand how a DAO operates!                          |
-| _#season(n)-skills   | Cohort | A channel to share and log member skills using Quartermaster                               |
+| _#season(n)-dao_      | Cohort | A sandbox DAO so you can REALLY understand how a DAO operates!                          |
+| _#season(n)-skills_   | Cohort | A channel to share and log member skills using Quartermaster                               |
 
 
 
@@ -143,5 +143,5 @@ Not all Raids have a Client Chat in Discord, as many times this happens outside 
 
 ### Valhalla Closed Raids
 
-Archived Raid channels that have been closed out. Learn more about when it’s time to close a Raid using How To Close a Raid.
+Archived Raid channels that have been closed out. See [Ship a Raid](./shipped) to learn more about what happens when a Raid is closed.
 

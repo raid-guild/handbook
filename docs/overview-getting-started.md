@@ -40,7 +40,7 @@ From here, you’ll need to work your way into the Guild as part of a cohort:
 
 The more issues you tackle to improve the Guild, the quicker you’ll get recognized, gain membership and become part of the Guild.
 
-Check out the Raid Guild Tool Shed for accounts, tools, and resources to help you on your journey. 
+Check out the [Raid Guild Tool Shed](https://hackmd.io/@raidguild/HJQ4Y2lm9/https%3A%2F%2Fhackmd.io%2F%40raidguild%2FBy3kIcxD5) for accounts, tools, and resources to help you on your journey. 
 
 ## Key things to get you started
 

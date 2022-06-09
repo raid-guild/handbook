@@ -4,7 +4,8 @@ title: Become a Member
 sidebar_label: Become a Member
 ---
 
-![image](https://user-images.githubusercontent.com/93854208/171784806-1d0bb1a9-c49b-4ad7-8934-5c2dc4fc50b1.png)
+![Metropolis map](https://user-images.githubusercontent.com/93854208/172762785-f25626c5-2301-415e-8fbb-2bb6bf7704f2.png)
+
 
 
 To advance from an Apprentice to a Member, you will need to complete a cohort and be championed by an existing Raid Guild Member. Once you find a Champion your Champion will need to put down a stake of $RAID tokens. See the [Champion a New Member](./champion-a-member) for how this works.

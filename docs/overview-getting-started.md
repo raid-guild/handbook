@@ -18,7 +18,8 @@ If you are **not** a Raid Guild member, we recommend you check out “[Become An
 
 # Find your path
 
-![Humans wanted](https://user-images.githubusercontent.com/93854208/172765208-5f69a82e-acf0-4559-bcc9-972f7e0b4e40.png)
+![Humans wanted](https://user-images.githubusercontent.com/93854208/172766617-35e85d9e-ceef-418e-bc0c-1a23b90f90ab.png)
+
 
 ### Hire Raid Guild
 

@@ -4,9 +4,15 @@ title: Become a Member
 sidebar_label: Become a Member
 ---
 
-To advance from an Apprentice to a Member, you will need to be Championed by an existing Raid Guild Member. Once you find a Champion, there are a few Your champion will need to put down a stake of $RAID tokens. See the [Champion a New Member](./champion-a-member) for how this works.
+![Metropolis map](https://user-images.githubusercontent.com/93854208/172762785-f25626c5-2301-415e-8fbb-2bb6bf7704f2.png)
 
-Once you’ve found a Champion, you are eligible to level up from an Apprentice to a Member - signalled by 100 Shares as opposed to 1. Here's what to do:
+
+
+To advance from an Apprentice to a Member, you will need to complete a cohort and be championed by an existing Raid Guild Member. Once you find a Champion your Champion will need to put down a stake of $RAID tokens. See the [Champion a New Member](./champion-a-member) for how this works.
+
+Once you’ve found a Champion, you are eligible to level up from an Apprentice to a Member - signalled by 100 Shares. 
+
+Here's what to do:
 
 Follow the [Proposal Process](./proposal-types) and use the Membership Proposal to request the difference in Shares to get to your 100 Share cap in the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f). In the description of your proposal, enter a blockscout link to the staking transaction that your Champion gives you. This is how the DAO will validate that your Champion made the appropriate stake.
 

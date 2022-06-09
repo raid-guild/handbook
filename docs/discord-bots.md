@@ -66,13 +66,17 @@ Interacting with the bot is simple; it offers 2 commands
 3. Use an app that has sponsorships. See [https://explorer.brightid.org/apps/index.html](https://explorer.brightid.org/apps/index.html)
 4. Type !me
 
-## MG-Skillbot
+## Quartermaster
 
-Skillbot is used in the Raid Guild to make it easier for members to connect with people based on their skills. It is used to find people and help other to be found based on your roles in the guild.
+Raid Guild uses the Quartermaster bot to make a map of members and their skills. 
 
-An excellent tutorial can be found at
+The Quartermaster can tell you who in the guild has a certain skill in particular, and which skills a particular someone has.
 
-[https://hackmd.io/Fs_mnbS3R1qt3MXCyHwwew?view](https://hackmd.io/Fs_mnbS3R1qt3MXCyHwwew?view)
+Get started by registering your own skills with the Quartermaster in the Cohorts <span class='channels'>#skills</span> channel.
+
+Use the `!qm help` command in the <span class='channels'>#skills</span> channel to see the list of commands used to interact with the Quartermaster, and [see examples and screenshots of Quartermaster usage in this write up](https://hackmd.io/@raidguild/S1114UVu5).
+
+Quartermaster is a Raid Guild-skinned version of Metafam's skillbot—check it out on [Github]( https://github.com/MetaFam/skill-bot)! 
 
 ## xDai Faucet
 
@@ -111,10 +115,18 @@ A link on the panel redirects you to the proposal on app.daohaus.club, where you
 
 It is a notification bot that announces new DAO summons & proposals
 
-Three cheers to vengist#8655 for creating the bot
+Three cheers to vengist#8655 for creating the bot.
 
 ## Sentry
 
-Sentry bot is built for raid guild’s own internal purpose and it’s both a bot and a server
+Raid Guild’s Sentry bot handles Discord server verification and gatekeeping, sends automated notifications in internal channels, and works with slash commands and DMs to perform basic tasks.
 
-[https://hackmd.io/@saimano/sentry](https://hackmd.io/@saimano/sentry)
+**Guard Sentry** is the gatekeeper of Raid Guild’s Discord.
+
+**Comrade Sentry** can return basic statistics on roles, current gas price, and current RAID price, and has member-only slash commands that are used to set up Raid and Camp channels.
+
+**Minister Sentry** can pass on anonymous feedback. Add `whisper` as the first word of a DM to Minister Sentry to have anonymous feedback relayed into the <span class='channel'>🙊│whispers</span> channel.
+
+Read the [Raid Guild’s Sentry bot walkthrough](https://hackmd.io/@raidguild/SJdC7L4d5) for more details on the full functionality of Sentry bot and its slash commands.
+
+Props to Saimano#0272 for making and maintaining the sentries.

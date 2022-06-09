@@ -8,6 +8,10 @@ Just as with any strong Discord, we use Roles to showcase different skill sets. 
 
 You can assing yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
 
+You can assign yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+
+![image](https://user-images.githubusercontent.com/93854208/172767912-d42f37c9-dd95-41c1-aba5-894003c903e2.png)
+
 ### Developer Roles
 
 | Name                                      | Type                     | Description                                                                              |

@@ -30,10 +30,11 @@ The Barracks is a place for anyone to explore ideas, share projects, or resource
 
 | Name                 | Visibility | Purpose                                                                                   |
 | -------------------- | ---------- | ----------------------------------------------------------------------------------------- |
-| _#library_           | Open         | A place to share resources, articles, tooling, and any other cool stuff                 |
-| _#dorg_              | Open         | A channel to discuss bridging discord bots into other channels                          |
-| _#metagame_          | Open         | A place to talk about anything Meta and MetaGame related                                |
+| _#library_           | Open         | A place to share resources, articles, tooling, and any other cool stuff                                         
 | _#messhall_          | Open         | Chat about joining the guild. Share what you're working on!                             |
+| _#design_         | Open | A channel for dicussing web3 design                                                    |
+| _#dev_            | Open | A channel for discussing anything development                                          |
+
 
 ## Season(n)
 
@@ -41,14 +42,13 @@ Seasons are a method of engagement that were introduced by Guild members in Febr
 
 | Name                 | Visibility | Purpose                                                                                   |
 | -------------------- | ---------- | ----------------------------------------------------------------------------------------- |
-| _#hq_                | Members Only | General announcements and ways to stay up to date on the season(n) cohort               |
-| _#commons_           | Members Only | General chat for season(n)! Introduce yourself here!                                    |
-| _#clerics_           | Members Only | A place to coordinate Cleric availability and client submissions                        |
-| _#projects_          | Members Only | A place for Apprentices to coordinate and collaborate on projects                       |
-| _#problems-n-pain-points| Members Only | A place to describe your problems or frictions that you may have run into            |
-| _#project-suggestion-box| Members Only | A place to make suggestions and get feedback on your ideas                           |
-| _#season(n)-dao      | Members Only | A sandbox DAO so you can REALLY understand how a DAO operates!                          |
-| _#season(n)-skills   | Members Only | A channel to share and log member skills using Skills-Bot                               |
+| _#hq_                | Cohort | General announcements and ways to stay up to date on the season(n) cohort               |
+| _#commons_           | Cohort | General chat for season(n)! Introduce yourself here!                                    |
+| _#clerics_           | Cohort | A place to coordinate Cleric availability and client submissions                        |
+| _#projects_          | Cohort | A place for Apprentices to coordinate and collaborate on projects                       |
+| _#project-suggestion-box| Cohort | A place to make suggestions and get feedback on your ideas                           |
+| _#season(n)-dao_      | Cohort | A sandbox DAO so you can REALLY understand how a DAO operates!                          |
+| _#season(n)-skills_   | Cohort | A channel to share and log member skills using Quartermaster                               |
 
 
 
@@ -66,7 +66,6 @@ Got an idea for how to improve Raid Guild with an internal Raid? Check out <span
 | _#rip-discussion_     | Members Only | A place to discuss Raid Guild Improvement Proposals                             |
 | _#polls_              | Members Only | A channel for informal polls alone                                              |
 | _#ops_                | Members Only | This is where we talk about Raid Guild operations; the stuff we're doing to make Raid Guild work harder, better, and faster.|
-| _#snapshot_           | Members Only | A channel for discussing voting through snapshot                                |
 
 
 ## Guild Commons
@@ -111,14 +110,7 @@ House of Shill is where the Guild converses about anything external facing, and 
 | _#shill-shoptalk_ | Members Only | A channel for making our clients marketing dreams a reality                            |
 | _#wordsmiths_     | Members Only | A channel for coordinating documentation needs in and outside the Guild                |
 
-## House of Bits & Design
 
-House of Bits & Design is where more in depth conversations take place regarding Raid Guild development and Design.  
-
-| Name              | Visibility   | Purpose                                                                                |
-| ----------------- | ------------ | -------------------------------------------------------------------------------------- |
-| _#design_         | Members Only | A channel for dicussing web3 design                                                    |
-| _#dev_            | Members Only | A channel for discussing anything development                                          |
 
 ## Machine Shop
 
@@ -151,5 +143,5 @@ Not all Raids have a Client Chat in Discord, as many times this happens outside 
 
 ### Valhalla Closed Raids
 
-Archived Raid channels that have been closed out. Learn more about when it’s time to close a Raid using How To Close a Raid.
+Archived Raid channels that have been closed out. See [Ship a Raid](./shipped) to learn more about what happens when a Raid is closed.
 

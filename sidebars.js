@@ -2,6 +2,8 @@ module.exports = {
   howSidebar: {
     Overview: [
       "overview",
+      "overview-what-is-raid-guild",
+      "overview-getting-started.md",
       "overview-code-of-conduct",
       "overview-molochv2-primer",
       "overview-raid-guild-shares",
@@ -10,10 +12,10 @@ module.exports = {
     "Membership": [
       "become-an-apprentice",
       "become-a-member",
-      "champion-a-member"
-
+      "champion-a-member",
     ],
     Raids: [
+      "how-to-hire-raid-guild",
       "convert-client-submission",
       "commission-process",
       {
@@ -33,7 +35,7 @@ module.exports = {
     ],
     "Operations": [
       "rips",
-      "proposal-types"
+      "proposal-types",
     ], 
     Discord: [
       "discord-etiquette",
@@ -48,10 +50,17 @@ module.exports = {
       "community-forum",
       "community-social-media",
     ],
+    "How To": [
+      "how-to-getting-paid",
+      "how-to-get-xdai",
+      "how-to-wrap-xdai-to-wxdai",
+      "how-to-get-raid-tokens",
+      "how-to-daohaus-guide",
+      "how-to-gain-consensus",
+    ],
     "Additional Resources": [
       "learn-about-web3",
       "glossary",
-      "requesting-payment",
       "migration-to-xdai",
       "helping-docs",
     ],

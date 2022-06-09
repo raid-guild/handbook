@@ -4,6 +4,9 @@ title: Ship a Raid
 sidebar_label: Ship a Raid
 ---
 
+![Raid Ship](https://user-images.githubusercontent.com/93854208/172767777-437498e1-f68b-4937-bf7c-c16a6af1e0d2.png)
+
+
 ### Shipped
 
 Once the client has paid the second half of the project, move the deal to `Shipped`.

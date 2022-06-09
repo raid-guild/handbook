@@ -4,25 +4,31 @@ title: Getting Started
 sidebar_label: Getting Started
 ---
 
-## Find your place
+# Find your place
 
 ### Discord
 
-Most of Raid Guild’s business happens on our Discord server. 
+Most of the Raid Guild magic takes place on our Discord server. 
 
-Join using [this link](https://discord.com/invite/rGFpfQf) and explore the channels. Read the [channel guides]((./discord-channels)) for reference. 
-
-Members have access to all the channels. Others – successful cohort members, newcomers, clients – will have access to fewer channels. 
+You can join the Raid Guild Discord [here](https://discord.gg/RWjkQ6DNnv). When you have been assigned a “Raid Guild Member” role, then you will be able to access all of Raid Guild’s internal channels.  Others – successful cohort members, newcomers, clients – will have access to fewer channels. Refer to the [channel guides]((./discord-channels)) for reference.
 
 We ask that users of our Discord server keep it polite. Please read our notes on [Discord Etiquette](./discord-etiquette). 
 
-## Find your path
+If you are **not** a Raid Guild member, we recommend you check out “[Become An Apprentice](https://handbook.raidguild.org/docs/become-an-apprentice)” first.  If admitted to the Raid Guild as an apprentice, you’ll have the opportunity to prove your talent and level up in the DAO as you complete tasks, unlocking access to new private channels.  This will allow you to take on bigger Raids and contribute to shaping the Guild as we know it today.
+
+# Find your path
+
+![Humans wanted](https://user-images.githubusercontent.com/93854208/172765208-5f69a82e-acf0-4559-bcc9-972f7e0b4e40.png)
 
 ### Hire Raid Guild
 
 Find out how to [hire Raid Guild](https://www.raidguild.org/hire), and read more on our [commission process & smart escrow system](./commission-process).  
 
 ### Join Raid Guild
+
+If you haven't already introduced yourself, the first place you’ll want to make yourself known is <span class='channels'>#tavern</span> - where you can introduce yourself, your hobbies and your strengths.
+
+From here, you’ll need to work your way into the Guild as part of a cohort:
 
 1. [Apply for onboarding](https://www.raidguild.org/join)
 2. Read up on what to expect if you [become an apprentice](./become-an-apprentice) 
@@ -31,6 +37,8 @@ Find out how to [hire Raid Guild](https://www.raidguild.org/hire), and read more
 5. Get paid through [DAOhaus](./how-to-daohaus-guide)
 6. Vote on [Guild proposals](./proposal-types)
 7. Make connections, buidl stuff and have fun!
+
+The more issues you tackle to improve the Guild, the quicker you’ll get recognized, gain membership and become part of the Guild.
 
 Check out the Raid Guild Tool Shed for accounts, tools, and resources to help you on your journey. 
 

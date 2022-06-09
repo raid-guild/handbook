@@ -26,7 +26,7 @@ Raid Guild made [wrapeth.com](wrapeth.com), and you can use it to wrap your xDAI
 * Check your wallet for the wxDAI.
 
 ![Screenshot of wrapeth.com](https://i.imgur.com/qzX6p89.png)
-<br><small>Ready to wrap xDAI.</small>
+<br /><small>Ready to wrap xDAI.</small>
 
 ### Use Sushiswap to wrap your xDAI
 
@@ -37,12 +37,12 @@ Raid Guild made [wrapeth.com](wrapeth.com), and you can use it to wrap your xDAI
 * Check your wallet for the wxDAI.
 
 ![Screenshot of swap options in Sushiswap](https://i.imgur.com/MGffVYM.png)
-<br><small>Swap options in Sushiswap</small>
+<br /><small>Swap options in Sushiswap</small>
 
 ![Screenshot of Pending transaction notification in Sushiswap](https://i.imgur.com/4s7A8i8.png)
-<br><small>Pending transaction notification</small>
+<br /><small>Pending transaction notification</small>
 
 ![Screenshot of transaction confirmation in Sushiswap](https://i.imgur.com/Ma42deX.png)
-<br><small>Transaction confirmed.</small>
+<br /><small>Transaction confirmed.</small>
 
 Unwrap your wxDAI back to xDAI by using the Unwrap xDAI option on Wrap Eth, or by swapping back on Sushiswap.

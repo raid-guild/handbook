@@ -3,7 +3,7 @@ module.exports = {
     Overview: [
       "overview",
       "overview-what-is-raid-guild",
-      "overview-getting-started.md",
+      "overview-getting-started",
       "overview-code-of-conduct",
       "overview-molochv2-primer",
       "overview-raid-guild-shares",

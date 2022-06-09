@@ -12,7 +12,7 @@ The Raid Guild relies on several bots to accomplish different automated tasks. B
 
 > Collab.Land allows anyone to utilize tokenized community management systems to create incentive alignment, automate processes, and reward participation.
 
-This bot connects to your wallet and checks to see if you can join certain channels. There are channells in the server that are require tokens to see. [Collab.Land](http://collab.Land) confirms your access. To engage run:
+This bot connects to your wallet and checks to see if you can join certain channels. There are channels in the server that are token-gated. [Collab.Land](http://collab.Land) confirms your access. To engage run:
 
 ```jsx
 !join;
@@ -32,7 +32,7 @@ Friend Time will automatically react with a clock emoji (🕰️) to times menti
 
 [https://docs.friendtime.ml/](https://docs.friendtime.ml/)
 
-To set your timezone type "-ft map" After that, you will be take to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
+To set your timezone type "-ft map" After that, you will be taken to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
 
 ```jsx
 -ft set <pasted time zone>

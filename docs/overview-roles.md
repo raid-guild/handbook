@@ -6,7 +6,11 @@ sidebar_label: Roles
 
 Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different Raids, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.
 
-You can assing yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+You can assign yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+
+You can assign yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+
+![image](https://user-images.githubusercontent.com/93854208/172767912-d42f37c9-dd95-41c1-aba5-894003c903e2.png)
 
 You can assign yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
 

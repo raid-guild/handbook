@@ -50,7 +50,13 @@ Seasons are a method of engagement that were introduced by Guild members in Febr
 | _#season(n)-dao_      | Cohort | A sandbox DAO so you can REALLY understand how a DAO operates!                          |
 | _#season(n)-skills_   | Cohort | A channel to share and log member skills using Quartermaster                               |
 
+## Cohort
 
+[TBD channels for those who have gone through an onboarding cohort]
+
+| Name                 | Visibility | Purpose                                                                                   |
+| -------------------- | ---------- | ----------------------------------------------------------------------------------------- |
+| _?????_                | Cohort | ???             |
 
 ## Guild HQ 
 
@@ -60,7 +66,7 @@ Got an idea for how to improve Raid Guild with an internal Raid? Check out <span
 
 | Name                  | Visibility   | Purpose                                                                         |
 | --------------------- | ------------ | ------------------------------------------------------------------------------- |
-| _#who-is-avaliable_   | Members Only | A place to find team members to jump on new raids by mentioning roles required  |
+| _#who-is-available_   | Members Only | A place to find team members to jump on new raids by mentioning roles required  |
 | _#client-submissions_ | Members Only | Data from client requests on Airtable form are dropped into this channel        |
 | _#announcements_      | Members Only | Guild wide announcements and updates                                            |
 | _#rip-discussion_     | Members Only | A place to discuss Raid Guild Improvement Proposals                             |

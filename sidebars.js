@@ -39,7 +39,6 @@ module.exports = {
     ], 
     Discord: [
       "discord-etiquette",
-      "discord-getting-started",
       "discord-channels",
       "discord-navigation-help",
       "discord-bots",
@@ -62,7 +61,6 @@ module.exports = {
       "learn-about-web3",
       "glossary",
       "migration-to-xdai",
-      "helping-docs",
     ],
   },
 };

@@ -48,3 +48,11 @@ The following custom styles are available.
 e.g. `<span class="archer">Archer</span>`  
 
 See `/src/css/custom.css` for the full list of roles.
+
+**Use a figure and figcaption for an image with a caption**
+```
+<figure>
+    <img src="https://i.imgur.com/qzX6p89.png" alt="Screenshot of wrapeth.com" />
+    <figcaption>Ready to wrap xDAI.</figcaption>
+</figure>
+```

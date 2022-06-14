@@ -32,14 +32,18 @@ xDAI can be wrapped to wxDAI for use with the Raid Guild DAO, and it can also be
 | Chain ID     | 100     |
 | Symbol     | xDAI     |
 | Block Explorer URL     | https://blockscout.com/xdai/mainnet/     |
-<br />
-<small>(As at April 4, 2022. Check the [Gnosis Chain website](https://www.xdaichain.com) for updates)</small>
 
-![Add Network dropdown in MetaMask](https://i.imgur.com/hNYgffw.png)
-<br /><small>Add Network option in MetaMask.</small>
+(As at April 4, 2022. Check the [Gnosis Chain website](https://www.xdaichain.com) for updates)
 
-![Example of filled form](https://i.imgur.com/gSM6FAB.png)
-<br /><small>Example of filled form.</small>
+<figure>
+    <img src="https://i.imgur.com/hNYgffw.png" alt="Add Network dropdown in MetaMask" />
+    <figcaption>Add Network option in MetaMask.</figcaption>
+</figure>
+
+<figure>
+    <img src="https://i.imgur.com/gSM6FAB.png" alt="Example of filled form" />
+    <figcaption>Example of filled form.</figcaption>
+</figure>
 
 #### Gnosis Chain tips
 
@@ -58,9 +62,10 @@ The Gnosis Chain website mentions several [options for direct purchase of xDAI](
 * Ramp Network—[some KYC involved](https://support.ramp.network/en/articles/441-what-are-the-kyc-limits "Ramp Network KYC limits"); [available in most countries](https://support.ramp.network/en/articles/433-what-countries-do-you-support "‘What countries do you support’ on the Ramp Network website")
 * Mt. Pelerin—minimal KYC (phone number, email address) for small purchases; not available for US persons and some other countries ([See a list of supported countries](https://www.mtpelerin.com/support "Mt Pelerin support website") under the ‘Buying cryptos by bank transfer’ heading); 1–5 day delivery time for those outside Switzerland.
 
-![Copy wallet address](https://i.imgur.com/f2uY8uT.png)
-<br /><small>Send the xDAI to your wallet address.</small>
-
+<figure>
+    <img src="https://i.imgur.com/f2uY8uT.png" alt="Copy wallet address" />
+    <figcaption>Send the xDAI to your wallet address.</figcaption>
+</figure>
 
 ### 3. Bridge to xDAI from DAI on a different network
 
@@ -83,7 +88,7 @@ This example uses the Polygon network, and there are 5 steps.
 | Symbol     | MATIC     |
 | Block Explorer URL     | https://polygonscan.com/     |
 
-<br /><small>(As at April 4, 2022. Check the [Polygon website](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/ "‘Add Polygon Network’ on the Polygon website") for updates on adding the Polygon Mainnet to MetaMask)</small>
+(As at April 4, 2022. Check the [Polygon website](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/ "‘Add Polygon Network’ on the Polygon website") for updates on adding the Polygon Mainnet to MetaMask)
 
 
 #### 3.2. Buy some MATIC, send it to your MetaMask wallet.
@@ -93,15 +98,15 @@ The Polygon chain was previously known as the Matic Network. The token is still 
 Buy some MATIC, send it to your MetaMask wallet.
 
 :::info
-
 Don’t swap 100% of your MATIC. Leave enough to cover gas fees, or the transaction won’t go through. 
-
 :::
 
 If your regular exchange allows you to withdraw MATIC to the Polygon Mainnet, go ahead and make your purchase from them. Other options for purchase and withdrawal of MATIC to the Polygon Mainnet (at the time of writing) include [Binance](https://blog.polygon.technology/how-to-deposit-and-withdraw-on-polygon-pos-commit-chain-on-binance/) and [Crypto.com](https://help.crypto.com/en/articles/5597853-send-and-receive-polygon-matic).
 
-![Copy wallet address](https://i.imgur.com/VSiswiR.png)
-<br /><small>Send the MATIC to your wallet address.</small>
+<figure>
+    <img src="https://i.imgur.com/VSiswiR.png" alt="Copy wallet address" />
+    <figcaption>Send the MATIC to your wallet address.</figcaption>
+</figure>
 
 #### 3.3. Add the DAI token to your Polygon wallet
 
@@ -112,11 +117,15 @@ If your regular exchange allows you to withdraw MATIC to the Polygon Mainnet, go
 | -------- | -------- |
 | [DAI stable coin contract address (PoS)](https://polygonscan.com/token/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063 "View DAI stable coin contract address on Polygonscan")     | 0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063    |
 
-![](https://i.imgur.com/t6d6DGt.png)
-<br /><small>Import tokens and Swap, highlighted with green.</small>
+<figure>
+    <img src="https://i.imgur.com/t6d6DGt.png" alt="MetaMask Import tokens and Swap, highlighted with green" />
+    <figcaption>Import tokens and Swap, highlighted with green.</figcaption>
+</figure>
 
-![Import Tokens screen](https://i.imgur.com/HpKQU4p.png)
-<br /><small>Import Tokens screen.</small>
+<figure>
+    <img src="https://i.imgur.com/HpKQU4p.png" alt="MetaMask Import Tokens screen" />
+    <figcaption>Import Tokens screen.</figcaption>
+</figure>
 
 #### 3.4. Swap the MATIC to DAI
 
@@ -128,8 +137,10 @@ It’s easiest to do the swap in your MetaMask wallet. A DEX like Honeyswap also
 * Choose the tokens to swap, and the amount. (Don’t swap 100%; leave some for gas fees)
 * Review the swap and confirm it.
 
-![MetaMask swap screen](https://i.imgur.com/V6WbxG8.png)
-<br /><small>Swap options in MetaMask.</small>
+<figure>
+    <img src="https://i.imgur.com/V6WbxG8.png" alt="MetaMask swap screen" />
+    <figcaption>Swap options in MetaMask.</figcaption>
+</figure>
 
 **Swap MATIC to DAI on Honeyswap**
 
@@ -142,11 +153,15 @@ You may get a better deal on swap fees by using a DEX like Honeyswap instead of 
 * Approve the transaction in MetaMask. 
 * You’ll see a ‘PENDING’ notification at the top of the screen, and a confirmation message when the transaction has completed.
 
-![Honeyswap form](https://i.imgur.com/78bJE8G.png)
-<br /><small>Honeyswap swap form with transaction details.</small>
+<figure>
+    <img src="https://i.imgur.com/78bJE8G.png" alt="Honeyswap form" />
+    <figcaption>Honeyswap swap form with transaction details.</figcaption>
+</figure>
 
-![Honeyswap notification messages](https://i.imgur.com/HStojDL.png)
-<br /><small>Pending and Confirmed notification messages.</small>
+<figure>
+    <img src="https://i.imgur.com/HStojDL.png" alt="Honeyswap notification messages" />
+    <figcaption>Pending and Confirmed notification messages.</figcaption>
+</figure>
 
 #### 3.5. Bridge the DAI to xDAI
 
@@ -172,14 +187,20 @@ The Gnosis Chain website has a [section on bridges](https://www.xdaichain.com/fo
 * After the transaction has been sent, you’ll see the Claim button. Click that, then sign the transaction in MetaMask.
 * When transaction is complete, switch over to your Gnosis Chain wallet in MetaMask and you’ll see your xDAI.
 
-![Connext Approve DAI](https://i.imgur.com/0lOSOOB.png)
-<br /><small>Approve bridging of your DAI.</small>
+<figure>
+    <img src="https://i.imgur.com/0lOSOOB.png" alt="Connext Approve DAI" />
+    <figcaption>Approve bridging of your DAI.</figcaption>
+</figure>
 
-![MetaMask permissions](https://i.imgur.com/g96d1P8.png)
-<br /><small>Permission request in MetaMask. (Click Edit Permission to set a spend limit)</small>
+<figure>
+    <img src="https://i.imgur.com/g96d1P8.png" alt="MetaMask permissions" />
+    <figcaption>Permission request in MetaMask. (Click Edit Permission to set a spend limit).</figcaption>
+</figure>
 
-![Connext Claim DAI](https://i.imgur.com/Mdas28v.png)
-<br /><small>Claim the bridged funds.</small>
+<figure>
+    <img src="https://i.imgur.com/Mdas28v.png" alt="Connext Claim DAI" />
+    <figcaption>Claim the bridged funds.</figcaption>
+</figure>
 
 #### Bridging tips
 

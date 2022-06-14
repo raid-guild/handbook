@@ -110,3 +110,28 @@ span {
 .healer, #healer {
     color: #ff9595;
 }
+
+
+/**
+ * HHH Add styles for figures so we can have nice captions
+ * overflow hidden and max-width: 100% so huge images don't bust the layout
+ * Use Infima vars for consistency e.g. --ifm-spacing-vertical
+ * Add extra vertical margins for more surrounding whitespace
+ * figcaption has tighter line height, a smaller font (e.g. 14px vs 16px), a lighter colour
+ * Markdown cannot be used inside a figure in Docusaurus; use an image tag.
+ */
+
+ figure {
+    font-size: var(--ifm-font-size-base);
+    margin-bottom: calc(var(--ifm-spacing-vertical) * 2 );
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  figcaption {
+      color: var(--ifm-color-gray-700);
+      line-height: 1.2;
+      font-size: 0.875em;
+  }

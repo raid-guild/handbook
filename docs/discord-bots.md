@@ -32,7 +32,7 @@ Friend Time will automatically react with a clock emoji (🕰️) to times menti
 
 [https://docs.friendtime.ml/](https://docs.friendtime.ml/)
 
-To set your timezone type "-ft map" After that, you will be taken to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
+To set your timezone type `-ft map`. After that, you will be taken to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
 
 ```jsx
 -ft set <pasted time zone>
@@ -56,15 +56,15 @@ Verify users with Bright ID.
 
 Interacting with the bot is simple; it offers 2 commands
 
-- "!verify": Sends a QR Code to link the BrightID app to Discord
-- "!me": Adds the "Verified" role to verified users
+- `!verify`: Sends a QR Code to link the BrightID app to Discord
+- `!me`: Adds the "Verified" role to verified users
 
 ### To use BrightID Bot:
 
-1. Type !verify
+1. Type `!verify`
 2. Scan the code (or click the link) BrightID Bot shows you
 3. Use an app that has sponsorships. See [https://explorer.brightid.org/apps/index.html](https://explorer.brightid.org/apps/index.html)
-4. Type !me
+4. Type `!me`
 
 ## Quartermaster
 
@@ -74,9 +74,9 @@ The Quartermaster can tell you who in the guild has a certain skill in particula
 
 Get started by registering your own skills with the Quartermaster in the Cohorts <span class='channels'>#skills</span> channel.
 
-Use the `!qm help` command in the <span class='channels'>#skills</span> channel to see the list of commands used to interact with the Quartermaster, and [see examples and screenshots of Quartermaster usage in this write up](https://hackmd.io/@raidguild/S1114UVu5).
+Use the `!qm help` command in the <span class="channels">#skills</span> channel to see the list of commands used to interact with the Quartermaster, and [see examples and screenshots of Quartermaster usage in this write up](https://hackmd.io/@raidguild/By3kIcxD5/%2F4eTbqy2pR1qv6RSXiB87jg).
 
-Quartermaster is a Raid Guild-skinned version of Metafam's skillbot—check it out on [Github]( https://github.com/MetaFam/skill-bot)! 
+Quartermaster is a Raid Guild-skinned version of MetaFam's Skill Discovery Discord bot—check it out on [GitHub]( https://github.com/MetaFam/skill-bot)! 
 
 ## xDai Faucet
 
@@ -102,7 +102,7 @@ Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
 
 ## Haus Bot
 
-This bot is operating on Raid Guild discord channels #dao-verified, #uh-notifications and #haus-of-daos for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
+This bot is operating on Raid Guild discord channels <span class="channels">#dao-verified</span>, <span class="channels">#uh-notifications</span> and <span class="channels">#haus-of-daos</span> for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
 
 - the name of the proposal
 - a short description of the proposal
@@ -127,6 +127,6 @@ Raid Guild’s Sentry bot handles Discord server verification and gatekeeping, s
 
 **Minister Sentry** can pass on anonymous feedback. Add `whisper` as the first word of a DM to Minister Sentry to have anonymous feedback relayed into the <span class='channel'>🙊│whispers</span> channel.
 
-Read the [Raid Guild’s Sentry bot walkthrough](https://hackmd.io/@raidguild/SJdC7L4d5) for more details on the full functionality of Sentry bot and its slash commands.
+Read the [Raid Guild’s Sentry bot walkthrough](https://hackmd.io/@raidguild/By3kIcxD5/%2F0uqGRkMwS5y-BpVVMtVxNA) for more details on the full functionality of Sentry bot and its slash commands.
 
 Props to Saimano#0272 for making and maintaining the sentries.

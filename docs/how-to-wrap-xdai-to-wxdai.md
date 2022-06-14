@@ -25,8 +25,10 @@ Raid Guild made [wrapeth.com](wrapeth.com), and you can use it to wrap your xDAI
 * Watch MetaMask notifications for completion of the transaction.
 * Check your wallet for the wxDAI.
 
-![Screenshot of wrapeth.com](https://i.imgur.com/qzX6p89.png)
-<br /><small>Ready to wrap xDAI.</small>
+<figure>
+    <img src="https://i.imgur.com/qzX6p89.png" alt="Screenshot of wrapeth.com" />
+    <figcaption>Ready to wrap xDAI.</figcaption>
+</figure>
 
 ### Use Sushiswap to wrap your xDAI
 
@@ -36,13 +38,19 @@ Raid Guild made [wrapeth.com](wrapeth.com), and you can use it to wrap your xDAI
 * You’ll see a pending transaction notification, and a confirmation notice.
 * Check your wallet for the wxDAI.
 
-![Screenshot of swap options in Sushiswap](https://i.imgur.com/MGffVYM.png)
-<br /><small>Swap options in Sushiswap</small>
+<figure>
+    <img src="https://i.imgur.com/MGffVYM.png" alt="Screenshot of swap options in Sushiswap" />
+    <figcaption>Swap options in Sushiswap.</figcaption>
+</figure>
 
-![Screenshot of Pending transaction notification in Sushiswap](https://i.imgur.com/4s7A8i8.png)
-<br /><small>Pending transaction notification</small>
+<figure>
+    <img src="https://i.imgur.com/4s7A8i8.png" alt="Screenshot of Pending transaction notification in Sushiswap" />
+    <figcaption>Pending transaction notification.</figcaption>
+</figure>
 
-![Screenshot of transaction confirmation in Sushiswap](https://i.imgur.com/Ma42deX.png)
-<br /><small>Transaction confirmed.</small>
+<figure>
+    <img src="https://i.imgur.com/Ma42deX.png" alt="Screenshot of transaction confirmation in Sushiswap" />
+    <figcaption>Transaction confirmed.</figcaption>
+</figure>
 
 Unwrap your wxDAI back to xDAI by using the Unwrap xDAI option on Wrap Eth, or by swapping back on Sushiswap.

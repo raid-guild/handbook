@@ -52,11 +52,17 @@ Seasons are a method of engagement that were introduced by Guild members in Febr
 
 ## Cohort
 
-[TBD channels for those who have gone through an onboarding cohort]
+Channels for those who have gone through completed onboarding with their cohort.
 
 | Name                 | Visibility | Purpose                                                                                   |
 | -------------------- | ---------- | ----------------------------------------------------------------------------------------- |
-| _?????_                | Cohort | ???             |
+| _#internal_                | Cohort | ???             |
+| _#hq_                | Cohort | General announcements and ways to stay up to date on cohort-related stuff             |
+| _#clerics_                | Cohort | For Raid Guild Clerics + Cohort Clerics            |
+| _#commons_                | Cohort | Open discussion for all that have participated in our cohorts program             |
+| _#dao-alerts_                | Cohort | Alerts from all DAOs across seasons             |
+| _#skills_                | Cohort | Find & match your skills with Quartermaster             |
+| _#projects_                | Cohort | Discuss on projects for/by cohorts             |
 
 ## Guild HQ 
 
@@ -77,7 +83,6 @@ Got an idea for how to improve Raid Guild with an internal Raid? Check out <span
 ## Guild Commons
 
 The Guild Commons is the place for general conversation about the Guild as well as more serious discussions around championing new members to enhance operations and treasury management.
-
 
 | Name              | Visibility   | Purpose                                                                                |
 | ----------------- | ------------ | -------------------------------------------------------------------------------------- |

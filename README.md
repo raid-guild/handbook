@@ -56,3 +56,7 @@ See `/src/css/custom.css` for the full list of roles.
     <figcaption>Ready to wrap xDAI.</figcaption>
 </figure>
 ```
+
+**Notes on using HTML tags**
+* Markdown between HTML tags won’t work
+* Use closing tags, including for `<br />` and `<img />`, or the build will break.

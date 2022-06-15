@@ -58,5 +58,5 @@ See `/src/css/custom.css` for the full list of roles.
 ```
 
 **Notes on using HTML tags**
-* Markdown between HTML tags won’t work
+* Markdown between HTML tags won’t work.
 * Use closing tags (including `<br />` and `<img />`) or the build will break.

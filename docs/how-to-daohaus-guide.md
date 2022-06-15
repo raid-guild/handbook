@@ -146,5 +146,5 @@ After the transaction is confirmed a toast will be displayed that reads 'Proposa
 
 ## Extras
 
-* The [DAOhaus Proposal Types in the Raid Guild handbook](./proposal-types)
+* [DAOhaus Proposal Types](./proposal-types) in the Raid Guild handbook]
 * Read more about DAOhaus proposals in the <a href="https://daohaus.club/docs/proposals">DAOhaus proposals documentation</a>.

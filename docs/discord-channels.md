@@ -56,7 +56,7 @@ Channels for those who have gone through completed onboarding with their cohort.
 
 | Name                 | Visibility | Purpose                                                                                   |
 | -------------------- | ---------- | ----------------------------------------------------------------------------------------- |
-| _#internal_                | Cohort | ???             |
+| _#internal_                | Cohort | Member discussion regarding Cohort organization             |
 | _#hq_                | Cohort | General announcements and ways to stay up to date on cohort-related stuff             |
 | _#clerics_                | Cohort | For Raid Guild Clerics + Cohort Clerics            |
 | _#commons_                | Cohort | Open discussion for all that have participated in our cohorts program             |

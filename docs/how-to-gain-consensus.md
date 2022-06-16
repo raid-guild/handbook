@@ -15,4 +15,5 @@ This is the process:
 
 <figure>
     <img src="https://i.imgur.com/Pei2iPT.png" alt="Screenshot of a proposal discussion" />
+    <figcaption>A screenshot of a poll on options.</figcaption>
 </figure> 

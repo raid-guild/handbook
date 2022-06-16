@@ -10,14 +10,14 @@ Looks like you’ve decided to step your Raiding up a level!
 
 As a Leader of a Raid, you will bear the responsibility of seeing it through from start to finish - through the good, the bad and the ugly. As emphasized in our code of conduct we prioritize shipping at all costs. This often means you’ll need to go above and beyond to make sure all gaps are filled.
 
-Where leading certain Raids may not have hard coded economic benefits, you do stand to earn a DAO Badge for successfully completing your first Raid. To Lead a Raid, please do the following:
+Where leading certain Raids may not have guaranteed economic benefits, you do stand to gain rep for successfully completing your first Raid. To lead a Raid, please do the following:
 
-1. Ensure the Raid is logged in Airtable as _Raiding_.
+1. Ensure the Raid is logged in Airtable as `Raiding`
 2. Find a <span class="cleric">Cleric</span> (Account Manager) and a <span class="monk">Monk</span> (Project Manager) responsible for interfacing with the client. If you wish to perform these aspects yourself, please self-assign yourself the role.
-3. Signal that you will be leading a Raid either during Round Table or by posting in Guild HQ <span class='channels'>#general</span>.
+3. Signal that you will be leading a Raid either during Round Table or by posting in Guild HQ’s <span class='channels'>#general</span> channel.
 4. Establish a Scope of Work for the Raid. This task is generally handled by <span class="cleric">Clerics</span> or <span class="monk">Monks</span>, but in the case this is you, please ensure a timeline, scope and budget is properly laid out to ensure expectations are aligned. An outline of a Scope of Work can be found [here](https://github.com/raid-guild/HQ/blob/master/Templates/Proposal.md).
-5. Create a Raid Party using Guild HQ <span class='channels'>#who-is-available</span> and tagging the relevant roles like <span class="archer">Archer</span> (Design) or <span class="paladin">Paladin</span> (Back-end)
-6. If a Client Chat has not been started, please **start one** using the project name so others can easily identify the Raid. (i.e. <span class='channels'>#aave</span>)
+5. Create a Raid Party using Guild HQ’s <span class='channels'>#who-is-available</span> channel and tagging the relevant roles like <span class="archer">Archer</span> (Design) or <span class="paladin">Paladin</span> (Back-end)
+6. If a Client Camp channel has not been started, please **start one** using the project name so others can easily identify the Raid. (i.e. <span class='channels'>#aave</span>)
 7. Start a <span class='channels'>#raid</span> channel and ensure access is restricted only to Raid Guild Members and Apprentices. Please reference the permissions of other Raid Channels for guidance
 8. While not mandatory, we strongly recommend setting up a [Gnosis Safe Multisig Wallet](https://gnosis-safe.io/) for your Raid Party to accept client payment. This ensures that funding can be allocated and distributed with consensus from all participants.
 9. We also recommend using the [Raid Guid Escrow service](./how-does-it-work) to facilitate payments from the client.

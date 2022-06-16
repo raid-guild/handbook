@@ -9,7 +9,7 @@ sidebar_label: Ship a Raid
 
 ## Shipped
 
-Once the client has paid the second half of the project, move the deal to _Shipped_.
+Once the client has paid the second half of the project, move the deal to `Shipped`.
 
 ## Finish a Raid
 
@@ -21,4 +21,4 @@ This can be done by sending wxDAI or WETH (or any whitelisted token) to the [DAO
 
 While we can not force you to send 10% spoils back to the War Chest Raid Guild will remember your actions until you make amends with the DAO. If you do not have a compelling reason for refusing to pay 10% to the DAO, you stand to be stripped of your Raid Guild Membership.
 
-Next, be sure to archive your Raid Channel by sending it to Valhalla. Any guild member can send a raid channel to Valhalla (archive) by using the `/to-valhalla` command <span class='channels'>#🎮-command-center</span> channel.
+Next, be sure to archive your Raid Channel by sending it to Valhalla. Any guild member can send a raid channel to Valhalla (archive) by using the `/to-valhalla` command in the <span class='channels'>#🎮-command-center</span> channel.

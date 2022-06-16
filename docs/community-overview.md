@@ -4,7 +4,7 @@ title: Overview
 sidebar_label: Overview
 ---
 
-There are a few meetings each week that we encourage all Guild Members to attend.  Raider Rally is a meeting for Guild members to discuss progress across different RIPs and Raids, as well as provide teams in the _Preparing for Battle_ phase with possible personnel for their Raid/RIP. 
+There are a few meetings each week that we encourage all Guild Members to attend.  Raider Rally is a meeting for Guild members to discuss progress across different RIPs and Raids, as well as provide teams in the `Preparing for Battle` phase with possible personnel for their Raid/RIP. 
 
 In addition to the Raider Rally, each week Raid Guild alternates between a Raid Guild Futures meeting and a Round Table meeting.  The Futures meeting engages members in a discussion about the future of the guild and it consequently seeks to align members in the longer-term vision for where we want to take Raid Guild.  The Round Table is a meeting where we introduce new members, provide Raid updates and discuss Raid Guild improvement ideas.
 

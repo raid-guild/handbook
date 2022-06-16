@@ -53,14 +53,14 @@ With your wallet connected:
 
 Apply to get paid from the DAO treasury.
 
-* Click the 'New Proposal' button.
-* In the options presented, select 'The Classics' from the dropdown box.
-* Select 'Funding Proposal'.
+* Click the 'New Proposal' button
+* In the options presented, select 'The Classics' from the dropdown box
+* Select 'Funding Proposal'
 * Fill in the Funding Proposal form:
-    * Write a clear title and description for the proposal.
-    * The wallet address in the Recipient field should match the wallet address you have linked to the DAO.
-    * Enter the amount requested for payment.
-    * Click the Submit button.
+    * Write a clear title and description for the proposal
+    * The wallet address in the Recipient field should match the wallet address you have linked to the DAO
+    * Enter the amount requested for payment
+    * Click the Submit button
 
 <figure>
     <img src="https://i.imgur.com/Cb7G27A.png" alt="Funding proposal form screenshot" />
@@ -88,8 +88,8 @@ Filter by ‘Unsponsored’ to find proposals that require sponsorship.
 
 Click the proposal that you want to sponsor, and then:
 
-* Click the Unlock button.
-* Deposit 3 wxDAI to sponsor, approving the transaction when prompted.
+* Click the Unlock button
+* Deposit 3 wxDAI to sponsor, approving the transaction when prompted
 
 <figure>
     <img src="https://i.imgur.com/VgRmnYw.png" alt="Screenshot of the sponsor proposal button" />
@@ -107,8 +107,8 @@ Filter by ‘Voting Period’ to find proposals that are ready for votes.
 
 Click the proposal that you want to vote on, and then:
 
-* Click the thumbs up or thumbs down.
-* Approve the transaction when prompted.
+* Click the thumbs up or thumbs down
+* Approve the transaction when prompted
 
 <figure>
     <img src="https://i.imgur.com/aKv2Dvo.png" alt="Voting actions screenshot" />
@@ -124,20 +124,20 @@ Filter by ‘Ready For Processing’ to find proposals that are ready for proces
 
 Click the proposal that you want to process, and then:
 
-* Click the Process button.
-* Approve the transaction when prompted.
+* Click the Process button
+* Approve the transaction when prompted
 
 <figure>
     <img src="https://i.imgur.com/0CIYKbz.png" alt="Process button screenshot" />
 </figure>
 
-After the transaction is confirmed a toast will be displayed that reads 'Proposal passed' or 'Proposal failed'.
+After the transaction is confirmed a toast will be displayed that reads ‘Proposal passed’ or ‘Proposal failed’.
 
 ## Withdraw funds from your DAOhaus internal wallet
 
-* Go to your DAOhaus profile page. (Click the cup icon in the main navigation options.)
-* If you have any assets to withdraw you can click the Withdraw button.
-* Choose the amount to withdraw, and authorise the transaction in your wallet.
+* Go to your DAOhaus profile page (Click the cup icon in the main navigation options)
+* If you have any assets to withdraw you can click the Withdraw button
+* Choose the amount to withdraw, and authorise the transaction in your wallet
 
 <figure>
     <img src="https://i.imgur.com/XmrcSxZ.png" alt="The profile page" />
@@ -146,5 +146,5 @@ After the transaction is confirmed a toast will be displayed that reads 'Proposa
 
 ## Extras
 
-* [DAOhaus Proposal Types](./proposal-types) in the Raid Guild handbook]
-* Read more about DAOhaus proposals in the <a href="https://daohaus.club/docs/proposals">DAOhaus proposals documentation</a>.
+* [DAOhaus Proposal Types](./proposal-types) in the Raid Guild handbook
+* Read more about DAOhaus proposals in the <a href="https://daohaus.club/docs/proposals">DAOhaus proposals documentation</a>

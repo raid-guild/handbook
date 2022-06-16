@@ -4,17 +4,19 @@ title: Getting Started
 sidebar_label: Getting Started
 ---
 
+![A hearth in the Raid Guild tavern](https://i.imgur.com/6jJBG5X.png)
+
 ## Find your place
 
 ### Discord
 
 Most of the Raid Guild magic takes place on our Discord server. 
 
-You can join the Raid Guild Discord [here](https://discord.gg/RWjkQ6DNnv). When you have been assigned a `Raid Guild Member` role, then you will be able to access all of Raid Guild’s internal channels.  Others – successful cohort members, newcomers, clients – will have access to fewer channels. Refer to the [channel guides]((./discord-channels)) for reference.
+You can join the Raid Guild Discord [here](https://discord.gg/rGFpfQf). When you have been assigned a `Raid Guild Member` role, then you will be able to access all of Raid Guild’s internal channels. Others – successful cohort members, newcomers, clients – will have access to fewer channels. Refer to the [channel guides](./discord-channels) for reference.
 
 We ask that users of our Discord server keep it polite. Please read our notes on [Discord Etiquette](./discord-etiquette). 
 
-If you are **not** a Raid Guild member, we recommend you check out “[Become An Apprentice](https://handbook.raidguild.org/docs/become-an-apprentice)” first.  If admitted to the Raid Guild as an apprentice, you’ll have the opportunity to prove your talent and level up in the DAO as you complete tasks, unlocking access to new private channels.  This will allow you to take on bigger Raids and contribute to shaping the Guild as we know it today.
+If you are **not** a Raid Guild member, we recommend you check out “[Become An Apprentice](./become-an-apprentice)” first. If admitted to the Raid Guild as an apprentice, you’ll have the opportunity to prove your talent and level up in the DAO as you complete tasks, unlocking access to new private channels. This will allow you to take on bigger Raids and contribute to shaping the Guild as we know it today.
 
 ## Find your path
 
@@ -23,7 +25,7 @@ If you are **not** a Raid Guild member, we recommend you check out “[Become An
 
 ### Hire Raid Guild
 
-Find out how to [hire Raid Guild](https://www.raidguild.org/hire), and read more on our [commission process & smart escrow system](./comission-process).  
+Find out how to [hire Raid Guild](https://www.raidguild.org/hire), and read more on our [commission process & smart escrow system](./commission-process).  
 
 ### Join Raid Guild
 

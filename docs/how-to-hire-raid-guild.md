@@ -19,3 +19,6 @@ These first three steps will give you access to a client dashboard, where you ca
 * Push your application to the top of the list by making bids in the consultation queue
 * Once your bid is accepted, pay a one-time fee of 15,000 $RAID for your initial consultation.
 
+## Getting $RAID tokens
+
+See the [How to get xDAI](./how-to-get-xdai.md) and [How to Get RAID tokens](./how-to-get-raid-tokens.md) pages of our handbook for step-by-step guides.

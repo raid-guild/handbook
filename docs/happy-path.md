@@ -21,4 +21,4 @@ sidebar_label: Happy Path
 
 Please ensure the client uses the Smart Escrow website to make deposits using the `Deposit` function and the appropriate token.
 
-:::
+::: 

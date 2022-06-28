@@ -20,7 +20,7 @@ xDAI can be wrapped to wxDAI for use with the Raid Guild DAO, and it can also be
 
 ### 1. Set up the Gnosis Chain network in MetaMask
 
-[Gnosis Chain was previously known as xDai Chain](https://www.xdaichain.com/about-gc/faqs/xdai-chain-basics "Read Gnosis Chain basics on the xdaichain website"). Transactions still use the xDai token.
+[Gnosis Chain was previously known as xDai Chain](https://developers.gnosischain.com/about-gc/faqs/xdai-chain-basics "Read Gnosis Chain basics on the Gnosis Chain website"). Transactions still use the xDai token.
 
 * In MetaMask, click the Add Network button or navigate to Networks in Settings.
 * Copy in the Gnosis Chain network information and save it.
@@ -33,21 +33,19 @@ xDAI can be wrapped to wxDAI for use with the Raid Guild DAO, and it can also be
 | Symbol     | xDAI     |
 | Block Explorer URL     | https://blockscout.com/xdai/mainnet/     |
 
-(As at April 4, 2022. Check the [Gnosis Chain website](https://www.xdaichain.com) for updates)
-
 <figure>
-    <img src="https://i.imgur.com/hNYgffw.png" alt="Add Network dropdown in MetaMask" />
+    <img src="https://i.imgur.com/hNYgffw.png" alt="Screenshot: Add Network dropdown in MetaMask" />
     <figcaption>Add Network option in MetaMask.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/gSM6FAB.png" alt="Example of filled form" />
+    <img src="https://i.imgur.com/gSM6FAB.png" alt="Screenshot: Example of filled form" />
     <figcaption>Example of filled form.</figcaption>
 </figure>
 
 #### Gnosis Chain tips
 
-* Check the Gnosis Chain website for [updated network settings](https://www.xdaichain.com/for-users/getting-started-with-gc).
+* Check the Gnosis Chain website for [updated network settings and RPC URLs](https://developers.gnosischain.com/for-users/getting-started-with-gc#1-set-your-chain-id-and-rpc).
 * Easy mode: use [chainlist.org](https://chainlist.org/) to add the Gnosis Chain network to MetaMask.
     * Connect your wallet on [chainlist.org](https://chainlist.org/).
     * Search for Gnosis Chain.
@@ -57,13 +55,13 @@ xDAI can be wrapped to wxDAI for use with the Raid Guild DAO, and it can also be
 
 Buy xDAI directly to skip any swapping and bridging.
 
-The Gnosis Chain website mentions several [options for direct purchase of xDAI](https://www.xdaichain.com/for-users/getting-started-with-gc#2-get-some-xdai-the-stable-transaction-token-for-the-chain "‘Get some xDAI’ on the Gnosis Chain website").
+The Gnosis Chain website mentions several [options for direct purchase of xDAI](https://developers.gnosischain.com/for-users/getting-started-with-gc#2-get-some-xdai-the-stable-transaction-token-for-the-chain "‘Get some xDAI’ on the Gnosis Chain website").
 
 * Ramp Network—[some KYC involved](https://support.ramp.network/en/articles/441-what-are-the-kyc-limits "Ramp Network KYC limits"); [available in most countries](https://support.ramp.network/en/articles/433-what-countries-do-you-support "‘What countries do you support’ on the Ramp Network website")
 * Mt. Pelerin—minimal KYC (phone number, email address) for small purchases; not available for US persons and some other countries ([See a list of supported countries](https://www.mtpelerin.com/support "Mt Pelerin support website") under the ‘Buying cryptos by bank transfer’ heading); 1–5 day delivery time for those outside Switzerland.
 
 <figure>
-    <img src="https://i.imgur.com/f2uY8uT.png" alt="Copy wallet address" />
+    <img src="https://i.imgur.com/f2uY8uT.png" alt="Screenshot: Copy wallet address" />
     <figcaption>Send the xDAI to your wallet address.</figcaption>
 </figure>
 
@@ -98,13 +96,15 @@ The Polygon chain was previously known as the Matic Network. The token is still 
 Buy some MATIC, send it to your MetaMask wallet.
 
 :::info
+
 Don’t swap 100% of your MATIC. Leave enough to cover gas fees, or the transaction won’t go through. 
+
 :::
 
 If your regular exchange allows you to withdraw MATIC to the Polygon Mainnet, go ahead and make your purchase from them. Other options for purchase and withdrawal of MATIC to the Polygon Mainnet (at the time of writing) include [Binance](https://blog.polygon.technology/how-to-deposit-and-withdraw-on-polygon-pos-commit-chain-on-binance/) and [Crypto.com](https://help.crypto.com/en/articles/5597853-send-and-receive-polygon-matic).
 
 <figure>
-    <img src="https://i.imgur.com/VSiswiR.png" alt="Copy wallet address" />
+    <img src="https://i.imgur.com/VSiswiR.png" alt="Screenshot: Copy wallet address" />
     <figcaption>Send the MATIC to your wallet address.</figcaption>
 </figure>
 
@@ -118,12 +118,12 @@ If your regular exchange allows you to withdraw MATIC to the Polygon Mainnet, go
 | [DAI stable coin contract address (PoS)](https://polygonscan.com/token/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063 "View DAI stable coin contract address on Polygonscan")     | 0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063    |
 
 <figure>
-    <img src="https://i.imgur.com/t6d6DGt.png" alt="MetaMask Import tokens and Swap, highlighted with green" />
+    <img src="https://i.imgur.com/t6d6DGt.png" alt="Screenshot: MetaMask Import tokens and Swap, highlighted with green" />
     <figcaption>Import tokens and Swap, highlighted with green.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/HpKQU4p.png" alt="MetaMask Import Tokens screen" />
+    <img src="https://i.imgur.com/HpKQU4p.png" alt="Screenshot: MetaMask Import Tokens screen" />
     <figcaption>Import Tokens screen.</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ It’s easiest to do the swap in your MetaMask wallet. A DEX like Honeyswap also
 * Review the swap and confirm it.
 
 <figure>
-    <img src="https://i.imgur.com/V6WbxG8.png" alt="MetaMask swap screen" />
+    <img src="https://i.imgur.com/V6WbxG8.png" alt="Screenshot: MetaMask swap screen" />
     <figcaption>Swap options in MetaMask.</figcaption>
 </figure>
 
@@ -154,12 +154,12 @@ You may get a better deal on swap fees by using a DEX like Honeyswap instead of 
 * You’ll see a ‘PENDING’ notification at the top of the screen, and a confirmation message when the transaction has completed.
 
 <figure>
-    <img src="https://i.imgur.com/78bJE8G.png" alt="Honeyswap form" />
+    <img src="https://i.imgur.com/78bJE8G.png" alt="Screenshot: Honeyswap form" />
     <figcaption>Honeyswap swap form with transaction details.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/HStojDL.png" alt="Honeyswap notification messages" />
+    <img src="https://i.imgur.com/HStojDL.png" alt="Screenshot: Honeyswap notification messages" />
     <figcaption>Pending and Confirmed notification messages.</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ Here’s what’s typically involved with bridging:
 
 If you get stuck between steps 2 and 3, try the transaction again from the beginning.
 
-The Gnosis Chain website has a [section on bridges](https://www.xdaichain.com/for-users/bridges "Bridges on the Gnosis Chain website") (somewhat out of date as at April 4, 2022), and we’ll pick the [Connext bridge for Polygon to xDAI bridging](https://bridge.connext.network/DAI-from-polygon-to-gnosis).
+The Gnosis Chain website has a [section on bridges](https://developers.gnosischain.com/for-users/bridges "Bridges on the Gnosis Chain website") and we’ll pick the [Connext bridge for Polygon to xDAI bridging](https://bridge.connext.network/DAI-from-polygon-to-gnosis).
 
 **How to bridge**
 
@@ -188,17 +188,17 @@ The Gnosis Chain website has a [section on bridges](https://www.xdaichain.com/fo
 * When transaction is complete, switch over to your Gnosis Chain wallet in MetaMask and you’ll see your xDAI.
 
 <figure>
-    <img src="https://i.imgur.com/0lOSOOB.png" alt="Connext Approve DAI" />
+    <img src="https://i.imgur.com/0lOSOOB.png" alt="Screenshot: Connext Approve DAI" />
     <figcaption>Approve bridging of your DAI.</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/g96d1P8.png" alt="MetaMask permissions" />
+    <img src="https://i.imgur.com/g96d1P8.png" alt="Screenshot: MetaMask permissions" />
     <figcaption>Permission request in MetaMask. (Click Edit Permission to set a spend limit).</figcaption>
 </figure>
 
 <figure>
-    <img src="https://i.imgur.com/Mdas28v.png" alt="Connext Claim DAI" />
+    <img src="https://i.imgur.com/Mdas28v.png" alt="Screenshot: Connext Claim DAI" />
     <figcaption>Claim the bridged funds.</figcaption>
 </figure>
 

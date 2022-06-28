@@ -4,7 +4,7 @@ title: Instructions for Client Payment
 sidebar_label: Instructions for Client Payment
 ---
 
-The raid party lead is responsible for working with the client to help them make their deposit into the escrow. The following deposit instructions can be shared with clients:
+The Raid party lead is responsible for working with the client to help them make their deposit into the escrow. The following deposit instructions can be shared with clients:
 
 ## Paying with an Externally Owned Account (e.g. MetaMask)
 

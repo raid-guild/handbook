@@ -8,21 +8,35 @@ _Do Raid Guild Bots Dream of Electric Tweets?_
 
 The Raid Guild relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Raid Guild Discord Server.](https://discord.gg/RWjkQ6DNnv)
 
-## Collab.land
+## Collab.Land
 
-> Collab.Land allows anyone to utilize tokenized community management systems to create incentive alignment, automate processes, and reward participation.
+Raid Guild uses a [Collab.Land](https://collab.land/ "Visit the collab.land website") bot to verify and grant roles and permissions on the Raid Guild Discord server.
 
-This bot connects to your wallet and checks to see if you can join certain channels. There are channels in the server that are token-gated. [Collab.Land](http://collab.Land) confirms your access. To engage run:
+If you are a full Raid Guild member, or an <span class="apprentice">Apprentice</span> in an onboarding cohort, you can unlock access to more server channels by using the Collab.Land bot to link your Discord account to the wallet address associated with your Raid Guild membership. 
 
-```jsx
-!join;
-```
+### How to get verified with Collab.Land
 
-Here's a link to [Collab.land](https://collab.land/) if you'd like to learn more.
+1.	Unlock your wallet and switch it to the Gnosis Chain network
+2.	Go to the <span class="channels">#🔓│verify-assets</span> channel and click the ‘Let’s Go!’ button
+3.	The Collab.Land bot will send a message to you with instructions and a custom link to connect your wallet
+4.	Click the ‘Connect Wallet’ button in that message, which will open the Collab.Land website in your browser
+5.	Select Raid Guild from the list of communities, and click the Verify button
+6.	Sign a transaction in your wallet if prompted
+7.	Go back to the <span class="channels">#🔓│verify-assets</span> channel in Discord and wait for the message that confirms the server roles you have been granted (The message may take two minutes or more to be delivered)
+8.	Enjoy access to more channels in the Raid Guild Discord server
 
-[Collab.land YouTube video](https://www.youtube.com/watch?v=fiVEyVsR7k8)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/fiVEyVsR7k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<figure>
+    <img src="https://i.imgur.com/9c3ZCf7.png" alt="Screenshot: Collab.Land bot message" />
+    <figcaption>Click the ‘Connect Wallet’ button in the message you’re sent by the bot.</figcaption>
+</figure>
+
+<figure>
+    <img src="https://i.imgur.com/M9WPIpm.png" alt="Screenshot: Collab.Land verify page" />
+    <figcaption>Select Raid Guild, click the ‘Verify’ button, and sign a transaction if prompted.</figcaption>
+</figure>
+
+If your access to server channels drops, try getting it back by verifying again.
 
 ## Friend Time
 
@@ -76,7 +90,7 @@ Get started by registering your own skills with the Quartermaster in the Cohorts
 
 Use the `!qm help` command in the <span class="channels">#skills</span> channel to see the list of commands used to interact with the Quartermaster, and [see examples and screenshots of Quartermaster usage in this write up](https://hackmd.io/@raidguild/By3kIcxD5/%2F4eTbqy2pR1qv6RSXiB87jg).
 
-Quartermaster is a Raid Guild-skinned version of MetaFam's Skill Discovery Discord bot—check it out on [GitHub]( https://github.com/MetaFam/skill-bot)! 
+Quartermaster is a Raid Guild-skinned version of MetaFam's Skill Discovery Discord bot—check it out on [GitHub](https://github.com/MetaFam/skill-bot)! 
 
 ## xDai Faucet
 

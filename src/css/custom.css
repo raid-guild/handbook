@@ -28,8 +28,8 @@ span {
 }
 
 /**
- * use channels like <span class="channels">#channel-name</span>
- * to highlight it
+ * use .channels like <span class="channels">#channel-name</span>
+ * to highlight a channel name in the docs
  */
 
 .channels {
@@ -129,9 +129,9 @@ span {
     margin-top: 0;
     max-width: 100%;
     overflow: hidden;
-  }
-  figcaption {
-      color: var(--ifm-color-gray-700);
-      line-height: 1.2;
-      font-size: 0.875em;
-  }
+}
+figcaption {
+     color: var(--ifm-color-gray-700);
+     line-height: 1.2;
+    font-size: 0.875em;
+}

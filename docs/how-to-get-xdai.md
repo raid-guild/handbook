@@ -110,7 +110,7 @@ If your regular exchange allows you to withdraw MATIC to the Polygon Mainnet, go
 
 #### 3.3. Add the DAI token to your Polygon wallet
 
-* Copy the contract address for the token (See table below).
+* Copy the contract address for the token. (See table below)
 * In MetaMask, click Import Tokens, then paste in the contract address and wait for the rest of the fields to fill automatically.
 
 | Field | Value |

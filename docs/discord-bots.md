@@ -6,7 +6,7 @@ sidebar_label: Discord Bots
 
 _Do Raid Guild Bots Dream of Electric Tweets?_
 
-The Raid Guild relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Raid Guild Discord Server.](https://discord.gg/RWjkQ6DNnv)
+Raid Guild relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Raid Guild Discord Server.](https://discord.gg/RWjkQ6DNnv)
 
 ## Collab.Land
 

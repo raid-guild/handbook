@@ -24,4 +24,4 @@ Has the option to buy shares as what we call ‘proof of contribution’. This i
 
 example: member was paid 1000DAI for their work in a raid. The member can now buy up to 200DAI worth of shares. A share always costs 5wxDAI/1share
 
-reason: the only way to get more shares, outside of initial membership of ten shares is to buy more shares. Because you are buying shares, and not being gifted shares, you are not diluting the other members. 20% is the max so the overall number of total shares does not balloon too quickly.
+reason: the only way to get more shares, outside of initial membership of 100 shares is to buy more shares. Because you are buying shares, and not being gifted shares, you are not diluting the other members. 20% is the max so the overall number of total shares does not balloon too quickly.

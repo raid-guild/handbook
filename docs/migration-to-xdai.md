@@ -1,7 +1,7 @@
 ---
 id: migration-to-xdai
-title: Migration to xDAI
-sidebar_label: Migration to xDAI
+title: Why Raid Guild Migrated to xDAI
+sidebar_label: Why Raid Guild Migrated to xDAI
 --- 
 
 On February 18, 2021, Raid Guild migrated its on-chain DAO to the xDAI network in order to reduce the burden of high gas fees on Ethereum mainnet and facilitate more on-chain interactions, governance, and experimentation.

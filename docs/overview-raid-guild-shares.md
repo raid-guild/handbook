@@ -14,4 +14,4 @@ All new shares are issued at a rate of 5 wxDAI/share and new members may request
 
 ### Non-Voting Shares 
 
-Loot, or non-voting shares are similar to normal shares in that they can be Rage Quit to withdraw an amount proportional to your pro-rata claim on the Guilds assets held by War Chest.  For instance, if you're requesting funding for work that you completed you may request Loot > wxDAI for that work.
+Loot, or non-voting shares are similar to normal shares in that they can be Ragequit to withdraw an amount proportional to your pro-rata claim on the Guilds assets held by War Chest.  For instance, if you're requesting funding for work that you completed you may request Loot > wxDAI for that work.

@@ -6,7 +6,7 @@ sidebar_label: Socials + Media
 
 Here you can find the official Raid Guild social & Media channels.
 
--   [Discord](https://discord.gg/Z2PMbXN)
+-   [Discord](https://discord.gg/rGFpfQf)
 -   [Github](https://github.com/raid-guild/)
 -   [Twitter](https://twitter.com/RaidGuild) - @RaidGuild
 -   [LinkedIn](https://www.linkedin.com/company/raid-guild/mycompany/)

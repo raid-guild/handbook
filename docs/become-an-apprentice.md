@@ -4,29 +4,54 @@ title: Become an Apprentice
 sidebar_label: Become an Apprentice
 ---
 
-Raid Guild has instituted an onboarding process through the utilization of Cohorts, you can see how Raid Guild introduced Season0 participants to the Guild [here](https://docs.google.com/presentation/d/1vU5Qu_n-THe_qcRfO8blVSjb_nxPNpn3m7DxnkAAUek/edit#slide=id.gbcc4521e42_0_7).  
+## Cohort-based onboarding
 
-The TL;DR on Cohorts is that Raid Guild saw an immediate need to onboard various different roles into the Guild and get them up to speed on how Raid Guild operates so they would be ready to slay web3 product demons.
+Raid Guild does onboarding in cohorts. You’ll join voice calls with your cohort in the Raid Guild Discord for an introduction to the guild and how it operates. 
 
-_Note If Season(n) is in session or has not yet begun, we recommend that you find someone with the role @TavernKeeper to vouch for you and get you setup as an Apprentice._
+As you go through onboarding you’ll make connections with those in your cohort, and you’ll work together on projects.
 
-All new entries will start as an Apprentice. Apprentices can earn a maximum of 1 share and may be upgraded to a Guilder by pledging 500 wxDAI as tribute for 100 Shares after being championed. Here’s how it works:
+Whether you will become a member of Raid Guild will depend on the work you produce and the connections you make.
 
-1. Submit an application on the Raid Guild homepage > [Join Us](https://raidguild.org/join).
+Web3 ethos: *"I don't care what school you went to or how many start ups you've exited. Just show me the code!"*
 
-    - Take your time filling out the Join Us form, as we will determine whether or not you’re a good fit for the Guild based on your ability to effectively communicate your skills and the value you will bring to the Guild as an Apprentice. Also, keep in mind that simply filling out the “Join Us” form does not guarantee you entry into Raid Guild as an Apprentice.
+Here’s how to get started.
 
-2. Join the [Raid Guild Discord](https://discord.com/invite/RWjkQ6DNnv) and introduce yourself in <span class='channels'>#tavern</span>. 
-3. Showcase your past work and skills in <span class='channels'>#shill-your-stuff</span>.
-4. Look out for issues to work on in <span class='channels'>#projects</span> to earn reputation.
-5. Once you prove yourself with the skills and reputation, a member of the Guild will signal your eligibility to receive your 1 Apprentice Share.
-6. Submit a Membership Proposal for 1 Share with 0 Token Tribute in [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
-7. Once the proposal passes, you will be given access to member exclusive channels.
-8. For the remaining 99 shares to get yourself promoted from an Apprentice to Member, you will need to have worked on one Raid or RIP (See How to Join a Raid) and pledge with funds you earn while raiding or have at your disposal through other means.
-9. A Member will oversee your progress and once it's done, you will be championed in <span class='channels'>#champions</span> as a signal for your remaining 99 share proposal.
-10. Submit a Member Proposal for 99 Shares with 495 wxDAI Tribute in [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f).
-11. Once the proposal passes, you are now a full Raid Guild Member.
+## A Map of the Journey
 
-_Note: In some cases, Members may earn shares for past work instead of pledging tribute. However, each Member is expected to contribute 500wxDAI (or 500 wxdDAI worth of value) to the DAO in order to become a Member._
+![Journey Map: discovery to membership](https://i.imgur.com/KsvHsXa.jpg)
+
+## Apprentice Resources
+
+* For more lore and tips on each step of the journey head to the [Onboarding Journey HackMD](https://hackmd.io/@raidguild/By3kIcxD5/%2FdZ7GZfd_T1uUc5qCoOQLrg) 
+* For a general guide of getting started on a cohort check out the [Onboarding Guide](https://hackmd.io/@raidguild/By3kIcxD5/%2F5gFk0yzPTguoF2OhJo0iHA)
+* For frequently asked questions from past cohorts head to the [Apprentice FAQs](https://hackmd.io/@raidguild/By3kIcxD5/https%3A%2F%2Fhackmd.io%2F8S-77fW_RY2dwElOubfz0Q%3Fview)
+
+## How Cohorts work
+
+### 1. Apply to join Raid Guild
+
+Apply to join Raid Guild by filling [the application form on the Raid Guild website](https://www.raidguild.org/join).
+
+Take your time filling out the form. We’ll determine if you’re a good fit for the Guild based on your ability to communicate your skills and the value you’ll bring as an apprentice.
+
+Please be aware that filling out the form does not guarantee we will accept you as an apprentice.
+
+### 2. Join the Raid Guild Discord
+
+[Click here to join the Raid Guild Discord server](https://discord.gg/rGFpfQf).
+
+Introduce yourself in the <span class='channels'>#tavern</span> channel.
+
+Showcase your past work and skills in the <span class='channels'>#shill-your-stuff</span> channel.
+
+### 3. Wait for the start of the next onboarding
+
+Your patience will be rewarded with access to Discord channels set up for your cohort. Keep an eye on your email for a notification about the start date and the timing for the first of the cohort voice calls.
+
+### 4. Complete the onboarding
+
+Join all the calls, complete all the quests, show your work, build your reputation. Take your shot on a RAID or RIP when you get the chance, join hackathons and slay demons!
+
+At the end of the cohort you’ll take part in a demo day and show your stuff to the world. 
 
 

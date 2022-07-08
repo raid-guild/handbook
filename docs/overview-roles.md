@@ -4,9 +4,11 @@ title: Roles
 sidebar_label: Roles
 ---
 
-Just as with any strong Discord, we use Roles to showcase different skill sets. These Roles are used to Summon Guilders for different Raids, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.
+Just as with any strong Discord, we use Roles to showcase different skill sets. These roles are used to summon Guilders for different Raids, and should only be assigned if you can be called upon to complete the necessary tasks associated with each of them.
 
-You can assign yourself roles by going to the #start-here channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+You can assign yourself roles by going to the <span class="channels">#start-here</span> channel and clicking on the emoji underneath the legend/description of all the roles. The role will then be automagically assigned to you.
+
+![image](https://user-images.githubusercontent.com/93854208/172767912-d42f37c9-dd95-41c1-aba5-894003c903e2.png)
 
 ### Developer Roles
 
@@ -36,8 +38,8 @@ You can assign yourself roles by going to the #start-here channel and clicking o
 | <span id='tavern-keeper'>Tavern Keeper</span>       | _Community_       | Assigned to members for managing community related activities.                         |
 | <span id='healer'>Healer</span>                     | _Internal Ops_    | Assigned to members for managing internal operations of the guild.                     |
 
-Notice a role (or skill) we’re missing? Suggest a new one in the <span class='channels'>#ops</span> channel and if you get soft consensus deploy it!
+Notice a role (or skill) we’re missing? Suggest a new one in the <span class="channels">#ops</span> channel, and if you get soft consensus deploy it!
 
 As it stands today, Guilders holding at least one share can assign themselves any role they see fit. Please do not overassign yourself in order to give those who are highly skilled in specific areas the chance to shine. We recommend assigning a maximum of 5 roles to start and branching outwards over time.
 
-Roles will be crucial to the development and maintenance of skill-trees, which we hope will fit nicely with a web3 profile that travels with you throughout the Metaverse.  More on this later.. 
+Roles will be crucial to the development and maintenance of skill-trees, which we hope will fit nicely with a web3 profile that travels with you throughout the Metaverse.  More on this later.

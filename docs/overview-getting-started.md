@@ -9,7 +9,7 @@ sidebar_label: Getting Started
 ## Key things to get you started
 
 * Introduce yourself at the [Tavern](https://discord.com/channels/684227450204323876/685276449846067287) :beer: 
-* Add the [Raid Guild Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y190czR0a3E4dHN1dG1xbHM4c2cxYnQ2aHRzMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
+* Add the [Raid Guild Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18xOGFldHFyaW85MjdvajRzNG1wdmE4MmIwc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) 
 * Explore the [Raid Guild GitHub](https://github.com/raid-guild)
 * Check out the [Raid Guild DAOHaus](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f), the treasury of Raid Guild, where proposals are submitted
 * If you've been through a cohort, see [Dungeon Master](https://dungeonmaster.raidguild.org/raids), the dashboard for Raids and Members
@@ -21,7 +21,7 @@ sidebar_label: Getting Started
 
 Most of the Raid Guild magic takes place on our Discord server. 
 
-You can join the Raid Guild Discord [here](https://discord.gg/rGFpfQf). When you have been assigned a `Raid Guild Member` role, then you will be able to access all of Raid Guild’s internal channels. Others – successful cohort members, newcomers, clients – will have access to fewer channels. Refer to the [channel guides](./discord-channels) for reference.
+You can join the Raid Guild Discord [here](https://discord.gg/raidguild). When you have been assigned a `Raid Guild Member` role, then you will be able to access all of Raid Guild’s internal channels. Others – successful cohort members, newcomers, clients – will have access to fewer channels. Refer to the [channel guides](./discord-channels) for reference.
 
 We ask that users of our Discord server keep it polite. Please read our notes on [Discord Etiquette](./discord-etiquette). 
 

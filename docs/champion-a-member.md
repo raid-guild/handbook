@@ -22,13 +22,13 @@ Upon staking the applicant shall receive the <span class="apprentice">Apprentice
 
 ## $RAID Reward
 
-Champions receive a reward of 25,000 $RAID if their new member meets [success criteria](./champion-a-member#success-criteria) outlined below.
+Champions receive a reward of 12,500 $RAID if their new member meets [success criteria](./champion-a-member#success-criteria) outlined below. Note that this has been reduced from the previous figure of 25,000 $RAID.
 
 ## Success Criteria
 
 New members are successful when they contribute to the Raid Guild community, bring in value to the Guild, and earn income for themselves.
 
-After 60 days of Apprenticeship, the applicant may be considered for membership if they have achieved the following criteria:
+After 60 days of Apprenticeship and up to 120 days, the applicant may be considered for membership if they have achieved the following criteria:
 
 1. Successfully join at least one [Raid](./join-a-raid) or [RIP](./rips). This includes Raids or RIPs still in progress, provided the member is in good standing on that project.
 2. Attend at least two [Guild meetings](./community-meetings), including Round Table and Raider Roundup.
@@ -45,10 +45,17 @@ Follow these steps to Champion a new member:
 5. Record the applicant’s activity related to the new member success criteria.
 6. Have the applicant submit a membership proposal to the DAO and include information on the success criteria in the proposal description.
    This is how the Guild will validate their success.
-7. If/once the applicant has met the new member success criteria, make a proposal requesting your original stake plus your reward from the `New Member Championing` minion. Your proposal should include a link to the member proposal to show success from Apprentice to Member. 
+7. If/once the applicant has met the new member success criteria, make a proposal (within 2 weeks) requesting your original stake plus your reward from the `New Member Championing` minion. Your proposal should include a link to the member proposal to show success from Apprentice to Member. 
+
+## Process Deadlines
+
+Two deadlines have been added to prevent delays in the process that may result in confusion over the accomplishment of the success criteria and unclear accounting.
+
+1. Apprentices must wait 60 days to request membership, but may not wait more than 120 days. This allows for a flexible apprenticeship period but with a definite end.
+2. Champions have 2 weeks from passing of the apprentice's member proposal to request their reward.
 
 ## References
 
 * The [original proposal](https://forum.daohaus.club/t/proposal-using-raid-for-new-member-championing-incentives/2031) initializing the Championing Staking program
-* The [update RIP](https://github.com/raid-guild/RIPs/issues/90) to improve on
-  the above process
+* The [update RIP](https://github.com/raid-guild/RIPs/issues/90) to improve on the above process
+* The [proposal](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f/proposals/379) refreshing the reward fund and altering several parameters

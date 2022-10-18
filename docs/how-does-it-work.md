@@ -4,7 +4,7 @@ title: How Does It Work?
 sidebar_label: How Does It Work?
 ---
 
-Raid Guild has developed an on-chain escrow service to facilitate payments from clients. Using the Raid Guild escrow:
+Raid Guild has developed an [on-chain escrow service](https://smartescrow.raidguild.org/) to facilitate payments from clients. Using the Raid Guild escrow:
 
 -   Raid parties can be sure that the client has the money to pay for the raid.
 -   The client gains protections in case we don't deliver on our promise.

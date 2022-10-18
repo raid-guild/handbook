@@ -26,8 +26,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
+* Merge `feature/fix`-branch into `master`
+* Merge `master` into `production`
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Vercel automagically deploys the handbook when a merge is made into `production`. 

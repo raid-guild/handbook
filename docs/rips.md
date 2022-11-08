@@ -29,3 +29,22 @@ If you don’t yet have the talent you need to execute the RIP, make sure to dro
 Once you have completed the preceding steps, double check to make sure you and your team have everything you need to make an official proposal to the DAO.
 
 Refer to the process outlined on the [Proposal Types](./proposal-types.md) page for help to make proposal for funding for your RIP.
+
+
+## Deliverables
+
+Like on Raids, the deliverable of the RIP will be subject to client review
+To align expectations and prevent disputes clearly outline the deliverable and a definition of complete (see example below).
+
+## Escrow Process
+### Escrow options
+After a RIP is accepted we expect the address of a minion or escrow details to be in the proposal.
+When the RIP proposal is accepted, funds are transfered to the minion/escrow
+RIP party works, parties, meanders, delivers
+RIP is put to 'Review' status (and discussed during RT). Review would fit on the project flow between 'In Progress' and 'Finalized'
+After review a DAO proposal is made to release the funds from minion/escrow
+DAO votes and executes.
+
+## Disputes
+
+

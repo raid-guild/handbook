@@ -14,7 +14,7 @@ Once you’ve found a Champion, you are eligible to level up from an Apprentice 
 
 Here's what to do:
 
-Follow the [Proposal Process](./proposal-types) and use the Membership Proposal to request the difference in Shares to get to your 100 share cap in the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f). In the description of your proposal, enter a Blockscout link to the staking transaction that your Champion gives you. This is how the DAO will validate that your Champion made the appropriate stake.
+Follow the [Proposal Process](./proposal-types) and use the Membership Proposal to request the difference in Shares to get to your 100 share cap in the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986). In the description of your proposal, enter a Blockscout link to the staking transaction that your Champion gives you. This is how the DAO will validate that your Champion made the appropriate stake.
 
 :::info
 

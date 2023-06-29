@@ -6,17 +6,17 @@ sidebar_label: Proposal Types
 
 Members can make a number of different proposals including:
 
--   **Membership** - Tributing capital and Requesting new shares to join the DAO
--   **Funding** - Tributing Spoils or Requesting funds from the DAO to work on internal projects and improvements
--   **Token** -  Request to add support for a new ERC20 token
--   **Trade**  - Request the DAO to swap one asset for another within the War Chest
--   **GuildKick** - Request to forcibly remove a malicious member through a vote
--   **Minion** - A contract that allows execution of arbitrary calls i.e swapping assets in War Chest
+-   **DAO Token Swap** - Tributing capital and Requesting new shares to join the DAO
+-   **ERC-20 Token Transfer** - Requesting funds from the DAO to work on internal projects and improvements
+-   **Remove Member** - Request to forcibly remove a malicious member through a vote
+-   **Multicall Proposal Builder** - Allows execution of arbitrary calls i.e swapping assets in War Chest
+-   **Update Governance Settings** - Change DAO settings (voting period, quorum, etc)
+-   **Add Shaman** - Grant DAO permissions to an external contract
 
 
 ### Proposal Process
 
-To submit a proposal, navigate to the [Raid Guild DAO](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f) and select “View Proposals” followed by New Proposal.
+To submit a proposal, navigate to the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986) and select "Proposals” followed by "New Proposal".
 
 Select the Proposal Type (described above) and fill in all fields. Here are some of the things you’ll want to keep in mind when filling out a proposal.
 
@@ -44,19 +44,12 @@ Next, The proposal is sent to **Processing** in which the vote is time stamped o
 
 After being processed, the proposal is marked as **Completed**, and all shares, funds or outcomes are executed as specified in the proposal. All outcomes of a proposal that affect you can be viewed by clicking your Address (top right) and selecting **View Member Profile**.
 
-### Claiming
-
-For members that received Funding, you will need to withdraw the funds from the DAO contract under Internal Balances (viewable from Member Profile).
-
-_Note: If you mess up your proposal, you can cancel it while in it remains Unsponsored. To do so, click the proposal and hit Cancel at the bottom. Any tribute can be withdrawn from Internal Balances to resubmit with the correct amount(s)._
-
-
 
 ### Contract Addresses
 
 | Name                    | xDAI Address                               | Mainnet Address (deprecated)               |
 | ----------------------- | ------------------------------------------ | ------------------------------------------ |
-| DAO                     | 0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f | 0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d |
+| DAO                     | 0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986 | 0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d |
 | ENS Subdomain Registrar | TBD                                        | 0x5Cb634C351A03FF2BfB59C73dB8B429FFdFBbB62 |
 | ETH Registry            | TBD                                        | 0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85 |
 | Multisig                | TBD                                        | 0x3C3692681cD1c0F42FA68A2521719Cc24CEc3AF3 |

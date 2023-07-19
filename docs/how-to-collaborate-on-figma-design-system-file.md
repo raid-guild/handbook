@@ -4,7 +4,6 @@ title: How to collaborate  on Figma design system file.
 sidebar_label: Figma design system collaboration
 ---
 
-# How to collaborate on the Figma design system file
 The Figma design system file is a library of design elements and components that can be used to design and build RG ecosystem apps. The design system also helps both the designers and developers to collaborate on the same design language.
 
 Reference links:
@@ -20,7 +19,7 @@ Once the design system is published it will be available within the RaidGuild Fi
 
 Any team member with **edit** access can update the existing components or add new components and publish the updated library.
 
->***Note:** It is a good practice to duplicate the component artboard that you want to change/update. Once the required changes have been done and reviewed by a team member responsible for its management the changes can then be applied to the original component and pushed to the design library.*
+> **Note:** It is a good practice to duplicate the component artboard that you want to change/update. Once the required changes have been done and reviewed by a team member responsible for its management the changes can then be applied to the original component and pushed to the design library.
 
 ## 2. Outside the Figma team
 For a member who is a new contributor or is outside the Figma team can follow the following steps:
@@ -38,11 +37,11 @@ If you are in the RG Figma team you will have access to the published design lib
 Following are the steps to pull the design library in a Figma file that you are working on:
 1. On the **Assets** panel of your Figma file select the **Team Library** icon
 
-<img width="482" alt="image" src="https://github.com/raid-guild/handbook/assets/26507741/ce54d9bf-60fc-46af-a3f8-ebe64e53e97a">
+<img width="482" alt="image" src="https://github.com/raid-guild/handbook/assets/26507741/ce54d9bf-60fc-46af-a3f8-ebe64e53e97a" />
 
 2. From the Library pop-up select the Raid Guild design library option and toggle it to enbale in your file
 
-<img width="460" alt="Screenshot 2023-07-12 at 12 46 17 AM" src="https://github.com/raid-guild/handbook/assets/26507741/0c4ebd0c-ced3-49ac-88b6-c4730fce76d6">
+<img width="460" alt="Screenshot 2023-07-12 at 12 46 17 AM" src="https://github.com/raid-guild/handbook/assets/26507741/0c4ebd0c-ced3-49ac-88b6-c4730fce76d6" />
 
 3. Once enabled, all the design elements and components from the library will be available on your Assets panel to be able to use in your Figma project.
 
@@ -52,7 +51,7 @@ Following are the steps to pull the design library in a Figma file that you are 
 3. Move the duplicate file into the team project created
 4. Go to Assets -> Click on Team Library icon -> Publish Library
 
-<img width="1440" alt="Screenshot 2023-07-12 at 12 55 47 AM" src="https://github.com/raid-guild/handbook/assets/26507741/8592ecc3-07b3-41e7-b640-7ae7243b5698">
+<img width="1440" alt="Screenshot 2023-07-12 at 12 55 47 AM" src="https://github.com/raid-guild/handbook/assets/26507741/8592ecc3-07b3-41e7-b640-7ae7243b5698" />
 
 5. Once published, create a new Figma file/select the existing file you want to work on
 6. Go to Assets -> Click on the Team Library icon -> Select the RG design system library -> Toggle it on
@@ -69,6 +68,4 @@ The new Figma update offers Dev mode which allows us to test the components in t
 Here is a short tutorial on how you can use Figma dev mode to test components and their variants inside Figma.
 
 ![figma-dev-mode](https://github.com/raid-guild/handbook/assets/26507741/cf7b62fd-6192-45bf-9d11-c04e9002ad91)
-
-
 

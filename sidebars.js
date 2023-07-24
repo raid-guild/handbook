@@ -56,6 +56,7 @@ module.exports = {
       "how-to-get-raid-tokens",
       "how-to-daohaus-guide",
       "how-to-gain-consensus",
+      "how-to-collaborate-on-figma-design-system-file",
     ],
     "Additional Resources": [
       "learn-about-web3",

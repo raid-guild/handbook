@@ -13,7 +13,7 @@ module.exports = {
                 alt: "RaidGuild Logo",
                 src: "img/rg-icon.png",
             },
-            links: [
+            items: [
                 // { to: "docs/raidCentral", label: "Handbook", position: "left" },
                 // {
                 //   to: "docs/raidCentral#member-registry",

@@ -12,7 +12,7 @@ Raid Guild relies on several bots to accomplish different automated tasks. Below
 
 Raid Guild uses a [Collab.Land](https://collab.land/ "Visit the collab.land website") bot to verify and grant roles and permissions on the Raid Guild Discord server.
 
-If you are a full Raid Guild member, or an <span class="apprentice">Apprentice</span> in an onboarding cohort, you can unlock access to more server channels by using the Collab.Land bot to link your Discord account to the wallet address associated with your Raid Guild membership. 
+If you are a full Raid Guild member, or an <span class="apprentice">Apprentice</span> in an onboarding cohort, you can unlock access to more server channels by using the Collab.Land bot to link your Discord account to the wallet address associated with your Raid Guild membership.
 
 ### How to get verified with Collab.Land
 
@@ -48,7 +48,7 @@ Friend Time will automatically react with a clock emoji (🕰️) to times menti
 
 To set your timezone type `-ft map`. After that, you will be taken to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
 
-```jsx
+```
 -ft set <pasted time zone>
 ```
 
@@ -82,7 +82,7 @@ Interacting with the bot is simple; it offers 2 commands
 
 ## Quartermaster
 
-Raid Guild uses the Quartermaster bot to make a map of members and their skills. 
+Raid Guild uses the Quartermaster bot to make a map of members and their skills.
 
 The Quartermaster can tell you who in the guild has a certain skill in particular, and which skills a particular someone has.
 
@@ -90,7 +90,7 @@ Get started by registering your own skills with the Quartermaster in the Cohorts
 
 Use the `!qm help` command in the <span class="channels">#skills</span> channel to see the list of commands used to interact with the Quartermaster, and [see examples and screenshots of Quartermaster usage in this write up](https://hackmd.io/@raidguild/By3kIcxD5/%2F4eTbqy2pR1qv6RSXiB87jg).
 
-Quartermaster is a Raid Guild-skinned version of MetaFam's Skill Discovery Discord bot—check it out on [GitHub](https://github.com/MetaFam/skill-bot)! 
+Quartermaster is a Raid Guild-skinned version of MetaFam's Skill Discovery Discord bot—check it out on [GitHub](https://github.com/MetaFam/skill-bot)!
 
 ## xDai Faucet
 

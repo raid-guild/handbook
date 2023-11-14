@@ -36,7 +36,7 @@ Using the [Token Studio](https://www.figma.com/community/plugin/8434611597471789
 5. Next, Click on Apply to Document button to apply the latest changes in the Figma file (this will update all the components)
 6. In the left bottm you can select the GitHub branch to push changes
 7. Click on Push icon to send the changes into GitHub code
-8. Similarly if a dev notofies about changes done from the code side in the tokens you can select the Pull icon to update those changes into the Toekn studio and follow the steps from 2-5 above to apply changes in the Figma file/components.
+8. Similarly if a dev notifies about changes done from the code side in the tokens you can select the Pull icon to update those changes into the Toekn studio and follow the steps from 2-5 above to apply changes in the Figma file/components.
 
 **Video Guides for Token Studio Plugin**
 [Google Drive Link](https://drive.google.com/drive/folders/12_4zMI5VmcJZR8z-N7XDOAnw2yjHU_iN?usp=sharing)
@@ -50,6 +50,12 @@ When there is any chnages made to the tokens using the plugin you can push those
     - When a changes have been made in the token repository code and pushed into the Github repo by someone you can pull those changes by selecting the Pull from GitHub option in the token studio plugin.
     - Next you can sync those changes to Figma file by simply selecting "Create Style & Variable" option in the plugin and the same will be updated in the Design system figma file.
 
+# How to use tokens synced from figma via token studio in RG-Design System.
+* Token studio utilises `src/theme/tokens/tokens.json` file to push and pull from github.
+* After each update pushed from figma via token studio, a `token-output.json` file is generated automatically via github workflow on branches other than main
+* All the design takens are imported from `token-output.json` into `RGTokens` in `src/theme/tokens/index.ts` file
+* Now all RGTokens can be imported anywhere in the design system repo.
+* However you may want to morph them into a chakra-ui compatible format as show in this - [example](https://github.com/raid-guild/design-system/blob/99e89fbcee0f9728204f472aaec04458bf5abe8b/src/theme/colors.ts#L9)
 
 
 # How to contribute to the design system file?

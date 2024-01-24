@@ -6,34 +6,34 @@ sidebar_label: Proposal Types
 
 Members can make a number of different proposals including:
 
--   **DAO Token Swap** - Tributing capital and Requesting new shares to join the DAO
--   **ERC-20 Token Transfer** - Requesting funds from the DAO to work on internal projects and improvements
--   **Remove Member** - Request to forcibly remove a malicious member through a vote
--   **Multicall Proposal Builder** - Allows execution of arbitrary calls i.e swapping assets in War Chest
--   **Update Governance Settings** - Change DAO settings (voting period, quorum, etc)
--   **Add Shaman** - Grant DAO permissions to an external contract
-
+- **DAO Token Swap** - Tributing capital and Requesting new shares to join the DAO
+- **ERC-20 Token Transfer** - Requesting funds from the DAO to work on internal projects and improvements
+- **Remove Member** - Request to forcibly remove a malicious member through a vote
+- **Multicall Proposal Builder** - Allows execution of arbitrary calls i.e swapping assets in War Chest
+- **Update Governance Settings** - Change DAO settings (voting period, quorum, etc)
+- **Add Shaman** - Grant DAO permissions to an external contract
 
 ### Proposal Process
 
-To submit a proposal, navigate to the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986) and select "Proposals” followed by "New Proposal".
+To submit a proposal, navigate to the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986) and select "Proposals" followed by "New Proposal".
 
 Select the Proposal Type (described above) and fill in all fields. Here are some of the things you’ll want to keep in mind when filling out a proposal.
 
--   **TITLE:** Enter a description of the proposal. Example: New Member - Igor Bogdanoff
--   **DESCRIPTION:** Anything you believe is relevant to your proposal. The shorter the description the better, and the important piece here is the _WHAT_ you are asking for and _WHY_.
--   **LINK:** Whatever information gives us the best context to review your proposal and make an informed decision.
--   **APPLICANT** With respect to funding proposals, this is the recipient or sender address you would like to have funds sent to or from.  
--   **PAYMENT REQUESTED:** The number of Shares requested. Every Raid Guild Share is equal to 5 wxDAI. New membership proposals may request a maximum of 100 shares for a total of 500 wxDAI.
--   **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made in shares up to 20% of the total amount requested.
--   **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares at 5 wxDAI/share.
--   **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the War Chest. (Tribute is relevant to Membership and Funding Proposals).
+- **TITLE:** Enter a description of the proposal. Example: New Member - Igor Bogdanoff
+- **DESCRIPTION:** Anything you believe is relevant to your proposal. The shorter the description the better, and the important piece here is the _WHAT_ you are asking for and _WHY_.
+- **LINK:** Whatever information gives us the best context to review your proposal and make an informed decision.
+- **APPLICANT** With respect to funding proposals, this is the recipient or sender address you would like to have funds sent to or from.
+- **PAYMENT REQUESTED:** The number of Shares requested. Every Raid Guild Share is equal to 5 wxDAI. New membership proposals may request a maximum of 100 shares for a total of 500 wxDAI.
+- **+REQUEST SHARES:** Voting shares in the DAO. If it is a funding proposal, Members can request payment be made in shares up to 20% of the total amount requested.
+- **+REQUEST LOOT:** Non-voting shares in the DAO. This means you will have shares which can be raqequit but do not hold voting rights. Loot shares cost the same as regular shares at 5 wxDAI/share.
+- **GIVE TRIBUTE:** The amount of capital you are committing to deposit to the War Chest. (Tribute is relevant to Membership and Funding Proposals).
 
 After submitting a proposal, it will enter the **Unsponsored Proposals** section. This means someone with shares (which could be you) must Champion the proposal in order for it to be moved to voting.
 
-*Note: You can sponsor your own Proposal, but it is recommended that you have another member sponsor it so they can make sure you have filled out the proposal with the correct information and you get the result you intended for.*
+_Note: You can sponsor your own Proposal, but it is recommended that you have another member sponsor it so they can make sure you have filled out the proposal with the correct information and you get the result you intended for._
 
-### Processing 
+### Processing
+
 Once the proposal has been sponsored it will enter the **Queue**. The queue ensures proposals are funneled to voting in an orderly fashion. One proposal will go from the queue to the Voting Period once every two hours.
 
 Once in the **Voting Period**, members can now vote on the proposal. Every proposal has a 72 hour voting period in which it must receive more Yes than No votes to pass.
@@ -43,7 +43,6 @@ After voting has ended, the proposal enters a **Grace Period** which gives membe
 Next, The proposal is sent to **Processing** in which the vote is time stamped on-chain.
 
 After being processed, the proposal is marked as **Completed**, and all shares, funds or outcomes are executed as specified in the proposal. All outcomes of a proposal that affect you can be viewed by clicking your Address (top right) and selecting **View Member Profile**.
-
 
 ### Contract Addresses
 

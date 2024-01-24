@@ -8,7 +8,7 @@ A running list of Raid Guild nomenclature. Always evolving, forever in progress�
 
 #### Async
 
-A conversation to be continued offline following the current discussion. “We can async on that”
+A conversation to be continued offline following the current discussion. "We can async on that"
 
 #### GuildKick
 

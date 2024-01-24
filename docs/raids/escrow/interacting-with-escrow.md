@@ -2,8 +2,58 @@
 id: interacting-with-escrow
 title: Interacting With the Escrow
 sidebar_label: Interacting With the Escrow
---- 
+---
 
--   Clients should **_never send ETH or ERC20 tokens directly to the escrow contract_**. They will be lost forever. All deposits into an escrow must happen via the `Deposit` function. This can be done easily via the [Smart Escrow app](https://smartescrow.raidguild.org/).
--   Clients should **_never use centralized exchange accounts_** to make deposits into an escrow. For one, they wouldn't be able to use the app to `Deposit` in the first place. Secondly, they wouldn't be able to `Release` funds to the raid party as milestones are completed.
--   Clients depositing from a smart contract account (such as a DAO or multisig) will need to **_ensure that the account can interact with other smart contracts_** (e.g. via Aragon Agent, Moloch Minion, or a Gnosis Safe contract interaction).
+### General tips
+
+- Make sure the Client address is not a centralized exchange address. Client will not have access to call the necessary functions.
+- Clients depositing from a smart contract account (such as a DAO or multisig) will need to **ensure that the account can interact with other smart contracts** (e.g. via Aragon Agent, Moloch Minion, or a Gnosis Safe contract interaction).
+- All of these actions are completely composable with [SmartInvoice](https://app.smartinvoice.xyz), so if you hit any snags within Dungeon Master, you can utilize that also. Or vice versa (the whole escrow lifecycle is not supported in DM currently -- `resolve` is not available).
+
+### Deposit
+
+_who can do this? **client, anyone**_
+
+When your escrow is ready for funding a button will be provided to initiate a `deposit` transaction from your wallet.
+
+Funds do not need to be sent from the client address and tokens can be sent directly to the escrow via `transfer` on any ERC20 tokens.
+
+After initiating the `deposit`, you can select the number of milestones to fund. You're only required to fund 1 milestone at a time, though you can fund as many as you'd like at one time.
+
+[deposit form image]
+
+- [Check out the docs for depositing on SmartInvoice](https://docs.smartinvoice.xyz/tutorials/client/deposit-funds)
+
+### Release
+
+_who can do this? **client**_
+
+When a milestone is ready for `release` you can return to the app to initiate a `release` for the next milestone. By default only the next milestone will be released.
+
+[release form image]
+
+- [Check out the docs for releasing on SmartInvoice](https://docs.smartinvoice.xyz/tutorials/client/release-escrow-funds-inside-milestone)
+
+### Lock
+
+_who can do this? **client, provider**_
+
+If at any time either party on the agreement wants to dispute the completion of the current milestone/escrow they can lock the escrow to enable the resolver to sort out the dispute off-chain and settle it onchain.
+
+[lock form image]
+
+- [Check out the docs for locking on SmartInvoice](https://docs.smartinvoice.xyz/tutorials/client/lock-milestone-and-request-arbitration)
+
+### Resolve
+
+_who can do this? **resolver**_
+
+[resolve form image]
+
+- [Check out the docs for resolving on SmartInvoice](https://docs.smartinvoice.xyz/tutorials/arbitrator/release-disputed-escrow-funds)
+
+### Withdraw
+
+_who can do this? **client, provider**. when can you do this? **after safety valve date**_
+
+[withdraw form image]

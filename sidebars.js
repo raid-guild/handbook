@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-undef
 module.exports = {
   howSidebar: {
     Overview: [
@@ -9,7 +10,7 @@ module.exports = {
       "overview/raid-guild-shares",
       "overview/roles",
     ],
-    "Membership": [
+    Membership: [
       "membership/become-an-apprentice",
       "membership/become-a-member",
       "membership/champion-a-member",
@@ -25,19 +26,20 @@ module.exports = {
           "raids/escrow/funding-an-escrow",
           "raids/escrow/interacting-with-escrow",
           "raids/escrow/dispute",
+          "raids/escrow/zap",
           "raids/escrow/references",
         ],
       },
       "raids/summon-a-raid-party",
       "raids/join-a-raid",
       "raids/lead-a-raid",
-      "raids/shipped", 
+      "raids/shipped",
     ],
-    "Operations": [
+    Operations: [
       "operations/rips",
       "operations/proposal-types",
-      "operations/requesting-payment"
-    ], 
+      "operations/requesting-payment",
+    ],
     Discord: [
       "discord/etiquette",
       "discord/channels",

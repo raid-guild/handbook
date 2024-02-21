@@ -1,0 +1,141 @@
+---
+id: get-started
+title: Creating an Escrow
+sidebar_label: Create an Escrow
+---
+
+### Prerequisites
+
+The raid party lead (e.g. <span class='cleric'>Cleric</span> or <span class='monk'>Monk</span>) [will want to create an escrow](https://dm.raidguild.org/escrow) for the raid (or RIP).
+
+
+<table>
+    <thead style={{ backgroundColor: "#a6b1e1", color: 'black', fontWeight: 800 }}>
+        <td>Info</td>
+        <td>Description</td>
+    </thead>
+    <tr>
+        <td>**Raid party addresses**</td>
+        <td>Addresses for all raid party members or a Safe address</td>
+    </tr>
+    <tr>
+        <td>**The client's address**</td>
+        <td>The address where the client can release the funds and lock the escrow. </td>
+    </tr>
+    <tr>
+        <td>**Milestone amounts**</td>
+        <td>From the milestone amounts we'll calculate the total payment for the raid. Milestone amounts are flexible. All milestones must use the same token</td>
+    </tr>
+    <tr>
+        <td>**Safety valve withdrawal date**</td>
+        <td>This is the date past which the client can withdraw any remaining funds in escrow, on the assumption that the raid has not delivered on its promise.<br /><br /> This does not affect the ability of the client to release milestones as normal.</td>
+    </tr>
+    <tr>
+        <td>For Raids, the associated **Raid ID**</td>
+        <td>You can find this in Dungeon Master from the Raid page. Also selecting "Create Escrow" from the Raid Detail page will handle this automatically for you.</td>
+    </tr>
+</table>
+
+:::info TIP
+
+**Client address** doesn't need to be the address funding the escrow. Funds can be sent directly to the escrow contract.
+
+:::
+
+### Raid or RIP?
+
+The easiest way to create an escrow is to use the [Escrow Zap](./zap.md) which will walk you through the process and handle creating a [Safe](https://safe.global) and any necessary [Splits](https://splits.org) in a single transaction.
+
+When you first go to create an escrow you'll need to either find the Raid ID so the escrow can be linked to the Raid, or you can create an escrow for a RIP which will be handled manually for now. 
+
+- For Raids, enter the Raid ID here and you'll able to advance to the next step
+- For RIPs, select "I don't have one"
+  <br/>&ast;_below you can substitute RIP party for any instance of "raid party"_
+
+![](/escrow/escrow-start.png)
+
+Links to escrows in RIP requests is recommended.
+
+### 1. For [RIPs](../../operations/rips.md), provide the project details
+
+High-level details for the project can be included or filled with dummy or reference values. These values are public (pinned on [IPFS](https://ipfs.io)), so we'll generally use the raid ID as the only reference on [Raids](../join-a-raid.md).
+
+The project details we can include are
+
+- Name
+- Description
+- Link - can be an `ipfs://` or `https://` link
+- Start Date
+- End Date
+
+![](/escrow/project-details.png)
+
+Once we have the project details, we can move on to the onchain escrow details.
+
+### 2. Enter escrow details
+
+Both escrow types will require some additional details. This includes:
+
+- the `Client`'s address
+- an **optional** `Raid Party Address`, _if not creating a raid party split_
+- the `Safety Valve Date`
+
+For <span class="channels">#RIPs</span>, the client will be provided automatically and set to the [Ganggang multi-sig](#).
+
+![](/escrow/escrow-details.png)
+
+:::info TIP
+
+**Safety Valve Date** should be 1 - 2 months after the expected delivery date. The escrow will function normally after this date, but the client can withdraw the funds at anytime.
+
+:::
+
+**Arbitration provider** will be handle automatically for both escrow types:
+
+- Raids will, generally, use [LexDAO](https://lexdao.org) for arbitration
+    <br />👉 _learn more about arbitration in [In Case of Dispute](./dispute.md)_
+- RIPs will use RaidGuild DAO for arbitration
+
+
+### 3. Handle [Split](https://splits.org) details
+
+If you opted to create a [raid (or RIP) party split](https://splits.org) in the previous step, you'll be asked to provide percentage splits for the first milestone to be released along with the raid party member addresses for each split percentage.
+
+Raids will have a secondary split created (regardless of opting for a raid party split) to handle the [DAO spoils](../ship.md#spoils) for the Raid.
+
+![](/escrow/raid-party-split.png)
+
+:::warning IMPORTANT
+
+[**Splits** will need to be updated](https://docs.splits.org/create#editing) between milestone releases to account for member participation in each milestone. It is recommended to handle this after each release for the next milestone. <u>The controller will be set so the raid party multi-sig can update it.</u>
+
+:::
+
+*Optionally*, you can provide a [Safe address](https://safe.global) which will be used as the controller for the created [Split](https://splits.org).
+
+![](/escrow/raid-party-split-with-safe.png)
+
+After setting up the Split allocations, we can add the payments for the escrow milestones.
+
+### 4. Enter milestone payments
+
+Milestones allow us the opportunity to check-in with the client (or Guild) and ensure the final deliverable for the project is on track and meeting expectations.
+
+**Each milestone will need to use the same payment token**, but can be flexible in size for the needs of the project. Enter each milestone's payment amount and add more with the `+ Add` button below the current milestones.
+
+![](/escrow/payment-amounts.png)
+
+Finally, we can confirm the details and get the escrow deployed.
+
+### 5. Confirm & Deploy
+
+With all the steps for creating an escrow complete, _review what will be deployed and **confirm the transaction**_.
+
+![](/escrow/confirmation.png)
+
+Once the escrow is created we can work on getting it funded.
+
+### <span style={{ color: 'blueViolet', fontWeight: 800 }}>Next:</span> Get the escrow funded
+
+Head over to [**Funding an Escrow**](./funding-an-escrow.md) for a breakdown on how you can get your escrow funded by a client or the guild. There are several easy options for getting your escrow funded.
+

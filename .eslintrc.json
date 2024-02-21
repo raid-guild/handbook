@@ -1,0 +1,50 @@
+{
+  "root": true,
+  "plugins": ["prettier", "@typescript-eslint"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:prettier/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:mdx/recommended",
+    "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "jsx": true
+  },
+  "ignorePatterns": ["node_modules", ".docusaurus", "static"],
+  "rules": {
+    // GENERAL
+    "no-use-before-define": "off",
+    "no-param-reassign": [2, { "props": false }],
+    // REACT
+    "react/function-component-definition": "off",
+    "react/require-default-props": "off",
+    "react/jsx-filename-extension": [2, { "extensions": [".jsx", ".tsx"] }],
+    "react/jsx-props-no-spreading": "off",
+    // USE .PRETTIERRC FOR SETTINGS
+    "prettier/prettier": ["error"],
+    // TYPESCRIPT
+    "@typescript-eslint/no-explicit-any": "warn",
+    "@typescript-eslint/no-unused-vars": "warn"
+  },
+  "env": {
+    "browser": true
+  },
+  "settings": {
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx", ".md", ".mdx"]
+    },
+    "import/resolver": {
+      // use <root>/tsconfig.json
+      "typescript": {
+        "path": ["."],
+        "alwaysTryTypes": true
+      }
+    },
+    "react": {
+      "ecmaVersion": 2023
+    }
+  }
+}

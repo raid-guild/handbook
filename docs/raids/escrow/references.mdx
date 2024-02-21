@@ -1,0 +1,61 @@
+---
+id: references
+title: References
+sidebar_label: References
+---
+
+## Escrow Zap contract addresses
+
+Composing tools across the ecosystem allows us to leverage existing work and focus on the unique aspects of our projects. Here are the contracts we use in our Escrow Zap.
+
+<table>
+    <thead style={{ backgroundColor: "#a6b1e1", color: 'black', fontWeight: 800 }}>
+        <td>Label</td>
+        <td>Address</td>
+    </thead>
+    <tr>
+        <td>**Escrow Zap**</td>
+        <td>[`0xE52fFb810cFb882A5C1085b9c01F189cD356a9B4`](https://gnosisscan.io/address/0xE52fFb810cFb882A5C1085b9c01F189cD356a9B4/contract#readContract)</td>
+    </tr>
+    <tr>
+        <td>**[Safe](https://app.safe.global) Factory**</td>
+        <td>[`0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2`](https://gnosisscan.io/address/0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2/contract#readContract)</td>
+    </tr>
+    <tr>
+        <td>**[Safe](https://app.safe.global) Singleton**</td>
+        <td>[`0x3E5c63644E683549055b9Be8653de26E0B4CD36E`](https://gnosisscan.io/address/0x3E5c63644E683549055b9Be8653de26E0B4CD36E/contract#readContract)</td>
+    </tr>
+    <tr>
+        <td>**[Safe](https://app.safe.global) Fallback Handler**</td>
+        <td>[`0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4`](https://gnosisscan.io/address/0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4/contract#readContract)</td>
+    </tr>
+    <tr>
+        <td>**[SplitMain](https://splits.org)**</td>
+        <td>[`0x2ed6c4B5dA6378c7897AC67Ba9e43102Feb694EE`](https://gnosisscan.io/address/0x2ed6c4B5dA6378c7897AC67Ba9e43102Feb694EE/contract#readContract)</td>
+    </tr>
+    <tr>
+        <td>**[Escrow](https://app.smartinvoice.xyz) Factory**</td>
+        <td>[`0x7f8F6E42C169B294A384F5667c303fd8Eedb3CF3`](https://gnosisscan.io/address/0x7f8F6E42C169B294A384F5667c303fd8Eedb3CF3/contracts#readContract)</td>
+    </tr>
+    <tr>
+        <td>**Spoils Manager**</td>
+        <td>[`0x8C9c85b41a9491388320eA27d74A037D93d07C0F`](https://gnosisscan.io/address/0x8C9c85b41a9491388320eA27d74A037D93d07C0F/contract#readContract)</td>
+    </tr>
+</table>
+
+## Previous (Split) Escrow
+
+- Previous Raid Guild Escrow home page: https://smartescrow.raidguild.org/
+- The previous version of the SmartEscrow contract was an iteration that used a single custom split interface in the escrow itself. This was a great learning experience, but we have since moved to using the [SplitMain](https://splits.org) contract for splitting funds.
+- Direct link to a specific raid escrow: `https://smartescrow.raidguild.org/[raidID]`
+
+## Escrow v1
+
+- Escrow v1 home page: https://escrow.raidguild.org/
+- LexGuildLocker contract: [`0x7f8F6E42C169B294A384F5667c303fd8Eedb3CF3`](https://blockscout.com/poa/xdai/address/0x7f8F6E42C169B294A384F5667c303fd8Eedb3CF3/contracts)
+
+:::warning WARNING
+
+Never send funds (ERC20 tokens or xDAI) directly to the v1 Escrow Smart Contract. Those funds will not be recoverable.
+
+:::

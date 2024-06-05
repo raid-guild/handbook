@@ -16,7 +16,14 @@ While the funding (via raids) of this initiative begins now, the bulk of the ini
 
 ## The Optimism DAO
 
-Optimism DAO details...
+- Optimism DAO: 0x1234abc
+- Splits Manager: 0xabc1234
+
+### Membership Requirements
+
+1. You must already be a member of the Gnosis DAO (with 100 or more shares)
+2. You must have completed at least 1 raid that is using smart escrow on Optimism
+3. Although the goal is to not require KYC for the eventual legal entity, members joining the Optimism DAO should be prepared to do so if need be.
 
 (Possibly link to references for escrow addresses.)
 

@@ -46,6 +46,12 @@ Using the transaction builder used to be necessary. Now you should be able to us
 
 ### Step 1: Approve the escrow contract to transfer the token
 
+:::warning IMPORTANT
+
+If you are [raiding on Optimism](../raiding-on-optimism-chain), you are only able to pay with native USDC ([`0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85`](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85)).
+
+:::
+
 1. Go to your Gnosis Safe interface
 2. Click New Transaction
 3. Click Contract Interaction

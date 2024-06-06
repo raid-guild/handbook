@@ -27,6 +27,12 @@ The [Spoils Manager](https://gnosisscan.io/address/0x8C9c85b41a9491388320eA27d74
 
 These values are used in the Zap contract to create a Split contract to handle spoils on behalf of the DAO. When funds are released from the escrow, they'll first flow through the splits contract that'll handle the split.
 
+:::warning IMPORTANT
+
+If you are [raiding on Optimism](../raiding-on-optimism-chain), a different [Spoils Manager](https://www.youtube.com/watch?v=dQw4w9WgXcQ) contract will be used.
+
+:::
+
 # Testing/Auditing
 
 While the contracts have been rigorously tested and reviewed by the Raid Guild community, they have not been formally audited by any external providers. The contracts are also being used in production by Raid Guild for on-going work. As there are no funds stored in the contract and we're leveraging existing tools of the ecosystem, the risks from the zap contract directly are minimized.

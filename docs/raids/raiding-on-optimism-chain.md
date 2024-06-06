@@ -29,4 +29,12 @@ While the funding (via raids) of this initiative begins now, the bulk of the ini
 
 ## How to Raid on Optimism
 
-How to raid on Optimism...
+Starting a raid on Optimism is just as easy as starting one on Gnosis! Here are the steps for raiding on Optimism and joining the Optimism DAO afterwards:
+
+1. Use [Smart Escrow](https://dm.raidguild.org/escrow) while connected to Optimism
+   - If you don't know how to use Smart Escrow, start [here](http://localhost:3000/docs/raids/escrow/how-does-it-work)
+2. Ensure the client understands that all transactions will be made through Optimism
+   - For the time-being, all payments must be made in USDC
+3. Ship the raid!
+4. When releases are made from the escrow, 10% spoils will be sent to the Optimism DAO automatically. Once spoils land in the DAO and the raid is shipped, you are eligible to join that DAO.
+   - Ensure that you also meet the "Memebership Requirements" mentioned [here](/docs/raids/raiding-on-optimism-chain#membership-requirements)

@@ -38,7 +38,7 @@ After 60 days of Apprenticeship and up to 120 days, the applicant may be conside
 
 Follow these steps to Champion a new member:
 
-1. Stake the appropriate amount of $RAID by transferring the $RAID to the `New Member Championing` minion at this address: `0x45b49f854eebadbdb59ede30fe5b37ba56a0f26c`.
+1. Stake the appropriate amount of $RAID by transferring the $RAID to the `New Member Championing` minion at this address: `0xd6343fde84e9a2197faa2ae1d6affdb46675856d`.
 2. Create an issue on the [RIP repository](https://github.com/raid-guild/RIPs) using the `Championships` issue type. Track further progress on the [Champion Board](https://github.com/raid-guild/RIPs/projects/3).
 3. Include the Blockscout transaction URL as well as other information about the applicant in this issue.
 4. Help the new member get onboarded and engaged in Guild activities.

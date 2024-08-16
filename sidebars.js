@@ -19,6 +19,7 @@ module.exports = {
       "raids/how-to-hire-raid-guild",
       "raids/convert-client-submission",
       "raids/commission-process",
+      "raids/raiding-on-optimism-chain",
       {
         Escrow: [
           "raids/escrow/how-does-it-work",

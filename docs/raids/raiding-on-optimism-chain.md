@@ -16,8 +16,8 @@ While the funding (via raids) of this initiative begins now, the bulk of the ini
 
 ## The Optimism DAO
 
-- Optimism DAO: 0x1234abc
-- Splits Manager: 0xabc1234
+- Optimism DAO: [0xf4f65a5c6590fbc15b3869510e5f1e7114041c53](https://admin.daohaus.club/#/molochv3/0xa/0xf4f65a5c6590fbc15b3869510e5f1e7114041c53)
+- Spoils Manager: [0x9aFA71188fC0cd4445AbC4e671B466C2ea405130](https://optimistic.etherscan.io/address/0x9aFA71188fC0cd4445AbC4e671B466C2ea405130/contracts#readContract)
 
 ### Membership Requirements
 
@@ -25,14 +25,14 @@ While the funding (via raids) of this initiative begins now, the bulk of the ini
 2. You must have completed at least 1 raid that is using smart escrow on Optimism
 3. Although the goal is to not require KYC for the eventual legal entity, members joining the Optimism DAO should be prepared to do so if need be.
 
-(Possibly link to references for escrow addresses.)
+To view all addresses associated with Smart Escrow on Optimism, visit the [references](/docs/raids/escrow/references#optimism-chain) page.
 
 ## How to Raid on Optimism
 
 Starting a raid on Optimism is just as easy as starting one on Gnosis! Here are the steps for raiding on Optimism and joining the Optimism DAO afterwards:
 
 1. Use [Smart Escrow](https://dm.raidguild.org/escrow) while connected to Optimism
-   - If you don't know how to use Smart Escrow, start [here](http://localhost:3000/docs/raids/escrow/how-does-it-work)
+   - If you don't know how to use Smart Escrow, start [here](/docs/raids/escrow/how-does-it-work)
 2. Ensure the client understands that all transactions will be made through Optimism
    - For the time-being, all payments must be made in native USDC ([`0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85`](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85))
 3. Ship the raid!

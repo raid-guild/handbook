@@ -29,7 +29,7 @@ These values are used in the Zap contract to create a Split contract to handle s
 
 :::warning IMPORTANT
 
-If you are [raiding on Optimism](../raiding-on-optimism-chain), a different [Spoils Manager](https://www.youtube.com/watch?v=dQw4w9WgXcQ) contract will be used.
+If you are [raiding on Optimism](../raiding-on-optimism-chain), a different [Spoils Manager](https://optimistic.etherscan.io/address/0x9aFA71188fC0cd4445AbC4e671B466C2ea405130/contracts#readContract) contract will be used.
 
 :::
 

@@ -73,7 +73,7 @@ When you first go to create an escrow you'll need to either find the Raid ID so 
 
 Links to escrows in RIP requests is recommended.
 
-### 1. For [RIPs](../../operations/rips.md), provide the project details
+### 1. For RIPs, provide the project details
 
 High-level details for the project can be included or filled with dummy or reference values. These values are public (pinned on [IPFS](https://ipfs.io)), so we'll generally use the raid ID as the only reference on Raids.
 

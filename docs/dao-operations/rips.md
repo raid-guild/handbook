@@ -22,7 +22,7 @@ If your RIP requires additional expertise, post a brief description and link in 
 
 ### Making a Funding Proposal
 
-Once your team is ready, follow the steps outlined in [Proposal Types](./proposal-types) to submit a formal request for DAO funding to bring your RIP to life.
+Once your team is ready, follow the steps outlined in Proposal Types to submit a formal request for DAO funding to bring your RIP to life.
 
 ---
 

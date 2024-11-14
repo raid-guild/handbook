@@ -32,7 +32,7 @@ To view all addresses associated with Smart Escrow on Optimism, visit the [refer
 Starting a raid on Optimism is just as easy as starting one on Gnosis! Here are the steps for raiding on Optimism and joining the Optimism DAO afterwards:
 
 1. Use [Smart Escrow](https://dm.raidguild.org/escrow) while connected to Optimism
-   - If you don't know how to use Smart Escrow, start [here](/docs/raids/escrow/how-does-it-work)
+   - If you don't know how to use Smart Escrow, start here.
 2. Ensure the client understands that all transactions will be made through Optimism
    - For the time-being, all payments must be made in native USDC ([`0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85`](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85))
 3. Ship the raid!

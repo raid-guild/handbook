@@ -35,7 +35,7 @@ To make the most of your apprenticeship and gain full membership, use these reso
 
 ### 1. **Discord: The Guild’s Core Hub**
 
-   Most guild interactions take place on Discord. Join the RaidGuild server [here](https://discord.gg/rGFpfQf) and familiarize yourself with our [channel guides](../discord/channels). While apprentices have limited access, your participation will open more opportunities within the guild.
+   Most guild interactions take place on Discord. Join the RaidGuild server [here](https://discord.gg/rGFpfQf) and familiarize yourself with our channel guides. While apprentices have limited access, your participation will open more opportunities within the guild.
 
    > **Important:** Please follow our [Discord Etiquette](../discord/etiquette) to maintain a positive, respectful environment.
 
@@ -47,8 +47,8 @@ To make the most of your apprenticeship and gain full membership, use these reso
 
    During your apprenticeship, you’ll have the chance to work on both Raids (client projects) and RIPs (internal improvement projects). These tasks help demonstrate your abilities and contribute to the guild’s mission.
 
-   - Learn how to [Join a Raid](../raids/join-a-raid) and see how your work can have a tangible impact.
-   - Explore opportunities in [RIPs](../operations/rips) to assist with internal guild projects, showcasing your dedication and skills.
+   - Learn how to Join a Raidand see how your work can have a tangible impact.
+   - Explore opportunities in RIPs to assist with internal guild projects, showcasing your dedication and skills.
 
 ### 4. **Find a Champion**
 
@@ -56,11 +56,11 @@ To make the most of your apprenticeship and gain full membership, use these reso
 
 ### 5. **Get Paid and Use DAOhaus**
 
-   Guild members are compensated through DAOhaus. Once you begin contributing to guild projects, you’ll use DAOhaus to request and receive payments. Familiarize yourself with [DAOhaus](../how-to/daohaus-guide) to manage your earnings and vote on guild decisions.
+   Guild members are compensated through DAOhaus. Once you begin contributing to guild projects, you’ll use DAOhaus to request and receive payments. Familiarize yourself with DAOhaus to manage your earnings and vote on guild decisions.
 
 ### 6. **Participate in Guild Governance**
 
-   As a member, you’ll have a voice in guild matters. Learn about [Proposal Types](../operations/proposal-types) to understand how decisions are made and how you can submit proposals for funding, new projects, or changes in the guild.
+   As a member, you’ll have a voice in guild matters. Learn about Proposal Types to understand how decisions are made and how you can submit proposals for funding, new projects, or changes in the guild.
 
 ### 7. **Access Tools and Resources**
 

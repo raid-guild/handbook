@@ -37,7 +37,7 @@ Starting a raid on Optimism is just as easy as starting one on Gnosis! Here are 
    - For the time-being, all payments must be made in native USDC ([`0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85`](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85))
 3. Ship the raid!
 4. When releases are made from the escrow, 10% spoils will be sent to the Optimism DAO automatically. Once spoils land in the DAO and the raid is shipped, you are eligible to join the Optimism DAO.
-   - Ensure that you also meet the "Memebership Requirements" mentioned [here](/docs/raids/raiding-on-optimism-chain#membership-requirements)
+   - Ensure that you also meet the "Memebership Requirements" mentioned here.
 5. Request 1 voting share via DAO proposal
    - Provide evidence in the proposal of Gnosis safe membership, and Optimism raid shipped
    - Note that this share does not grant you rage-quit rights to any of the DAO funds (it is only for voting). This is in order to keep a clear "non-profit" status for the DAO until a legal entity is formed.

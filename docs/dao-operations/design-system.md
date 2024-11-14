@@ -1,5 +1,5 @@
 ---
-id: design-system-file
+id: design-system
 title: Design System
 sidebar_label: Design System
 ---

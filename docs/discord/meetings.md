@@ -14,10 +14,10 @@ Regular meetings are essential to RaidGuild’s operations, keeping members alig
 
 | **Meeting Name**         | **Who Attends?**                               | **Purpose**                          | **Schedule**                                              |
 |--------------------------|-----------------------------------------------|--------------------------------------|-----------------------------------------------------------|
-| **Raider Roundup**       | Full members and past cohort members           | Raid coordination and management     | Weekly, Tuesdays<br>1pm EDT / 10am PST / 6pm UTC          |
-| **Round Table**          | Full members only                              | Open forum for coordination          | Weekly, Thursdays<br>9am PST / 11am EDT / 4pm UTC         |
-| **Token Talk**           | Full members and past cohort members           | Discuss the $RAID token and usage    | Weekly, Thursdays<br>2:30pm PST / 5:30pm EST / 10:30pm UTC|
-| **Cohort Community Call**| Open to past cohort members                    | Community support and membership     | Weekly, Wednesdays<br>11am PST / 2pm EST / 7pm UTC        |
+| **Raider Roundup**       | Full members and past cohort members           | Raid coordination and management     | Weekly, Tuesdays<br />1pm EDT / 10am PST / 6pm UTC          |
+| **Round Table**          | Full members only                              | Open forum for coordination          | Weekly, Thursdays<br />9am PST / 11am EDT / 4pm UTC         |
+| **Token Talk**           | Full members and past cohort members           | Discuss the $RAID token and usage    | Weekly, Thursdays<br />2:30pm PST / 5:30pm EST / 10:30pm UTC|
+| **Cohort Community Call**| Open to past cohort members                    | Community support and membership     | Weekly, Wednesdays<br />11am PST / 2pm EST / 7pm UTC        |
 
 ---
 

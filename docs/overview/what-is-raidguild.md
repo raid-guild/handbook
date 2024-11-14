@@ -1,5 +1,5 @@
 ---
-id: what-is-raid-guild
+id: what-is-raidguild
 title: What is RaidGuild
 sidebar_label: What is RaidGuild
 ---

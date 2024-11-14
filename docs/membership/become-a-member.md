@@ -4,29 +4,35 @@ title: Become a Member
 sidebar_label: Become a Member
 ---
 
-![Metropolis map](https://user-images.githubusercontent.com/93854208/172762785-f25626c5-2301-415e-8fbb-2bb6bf7704f2.png)
+# Become a Member
 
+To advance from Apprentice to full RaidGuild Member, you must complete your cohort journey and secure the support of a Champion within the Guild. Your Champion will stake $RAID tokens on your behalf, signaling their confidence in your readiness. For details on how this sponsorship works, see [Champion a New Member](./champion-a-member).
 
+Once you’ve found a Champion, you’re eligible to ascend to Member status and receive 100 shares in the Raid Guild DAO. Here’s how to proceed:
 
-To advance from an Apprentice to a Member, you will need to complete a cohort and be championed by an existing Raid Guild Member. Once you find a Champion, your Champion will need to put down a stake of $RAID tokens. See the [Champion a New Member](./champion-a-member) for how this works.
+## Steps to Membership
 
-Once you’ve found a Champion, you are eligible to level up from an Apprentice to a Member and receive your 100 shares in the Raid Guild DAO. 
-
-Here's what to do:
-
-Follow the [Proposal Process](../operations/proposal-types) and use the Membership Proposal to request the difference in Shares to get to your 100 share cap in the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986). In the description of your proposal, enter a Blockscout link to the staking transaction that your Champion gives you. This is how the DAO will validate that your Champion made the appropriate stake.
+1. **Submit a Membership Proposal**: Follow the [Proposal Process](../operations/proposal-types) to submit a Membership Proposal. Request enough shares to reach the 100-share cap in the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986).
+2. **Include Stake Verification**: In your proposal description, provide a link to the Blockscout transaction showing your Champion’s $RAID stake. This link is essential for the DAO to confirm the staking.
 
 :::info
 
-Please note that all new members are capped at 100 Shares for 500 wxDAI.
+**Note**: All new members are capped at 100 Shares, requiring 500 wxDAI.
 
 :::
 
-Once your proposal has passed and been processed, you’ll now have 100 shares and full membership in Raid Guild!
+Once your proposal passes and is finalized, you’ll officially hold 100 shares, marking your full membership in Raid Guild!
 
-To get access to member-exclusive channels in the Raid Guild [Discord server](https://discord.gg/rGFpfQf), head to the <span class='channels'>#member-join</span> channel and enter the `!join` command. Then follow the CollabLand instructions to get your `@Raid Guild Member` role. Now you're ready to [join a Raid](../raids/join-a-raid)!
+## Final Steps: Discord Access
 
-To ensure that your Champion gets their $RAID stake back, you'll need to fulfill the following [3 criteria](./champion-a-member#success-criteria) **within your first 60 days** as a member (starting from when your membership proposal is processed):
-1. Successfully join at least 1 [Raid](../raids/join-a-raid) or [RIP](../operations/rips). This include raids or RIPs completed within the first 60 days as well as raids or RIPs still in progress (provided that you are in good standing on that project).
-2. Attend at least 2 [Guild meetings](../community/meetings), including Roundtable and Raider Rally.
-3. Demonstrate shared values with the Guild (at the discretion of the DAO).
+To join member-exclusive channels, navigate to the <span class='channels'>#member-join</span> channel on the Raid Guild [Discord server](https://discord.gg/rGFpfQf). Use the `!join` command, then follow Collab.Land’s instructions to verify your `@Raid Guild Member` role. Now, you’re ready to [join a Raid](../raids/join-a-raid)!
+
+## Meeting Membership Expectations
+
+To ensure your Champion’s stake is returned, complete the following within your first **60 days** as a member (starting from when your membership proposal is processed):
+
+1. **Participate in at Least One Raid or RIP**: Join and actively contribute to at least one [Raid](../raids/join-a-raid) or [RIP](../operations/rips). Projects can be ongoing or completed within this timeframe, provided you are in good standing.
+2. **Attend Guild Meetings**: Participate in at least two Guild meetings, including Roundtables or Raider Rallies, to stay engaged with the community.
+3. **Show Alignment with Guild Values**: Demonstrate your commitment to the Guild’s principles and values, as evaluated by the DAO.
+
+Welcome to full membership, where your journey as a Raider truly begins!

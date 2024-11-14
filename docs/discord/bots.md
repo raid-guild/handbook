@@ -3,144 +3,98 @@ id: bots
 title: Discord Bots
 sidebar_label: Discord Bots
 ---
+**Discord Bots: Tools of the Guild**
 
-_Do Raid Guild Bots Dream of Electric Tweets?_
+Within the Guild, we rely on several bots to streamline tasks, coordinate events, and verify members. These bots help keep the Guild hall running smoothly, allowing you to focus on what matters: your high quality contributions to the Web3 ecosystem. Here’s a quick guide to the bots you’ll encounter and how to interact with each.
 
-Raid Guild relies on several bots to accomplish different automated tasks. Below is a quick guide to help you get to know how to interact with the different bots you might come across in the [Raid Guild Discord Server.](https://discord.gg/RWjkQ6DNnv)
+---
 
-## Collab.Land
+### **Collab.Land**
 
-Raid Guild uses a [Collab.Land](https://collab.land/ "Visit the collab.land website") bot to verify and grant roles and permissions on the Raid Guild Discord server.
+The [Collab.Land](https://collab.land/) bot grants roles and permissions by verifying your membership using your wallet. Guild members and Apprentices can unlock additional server access by linking their Discord account to their wallet.
 
-If you are a full Raid Guild member, or an <span class="apprentice">Apprentice</span> in an onboarding cohort, you can unlock access to more server channels by using the Collab.Land bot to link your Discord account to the wallet address associated with your Raid Guild membership. 
+#### Steps to Verify with Collab.Land:
 
-### How to get verified with Collab.Land
+1. Unlock your wallet and set it to the Gnosis Chain network.
+2. Head to **#🔓│verify-assets** and click **Let’s Go!** 
+3. Follow the bot’s instructions to connect your wallet.
+4. On the Collab.Land website, select Raid Guild and click **Verify**.
+5. Sign any prompted transaction in your wallet.
+6. Return to Discord and await confirmation of your server roles.
 
-1.	Unlock your wallet and switch it to the Gnosis Chain network
-2.	Go to the <span class="channels">#🔓│verify-assets</span> channel and click the ‘Let’s Go!’ button
-3.	The Collab.Land bot will send a message to you with instructions and a custom link to connect your wallet
-4.	Click the ‘Connect Wallet’ button in that message, which will open the Collab.Land website in your browser
-5.	Select Raid Guild from the list of communities, and click the Verify button
-6.	Sign a transaction in your wallet if prompted
-7.	Go back to the <span class="channels">#🔓│verify-assets</span> channel in Discord and wait for the message that confirms the server roles you have been granted (The message may take two minutes or more to be delivered)
-8.	Enjoy access to more channels in the Raid Guild Discord server
+---
 
+### **Friend Time**
 
-<figure>
-    <img src="https://i.imgur.com/9c3ZCf7.png" alt="Screenshot: Collab.Land bot message" />
-    <figcaption>Click the ‘Connect Wallet’ button in the message you’re sent by the bot.</figcaption>
-</figure>
+Coordinating across time zones? Friend Time makes scheduling easier by reacting with a clock emoji (🕰️) when times are mentioned in chat.
 
-<figure>
-    <img src="https://i.imgur.com/M9WPIpm.png" alt="Screenshot: Collab.Land verify page" />
-    <figcaption>Select Raid Guild, click the ‘Verify’ button, and sign a transaction if prompted.</figcaption>
-</figure>
+- **Set Your Time Zone**: Type `-ft map`, then select your time zone from the map. Copy the name and set it with:
+  ```jsx
+  -ft set <your time zone>
+  ```
 
-If your access to server channels drops, try getting it back by verifying again.
+For further details, visit the [Friend Time documentation](https://docs.friendtime.ml/).
 
-## Friend Time
+---
 
-With Friend Time you can easily coordinate times between users.
+### **BrightID Discord Bot**
 
-Friend Time will automatically react with a clock emoji (🕰️) to times mentioned in chat:
+BrightID bot verifies users with decentralized identity. This helps secure access to certain channels and events within the Guild.
 
-[https://docs.friendtime.ml/](https://docs.friendtime.ml/)
+#### To Get Verified:
+1. Type `!verify` and follow the link or scan the QR code provided.
+2. Use an app that offers sponsorships (see [BrightID apps](https://explorer.brightid.org/apps/index.html)).
+3. Type `!me` to confirm verification.
 
-To set your timezone type `-ft map`. After that, you will be taken to a map where you can select your time zone. Copy the name of your time zone and paste it as a comment.
+For more details, check out the [BrightID Bot documentation](https://github.com/ShenaniganDApp/brightid-discord-bot).
 
-```jsx
--ft set <pasted time zone>
-```
+---
 
-## BrightID Discord Bot
+### **Quartermaster**
 
-Verify users with Bright ID.
+The Quartermaster bot maps out members’ skills, making it easy to find the right talent within the Guild.
 
-[https://github.com/ShenaniganDApp/brightid-discord-bot](https://github.com/ShenaniganDApp/brightid-discord-bot)
+- **Register Your Skills**: In the **#skills** channel, type `!qm help` to see command options.
+- Add skills to your profile so others can find you by specialty.
 
-[https://discord.com/channels/709210493549674598/747917717050490960/761748220694888478](https://discord.com/channels/709210493549674598/747917717050490960/761748220694888478)
+Quartermaster is a Guild-specific version of MetaFam’s Skill Discovery bot. [More details here](https://hackmd.io/@raidguild/By3kIcxD5/%2F4eTbqy2pR1qv6RSXiB87jg).
 
-- Created by [YoungKidWarrior](https://www.notion.so/YoungKidWarrior-a5025778570f4a558a490978177c5bff)
+---
 
-🤖 BrightID Bot to verify users in Discord.
+### **xDai Faucet**
 
-[Click here to Invite BrightID Bot to your server](https://bot.brightid.org/)
+Need xDai for transactions? Use the xDai Faucet to receive small amounts directly to your wallet.
 
-### Quick end-user guide
+Visit the [xDai Faucet here](https://xdai-faucet.top/) (thanks to @luigy 𝗹𝗲𝗺𝗼𝗻).
 
-Interacting with the bot is simple; it offers 2 commands
+---
 
-- `!verify`: Sends a QR Code to link the BrightID app to Discord
-- `!me`: Adds the "Verified" role to verified users
+### **Sesh**
 
-### To use BrightID Bot:
+For event creation and RSVPs, Sesh is your go-to bot. Sesh lets you specify times naturally, set reminders, and collect RSVPs.
 
-1. Type `!verify`
-2. Scan the code (or click the link) BrightID Bot shows you
-3. Use an app that has sponsorships. See [https://explorer.brightid.org/apps/index.html](https://explorer.brightid.org/apps/index.html)
-4. Type `!me`
+- For more detailed commands and options, check the [Sesh manual](https://sesh.fyi/manual/).
 
-## Quartermaster
+---
 
-Raid Guild uses the Quartermaster bot to make a map of members and their skills. 
+### **Haus Bot**
 
-The Quartermaster can tell you who in the guild has a certain skill in particular, and which skills a particular someone has.
+Haus Bot assists with DAOHaus-related updates, tracking member proposals, summons, and other DAO activities. It provides summaries with details like shares, tributes, and funding amounts, linking directly to proposals on DAOHaus.
 
-Get started by registering your own skills with the Quartermaster in the Cohorts <span class='channels'>#skills</span> channel.
+Thank you to vengist#8655 for this Guild utility.
 
-Use the `!qm help` command in the <span class="channels">#skills</span> channel to see the list of commands used to interact with the Quartermaster, and [see examples and screenshots of Quartermaster usage in this write up](https://hackmd.io/@raidguild/By3kIcxD5/%2F4eTbqy2pR1qv6RSXiB87jg).
+---
 
-Quartermaster is a Raid Guild-skinned version of MetaFam's Skill Discovery Discord bot—check it out on [GitHub](https://github.com/MetaFam/skill-bot)! 
+### **Sentry Bots**
 
-## xDai Faucet
+Our trio of Sentry bots manages server security, notifications, and stats, each with unique duties:
 
-xDai Faucet is a place you can recieve xDai deposited to your wallet
+- **Guard Sentry**: Handles entry verification and security.
+- **Comrade Sentry**: Provides updates on gas prices, RAID token stats, and has commands for setting up Raid channels.
+- **Minister Sentry**: Relays anonymous feedback when `whisper` is the first word in a DM.
 
-[https://xdai-faucet.top/](https://xdai-faucet.top/)
+[Read more about the Sentry bots](https://hackmd.io/@raidguild/By3kIcxD5/%2F0uqGRkMwS5y-BpVVMtVxNA) for full functionality and commands. Props to Saimano#0272 for their creation!
 
-Made possible by @luigy 𝗹𝗲𝗺𝗼𝗻
+---
 
-## Sesh
-
-😀EZPZ event creation
-
-- Specify times however the hell you want. No more rigid formats to follow.
-- Simple RSVP via reactions, plus reminders (optional).
-- Wanna play Fortnite in a fortnight? We support you.
-
-[https://sesh.fyi/](https://sesh.fyi/)
-
-[https://sesh.fyi/manual/](https://sesh.fyi/manual/)
-
-<iframe src="https://sesh.fyi/manual/" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" loading="lazy" width='100%' height='500'></iframe>
-
-## Haus Bot
-
-This bot is operating on Raid Guild discord channels <span class="channels">#dao-verified</span>, <span class="channels">#uh-notifications</span> and <span class="channels">#haus-of-daos</span> for the convenience of DAO Haus and UBERHAUS in order to keep track of incoming member proposals. It contains variables such as:
-
-- the name of the proposal
-- a short description of the proposal
-- the amount of member shares
-- the tribute amount of WXDAI
-- the funding amount
-- the amount of loot shares
-
-A link on the panel redirects you to the proposal on app.daohaus.club, where you can see all the details and the actions taken upon it.
-
-It is a notification bot that announces new DAO summons & proposals
-
-Three cheers to vengist#8655 for creating the bot.
-
-## Sentry
-
-Raid Guild’s Sentry bot handles Discord server verification and gatekeeping, sends automated notifications in internal channels, and works with slash commands and DMs to perform basic tasks.
-
-**Guard Sentry** is the gatekeeper of Raid Guild’s Discord.
-
-**Comrade Sentry** can return basic statistics on roles, current gas price, and current RAID price, and has member-only slash commands that are used to set up Raid and Camp channels.
-
-**Minister Sentry** can pass on anonymous feedback. Add `whisper` as the first word of a DM to Minister Sentry to have anonymous feedback relayed into the <span class='channel'>🙊│whispers</span> channel.
-
-Read the [Raid Guild’s Sentry bot walkthrough](https://hackmd.io/@raidguild/By3kIcxD5/%2F0uqGRkMwS5y-BpVVMtVxNA) for more details on the full functionality of Sentry bot and its slash commands.
-
-Props to Saimano#0272 for making and maintaining the sentries.
+With these bots at your service, you’ll have the tools you need to navigate the Guild, communicate effectively, and stay in sync with fellow Raiders.

@@ -4,23 +4,38 @@ title: Code of Conduct
 sidebar_label: Code of Conduct
 ---
 
-Before we dive in, here is a quick code of conduct to keep in mind:
+**Code of Conduct**
 
-  * **Professionalism** - We prioritize shipping at all costs. Our main goal is to meet deadlines and deliver valuable output in a timely manner. If you commit to a Raid, you should be prepared to do anything and everything to make sure it gets done.
+As members of RaidGuild, we strive to uphold a standard of excellence and integrity that reflects our mission and values in the Web3 world. Each member’s conduct impacts not only our work but also our reputation as a trusted and collaborative force in the Ethereum ecosystem. This Code of Conduct sets forth the principles that guide our behavior and our relationships within the Guild and with the broader community.
 
-  * **Respect** -  Raid Guild is a no-beef zone, meaning that we do not discriminate and expect you to withhold all judgement while interacting in or with Raid Guild.
+### 1. Respect and Integrity
 
-  * **Collaboration** - Raid Guild is meant to foster new relationships. Please be open to inviting new members to your Raid as you’re likely to be pleasantly surprised by what you find.
+Treat each member, client, and partner with respect. We value diversity of thought, skill, and background, believing that our strength lies in collaboration and the unique perspectives each member brings. Conduct all interactions with professionalism and kindness, fostering a supportive and inclusive environment where everyone can contribute to their fullest.
 
-  * **Honor** - Becoming a member of Raid Guild is no easy feat. We ask that all those involved with Raid Guild treat our brand as a seal of honor. This means being kind to others inquiring about the Guild, and speaking favorably about it when presenting on behalf of the Guild in public. If there is something you do not like about the Guild, please vocalize it internally so that we can do our best to resolve it.
+### 2. Collaboration and Transparency
 
-  * **Free Speech** - Raid Guild is an idea meritocracy. We invite you to share your opinion. In fact, we encourage contentious opinions so long as they are presented in a constructive manner.
+RaidGuild operates on principles of transparency and open collaboration. When working with others, prioritize clear communication, share relevant information openly, and ensure that everyone involved has the context they need to succeed. We believe in a “no surprises” approach: keep your teammates informed and communicate proactively if challenges arise or if you need help.
 
+### 3. Responsibility and Accountability
 
-With that, let’s learn about the Raid Guild!
+Each member is responsible for the commitments they make. Honor deadlines, deliver high-quality work, and keep your word. If unforeseen issues prevent you from fulfilling a commitment, communicate promptly and work collaboratively to find solutions. Taking accountability for one’s actions strengthens our trust in each other and in the Guild as a whole.
 
-:::info NOTE
+### 4. Integrity in Craft and Code
 
-Is there something you don’t see in the Handbook that you have questions about? **[Open an issue here to let us know what we should add!](https://github.com/raid-guild/handbook/issues/new)**
+Quality is a hallmark of RaidGuild’s reputation. Approach every task—whether it’s design, development, strategy, or support—with diligence and attention to detail. Follow best practices, test thoroughly, and document clearly. Our commitment to quality reflects our respect for the Guild, our clients, and the greater Web3 community.
 
-:::
+### 5. Confidentiality and Security
+
+Respect the privacy of our clients, partners, and fellow Guild members. Do not share any sensitive information or resources outside of authorized channels, and take appropriate measures to protect data security. Our clients entrust us with their ideas and resources; it is our duty to safeguard this trust.
+
+### 6. Constructive Feedback and Continuous Learning
+
+Embrace feedback as an opportunity to learn and improve. Give and receive feedback constructively, focusing on solutions and shared goals. RaidGuild is a community of growth-minded individuals who are passionate about refining their skills and knowledge. Support one another in learning and adapting as Web3 technology evolves.
+
+### 7. Uphold the Guild’s Reputation
+
+Our reputation is built upon our values, our work, and our conduct. Represent RaidGuild with honor and integrity in all public channels, including social media and external communications. Let your actions reflect the principles we uphold, contributing positively to the Ethereum ecosystem and the wider Web3 community.
+
+---
+
+By adhering to these principles, we protect and strengthen the Guild, creating a collaborative, productive, and respectful environment for all. These guidelines serve as the foundation for our work together, ensuring that RaidGuild continues to be a leader in excellence and a trusted ally in the pursuit of a decentralized future.

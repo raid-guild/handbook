@@ -83,4 +83,4 @@ If you are [raiding on Optimism](../raiding-on-optimism-chain), you are only abl
 9. Check that everything matches the correct inputs, and then click Submit
 10. Process the transaction as you would any other Gnosis Safe transaction
 
-Finally, check with Raid Guild to confirm that the deposit was successful.
+Finally, check with RaidGuild to confirm that the deposit was successful.

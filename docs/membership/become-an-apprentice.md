@@ -4,54 +4,57 @@ title: Become an Apprentice
 sidebar_label: Become an Apprentice
 ---
 
-## Cohort-based onboarding
+# Become an Apprentice
 
-Raid Guild does onboarding in cohorts. You’ll join voice calls with your cohort in the Raid Guild Discord for an introduction to the guild and how it operates. 
+Embarking on the path to becoming a RaidGuild apprentice is no ordinary journey—it’s a trial of skill, resilience, and the will to learn. Your apprenticeship is a critical first step to contributing to the Guild and ultimately, earning your place as a RaidGuild member. Here’s your guide to understanding the apprentice journey, so you’re well-prepared to make the most of your time.
 
-As you go through onboarding you’ll make connections with those in your cohort, and you’ll work together on projects.
+## What Awaits You on This Journey
 
-Whether you will become a member of Raid Guild will depend on the work you produce and the connections you make.
+### Setting Your Purpose
 
-Web3 ethos: *"I don't care what school you went to or how many start ups you've exited. Just show me the code!"*
+The apprentice program is an opportunity to:
+1. Gain experience in a decentralized autonomous organization (DAO).
+2. Work on real projects, known as **Raids**, and contribute meaningfully to the Guild.
+3. Build connections with other aspiring Guild members and mentors.
+4. Learn the skills needed to thrive in web3 development and DAO operations.
+5. Work toward full membership, where you can shape and benefit from the Guild directly.
 
-Here’s how to get started.
+To succeed in this environment, set a clear objective for yourself. Ask why you’re here, what you aim to learn, and how you can best contribute to the Guild’s success. Whether your goal is to assess if this path aligns with your skills, or to gain a strong foothold in the web3 space, defining your purpose will keep you focused amid the organized chaos of the DAO world.
 
-## A Map of the Journey
+### Preparing for the Journey
 
-![Journey Map: discovery to membership](https://i.imgur.com/KsvHsXa.jpg)
+- **Apply for Onboarding**: Begin by applying to join an upcoming apprentice cohort on the Guild’s main website. Cohorts are scheduled sporadically, and the path to membership requires active participation in one.
+- **Set Up in Discord**: Select your roles in the Guild’s [start-here channel](https://discord.com/channels/684227450204323876/764871226907820032), identify your skills in the skills channel, and introduce yourself to your fellow cohort members and mentors.
+- **Familiarize Yourself with Guild Resources**:
+  - Explore our [GitHub](https://github.com/raid-guild) for ongoing projects.
+  - Add the [Raid Guild Calendar](https://calendar.google.com/calendar/u/0?cid=Y18xOGFldHFyaW85MjdvajRzNG1wdmE4MmIwc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to stay updated on cohort events.
 
-## Apprentice Resources
+## What to Expect on the Path
 
-* For more lore and tips on each step of the journey head to the [Onboarding Journey HackMD](https://hackmd.io/@raidguild/By3kIcxD5/%2FdZ7GZfd_T1uUc5qCoOQLrg) 
-* For a general guide of getting started on a cohort check out the [Onboarding Guide](https://hackmd.io/@raidguild/By3kIcxD5/%2F5gFk0yzPTguoF2OhJo0iHA)
-* For frequently asked questions from past cohorts head to the [Apprentice FAQs](https://hackmd.io/@raidguild/By3kIcxD5/https%3A%2F%2Fhackmd.io%2F8S-77fW_RY2dwElOubfz0Q%3Fview)
+Apprenticeship is structured yet flexible, allowing each member to forge their own journey. The cohort experience isn’t always linear; the Guild encourages exploration, adaptation, and proactive involvement. By participating in Raids and tasks, you’ll have opportunities to demonstrate your skills and problem-solving abilities, and in turn, the Guild will observe your potential for membership.
 
-## How Cohorts work
+During your cohort journey, you may end up:
+1. As a full-fledged Raid Guild member, ready to take on more responsibility.
+2. Contributing to Guild projects while deciding on full membership.
+3. Waiting for a future cohort if the timing or readiness isn’t right for you.
+4. Choosing a different path if Guild life isn’t what you seek.
 
-### 1. Apply to join Raid Guild
+### Key Milestones
 
-Apply to join Raid Guild by filling [the application form on the Raid Guild website](https://www.raidguild.org/join).
+1. **Start Participating**: Engage actively in cohort meetings, events, and any tasks available. Seek opportunities to contribute to ongoing projects and connect with other Guild members to learn about their work.
+2. **Map Out the Chaos**: Get comfortable with the flexible structure of the Guild. There are no strict instructions or predefined roles, so you’ll need to carve out your path by identifying where you can add value.
+3. **Secure a Champion**: As you progress, identify a Guild member who can vouch for your readiness and willingness to contribute. Champions are key to advancing from apprentice to full member.
+4. **Become Part of the DAO**: Once you’ve made it through, pledge your support to the Guild’s cohort DAO and start voting on proposals. Membership brings more responsibility, but also more influence within the Guild.
 
-Take your time filling out the form. We’ll determine if you’re a good fit for the Guild based on your ability to communicate your skills and the value you’ll bring as an apprentice.
+## Equipping Yourself for Success
 
-Please be aware that filling out the form does not guarantee we will accept you as an apprentice.
+RaidGuild’s apprenticeship may feel like “drinking from a waterfall" as you get accustomed to the fast-paced, decentralized environment. To make the most of this journey:
 
-### 2. Join the Raid Guild Discord
+- Review resources like the [Raid Guild Handbook](https://handbook.raidguild.org/docs/overview) and Code of Conduct.
+- Familiarize yourself with the [Raid Guild Tool Shed](https://hackmd.io/@raidguild/By3kIcxD5) for essential tools.
+- Connect with your cohort on Discord; the community is welcoming and ready to support you as you navigate this new world.
+- Be proactive in finding answers and understanding RaidGuild’s mission and values by checking out the [Raid Guild Origin Stories](https://origins.raidguild.org/) and past client work in the [Raid Guild Portfolio](https://portfolio.raidguild.org/).
 
-[Click here to join the Raid Guild Discord server](https://discord.gg/rGFpfQf).
+## Sealing the Deal
 
-Introduce yourself in the <span class='channels'>#tavern</span> channel.
-
-Showcase your past work and skills in the <span class='channels'>#shill-your-stuff</span> channel.
-
-### 3. Wait for the start of the next onboarding
-
-Your patience will be rewarded with access to Discord channels set up for your cohort. Keep an eye on your email for a notification about the start date and the timing for the first of the cohort voice calls.
-
-### 4. Complete the onboarding
-
-Join all the calls, complete all the quests, show your work, build your reputation. Take your shot on a RAID or RIP when you get the chance, join hackathons and slay demons!
-
-At the end of the cohort you’ll take part in a demo day and show your stuff to the world. 
-
-
+Your cohort journey will culminate with a chance to pledge your allegiance to RaidGuild as a full member. If you’ve demonstrated skill, adaptability, and initiative, you’ll be ready to cast your first vote within the Guild and take on a more significant role. 

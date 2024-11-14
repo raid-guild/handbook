@@ -1,7 +1,7 @@
 ---
-id: get-started
+id: create-an-escrow
 title: Creating an Escrow
-sidebar_label: Create an Escrow
+sidebar_label: Creating an Escrow
 ---
 
 ### Prerequisites

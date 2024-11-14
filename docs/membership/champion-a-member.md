@@ -4,58 +4,53 @@ title: Champion a New Member
 sidebar_label: Champion a New Member
 ---
 
-Raid Guild grows organically, adding new members as individual existing members deem appropriate and champion them in. Our championing process relies both on the Champion being a good judge of who is a good fit for the Guild as well as on the Champion’s reputation within the Guild being at stake.
+# Champion a New Member
 
-In addition to reputation, to ensure that we are only bringing the highest quality new members, Champions must also put down $RAID as a semi-financial stake.
+RaidGuild’s growth relies on its members' judgment to recognize and champion apprentices who are a strong fit for the Guild. Championing is a mix of endorsement, mentorship, and staking $RAID tokens, ensuring that only the most promising new members advance to full membership. To encourage this mentorship, successful Champions receive a $RAID reward.
 
-We also recognize that Championing involves a degree of mentorship. To encourage and compensate Champions for their mentorship of new members, Champions of successful new members will receive a $RAID reward in addition to receiving back their original stake.
+## Championing and $RAID Staking
 
-## $RAID Staking 
+To champion a new member, a Guild Champion must stake $RAID. The stake amount varies by applicant type:
 
-To champion a new member, a Champion must stake $RAID. The stake amount depends on the type of applicant:
-* The required stake amount is 25,000 $RAID if the applicant has finished one of the Raid Guild Cohorts
-* The required stake amount is 50,000 $RAID if the applicant has not finished one of the Raid Guild Cohorts, or if the Champion is from the same cohort season as the applicant.
+- **25,000 $RAID** for applicants who have completed a Raid Guild cohort.
+- **50,000 $RAID** for those who haven’t completed a cohort or if the Champion belongs to the same cohort season as the applicant.
 
-The Champion will receive their stake back if the apprentice meets the [success criteria](./champion-a-member#success-criteria) outlined below.
+The Champion’s stake will be returned if the apprentice meets the success criteria outlined below. Upon staking, the applicant gains the `Apprentice` role, which includes access to the necessary permissions for them to meet these criteria.
 
-Upon staking the applicant shall receive the <span class="apprentice">Apprentice</span> status, which the Guild is responsible for ensuring has the necessary permissions to meet the success criteria.
+## Champion Rewards
 
-## $RAID Reward
+Champions earn a **12,500 $RAID reward** once their apprentice successfully achieves the new member success criteria (previously 25,000 $RAID).
 
-Champions receive a reward of 12,500 $RAID if their new member meets [success criteria](./champion-a-member#success-criteria) outlined below. Note that this has been reduced from the previous figure of 25,000 $RAID.
+## Success Criteria for New Members
 
-## Success Criteria
+New members must show they contribute meaningfully to the Guild, bring value, and actively engage. Within **60 to 120 days** of starting their apprenticeship, an applicant may be considered for full membership if they achieve the following:
 
-New members are successful when they contribute to the Raid Guild community, bring in value to the Guild, and earn income for themselves.
+1. **Engage in at Least One Raid or RIP**: Join and contribute actively to a Raid or RIP. Ongoing projects count as long as the apprentice remains in good standing.
+2. **Attend Two Guild Meetings**: Participate in at least two Guild gatherings, such as the Round Table or Raider Roundup.
+3. **Align with Guild Values**: Demonstrate Guild values, as assessed by the DAO.
 
-After 60 days of Apprenticeship and up to 120 days, the applicant may be considered for membership if they have achieved the following criteria:
+## Championing Steps
 
-1. Successfully join at least one [Raid](../raids/join-a-raid) or [RIP](../operations/rips). This includes Raids or RIPs still in progress, provided the member is in good standing on that project.
-2. Attend at least two [Guild meetings](../community/meetings), including Round Table and Raider Roundup.
-3. Demonstrate shared values with the Guild (at the discretion of the DAO).
+1. **Stake $RAID**: Transfer the required $RAID to the `New Member Championing` minion at `0xd6343fde84e9a2197faa2ae1d6affdb46675856d`.
+2. **Open a Championship Issue**: Create an issue on the [RIP repository](https://github.com/raid-guild/RIPs) using the `Championships` issue type. Track the applicant’s progress on the [Champion Board](https://github.com/raid-guild/RIPs/projects/3).
+3. **Submit Staking Transaction Details**: Add the Blockscout transaction link and any relevant details about the applicant in the Championship issue.
+4. **Mentor and Track Progress**: Guide the applicant as they complete activities and Guild engagement.
+5. **Assist with Membership Proposal**: When the applicant meets the success criteria, help them submit a membership proposal to the DAO, including evidence of their progress.
+6. **Claim Your Stake and Reward**: After the applicant is approved as a member, submit a proposal (within two weeks) to retrieve your $RAID stake and Champion reward. Include a link to the successful member proposal.
 
-## Championing Process
+## Key Deadlines
 
-Follow these steps to Champion a new member:
+To ensure a timely process:
 
-1. Stake the appropriate amount of $RAID by transferring the $RAID to the `New Member Championing` minion at this address: `0xd6343fde84e9a2197faa2ae1d6affdb46675856d`.
-2. Create an issue on the [RIP repository](https://github.com/raid-guild/RIPs) using the `Championships` issue type. Track further progress on the [Champion Board](https://github.com/raid-guild/RIPs/projects/3).
-3. Include the Blockscout transaction URL as well as other information about the applicant in this issue.
-4. Help the new member get onboarded and engaged in Guild activities.
-5. Record the applicant’s activity related to the new member success criteria.
-6. Have the applicant submit a membership proposal to the DAO and include information on the success criteria in the proposal description.
-   This is how the Guild will validate their success.
-7. If/once the applicant has met the new member success criteria, make a proposal (within 2 weeks) requesting your original stake plus your reward from the `New Member Championing` minion. Your proposal should include a link to the member proposal to show success from Apprentice to Member. 
-
-## Process Deadlines
-
-Two deadlines have been added to prevent delays in the process that may result in confusion over the accomplishment of the success criteria and unclear accounting.
-
-1. Apprentices must wait 60 days to request membership, but may not wait more than 120 days. This allows for a flexible apprenticeship period but with a definite end.
-2. Champions have 2 weeks from passing of the apprentice's member proposal to request their reward.
+1. **Apprenticeship Duration**: Apprentices must apply for membership within **60 to 120 days** of their start, allowing time for development without delays.
+2. **Champion Reward Deadline**: Champions have **two weeks** following the member proposal’s approval to request their stake and reward.
 
 ## References
 
-* The [original proposal](https://forum.daohaus.club/t/proposal-using-raid-for-new-member-championing-incentives/2031) initializing the Championing Staking program
-* The [update RIP](https://github.com/raid-guild/RIPs/issues/90) to improve on the above process
-* The [proposal](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f/proposals/379) refreshing the reward fund and altering several parameters
+- Review the [original proposal](https://forum.daohaus.club/t/proposal-using-raid-for-new-member-championing-incentives/2031) that launched the Championing program.
+- Read the [update RIP](https://github.com/raid-guild/RIPs/issues/90) for improvements to this process.
+- See the [proposal](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f/proposals/379) on funding refresh and updates to reward structure.
+
+--- 
+
+This Championing process both empowers new members and enriches the Guild by ensuring its values and standards are passed down with care. Step forward, Champion, and bring forth the next generation of Raiders!

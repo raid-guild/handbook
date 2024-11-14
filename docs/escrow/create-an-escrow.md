@@ -60,7 +60,7 @@ The raid party lead (e.g. <span class='cleric'>Cleric</span> or <span class='mon
 
 ### Raid or RIP?
 
-The easiest way to create an escrow is to use the [Escrow Zap](./zap.md) which will walk you through the process and handle creating a [Safe](https://safe.global) and any necessary [Splits](https://splits.org) in a single transaction.
+The easiest way to create an escrow is to use the Escrow Zap which will walk you through the process and handle creating a [Safe](https://safe.global) and any necessary [Splits](https://splits.org) in a single transaction.
 
 When you first go to create an escrow you'll need to either find the Raid ID so the escrow can be linked to the Raid, or you can create an escrow for a RIP which will be handled manually for now.
 
@@ -75,7 +75,7 @@ Links to escrows in RIP requests is recommended.
 
 ### 1. For [RIPs](../../operations/rips.md), provide the project details
 
-High-level details for the project can be included or filled with dummy or reference values. These values are public (pinned on [IPFS](https://ipfs.io)), so we'll generally use the raid ID as the only reference on [Raids](../join-a-raid.md).
+High-level details for the project can be included or filled with dummy or reference values. These values are public (pinned on [IPFS](https://ipfs.io)), so we'll generally use the raid ID as the only reference on Raids.
 
 The project details we can include are
 
@@ -112,14 +112,14 @@ For <span class="channels">#RIPs</span>, the client will be provided automatical
 - Raids will, generally, use [LexDAO](https://lexdao.org) for arbitration
   {" "}
   <br />
-  👉 _learn more about arbitration in [In Case of Dispute](./dispute.md)_
+  👉 _learn more about arbitration in In Case of Dispute_
 - RIPs will use RaidGuild DAO for arbitration
 
 ### 3. Handle [Split](https://splits.org) details
 
 If you opted to create a [raid (or RIP) party split](https://splits.org) in the previous step, you'll be asked to provide percentage splits for the first milestone to be released along with the raid party member addresses for each split percentage.
 
-Raids will have a secondary split created (regardless of opting for a raid party split) to handle the [DAO spoils](../ship.md#spoils) for the Raid.
+Raids will have a secondary split created (regardless of opting for a raid party split) to handle the DAO spoils for the Raid.
 
 ![](/escrow/raid-party-split.png)
 
@@ -149,7 +149,7 @@ Finally, we can confirm the details and get the escrow deployed.
 
 :::warning IMPORTANT
 
-If you are [raiding on Optimism](../raiding-on-optimism-chain), make sure you are connected to the Optimism chain before you deploy the escrow.
+If you are raiding on Optimism, make sure you are connected to the Optimism chain before you deploy the escrow.
 
 :::
 

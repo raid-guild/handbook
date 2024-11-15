@@ -3,7 +3,7 @@ id: intro
 title: Intro
 sidebar_label: Intro
 ---
-**Introduction to the RaidGuild Handbook**
+# Introduction to the RaidGuild Handbook
 
 Welcome to the RaidGuild Handbook, the essential guide for all who embark on quests within our Guild. This compendium serves as both a map and a manual, laying out the key practices, principles, and protocols that define RaidGuild’s operations. Whether you are a fresh recruit or a seasoned Guild member, this handbook is designed to equip you with the knowledge and skills necessary to contribute effectively to the Guild and uphold its storied legacy.
 

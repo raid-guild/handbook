@@ -4,7 +4,7 @@ title: Code of Conduct
 sidebar_label: Code of Conduct
 ---
 
-**Code of Conduct**
+# Code of Conduct
 
 As members of RaidGuild, we strive to uphold a standard of excellence and integrity that reflects our mission and values in the Web3 world. Each member’s conduct impacts not only our work but also our reputation as a trusted and collaborative force in the Ethereum ecosystem. This Code of Conduct sets forth the principles that guide our behavior and our relationships within the Guild and with the broader community.
 

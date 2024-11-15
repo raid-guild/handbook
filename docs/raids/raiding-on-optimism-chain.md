@@ -4,7 +4,7 @@ title: Raiding on Optimism Chain
 sidebar_label: Raiding on Optimism Chain
 ---
 
-## Why Raid on Optimism?
+# Why Raid on Optimism?
 
 RaidGuild has lived on Gnosis chain for over 3 years, so why change chains now? There are medium-sized reasons: Optimism has better on/off-ramps, more liquidity, more third-party providers and tooling, a bigger builder community, and a stronger and more aligned vision. By simply considering the user experience for members and clients on Optimism vs Gnosis, the benefit of switching seems obvious. However, there is a larger reason why members should consider raiding on Optimism: **it is being used to fund a new and clearer legal structure for our DAO.**
 
@@ -32,12 +32,12 @@ To view all addresses associated with Smart Escrow on Optimism, visit the refere
 Starting a raid on Optimism is just as easy as starting one on Gnosis! Here are the steps for raiding on Optimism and joining the Optimism DAO afterwards:
 
 1. Use [Smart Escrow](https://dm.raidguild.org/escrow) while connected to Optimism
-   - If you don't know how to use Smart Escrow, start here.
+   - If you don't know how to use Smart Escrow, [start here.](/escrow/intro-to-smartinvoice)
 2. Ensure the client understands that all transactions will be made through Optimism
    - For the time-being, all payments must be made in native USDC ([`0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85`](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85))
 3. Ship the raid!
 4. When releases are made from the escrow, 10% spoils will be sent to the Optimism DAO automatically. Once spoils land in the DAO and the raid is shipped, you are eligible to join the Optimism DAO.
-   - Ensure that you also meet the "Memebership Requirements" mentioned here.
+   - Ensure that you also meet the "Memebership Requirements".
 5. Request 1 voting share via DAO proposal
    - Provide evidence in the proposal of Gnosis safe membership, and Optimism raid shipped
    - Note that this share does not grant you rage-quit rights to any of the DAO funds (it is only for voting). This is in order to keep a clear "non-profit" status for the DAO until a legal entity is formed.

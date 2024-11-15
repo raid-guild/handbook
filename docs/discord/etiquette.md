@@ -4,7 +4,7 @@ title: Etiquette
 sidebar_label: Etiquette
 ---
 
-**Discord Etiquette: Navigating the Citadel**
+# Discord Etiquette: Navigating the Citadel
 
 Welcome to the RaidGuild Discord, our bustling citadel and central hub for collaboration, planning, and discussion. To keep our space constructive and welcoming for all members, we follow a few key guidelines. By observing these, you’ll help maintain an environment that is efficient, respectful, and enjoyable for everyone.
 

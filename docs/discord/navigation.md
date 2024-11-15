@@ -4,7 +4,7 @@ title: Navigation
 sidebar_label: Navigation
 ---
 
-**Discord Navigation: Your Guide to the Guild’s Channels**
+# Discord Navigation: Your Guide to the Guild’s Channels
 
 Welcome to the RaidGuild Discord server, where Guilders gather, plan, and share in all things Web3. Our server is divided into channels for different purposes, from casual conversations to mission-critical projects. Here’s a guide to help you find your way and connect with the right Guilders.
 

@@ -4,7 +4,7 @@ title: What is RaidGuild
 sidebar_label: What is RaidGuild
 ---
 
-**What Is RaidGuild?**
+# What Is RaidGuild?
 
 RaidGuild is a collective of Web3 builders, code warriors, and visionaries united under a shared mission: to create and protect open, decentralized systems in the Ethereum ecosystem. As a community-driven DAO, we work to forge the tools, infrastructure, and experiences that empower a trustless, permissionless future. RaidGuild's strength lies in our members' skills and their dedication to a fairer, decentralized world, and we channel that power through every project, partnership, and initiative.
 

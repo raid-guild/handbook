@@ -4,7 +4,7 @@ title: Meetings
 sidebar_label: Meetings
 ---
 
-**Discord Meetings: Staying Connected with the Guild**
+# Discord Meetings: Staying Connected with the Guild
 
 Regular meetings are essential to RaidGuild’s operations, keeping members aligned, informed, and engaged. Here’s a breakdown of our recurring community meetings, along with tools and best practices for hosting and coordinating them.
 

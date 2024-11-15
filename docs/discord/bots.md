@@ -3,7 +3,8 @@ id: bots
 title: Discord Bots
 sidebar_label: Discord Bots
 ---
-**Discord Bots: Tools of the Guild**
+
+# Discord Bots: Tools of the Guild
 
 Within the Guild, we rely on several bots to streamline tasks, coordinate events, and verify members. These bots help keep the Guild hall running smoothly, allowing you to focus on what matters: your high quality contributions to the Web3 ecosystem. Here’s a quick guide to the bots you’ll encounter and how to interact with each.
 

@@ -4,7 +4,8 @@ title: Onboarding
 sidebar_label: Onboarding
 ---
 
-**Discord Onboarding: Step-by-Step Guide to Joining RaidGuild’s Server**
+# Discord Onboarding
+**A Step-by-Step Guide to Joining RaidGuild’s Server**
 
 To embark on your journey with RaidGuild, the first step is to join our Discord server, where Guild members gather, plan, and share knowledge. Follow this simple onboarding process to get started:
 

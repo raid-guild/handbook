@@ -4,7 +4,7 @@ title: Socials + Media
 sidebar_label: Socials + Media
 ---
 
-**Social Media: Connect with the Guild**
+# Social Media: Connect with the Guild
 
 The Guild extends its presence beyond our digital halls! Follow RaidGuild across the dark forest to stay up-to-date, connect with fellow raiders, and dive into our latest adventures in the Ethereum ecosystem. Here’s where we share updates, insights, and the stories behind our Raids—come join us!
 

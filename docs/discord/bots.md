@@ -17,7 +17,7 @@ The [Collab.Land](https://collab.land/) bot grants roles and permissions by veri
 #### Steps to Verify with Collab.Land:
 
 1. Unlock your wallet and set it to the Gnosis Chain network.
-2. Head to **#🔓│verify-assets** and click **Let’s Go!** 
+2. Head to **#🔓│verify-assets** and click **Let’s Go!**
 3. Follow the bot’s instructions to connect your wallet.
 4. On the Collab.Land website, select Raid Guild and click **Verify**.
 5. Sign any prompted transaction in your wallet.
@@ -43,6 +43,7 @@ For further details, visit the [Friend Time documentation](https://docs.friendti
 BrightID bot verifies users with decentralized identity. This helps secure access to certain channels and events within the Guild.
 
 #### To Get Verified:
+
 1. Type `!verify` and follow the link or scan the QR code provided.
 2. Use an app that offers sponsorships (see [BrightID apps](https://explorer.brightid.org/apps/index.html)).
 3. Type `!me` to confirm verification.
@@ -86,13 +87,13 @@ Thank you to vengist#8655 for this Guild utility.
 
 ---
 
-### **Sentry Bots**
+### **DungeonMaster Worker**
 
-Our trio of Sentry bots manages server security, notifications, and stats, each with unique duties:
+The DungeonMaster Worker manages two different RaidGuild Discord bots: DungeonMaster and RaidGuild Guard.
 
-- **Guard Sentry**: Handles entry verification and security.
-- **Comrade Sentry**: Provides updates on gas prices, RAID token stats, and has commands for setting up Raid channels.
-- **Minister Sentry**: Relays anonymous feedback when `whisper` is the first word in a DM.
+The DungeonMaster bot handles the answering queries about DungeonMaster CRM data. It also interacts with CharacterSheets by allowing props tipping, cleric tipping, jester tipping, and attendance recording.
+
+RaidGuild Guard welcomes everyone who joins the Discord server who is not a bot, and informs them to go to #unlock-channels to view public channels. If newcomers do not verify their account within a certain period of time, they are booted. RaidGuild Guard also handles vairious channel manipulation commands, such as allowing non-members to enter a private channel or sending a stale channel to Valhalla (our channel archives).
 
 [Read more about the Sentry bots](https://hackmd.io/@raidguild/By3kIcxD5/%2F0uqGRkMwS5y-BpVVMtVxNA) for full functionality and commands. Props to Saimano#0272 for their creation!
 

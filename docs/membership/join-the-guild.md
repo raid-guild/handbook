@@ -47,7 +47,7 @@ To make the most of your apprenticeship and gain full membership, use these reso
 
    During your apprenticeship, you’ll have the chance to work on both Raids (client projects) and RIPs (internal improvement projects). These tasks help demonstrate your abilities and contribute to the guild’s mission.
 
-   - Learn how to Join a Raidand see how your work can have a tangible impact.
+   - Learn how to Join a Raid and see how your work can have a tangible impact.
    - Explore opportunities in RIPs to assist with internal guild projects, showcasing your dedication and skills.
 
 ### 4. **Find a Champion**

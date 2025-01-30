@@ -6,9 +6,9 @@ sidebar_label: Become a Member
 
 # Become a Member
 
-To advance from Apprentice to full RaidGuild Member, you must complete your cohort journey and secure the support of a Champion within the Guild. Your Champion will stake $RAID tokens on your behalf, signaling their confidence in your readiness. For details on how this sponsorship works, see Champion a New Member.
+To advance from Apprentice to full RaidGuild Member, you must complete your cohort journey and secure the support of a Champion within the Guild. Your Champion will stake $RAID tokens on your behalf, signaling their confidence in your readiness. For details on how this sponsorship works, see [Champion a New Member](/docs/membership/champion-a-member).
 
-Once you’ve found a Champion, you’re eligible to ascend to Member status and receive 100 shares in the Raid Guild DAO. Here’s how to proceed:
+Once you’ve completed the Champion process and met membership requirements, you’re eligible to ascend to Member status and receive 100 shares in the Raid Guild DAO. Here’s how to proceed:
 
 ## Steps to Membership
 

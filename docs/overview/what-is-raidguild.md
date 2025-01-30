@@ -28,6 +28,6 @@ RaidGuild’s values are rooted in decentralization, transparency, and fairness.
 - **User Sovereignty**: Protecting user freedom and privacy is at the core of our mission; we build systems that give users the power to control their data, assets, and digital interactions.
 - **Trustlessness**: We rely on code, not centralized entities, to establish trust, ensuring transparency and security within the ecosystem.
 
-These principles guide every decision, partnership, and executione at RaidGuild. Through them, we uphold the vision of a decentralized future and contribute to the evolution of Ethereum and Web3.
+These principles guide every decision, partnership, and execution at RaidGuild. Through them, we uphold the vision of a decentralized future and contribute to the evolution of Ethereum and Web3.
 
 **RaidGuild is more than a service provider—it’s a movement.** Through our work, we aim to protect, strengthen, and expand the Ethereum ecosystem, transforming Web3 ideals into reality.

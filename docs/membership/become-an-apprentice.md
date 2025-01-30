@@ -34,7 +34,7 @@ To succeed in this environment, set a clear objective for yourself. Ask why you�
 Apprenticeship is structured yet flexible, allowing each member to forge their own journey. The cohort experience isn’t always linear; the Guild encourages exploration, adaptation, and proactive involvement. By participating in Raids and tasks, you’ll have opportunities to demonstrate your skills and problem-solving abilities, and in turn, the Guild will observe your potential for membership.
 
 During your cohort journey, you may end up:
-1. As a full-fledged Raid Guild member, ready to take on more responsibility.
+1. As a full-fledged RaidGuild member, ready to take on more responsibility.
 2. Contributing to Guild projects while deciding on full membership.
 3. Waiting for a future cohort if the timing or readiness isn’t right for you.
 4. Choosing a different path if Guild life isn’t what you seek.
@@ -53,7 +53,7 @@ RaidGuild’s apprenticeship may feel like “drinking from a waterfall" as you 
 - Review resources like the [Raid Guild Handbook](https://handbook.raidguild.org/docs/overview) and Code of Conduct.
 - Familiarize yourself with the [Raid Guild Tool Shed](https://hackmd.io/@raidguild/By3kIcxD5) for essential tools.
 - Connect with your cohort on Discord; the community is welcoming and ready to support you as you navigate this new world.
-- Be proactive in finding answers and understanding RaidGuild’s mission and values by checking out the [Raid Guild Origin Stories](https://origins.raidguild.org/) and past client work in the [Raid Guild Portfolio](https://portfolio.raidguild.org/).
+- Be proactive in finding answers and understanding RaidGuild’s mission and values by checking out the [Raid Guild Origin Stories](https://origins.raidguild.org/) and past client work in the [Raid Guild Portfolio](https://www.raidguild.org/portfolio).
 
 ## Sealing the Deal
 

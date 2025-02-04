@@ -10,18 +10,16 @@ Within the Guild, we rely on several bots to streamline tasks, coordinate events
 
 ---
 
-### **Collab.Land**
+### **Guild.XYZ**
 
-The [Collab.Land](https://collab.land/) bot grants roles and permissions by verifying your membership using your wallet. Guild members and Apprentices can unlock additional server access by linking their Discord account to their wallet.
+The [Guild.XYZ](https://guild.xyz/) bot grants roles and permissions by verifying your membership using your wallet. Guild members and Apprentices can unlock additional server access by linking their Discord account to their wallet.
 
-#### Steps to Verify with Collab.Land:
+#### Steps to Verify with Guild.XYZ:
 
 1. Unlock your wallet and set it to the Gnosis Chain network.
-2. Head to **#🔓│verify-assets** and click **Let’s Go!**
-3. Follow the bot’s instructions to connect your wallet.
-4. On the Collab.Land website, select Raid Guild and click **Verify**.
-5. Sign any prompted transaction in your wallet.
-6. Return to Discord and await confirmation of your server roles.
+2. Head to **#🔓│validate-membership** in our Discord server and click **Verify your member shares**
+3. Follow the linked page's instructions for how to connect your wallet and meet requirements.
+4. After completing the requirements on Guild.XYZ's page, return to Discord and click **Join RaidGuild**.
 
 ---
 

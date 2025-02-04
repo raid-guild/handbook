@@ -50,7 +50,7 @@ During your cohort journey, you may end up:
 
 RaidGuild’s apprenticeship may feel like “drinking from a waterfall" as you get accustomed to the fast-paced, decentralized environment. To make the most of this journey:
 
-- Review resources like the [Raid Guild Handbook](https://handbook.raidguild.org/docs/overview) and Code of Conduct.
+- Review resources like the [Code of Conduct](/docs/overview/code-of-conduct).
 - Familiarize yourself with the [Raid Guild Tool Shed](https://hackmd.io/@raidguild/By3kIcxD5) for essential tools.
 - Connect with your cohort on Discord; the community is welcoming and ready to support you as you navigate this new world.
 - Be proactive in finding answers and understanding RaidGuild’s mission and values by checking out the [Raid Guild Origin Stories](https://origins.raidguild.org/) and past client work in the [Raid Guild Portfolio](https://portfolio.raidguild.org/).

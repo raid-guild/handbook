@@ -43,7 +43,7 @@ To embark on your journey with RaidGuild, the first step is to join our Discord 
 - **Ask Questions in #help**  
   If you’re unsure about anything, head to the #help channel. Guild members and moderators are ready to assist with any questions about the server or Guild processes.
 
-### Step 8: Sync with Your Guild Role
+### Step 6: Sync with Your Guild Role
 
 - **Gain Access to Apprentice or Member Channels**  
   If you’re an Apprentice or have an official Guild role, a moderator will help you gain access to specific channels related to your role. Keep an eye out for a message from a Guild leader or moderator to finalize your role setup.

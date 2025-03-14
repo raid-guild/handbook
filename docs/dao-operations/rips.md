@@ -34,7 +34,7 @@ To improve transparency and accountability, we use an escrow system where the DA
 
 ## Escrow Options
 
-For RIP projects, several escrow methods can be used, including **Smart Invoice**, a **shared Safe**, or **project-specific DAO**. Each method must allow:
+For RIP projects, we've progress the system to leverage [SmartInvoice](https://app.smartinvoice.xyz) from within [Dungeon Master](https:dm.raidguild.org). The recommended solution is to have [Ganggang](/docs/dao-operations/dao-roles.md#ganggang---quality-assurance-group) be the client (or release address) 
 
 - DAO co-signature for fund releases
 - DAO control over funds, with the ability to withdraw if needed

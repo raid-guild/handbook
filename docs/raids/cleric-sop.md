@@ -1,6 +1,6 @@
 ---
 id: cleric-sop
-title: cleric-sop
+title: Cleric SOP
 sidebar_label: Cleric Standard Operating Procedure
 ---
 

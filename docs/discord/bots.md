@@ -17,7 +17,7 @@ The [Guild.XYZ](https://guild.xyz/) bot grants roles and permissions by verifyin
 #### Steps to Verify with Guild.XYZ:
 
 1. Unlock your wallet and set it to the Gnosis Chain network.
-2. Head to **#🔓│validate-membership** in our Discord server and click **Verify your member shares**
+2. Head to <span class="channels">[#🔓 validate-membership](https://discord.com)</span> in our Discord server and click **Verify your member shares**
 3. Follow the linked page's instructions for how to connect your wallet and meet requirements.
 4. After completing the requirements on Guild.XYZ's page, return to Discord and click **Join RaidGuild**.
 

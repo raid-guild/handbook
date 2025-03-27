@@ -13,7 +13,7 @@ Welcome, future Raider! Embarking on the path to become a RaidGuild member invol
 ## Steps to Start Your Journey
 
 1. **Introduce Yourself**  
-   Head to the [#tavern](https://discord.com/channels/684227450204323876/685276449846067287) channel in our Discord to say hello! Share your skills, background, and interests with fellow guild members and apprentices. This step is essential to connect with the community and begin your journey.
+   Head to the <span class="channels">[#tavern](https://discord.com/channels/684227450204323876/685276449846067287)</span> channel in our Discord to say hello! Share your skills, background, and interests with fellow guild members and apprentices. This step is essential to connect with the community and begin your journey.
 
 2. **Add the Guild Calendar**  
    Sync the [Raid Guild Google Calendar](https://calendar.google.com/calendar/u/0?cid=Y18xOGFldHFyaW85MjdvajRzNG1wdmE4MmIwc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to stay informed about key events, cohort sessions, and meetings.
@@ -35,36 +35,36 @@ To make the most of your apprenticeship and gain full membership, use these reso
 
 ### 1. **Discord: The Guild’s Core Hub**
 
-   Most guild interactions take place on Discord. Join the RaidGuild server [here](https://discord.gg/rGFpfQf) and familiarize yourself with our channel guides. While apprentices have limited access, your participation will open more opportunities within the guild.
+Most guild interactions take place on [Discord](../discord/onboarding). Join the RaidGuild server [here](https://discord.gg/rGFpfQf) and familiarize yourself with our channel guides. While apprentices have limited access, your participation will open more opportunities within the guild.
 
-   > **Important:** Please follow our [Discord Etiquette](../discord/etiquette) to maintain a positive, respectful environment.
+> **Important:** Please follow our [Discord Etiquette](../discord/etiquette) to maintain a positive, respectful environment.
 
 ### 2. **Become an Apprentice**
 
-   The first official step to joining the guild is to apply for a cohort. As an apprentice, you’ll complete tasks, prove your skills, and gain exposure to real-world projects. To learn more, visit the [Become an Apprentice](../membership/become-an-apprentice) page for details on what to expect and how to apply.
+The first official step to joining the guild is to apply for a cohort. As an apprentice, you’ll complete tasks, prove your skills, and gain exposure to real-world projects. To learn more, visit the [Become an Apprentice](../membership/become-an-apprentice) page for details on what to expect and how to apply.
 
 ### 3. **Prove Yourself in Raids and RIPs**
 
-   During your apprenticeship, you’ll have the chance to work on both Raids (client projects) and RIPs (internal improvement projects). These tasks help demonstrate your abilities and contribute to the guild’s mission.
+During your apprenticeship, you’ll have the chance to work on both [Raids](../raids/intro-to-raiding) (client projects) and [RIPs](../dao-operations/rips) (internal improvement projects). These tasks help demonstrate your abilities and contribute to the guild’s mission.
 
-   - Learn how to Join a Raid and see how your work can have a tangible impact.
-   - Explore opportunities in RIPs to assist with internal guild projects, showcasing your dedication and skills.
+- Learn how to Join a Raid and see how your work can have a tangible impact.
+- Explore opportunities in RIPs to assist with internal guild projects, showcasing your dedication and skills.
 
 ### 4. **Find a Champion**
 
-   To move from apprentice to full member, you’ll need a current member to champion your entry. Champions vouch for apprentices who’ve proven their dedication and skills. Read more about this process on the [Champion a Member](../membership/champion-a-member) page.
+To move from apprentice to full member, you’ll need a current member to champion your entry. Champions vouch for apprentices who’ve proven their dedication and skills. Read more about this process on the [Champion a Member](../membership/champion-a-member) page.
 
 ### 5. **Get Paid and Use DAOhaus**
 
-   Guild members are compensated through DAOhaus. Once you begin contributing to guild projects, you’ll use DAOhaus to request and receive payments. Familiarize yourself with DAOhaus to manage your earnings and vote on guild decisions.
+Guild members are compensated through DAOhaus. Once you begin contributing to guild projects, you’ll use DAOhaus to request and receive payments. Familiarize yourself with DAOhaus to manage your earnings and vote on guild decisions.
 
 ### 6. **Participate in Guild Governance**
 
-   As a member, you’ll have a voice in guild matters. Learn about Proposal Types to understand how decisions are made and how you can submit proposals for funding, new projects, or changes in the guild.
+As a member, you’ll have a voice in guild matters. Learn about [Proposal Types](../dao-operations/) to understand how decisions are made and how you can submit proposals for funding, new projects, or changes in the guild.
 
 ### 7. **Access Tools and Resources**
 
-   The [Raid Guild Tool Shed](https://hackmd.io/@raidguild/By3kIcxD5) is your library of essential resources and tools, from development to project management. Explore these tools early on—they will be valuable in completing tasks and excelling in your cohort.
+The [Raid Guild Tool Shed](https://hackmd.io/@raidguild/By3kIcxD5) is your library of essential resources and tools, from development to project management. Explore these tools early on—they will be valuable in completing tasks and excelling in your cohort.
 
 ---
 

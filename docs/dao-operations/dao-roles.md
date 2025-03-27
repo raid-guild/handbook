@@ -4,11 +4,11 @@ title: DAO Roles empowered with Hats
 sidebar_label: DAO Roles (Hats)
 ---
 
-In order to make operations more efficient and reduce the coordination needed at the share holder level, we've elected to create some discreet roles and give them budgets and other decision making authorities during their appointment.
+In order to make operations more efficient and reduce the coordination needed at the share holder level, we've elected to create some discreet roles and give them budgets and other decision-making authorities during their appointment.
 
 These roles are generally appointed by motivated individuals but elections can be facilitated if there are multiple Raiders interested in a role for the same term. These roles are created and appointed by the full community and can be removed/unwound in a similar fashion. We're continuing to use other good principal-agent hygiene by using quarterly budgets or streams in longer cases. Streams can be canceled with a proposal since the funds are flowing from the DAO itself.
 
-The roles here are powered by [Hats Protocol](https://app.hatsprotocol.xyz). Skip to [the RG Hats Tree section](#hats-tree) to learn more about [RaidGuild Hats Tree](https://app.hatsprotocol.xyz/trees/100/92) and [proposing a role](#proposing-a-role).
+The roles here are powered by [Hats Protocol](https://app.hatsprotocol.xyz). Skip to [the RG Hats Tree section](#roles-chart-hats-tree) to learn more about [RaidGuild Hats Tree](https://app.hatsprotocol.xyz/trees/100/92) and [proposing a role](#proposing-a-role).
 
 ## Current Roles
 
@@ -50,7 +50,7 @@ Currently the _Ganggang_ multisig (Safe) authority exists as a 3/7, so up to 7 G
 
 ### Infrastructure Maestro - Holders of the devops keys
 
-The [_Infrastructure Maestro(s)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.4) are responsible for making sure the infrastructure accounts are secured and pipelines are deploying when other members push updates. Since these SaaS services tend to charge per seat, we've elected to consolidate these permissions to a couple of representatives acting as backups for each other.
+The [_Infrastructure Maestro(s)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.5) are responsible for making sure the infrastructure accounts are secured and pipelines are deploying when other members push updates. Since these SaaS services tend to charge per seat, we've elected to consolidate these permissions to a couple of representatives acting as backups for each other.
 
 The _Infrastructure Maestro (IM)_ role also has its own multisig (Safe) for receiving ongoing resources for these SaaS services that keep the Guild running. There is an [active stream](https://app.superfluid.org/stream/gnosis/0x181ebdb03cb4b54f4020622f1b0eacd67a8c63ac-0xcbf079a94e2ca54cde49478e92561215c9f534bf-0x59988e47a3503aafaa0368b9def095c818fdca01-0.0?view=0x181eBDB03cb4b54F4020622F1B0EAcd67A8C63aC) running from the [Guild](https://app.superfluid.org/?view=0x181eBDB03cb4b54F4020622F1B0EAcd67A8C63aC) to the [IM Safe](https://app.superfluid.org/?view=0xcBF079a94e2cA54CDe49478e92561215c9F534bF) and this stream can be deactivated at any time with a proposal from the Guild. The Safe is configured as a 1/1 with either of the current wearers able to claim the signing authority.
 
@@ -60,6 +60,7 @@ Current services handled by _Infrastructure Maestro_:
 - [Pinata](https://pinata.cloud)
 - [TheGraph](https://thegraph.com)
 - [Railway](https://railway.app)
+- [Heroku](https://heroku.com)
 
 If you need to deploy new infra, reach out to one of the IM for updating.
 
@@ -75,11 +76,11 @@ The _Infrastructure Maestro_ role requires holding two other roles in order to c
 
 1. [_RaidGuild Member_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1)
 2. [_Healer (Operations)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.2)
-3. Claim the [_Infrastructure Maestro_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.4) role and associated Safe signing authority
+3. Claim the [_Infrastructure Maestro_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.5) role and associated Safe signing authority
 
 ### Brand Steward - Unifying our shared aesthetic and persona
 
-The [_Brand Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1) is responsible for providing a cohesive brand across the feel & aesthetic of the Guild's digital domains. Several resources are offered to provide guidance to Guild members applying the brand to their project or implementation.
+The [_Brand Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.4.1.4) is responsible for providing a cohesive brand across the feel & aesthetic of the Guild's digital domains. Several resources are offered to provide guidance to Guild members applying the brand to their project or implementation.
 
 - [Raid Guild design system](/docs/dao-operations/design-system) (to be converted to Tailwind theme/Shadcn components)
 - Raid Guild Design System Figma
@@ -100,13 +101,13 @@ _It's expected that a majority of the budget is allocated to completing the actu
 To claim the _Brand Steward_ role a member will need to claim two other roles:
 
 1. [_RaidGuild Member_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1)
-2. [_Archer (Design)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.2)
+2. [_Archer (Design)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.4.1.2)
 3. The _Brand Steward_ role is appointed by the [_Ganggang_](#ganggang---quality-assurance-delegates) role via offchain consensus
    - Claim the _Brand Steward_ role
 
 ### Handbook Steward - Keeping our knowledge maintained
 
-The [_Handbook Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1) is responsible for budgeting and directing maintenance of [this Handbook](/). The main resources for the Steward are the [Handbook repo](https://github.com/raid-guild/handbook) and the <span class="channels">[#handbook](https://discord.com/channels/684227450204323876/1176281724838232185)</span> Discord channel.
+The [_Handbook Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.4.2.4) is responsible for budgeting and directing maintenance of [this Handbook](/). The main resources for the Steward are the [Handbook repo](https://github.com/raid-guild/handbook) and the <span class="channels">[#handbook](https://discord.com/channels/684227450204323876/1176281724838232185)</span> Discord channel.
 
 The _Handbook Steward_ requests a regular budget where needed to ensure the project and maintenance are advanced. The Steward will document goals for the current budget and provide regular updates throughout the duration of the epoch.
 
@@ -129,13 +130,13 @@ To claim the _Handbook Steward_ role a member will need to claim two other roles
 
 ### Sync Guild - Coordinating the synchronous layer
 
-The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. As a part of the Sync Guild there are 3 roles activated to spread the burden for this role across a small group.
+The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. As a part of the Sync Guild there are 3 roles activated to spread the burden for this role across a small group.
 
 Sync Guild Roles
 
 - **_Sync Steward_** - _Sync Steward_ coordinates with other members of the Sync Guild and wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
-- **_Jester_** - _Sync Jesters_ are in responsible for emceeing the synchronous gatherings. They can leverage known topics and field topics that are relevant to current goals of the Guild.
-- **_Scribe_** - _Sync Scribes_ are in attendance for recording meeting notes and sharing insights with the wider Guild
+- **_Jester_** - _Sync Jesters_ are responsible for emceeing the synchronous gatherings. They can leverage known topics and field topics that are relevant to current goals of the Guild.
+- **_Scribe_** - _Sync Scribes_ are responsible for recording meeting notes and sharing insights with the wider Guild
 
 #### Sync Steward
 
@@ -156,7 +157,7 @@ _It's expected that a majority of the budget is allocated to completing the actu
 To claim a Sync Guild role a member will need to claim two other roles:
 
 1. [_RaidGuild Member_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1)
-2. [_Tavern Keeper (Community)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.2)
+2. [_Tavern Keeper (Community)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.2)
 3. The _Sync Steward_ role is appointed by the [_Ganggang_](#ganggang---quality-assurance-delegates) role via offchain consensus
    - Claim the _Sync Steward_ role
 4. The _Jester_ and _Scribe_ roles are appointed by the _Sync Steward_ role via offchain consensus

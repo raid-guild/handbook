@@ -8,7 +8,7 @@ sidebar_label: Skills & Roles
 
 Skills in RaidGuild help showcase each member’s skill set and expertise, making it easy to assemble the right team for any Raid. Assign a role only if you’re prepared to contribute actively in that area.
 
-To assign yourself a role, go to the <span class="channels">#start-here</span> channel on Discord. Use the emojis under each role description to automatically add the role to your profile.
+To assign yourself a role, go to the <span class="channels">#equip-skills</span> channel on Discord. Use the emojis under each role description to automatically add the role to your profile.
 
 ---
 

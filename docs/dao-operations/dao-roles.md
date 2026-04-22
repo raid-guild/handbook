@@ -61,12 +61,15 @@ Current services handled by _Infrastructure Maestro_:
 - [TheGraph](https://thegraph.com)
 - [Railway](https://railway.app)
 - [Heroku](https://heroku.com)
+- [Google Cloud](https://cloud.google.com/)
+- [Guild.xyz](https://guild.xyz/raidguild)
+- [DigitalOcean](https://www.digitalocean.com/)
 
 If you need to deploy new infra, reach out to one of the IM for updating.
 
 :::info[Latest budget]
 
-~2k per year
+~$2.5 per year
 
 :::
 
@@ -90,7 +93,7 @@ The _Brand Steward_ requests a regular budget where needed to ensure the project
 
 :::info[Latest budget]
 
-~6k per year
+~1.6k per year
 
 :::
 
@@ -113,7 +116,7 @@ The _Handbook Steward_ requests a regular budget where needed to ensure the proj
 
 :::info[Latest budget]
 
-~6k per year
+~1.6k per year
 
 :::
 
@@ -128,19 +131,19 @@ To claim the _Handbook Steward_ role a member will need to claim two other roles
 3. The _Handbook Steward_ role is appointed by [_Ganggang_](#ganggang---quality-assurance-delegates) via offchain consensus
 4. Claim the _Handbook Steward_ role
 
-### Sync Guild - Coordinating the synchronous layer
+### Sync Steward - Coordinating the synchronous layer
 
-The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. As a part of the Sync Guild there are 3 roles activated to spread the burden for this role across a small group.
+The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. The Sync Steward can optionally delegate hosting and scribing responsibilities to a Jester and/or Scribe.
 
 Sync Guild Roles
 
-- **_Sync Steward_** - _Sync Steward_ coordinates with other members of the Sync Guild and wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
+- **_Sync Steward_** - _Sync Steward_ coordinates with the wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
 - **_Jester_** - _Sync Jesters_ are responsible for emceeing the synchronous gatherings. They can leverage known topics and field topics that are relevant to current goals of the Guild.
 - **_Scribe_** - _Sync Scribes_ are responsible for recording meeting notes and sharing insights with the wider Guild
 
 #### Sync Steward
 
-The Sync Steward is responsible for coordinating with other members of the Sync Guild and wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
+The Sync Steward is responsible for coordinating with the wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
 
 The Steward requests a regular budget where needed to ensure the members are incentivized to participate. The Steward will document goals for the current budget and provide regular updates throughout the duration of the epoch.
 
@@ -162,6 +165,32 @@ To claim a Sync Guild role a member will need to claim two other roles:
    - Claim the _Sync Steward_ role
 4. The _Jester_ and _Scribe_ roles are appointed by the _Sync Steward_ role via offchain consensus
    - Claim the _Jester_ or _Scribe_ role
+
+### Participation Steward - Tracker of Member Activeness
+
+The [_Participation Steward ](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.6) is responsible for keeping an organized and public table of all active participants; this includes what they participated in, what their member address is, and how many shares they will be rewarded with.
+
+See the original role creation proposal [here](https://github.com/raid-guild/RIPs/issues/213), and the latest amendment [here](https://github.com/raid-guild/RIPs/issues/227).
+
+:::info[Latest budget]
+
+~3k per year
+
+:::
+
+_It's expected that a majority of the budget is allocated to completing the actual execution/implementation tasks._
+
+### Angry Dwarf - Keeper of the Treasury
+
+The [_Angry Dwarf ](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.6) is responsible for creating quarterly accounting reports, ensuring cleric SOPs are followed, and implementing sensible portfolio management.
+
+:::info[Latest budget]
+
+~2k per year
+
+:::
+
+_It's expected that a majority of the budget is allocated to completing the actual execution/implementation tasks._
 
 ## Roles Chart (Hats Tree)
 

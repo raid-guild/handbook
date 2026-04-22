@@ -135,25 +135,11 @@ To claim the _Handbook Steward_ role a member will need to claim two other roles
 
 The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. The Sync Steward can optionally delegate hosting and scribing responsibilities to a Jester and/or Scribe.
 
-Sync Guild Roles
+Sync Steward Auxiliary Roles
 
 - **_Sync Steward_** - _Sync Steward_ coordinates with the wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
 - **_Jester_** - _Sync Jesters_ are responsible for emceeing the synchronous gatherings. They can leverage known topics and field topics that are relevant to current goals of the Guild.
 - **_Scribe_** - _Sync Scribes_ are responsible for recording meeting notes and sharing insights with the wider Guild
-
-#### Sync Steward
-
-The Sync Steward is responsible for coordinating with the wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
-
-The Steward requests a regular budget where needed to ensure the members are incentivized to participate. The Steward will document goals for the current budget and provide regular updates throughout the duration of the epoch.
-
-:::info[Latest budget]
-
-~3k per quarter
-
-:::
-
-_It's expected that a majority of the budget is allocated to completing the actual execution/implementation tasks. Roughly, up to a third of the budget should be used for Steward coordination responsibilities and planning._
 
 #### Claiming a Sync Guild role
 
@@ -168,7 +154,7 @@ To claim a Sync Guild role a member will need to claim two other roles:
 
 ### Participation Steward - Tracker of Member Activeness
 
-The [_Participation Steward ](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.6) is responsible for keeping an organized and public table of all active participants; this includes what they participated in, what their member address is, and how many shares they will be rewarded with.
+The [_Participation Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.1.6) is responsible for keeping an organized and public table of all active participants; this includes what they participated in, what their member address is, and how many shares they will be rewarded with.
 
 See the original role creation proposal [here](https://github.com/raid-guild/RIPs/issues/213), and the latest amendment [here](https://github.com/raid-guild/RIPs/issues/227).
 
@@ -182,7 +168,7 @@ _It's expected that a majority of the budget is allocated to completing the actu
 
 ### Angry Dwarf - Keeper of the Treasury
 
-The [_Angry Dwarf ](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.6) is responsible for creating quarterly accounting reports, ensuring cleric SOPs are followed, and implementing sensible portfolio management.
+The [_Angry Dwarf_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.6) is responsible for creating quarterly accounting reports, ensuring cleric SOPs are followed, and implementing sensible portfolio management.
 
 :::info[Latest budget]
 

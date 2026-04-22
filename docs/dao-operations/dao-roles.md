@@ -65,7 +65,7 @@ Current services handled by _Infrastructure Maestro_:
 - [Guild.xyz](https://guild.xyz/raidguild)
 - [DigitalOcean](https://www.digitalocean.com/)
 
-If you need to deploy new infra, reach out to one of the IM for updating.
+If you need to deploy new infra, reach out to one of the IMs to get it updated.
 
 :::info[Latest budget]
 

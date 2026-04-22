@@ -152,9 +152,9 @@ The Steward requests a regular budget where needed to ensure the members are inc
 
 _It's expected that a majority of the budget is allocated to completing the actual execution/implementation tasks. Roughly, up to a third of the budget should be used for Steward coordination responsibilities and planning._
 
-#### Claiming a Sync Guild role
+#### Claiming a Sync Steward, Jester, or Scribe role
 
-To claim a Sync Guild role a member will need to claim two other roles:
+To claim a _Sync Steward_, _Jester_, or _Scribe_ role, a member will first need to claim these two prerequisite roles:
 
 1. [_RaidGuild Member_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.1)
 2. [_Tavern Keeper (Community)_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.2)

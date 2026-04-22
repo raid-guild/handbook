@@ -137,9 +137,20 @@ The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is 
 
 Sync Steward Auxiliary Roles
 
-- **_Sync Steward_** - _Sync Steward_ coordinates with the wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
 - **_Jester_** - _Sync Jesters_ are responsible for emceeing the synchronous gatherings. They can leverage known topics and field topics that are relevant to current goals of the Guild.
 - **_Scribe_** - _Sync Scribes_ are responsible for recording meeting notes and sharing insights with the wider Guild
+
+The Sync Steward is responsible for coordinating with the wider Guild to make sure topics to be discussed are relevant. They also encourage members to pick up the other roles for meetings in which they'll be in attendance.
+
+The Steward requests a regular budget where needed to ensure the members are incentivized to participate. The Steward will document goals for the current budget and provide regular updates throughout the duration of the epoch.
+
+:::info[Latest budget]
+
+~3k per quarter
+
+:::
+
+_It's expected that a majority of the budget is allocated to completing the actual execution/implementation tasks. Roughly, up to a third of the budget should be used for Steward coordination responsibilities and planning._
 
 #### Claiming a Sync Guild role
 

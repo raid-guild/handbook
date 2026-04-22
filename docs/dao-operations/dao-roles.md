@@ -69,7 +69,7 @@ If you need to deploy new infra, reach out to one of the IM for updating.
 
 :::info[Latest budget]
 
-~$2.5 per year
+~2.5k per year
 
 :::
 

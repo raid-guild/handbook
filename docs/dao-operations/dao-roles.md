@@ -135,7 +135,7 @@ To claim the _Handbook Steward_ role a member will need to claim two other roles
 
 The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. The Sync Steward can optionally delegate hosting and scribing responsibilities to a Jester and/or Scribe.
 
-Sync Steward Auxiliary Roles
+#### Sync Steward Auxiliary Roles
 
 - **_Jester_** - _Sync Jesters_ are responsible for emceeing the synchronous gatherings. They can leverage known topics and field topics that are relevant to current goals of the Guild.
 - **_Scribe_** - _Sync Scribes_ are responsible for recording meeting notes and sharing insights with the wider Guild

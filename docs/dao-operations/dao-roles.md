@@ -133,7 +133,7 @@ To claim the _Handbook Steward_ role a member will need to claim two other roles
 
 ### Sync Steward - Coordinating the synchronous layer
 
-The [_Sync Guild_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. The Sync Steward can optionally delegate hosting and scribing responsibilities to a Jester and/or Scribe.
+The [_Sync Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.5.3) is responsible for coordinating the Guild's [synchronous meetings](../discord/meetings) so they are efficient and useful to members and attendees. The Sync Steward can optionally delegate hosting and scribing responsibilities to a Jester and/or Scribe.
 
 #### Sync Steward Auxiliary Roles
 

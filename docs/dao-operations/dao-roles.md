@@ -146,7 +146,7 @@ The Steward requests a regular budget where needed to ensure the members are inc
 
 :::info[Latest budget]
 
-~3k per quarter
+~2k per quarter
 
 :::
 

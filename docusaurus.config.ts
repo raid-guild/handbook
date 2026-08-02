@@ -27,7 +27,7 @@ const config: Config = {
       items: [
         {
           href: "https://raidguild.org",
-          label: "Dot Org",
+          label: "RaidGuild.org",
           position: "right",
         },
       ],
@@ -49,6 +49,19 @@ const config: Config = {
           customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
+    ],
+  ],
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: "filename",
+        indexBlog: false,
+        indexPages: false,
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        searchBarShortcutKeymap: "mod+k",
+      },
     ],
   ],
 };

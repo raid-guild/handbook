@@ -27,7 +27,7 @@ This site is powered by [Docusaurus 3](https://docusaurus.io/), a modern static 
 
 ### Prerequisites
 
-- Node.js 20 or newer
+- Node.js 24
 - [Corepack](https://nodejs.org/api/corepack.html), which installs the pinned pnpm version
 
 Enable Corepack and install dependencies:

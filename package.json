@@ -2,21 +2,27 @@
   "name": "raid-guild-handbook",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "pnpm@10.34.5",
+  "engines": {
+    "node": "24.x"
+  },
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy"
+    "deploy": "docusaurus deploy",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write README.md package.json tsconfig.json eslint.config.mjs docusaurus.config.ts sidebars.ts \"src/**/*.{ts,tsx,css}\"",
+    "format:check": "prettier --check README.md package.json tsconfig.json eslint.config.mjs docusaurus.config.ts sidebars.ts \"src/**/*.{ts,tsx,css}\"",
+    "check": "corepack pnpm format:check && corepack pnpm lint && corepack pnpm typecheck && corepack pnpm build"
   },
   "dependencies": {
-    "@algolia/client-search": "^4.22.0",
-    "@docusaurus/core": "^3.1.0",
-    "@docusaurus/preset-classic": "^3.1.0",
-    "classnames": "^2.2.6",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-loadable": "^5.5.0",
-    "search-insights": "^2.13.0"
+    "@docusaurus/core": "^3.10.2",
+    "@docusaurus/preset-classic": "^3.10.2",
+    "classnames": "^2.5.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
   },
   "browserslist": {
     "production": [
@@ -31,16 +37,30 @@
     ]
   },
   "devDependencies": {
-    "@types/react": "^18.2.46",
-    "@typescript-eslint/eslint-plugin": "^6.19.1",
-    "@typescript-eslint/parser": "^6.19.1",
-    "eslint": "^8.56.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-mdx": "^3.1.5",
-    "eslint-plugin-prettier": "^5.1.3",
-    "eslint-plugin-react": "^7.33.2",
-    "prettier": "^3.2.4",
-    "typescript": "^5.3.3"
+    "@docusaurus/tsconfig": "^3.10.2",
+    "@docusaurus/types": "^3.10.2",
+    "@eslint/js": "^9.39.5",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "eslint": "^9.39.5",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "prettier": "^3.9.6",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.65.0"
   },
-  "prettier": {}
+  "prettier": {
+    "proseWrap": "preserve"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "core-js"
+    ],
+    "overrides": {
+      "serialize-javascript": "7.0.5",
+      "svgo@>=3.0.0 <3.3.4": "3.3.4",
+      "uuid@<11.1.1": "11.1.1"
+    }
+  }
 }

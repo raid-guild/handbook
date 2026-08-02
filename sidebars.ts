@@ -1,5 +1,6 @@
-// eslint-disable-next-line no-undef
-module.exports = {
+import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
+
+const sidebars: SidebarsConfig = {
   howSidebar: {
     Overview: [
       "overview/intro",
@@ -43,3 +44,5 @@ module.exports = {
     Resources: ["resources/learn-about-web3", "resources/glossary"],
   },
 };
+
+export default sidebars;

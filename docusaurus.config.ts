@@ -6,7 +6,7 @@ const config: Config = {
   tagline: "Your guide to Raiding with the RaidGuild",
   url: "https://handbook.raidguild.org",
   baseUrl: "/",
-  favicon: "img/rg-icon.png",
+  favicon: "img/brand/favicon.svg",
   staticDirectories: ["static"],
   organizationName: "raid-guild",
   projectName: "handbook",
@@ -17,14 +17,55 @@ const config: Config = {
       onBrokenMarkdownLinks: "throw",
     },
   },
+  headTags: [
+    {
+      tagName: "meta",
+      attributes: {
+        name: "theme-color",
+        content: "#f9f7e7",
+      },
+    },
+    {
+      tagName: "link",
+      attributes: {
+        rel: "icon",
+        type: "image/png",
+        sizes: "96x96",
+        href: "/img/brand/favicon-96x96.png",
+      },
+    },
+    {
+      tagName: "link",
+      attributes: {
+        rel: "apple-touch-icon",
+        sizes: "180x180",
+        href: "/img/brand/apple-touch-icon.png",
+      },
+    },
+  ],
   themeConfig: {
+    colorMode: {
+      defaultMode: "light",
+      respectPrefersColorScheme: true,
+    },
     navbar: {
-      title: "RaidGuild",
       logo: {
-        alt: "RaidGuild Logo",
-        src: "img/rg-icon.png",
+        alt: "Raid Guild",
+        src: "img/brand/full-m500.svg",
+        srcDark: "img/brand/full-s100.svg",
       },
       items: [
+        {
+          to: "/docs/overview/intro",
+          label: "Handbook",
+          position: "left",
+          activeBaseRegex: "^/docs/",
+        },
+        {
+          href: "https://www.brand.raidguild.org",
+          label: "Brand Guide",
+          position: "right",
+        },
         {
           href: "https://raidguild.org",
           label: "RaidGuild.org",
@@ -34,6 +75,48 @@ const config: Config = {
     },
     footer: {
       style: "dark",
+      logo: {
+        alt: "Raid Guild",
+        src: "img/brand/full-s100.svg",
+        width: 210,
+        height: 55,
+      },
+      links: [
+        {
+          title: "Handbook",
+          items: [
+            {
+              label: "Introduction",
+              to: "/docs/overview/intro",
+            },
+            {
+              label: "Membership",
+              to: "/docs/membership/join-the-guild",
+            },
+            {
+              label: "Raiding",
+              to: "/docs/raids/intro-to-raiding",
+            },
+          ],
+        },
+        {
+          title: "Raid Guild",
+          items: [
+            {
+              label: "RaidGuild.org",
+              href: "https://raidguild.org",
+            },
+            {
+              label: "Brand Guide",
+              href: "https://www.brand.raidguild.org",
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/raid-guild",
+            },
+          ],
+        },
+      ],
       copyright: `Copyright © ${new Date().getFullYear()} RaidGuild`,
     },
   } satisfies Preset.ThemeConfig,

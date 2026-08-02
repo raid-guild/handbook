@@ -1,35 +1,371 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
+.hero {
+  background: var(--rg-scroll-100);
+  border-bottom: 1px solid var(--rg-neutral-200);
   overflow: hidden;
 }
 
-@media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.heroGrid {
+  align-items: center;
+  display: grid;
+  gap: clamp(2.5rem, 6vw, 6rem);
+  grid-template-columns: minmax(0, 1.05fr) minmax(20rem, 0.95fr);
+  min-height: min(46rem, calc(100vh - var(--ifm-navbar-height)));
+  padding-bottom: clamp(4rem, 8vw, 7rem);
+  padding-top: clamp(4rem, 8vw, 7rem);
 }
 
-.buttons {
+.heroCopy {
+  max-width: 43rem;
+}
+
+.eyebrow,
+.cardLabel {
+  color: var(--rg-moloch-500);
+  font-family: var(--rg-font-body);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  line-height: 1.4;
+  margin: 0 0 1rem;
+  text-transform: uppercase;
+}
+
+.heroCopy h1 {
+  color: var(--rg-moloch-800);
+  font-family: var(--rg-font-display);
+  font-size: clamp(4rem, 7.2vw, 6.8rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 0.92;
+  margin: 0;
+}
+
+.heroCopy h1 span {
+  color: var(--rg-moloch-500);
+  display: block;
+}
+
+.heroLead {
+  color: var(--rg-neutral-700);
+  font-size: clamp(1.2rem, 2vw, 1.45rem);
+  line-height: 1.5;
+  margin: 2rem 0 0;
+  max-width: 37rem;
+}
+
+.heroActions {
   display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-top: 2.25rem;
+}
+
+.primaryAction,
+.secondaryAction,
+.lightAction {
   align-items: center;
+  border: 1px solid transparent;
+  border-radius: var(--rg-radius);
+  display: inline-flex;
+  font-family: var(--rg-font-body);
+  font-size: 1rem;
+  font-weight: 600;
   justify-content: center;
+  line-height: 1;
+  min-height: 3.2rem;
+  padding: 0.9rem 1.4rem;
+  text-decoration: none;
+  transition:
+    background-color 160ms ease,
+    border-color 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
 }
 
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
+.primaryAction {
+  background: var(--rg-moloch-500);
+  color: var(--rg-scroll-100);
+}
+
+.primaryAction:hover {
+  background: var(--rg-moloch-800);
+  color: var(--rg-scroll-100);
+  transform: translateY(-2px);
+}
+
+.secondaryAction {
+  border-color: var(--rg-moloch-800);
+  color: var(--rg-moloch-800);
+}
+
+.secondaryAction:hover {
+  background: var(--rg-moloch-100);
+  color: var(--rg-moloch-800);
+  transform: translateY(-2px);
+}
+
+.heroArtwork {
+  background: var(--rg-moloch-100);
+  border: 1px solid var(--rg-neutral-200);
+  border-radius: var(--rg-radius-lg);
+  box-shadow: 1.25rem 1.25rem 0 var(--rg-moloch-500);
+  overflow: hidden;
+  position: relative;
+}
+
+.heroArtwork::after {
+  border: 1px solid color-mix(in srgb, var(--rg-moloch-500) 40%, transparent);
+  border-radius: 50%;
+  content: "";
+  height: 7rem;
+  pointer-events: none;
+  position: absolute;
+  right: -2.5rem;
+  top: -2.5rem;
+  width: 7rem;
+}
+
+.heroArtwork img {
+  aspect-ratio: 1;
+  display: block;
+  height: auto;
+  object-fit: cover;
   width: 100%;
 }
 
-.featureImage {
-  height: 200px;
-  width: 200px;
+.journeys {
+  background: var(--ifm-background-color);
+  padding: clamp(5rem, 9vw, 8rem) 0;
+}
+
+.sectionHeading {
+  max-width: 47rem;
+}
+
+.sectionHeading h2,
+.closingCta h2 {
+  font-size: clamp(2.8rem, 5vw, 4.25rem);
+  letter-spacing: -0.015em;
+  line-height: 1.02;
+  margin: 0;
+}
+
+.sectionHeading > p:last-child {
+  color: var(--ifm-color-emphasis-700);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 1.4rem 0 0;
+}
+
+.journeyGrid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 3rem;
+}
+
+.journeyCard {
+  background: var(--ifm-card-background-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--rg-radius-lg);
+  color: var(--ifm-font-color-base);
+  display: flex;
+  flex-direction: column;
+  min-height: 25rem;
+  padding: clamp(1.6rem, 3vw, 2.2rem);
+  text-decoration: none;
+  transition:
+    background-color 160ms ease,
+    border-color 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
+}
+
+.journeyCard:hover {
+  border-color: var(--rg-moloch-500);
+  box-shadow: 0 0.75rem 0 var(--rg-moloch-200);
+  color: var(--ifm-font-color-base);
+  transform: translateY(-0.35rem);
+}
+
+.journeyIcon {
+  height: 4.5rem;
+  margin-bottom: 2.25rem;
+  object-fit: contain;
+  object-position: left center;
+  width: 4.5rem;
+}
+
+.cardLabel {
+  margin-bottom: 0.7rem;
+}
+
+.journeyCard h3 {
+  font-size: 2rem;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+.journeyCard > p:not(.cardLabel) {
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.55;
+}
+
+:global(html[data-theme="dark"]) .journeyCard {
+  background: var(--rg-scroll-100);
+  border-color: var(--rg-scroll-500);
+  color: var(--rg-moloch-800);
+}
+
+:global(html[data-theme="dark"]) .journeyCard h3 {
+  color: var(--rg-moloch-800);
+}
+
+:global(html[data-theme="dark"]) .journeyCard > p:not(.cardLabel) {
+  color: var(--rg-neutral-700);
+}
+
+.cardLink {
+  color: var(--rg-moloch-500);
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: auto;
+  padding-top: 1.5rem;
+}
+
+.cardLink span {
+  display: inline-block;
+  margin-left: 0.25rem;
+  transition: transform 160ms ease;
+}
+
+.journeyCard:hover .cardLink span {
+  transform: translateX(0.3rem);
+}
+
+.closingCta {
+  background: var(--rg-moloch-800);
+  color: var(--rg-scroll-100);
+  padding: clamp(4rem, 7vw, 6rem) 0;
+}
+
+.closingCtaInner {
+  align-items: center;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+}
+
+.closingCtaInner > img {
+  height: 6rem;
+  width: 6.4rem;
+}
+
+.closingCta .eyebrow {
+  color: var(--rg-moloch-300);
+}
+
+.closingCta h2 {
+  color: var(--rg-scroll-100);
+}
+
+.closingCta div > p:last-child {
+  color: var(--rg-neutral-200);
+  font-size: 1.1rem;
+  margin: 1rem 0 0;
+}
+
+.lightAction {
+  background: var(--rg-scroll-100);
+  color: var(--rg-moloch-800);
+  white-space: nowrap;
+}
+
+.lightAction:hover {
+  background: var(--rg-moloch-500);
+  color: var(--rg-scroll-100);
+  transform: translateY(-2px);
+}
+
+@media (max-width: 996px) {
+  .heroGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .heroCopy {
+    max-width: 48rem;
+  }
+
+  .heroArtwork {
+    margin: 0 auto;
+    max-width: 36rem;
+    width: calc(100% - 1.25rem);
+  }
+
+  .journeyGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .journeyCard {
+    min-height: 0;
+  }
+
+  .closingCtaInner {
+    align-items: start;
+    grid-template-columns: auto 1fr;
+  }
+
+  .lightAction {
+    grid-column: 2;
+    justify-self: start;
+  }
+}
+
+@media (max-width: 576px) {
+  .heroGrid {
+    min-height: 0;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+
+  .heroCopy h1 {
+    font-size: clamp(3.4rem, 17vw, 4.5rem);
+  }
+
+  .heroActions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .primaryAction,
+  .secondaryAction {
+    width: 100%;
+  }
+
+  .heroArtwork {
+    box-shadow: 0.75rem 0.75rem 0 var(--rg-moloch-500);
+  }
+
+  .closingCtaInner {
+    grid-template-columns: 1fr;
+  }
+
+  .closingCtaInner > img {
+    height: 4.5rem;
+    width: 4.8rem;
+  }
+
+  .lightAction {
+    grid-column: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .primaryAction,
+  .secondaryAction,
+  .lightAction,
+  .journeyCard,
+  .cardLink span {
+    transition: none;
+  }
 }

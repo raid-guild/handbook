@@ -679,6 +679,10 @@ figcaption {
   .navbar-sidebar {
     background: var(--ifm-background-color);
   }
+
+  .navbar.navbar-sidebar--show {
+    backdrop-filter: none;
+  }
 }
 
 @media (max-width: 576px) {

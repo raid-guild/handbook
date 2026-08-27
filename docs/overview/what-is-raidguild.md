@@ -18,7 +18,13 @@ Current practices include:
 
 - **Applied AI**, focused on agents, workflows, interfaces, and forward-deployed AI systems.
 - **Onchain / Web3 solutions**, carrying forward the Guild’s deep experience with decentralized systems.
-- **Placement services**, a developing path for connecting members with external roles through the network.
+- **Placement services**, connecting members with external roles through the network.
+
+:::warning Review note
+
+Placement is still a developing service. Its operating model, ownership, and fee require Guild review before this description becomes settled handbook guidance.
+
+:::
 
 Every practice may have its own positioning and visual expression, but no single practice is the whole Guild.
 

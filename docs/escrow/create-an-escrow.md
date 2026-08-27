@@ -4,7 +4,7 @@ title: Creating an Escrow
 sidebar_label: Creating an Escrow
 ---
 
-:::warning Verify the live flow
+:::warning Review note · Verify the live flow
 
 Escrow is optional, and this setup flow has not yet completed its Cleric review. Confirm the current app, supported chains and tokens, fees, roles, and release conditions before funding anything.
 

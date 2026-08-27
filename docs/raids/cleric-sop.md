@@ -6,7 +6,7 @@ sidebar_label: Cleric Standard Operating Procedure
 
 # Cleric Standard Operating Procedure (SOP)
 
-:::danger Verification required
+:::danger Review note · Verification required
 
 This legacy SOP is held for a Cleric-led rewrite. Dungeon Master steps, the 500 DAI consultation fee, mandatory escrow language, channel names, and suggested role splits may be stale. Do not use this page as the sole authority for a live client engagement. Confirm the current process with a practicing Cleric.
 

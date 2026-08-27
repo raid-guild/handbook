@@ -72,6 +72,10 @@ The Spoils Manager contract allows the DAO to update the treasury address and se
 
 ### Testing and Auditing
 
-While SmartInvoice contracts are thoroughly tested, they have not been formally audited. The contract involves minimal risk, as it does not directly hold funds, leveraging established tools within the ecosystem.
+:::danger Review note · Security claim
+
+This page says the SmartInvoice contracts are tested but not formally audited and characterizes their risk as minimal. Verify the current audit status and replace that characterization with evidence-backed security guidance before publication.
 
 **Proceed with caution and use at your own risk.**
+
+:::

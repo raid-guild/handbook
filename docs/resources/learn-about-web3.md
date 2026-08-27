@@ -4,7 +4,7 @@ title: Learn About Web3
 sidebar_label: Learn About Web3
 ---
 
-:::note Curated archive
+:::warning Review note · Curated archive
 
 Web3 remains a core RaidGuild practice, but this list includes older ecosystem snapshots and should be read as a curated archive, not a claim that every project or tutorial is current. Prefer official documentation and verify tools, contracts, and security assumptions before using them.
 

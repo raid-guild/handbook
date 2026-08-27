@@ -35,7 +35,7 @@ Browse sessions in [Portal](https://portal.raidguild.org). Portal is the primary
 
 Guild.XYZ, Discord moderation, and Hats-based workflows help synchronize roles and channel access. If your cohort, apprentice, steward, or member access looks wrong, follow the current support instructions in Castle Walls or ask a moderator in the space identified there.
 
-:::note Maintainer verification
+:::warning Review note
 
 Before publishing this proposal, confirm the exact introduction and help channels in the live server. This draft intentionally avoids naming `#tavern`, `#help`, or `@Tavern Keeper` without that check.
 

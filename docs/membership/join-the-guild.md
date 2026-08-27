@@ -19,6 +19,12 @@ The current path into RaidGuild starts with Portal and Discord, continues throug
 7. **Be championed at Raider Roundtable.** Your Champion publicly explains the relationship and why you are ready, then helps sponsor the membership proposal.
 8. **Submit the onchain membership proposal.** New members enter with **100 DAO shares** in exchange for **500 wxDAI**, subject to confirmation against current DAO settings.
 
+:::warning Review note · Confirm the package
+
+The August 2026 review found consistent support for the 500 wxDAI / 100 share package, but DAO parameters can change. Confirm the current settings before this becomes unqualified onboarding guidance.
+
+:::
+
 :::info Shares, not RAID
 
 The membership asset is RaidGuild DAO shares. The current path does **not** require a Champion to stake RAID tokens.

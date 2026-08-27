@@ -8,7 +8,7 @@ sidebar_label: Skills & Roles
 
 :::info Skills and stewardship
 
-Class roles describe the craft people bring to Raids. Delegated **Stewards** are separate Hats-based responsibilities for Guild operations; see [DAO Roles](/docs/dao-operations/dao-roles). Steward wearers change over time, so this page does not list individual names.
+Class roles describe the craft people bring to Raids. Delegated **Stewards** are separate Hats-based responsibilities for Guild operations; see [DAO Roles](/docs/dao-operations/dao-roles).
 
 :::
 
@@ -50,7 +50,11 @@ To assign yourself a role, go to the <span class="channels">#equip-skills</span>
 
 Currently, members holding at least one share can assign themselves any role, but we encourage you to start with no more than five. Choose roles that align with your primary skills, expanding gradually as you find your place within the Guild.
 
-Roles will play a central part in building skill trees that will eventually form part of a web3 profile, enabling your expertise to travel with you across the Metaverse.
+:::warning Review note
+
+This page does not name current steward wearers because assignments change. The earlier handbook also described a future in which these roles become portable skill trees in a Web3 profile; confirm whether that remains on the Guild’s roadmap before restoring it as a commitment.
+
+:::
 
 ---
 

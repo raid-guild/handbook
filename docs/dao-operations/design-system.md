@@ -8,14 +8,24 @@ sidebar_label: Brand and Design System
 
 RaidGuild’s visual identity evolves through named **brand steward reigns**. The black crossed-swords mark is the durable master mark; palettes, typography, illustration, motion, and voice treatments belong to a particular reign rather than timeless canon.
 
-The current development direction is **Louchi — Venture Beyond**: deep teal and cyan atmosphere, parchment surfaces, coral signals, acid-lime highlights, expansive editorial type, and Moebius-influenced speculative-world imagery.
+:::warning Review note
+
+The current development direction is **Louchi — Venture Beyond**: deep teal and cyan atmosphere, parchment surfaces, coral signals, acid-lime highlights, expansive editorial type, and Moebius-influenced speculative-world imagery. Confirm when this direction should move from proposal to published brand guidance.
+
+:::
 
 ## Current Sources
 
 - [Brand guide](https://www.brand.raidguild.org) — preferred member-facing destination
-- [Brand archive and Storybook](https://raidguild-brand-guide-production.up.railway.app/) — components, tokens, assets, and reign history used for this handbook proposal
-- [Venture Beyond preview](https://raidguild-website-redesign-production.up.railway.app/) — Louchi visual direction in an organizational-site context; still a review surface rather than public canon
+- [Brand archive and Storybook](https://raidguild-brand-guide-production.up.railway.app/) — components, tokens, assets, and reign history
+- [Venture Beyond preview](https://raidguild-website-redesign-production.up.railway.app/) — Louchi visual direction in an organizational-site context
 - [Brand repository](https://github.com/raid-guild/brand) — source code and machine-readable brand contract
+
+:::warning Review note
+
+The Storybook and Venture Beyond site are review surfaces rather than confirmed public canon. Decide which source becomes authoritative when the Louchi direction is approved.
+
+:::
 
 ## Applying the System
 
@@ -29,4 +39,8 @@ The current development direction is **Louchi — Venture Beyond**: deep teal an
 
 ## Figma
 
+:::warning Review note
+
 Figma remains part of the design workflow, but the audit did not verify the current canonical file. Confirm the live file with the Brand Steward before replacing or publishing shared library links.
+
+:::

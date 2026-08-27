@@ -17,7 +17,11 @@ RaidGuild membership is represented by **DAO shares**, not the RAID token. New m
 | **xDAI** | The native stable asset used for gas and payments on Gnosis Chain. |
 | **wxDAI** | Wrapped xDAI used by DAO contracts and the current new-member contribution. |
 
+:::warning Review note · Confirm before execution
+
 The August 2026 steward walkthrough confirmed a new-member package of **500 wxDAI for 100 shares**. Check current DAO settings before acting; parameters and user interfaces can change.
+
+:::
 
 ## Prepare a Gnosis Chain Wallet
 

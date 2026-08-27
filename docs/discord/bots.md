@@ -16,9 +16,11 @@ Follow the current verification prompt in Discord rather than a channel link cop
 
 ## Dungeon Master and RaidGuild Guard
 
-Dungeon Master still supports selected legacy data and Discord workflows, including Character Sheet interactions and some Raid operations. It is no longer the main onboarding, calendar, or Guild information surface; use Portal for those jobs.
+:::warning Review note
 
-RaidGuild Guard supports arrival verification and channel-management workflows, including moving stale spaces toward Valhalla. Available commands and permissions can change, so consult the live bot prompts before acting.
+The audit found that Dungeon Master still supports selected legacy data and Discord workflows, including Character Sheet interactions and some Raid operations, while Portal has become the main onboarding, calendar, and Guild information surface. Confirm the remaining Dungeon Master responsibilities and the current RaidGuild Guard commands and permissions with their maintainers.
+
+:::
 
 ## Prism / Queen Raida
 

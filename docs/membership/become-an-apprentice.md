@@ -6,7 +6,11 @@ sidebar_label: Become an Apprentice
 
 # Become an Apprentice or Cohort Graduate
 
-RaidGuild currently uses both **cohort graduate** and **apprentice** for the stage between a successful cohort demo and full DAO membership. This proposal keeps both terms until the Guild settles on one public name.
+:::warning Review note
+
+RaidGuild currently uses both **cohort graduate** and **apprentice** for the stage between a successful cohort demo and full DAO membership. This draft keeps both terms until the Guild settles on one public name.
+
+:::
 
 ## Apply Through Portal
 

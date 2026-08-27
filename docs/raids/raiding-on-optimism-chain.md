@@ -4,7 +4,7 @@ title: Raiding on Optimism Chain
 sidebar_label: Raiding on Optimism Chain
 ---
 
-:::warning Legacy / under review
+:::warning Review note · Legacy page
 
 This page documents a time-bound 2024–2025 experiment. Its legal-formation rationale is outdated now that RaidGuild DAO LLC exists, and its contracts, membership rules, and payment flow have not been re-verified. Consult Ganggang or the current finance operators before using it.
 

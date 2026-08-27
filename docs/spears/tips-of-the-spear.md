@@ -22,7 +22,13 @@ The Guild’s longstanding onchain practice assembles parties for decentralized 
 
 ### Placement Services — Proposed
 
-Placement uses the Guild’s trusted network to connect a member with an external role. The August 2026 audit records a proposed **20% placement fee**, but this amount and operating owner must be confirmed before the handbook presents it as policy.
+Placement uses the Guild’s trusted network to connect a member with an external role.
+
+:::warning Review note
+
+The August 2026 audit records a proposed **20% placement fee**, but both the amount and operating owner require confirmation before the handbook presents them as policy.
+
+:::
 
 ## How Spears Relate to Raids
 

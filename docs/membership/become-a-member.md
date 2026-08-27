@@ -26,7 +26,7 @@ Build enough shared context for a member to vouch for your work and judgment:
 5. **Complete the proposal process.** If the proposal passes and is processed, your shares unlock onchain proposals, votes, and the other rights described in [Raid Guild Shares](/docs/membership/raid-guild-shares).
 6. **Synchronize Discord access.** Follow the current Guild.XYZ and role-sync instructions in Discord.
 
-:::warning Confirm before execution
+:::warning Review note · Confirm before execution
 
 The 500 wxDAI / 100 share package was confirmed during the August 2026 audit, but DAO parameters can change. Check current DAO settings before submitting funds or a proposal.
 

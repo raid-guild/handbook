@@ -26,7 +26,7 @@ Keeping these decisions separate gives the wider membership evidence beyond a si
 5. **Sponsor the membership proposal.** Help the candidate prepare an accurate proposal and follow it through processing.
 6. **Stay available.** Championing is an ongoing relationship, not a transaction receipt.
 
-:::warning Confirm the package
+:::warning Review note · Confirm the package
 
 The August 2026 audit confirmed a 500 wxDAI contribution for a new-member cap of 100 shares. Verify current DAO settings before the proposal is submitted.
 

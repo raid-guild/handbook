@@ -11,7 +11,7 @@ In the RaidGuild DAO, shares are non-transferable and specific to this Guild alo
 - **Current new-member package**: **500 wxDAI for 100 shares**.
 - **New Member Cap**: New members can request up to **100 shares** upon joining.
 
-:::warning Verify before transacting
+:::warning Review note · Verify before transacting
 
 DAO parameters can change. The August 2026 steward walkthrough confirmed the 500 wxDAI / 100 share package, but not every historic issuance rule. Check current DAO settings before submitting a membership proposal or transferring funds.
 

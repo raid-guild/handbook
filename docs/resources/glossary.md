@@ -16,7 +16,13 @@ A client-shared Discord space for an engagement. A **Raid** channel is internal;
 
 ### Cohort Graduate
 
-A participant whose Demo Day work has been accepted. The Guild currently also uses **Apprentice** for this stage before full membership.
+A participant whose Demo Day work has been accepted.
+
+:::warning Review note
+
+The Guild currently also uses **Apprentice** for this stage before full membership. Confirm one public term or document the distinction between the two.
+
+:::
 
 ### Keeper of Knowledge
 
@@ -24,7 +30,13 @@ The steward responsibility for durable Guild knowledge across the handbook and o
 
 ### Placement
 
-A developing service that uses the Guild network to connect a member with an external role. The proposed fee and operating policy still require confirmation.
+A service that uses the Guild network to connect a member with an external role.
+
+:::warning Review note
+
+Placement is still developing. Its proposed fee, operating owner, and policy require confirmation.
+
+:::
 
 ### Portal
 

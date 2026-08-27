@@ -37,7 +37,11 @@ Before delivery begins, the party should record:
 
 ## Payment and DAO Shares
 
-Some members may choose to direct an approved portion of compensation toward DAO shares when the DAO’s current rules allow it. This is a governance action, not the default payroll path. Verify the live share price, cap, and proposal requirements before including shares in a payment plan.
+:::warning Review note
+
+Some members may choose to direct an approved portion of compensation toward DAO shares when the DAO’s current rules allow it. Confirm whether this remains an active practice and document the approved process before presenting it as a payment option. This is a governance action, not the default payroll path.
+
+:::
 
 ## Before Funds Move
 

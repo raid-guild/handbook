@@ -21,4 +21,8 @@ Portal is the source of truth for current session times and access. Discord even
 
 ## Hosting Resources
 
+:::warning Review note
+
 The existing [meeting hosting guide](https://hackmd.io/@raidguild/By3kIcxD5/%2FhAvilrVdS1C7sk18J3_BOA) remains linked for review. Confirm its current owner and instructions before treating it as canonical.
+
+:::

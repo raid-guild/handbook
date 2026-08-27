@@ -6,31 +6,32 @@ sidebar_label: Become a Member
 
 # Become a Member
 
-To advance from Apprentice to full RaidGuild Member, you must complete your cohort journey and secure the support of a Champion within the Guild. Your Champion will stake $RAID tokens on your behalf, signaling their confidence in your readiness. For details on how this sponsorship works, see [Champion a New Member](/docs/membership/champion-a-member).
+Full RaidGuild membership recognizes sustained contribution, trusted relationships, and readiness to participate in DAO governance. It is not unlocked by staking RAID.
 
-Once you’ve completed the Champion process and met membership requirements, you’re eligible to ascend to Member status and receive 100 shares in the Raid Guild DAO. Here’s how to proceed:
+## Before You Seek a Champion
 
-## Meeting Membership Expectations
+Build enough shared context for a member to vouch for your work and judgment:
 
-To ensure your Champion’s stake is returned, complete the following within your first **60 days** as a member (starting from when your membership proposal is processed):
+- contribute meaningfully to at least one Raid or RIP;
+- attend Guild meetings available to you;
+- communicate reliably and follow through on commitments; and
+- demonstrate alignment with the Guild’s values and Code of Conduct.
 
-1. **Participate in at Least One Raid or RIP**: Join and actively contribute to at least one Raid or RIP. Projects can be ongoing or completed within this timeframe, provided you are in good standing.
-2. **Attend Guild Meetings**: Participate in at least two Guild meetings, including Roundtables or Raider Rallies, to stay engaged with the community.
-3. **Show Alignment with Guild Values**: Demonstrate your commitment to the Guild’s principles and values, as evaluated by the DAO.
+## Membership Steps
 
-## Steps to Membership
+1. **Find a current member to Champion you.** The Champion should not be the host who approved your cohort demo.
+2. **Join Raider Roundtable with your Champion.** Championing is public: the member announces the relationship, explains why you are ready, and invites member feedback.
+3. **Prepare the membership proposal.** Your Champion helps you submit the onchain proposal and makes sure members have the context needed to vote.
+4. **Contribute the membership buy-in.** The current new-member package is **500 wxDAI for 100 shares**.
+5. **Complete the proposal process.** If the proposal passes and is processed, your shares unlock onchain proposals, votes, and the other rights described in [Raid Guild Shares](/docs/membership/raid-guild-shares).
+6. **Synchronize Discord access.** Follow the current Guild.XYZ and role-sync instructions in Discord.
 
-1. **Submit a Membership Proposal**: Follow the Proposal Process to submit a Membership Proposal. Request enough shares to reach the 100-share cap in the [Raid Guild DAO](https://admin.daohaus.club/#/molochv3/0x64/0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986).
-2. **Include Stake Verification**: In your proposal description, provide a link to the Blockscout transaction showing your Champion’s $RAID stake. This link is essential for the DAO to confirm the staking.
+:::warning Confirm before execution
 
-:::info
-
-**Note**: All new members are capped at 100 Shares, requiring 500 wxDAI.
+The 500 wxDAI / 100 share package was confirmed during the August 2026 audit, but DAO parameters can change. Check current DAO settings before submitting funds or a proposal.
 
 :::
 
-Once your proposal passes and is finalized, you’ll officially hold 100 shares, marking your full membership in Raid Guild!
+## Membership and Paid Work Are Different
 
-## Final Steps: Discord Access
-
-To join member-exclusive channels, follow the instructions on the [Discord Bots](/docs/discord/bots#guildxyz) page. Now, you’re ready to join a Raid!
+DAO shares provide governance rights; they do not automatically make someone eligible for payment. Paid Raid contributors must separately register with RaidGuild LLC and complete light KYC.

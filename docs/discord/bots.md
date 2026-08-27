@@ -4,35 +4,29 @@ title: Discord Bots
 sidebar_label: Discord Bots
 ---
 
-# Discord Bots: Tools of the Guild
+# Discord Bots and Agents
 
-Within the Guild, we rely on several bots to streamline tasks, coordinate events, and verify members. These bots help keep the Guild hall running smoothly, allowing you to focus on what matters: your high quality contributions to the Web3 ecosystem. Here’s a quick guide to the bots you’ll encounter and how to interact with each.
+Automation helps RaidGuild coordinate access, preserve knowledge, and run shared workflows. A bot’s permissions depend on the space in which it appears; never assume every agent can read or write everywhere.
 
----
+## Guild.XYZ
 
-### **Guild.XYZ**
+[Guild.XYZ](https://guild.xyz/) validates wallet-based requirements used for Discord roles and access. Members and cohort graduates / apprentices may be asked to connect their wallet and synchronize the roles available to them.
 
-The [Guild.XYZ](https://guild.xyz/) bot grants roles and permissions by verifying your membership using your wallet. Guild members and Apprentices can unlock additional server access by linking their Discord account to their wallet.
+Follow the current verification prompt in Discord rather than a channel link copied from an older handbook version. If access does not update, use the support path identified in Castle Walls.
 
-#### Steps to Verify with Guild.XYZ:
+## Dungeon Master and RaidGuild Guard
 
-1. Unlock your wallet and set it to the Gnosis Chain network.
-2. Head to <span class="channels">[#🔓 validate-membership](https://discord.com)</span> in our Discord server and click **Verify your member shares**
-3. Follow the linked page's instructions for how to connect your wallet and meet requirements.
-4. After completing the requirements on Guild.XYZ's page, return to Discord and click **Join RaidGuild**.
+Dungeon Master still supports selected legacy data and Discord workflows, including Character Sheet interactions and some Raid operations. It is no longer the main onboarding, calendar, or Guild information surface; use Portal for those jobs.
 
----
+RaidGuild Guard supports arrival verification and channel-management workflows, including moving stale spaces toward Valhalla. Available commands and permissions can change, so consult the live bot prompts before acting.
 
-### **DungeonMaster Worker**
+## Prism / Queen Raida
 
-The DungeonMaster Worker manages two different RaidGuild Discord bots: DungeonMaster and RaidGuild Guard.
+**Prism** is RaidGuild’s organizational agent system and often appears in Discord as **Queen Raida**. It is designed to help turn community activity into durable memory and reusable workflows across Discord, chat, and apps.
 
-The DungeonMaster bot handles the answering queries about DungeonMaster CRM data. It also interacts with CharacterSheets by allowing props tipping, cleric tipping, jester tipping, and attendance recording.
+- Access is scoped per channel and workflow.
+- Some contexts are read-only; others may permit writing or actions.
+- Stewards can have agent profiles tailored to their category and responsibilities.
+- Common uses include meeting notes, content support, operational automation, code generation, and knowledge retrieval with source references.
 
-RaidGuild Guard welcomes everyone who joins the Discord server who is not a bot, and informs them to go to #unlock-channels to view public channels. If newcomers do not verify their account within a certain period of time, they are booted. RaidGuild Guard also handles vairious channel manipulation commands, such as allowing non-members to enter a private channel or sending a stale channel to Valhalla (our channel archives).
-
-[Read more about the Sentry bots](https://hackmd.io/@raidguild/By3kIcxD5/%2F0uqGRkMwS5y-BpVVMtVxNA) for full functionality and commands. Props to Saimano#0272 for their creation!
-
----
-
-With these bots at your service, you’ll have the tools you need to navigate the Guild, communicate effectively, and stay in sync with fellow Raiders.
+Read the full [Prism / Queen Raida guide](/docs/agents/prism) for boundaries, intended uses, and knowledge sources.

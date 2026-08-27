@@ -5,45 +5,38 @@ sidebar_label: Onboarding
 ---
 
 # Discord Onboarding
-**A Step-by-Step Guide to Joining RaidGuild’s Server**
 
-To embark on your journey with RaidGuild, the first step is to join our Discord server, where Guild members gather, plan, and share knowledge. Follow this simple onboarding process to get started:
+Discord and Portal are the first two doors into RaidGuild. You can complete them in either order.
 
-### Step 1: Accept the Invite
+## 1. Create Your Portal Profile
 
-- **Receive your Invite Link**  
-  To join RaidGuild’s Discord, you’ll need an invite link. New members and collaborators typically receive this link directly from a Guild member or through official Guild channels. If you’re an incoming Apprentice or have been granted access, check your email or DMs for the link.
+Visit [Portal](https://portal.raidguild.org), create a profile, and add enough context for other builders to understand your craft and interests. Portal is also the source of truth for cohort interest, sessions, and dates.
 
-- **Click the Link**  
-  Once you have the invite, click on the link to enter the Guild’s Discord server. Make sure you’re logged into Discord or create an account if you’re new to the platform.
+## 2. Join and Verify in Discord
 
-### Step 2: Verify Your Account
+Accept the [RaidGuild Discord invite](https://discord.gg/rGFpfQf) and complete the verification steps shown when you arrive. Verification keeps the server usable and unlocks the public spaces available to you.
 
-- **Complete Verification**  
-  When you join, you’ll be prompted to verify your account. Follow the instructions to complete this step. This helps us maintain a secure and bot-free server.
+## 3. Start at Castle Walls
 
-### Step 3: Introduce Yourself
+**Castle Walls** contains the current arrival instructions and next steps. Follow the channel prompts there rather than relying on a hardcoded channel name in this handbook—the server can change faster than this page.
 
-- **Head to #tavern**  
-  Now that you’ve got the basics, introduce yourself! Share a bit about who you are, your skills, and what brings you to RaidGuild. This is a great way to start connecting with other Guild members and let us know how you’d like to contribute.
+When prompted, introduce yourself with:
 
-### Step 4: Set Up Notifications
+- what you build or practice;
+- what brought you to RaidGuild;
+- what you hope to learn or contribute; and
+- a link to your Portal profile or relevant work.
 
-- **Customize Your Notifications**  
-  To keep your notifications manageable, adjust your settings in each channel as needed. Most members choose to set alerts for key channels like #announcements while muting others until they’re actively participating.
+## 4. Find the Live Calendar
 
-### Step 5: Explore Channels and Get Involved
+Browse sessions in [Portal](https://portal.raidguild.org). Portal is the primary calendar for public and member-only sessions; Discord events may mirror selected gatherings.
 
-- **Navigate the Server**  
-  Familiarize yourself with our various channels, each dedicated to different areas of Guild operations. Some key channels to explore include:
-  - **#tavern** for casual discussion and community building
-  - **#client-arena** a general chat for all RaidGuild Clients
-  - **#product-support** for Raid Guild-owned products only (not products built for clients). Smart Invoice, WrapETH, etc...
+## 5. Sync Your Access
 
-- **Ask Questions in #help**  
-  If you’re unsure about anything, head to the #help channel. Guild members and moderators are ready to assist with any questions about the server or Guild processes.
+Guild.XYZ, Discord moderation, and Hats-based workflows help synchronize roles and channel access. If your cohort, apprentice, steward, or member access looks wrong, follow the current support instructions in Castle Walls or ask a moderator in the space identified there.
 
-### Step 6: Sync with Your Guild Role
+:::note Maintainer verification
 
-- **Gain Access to Apprentice or Member Channels**  
-  If you’re an Apprentice or have an official Guild role, a moderator will help you gain access to specific channels related to your role. Keep an eye out for a message from a Guild leader or moderator to finalize your role setup.
+Before publishing this proposal, confirm the exact introduction and help channels in the live server. This draft intentionally avoids naming `#tavern`, `#help`, or `@Tavern Keeper` without that check.
+
+:::

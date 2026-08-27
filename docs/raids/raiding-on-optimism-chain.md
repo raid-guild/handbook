@@ -4,6 +4,12 @@ title: Raiding on Optimism Chain
 sidebar_label: Raiding on Optimism Chain
 ---
 
+:::warning Legacy / under review
+
+This page documents a time-bound 2024–2025 experiment. Its legal-formation rationale is outdated now that RaidGuild DAO LLC exists, and its contracts, membership rules, and payment flow have not been re-verified. Consult Ganggang or the current finance operators before using it.
+
+:::
+
 ## Why Raid on Optimism?
 
 RaidGuild has lived on Gnosis chain for over 3 years, so why change chains now? There are medium-sized reasons: Optimism has better on/off-ramps, more liquidity, more third-party providers and tooling, a bigger builder community, and a stronger and more aligned vision. By simply considering the user experience for members and clients on Optimism vs Gnosis, the benefit of switching seems obvious. However, there is a larger reason why members should consider raiding on Optimism: **it is being used to fund a new and clearer legal structure for our DAO.**

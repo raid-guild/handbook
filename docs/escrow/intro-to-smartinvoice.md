@@ -4,6 +4,12 @@ title: Intro to Smart Invoice
 sidebar_label: Intro to Smart Invoice
 ---
 
+:::info Optional payment tool
+
+Smart Invoice is still used for some Raids and RIPs, but it is not required for every engagement or the only payment path. Confirm the chosen flow with the responsible Cleric and client before creating an escrow.
+
+:::
+
 # Introduction to Smart Invoice
 
 RaidGuild has partnered with [SmartInvoice](https://smartinvoice.xyz) to facilitate Escrow services, ensuring secure and transparent transactions. SmartInvoice, originally created within the guild, has since grown to become an independent tool, supporting both clients and guild members in maintaining trust throughout their projects.

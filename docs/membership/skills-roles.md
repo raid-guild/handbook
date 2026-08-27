@@ -6,6 +6,12 @@ sidebar_label: Skills & Roles
 
 # Skills & Roles in the Guild
 
+:::info Skills and stewardship
+
+Class roles describe the craft people bring to Raids. Delegated **Stewards** are separate Hats-based responsibilities for Guild operations; see [DAO Roles](/docs/dao-operations/dao-roles). Steward wearers change over time, so this page does not list individual names.
+
+:::
+
 Skills in RaidGuild help showcase each member’s skill set and expertise, making it easy to assemble the right team for any Raid. Assign a role only if you’re prepared to contribute actively in that area.
 
 To assign yourself a role, go to the <span class="channels">#equip-skills</span> channel on Discord. Use the emojis under each role description to automatically add the role to your profile.

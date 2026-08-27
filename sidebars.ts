@@ -41,7 +41,13 @@ const sidebars: SidebarsConfig = {
       "escrow/create-an-escrow",
       "escrow/funding-an-escrow",
     ],
-    Resources: ["resources/learn-about-web3", "resources/glossary"],
+    Spears: ["spears/tips-of-the-spear"],
+    Agents: ["agents/prism"],
+    Resources: [
+      "resources/learn-about-web3",
+      "resources/learn-about-ai",
+      "resources/glossary",
+    ],
   },
 };
 

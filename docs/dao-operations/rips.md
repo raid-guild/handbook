@@ -4,56 +4,31 @@ title: RIPs
 sidebar_label: RIPs
 ---
 
-# RaidGuild Improvement Proposals (RIPs)
+# RaidGuild Improvement Proposals
 
-RaidGuild Improvement Proposals, or **RIPs**, are essential for keeping the Guild operating at full potential. While RIPs primarily focus on internal operations, some proposals have resulted in open-source tools that benefit the entire web3 community. **Smart Invoice**, a payment escrow tool, is one example that began as a Guild project and is now widely used outside of our DAO.
+A **RIP** is a RaidGuild Improvement Process or Proposal: a durable way to develop, fund, and record improvements to the Guild. RIPs may change operations, create shared tools, or fund internal work.
 
----
+## Recommended Path
 
-## Requesting Funding for an RIP
+1. **Post the idea in [Portal](https://portal.raidguild.org).** Give people a readable starting point and explain the problem, beneficiaries, and intended outcome.
+2. **Open discussion in Discord.** Use the current RIP or governance space to invite objections, collaborators, and alternatives.
+3. **Deliberate and negotiate.** Refine scope, ownership, budget, success criteria, and any operating or security implications.
+4. **Write the final RIP in GitHub.** Use the [RIPs repository](https://github.com/raid-guild/RIPs) as the durable artifact for the proposal members are actually evaluating.
+5. **Submit the onchain proposal.** Link the final RIP and make sure eligible voters know the vote is live.
 
-To secure funding for a RIP, it’s recommended to start by gaining soft consensus from the DAO before submitting an official proposal on-chain. Here’s the process:
+Members are technically able to go directly onchain, but that does not remove the proposer’s responsibility to do due diligence and communicate. Voters should be skeptical of proposals that skipped socialization without a good reason.
 
-1. **Create an Issue**: Open a new issue in the [RIPs Repository](https://github.com/raid-guild/RIPs/issues/new?assignees=&labels=RIP&template=rip-request.md&title=) describing the proposal’s value to the DAO and the planned approach.
-2. **Add to RIP Requests**: Add the issue to the [RIP Requests Project](https://github.com/raid-guild/RIPs/projects/1) or request a Keeper’s assistance.
-3. **Engage in Discord**: Share the issue link in the <span class='channels'>#rip-discussion</span> channel in Discord to invite feedback and ideas.
+## A Strong RIP Includes
 
-If your RIP requires additional expertise, post a brief description and link in the <span class='channels'>#who-is-available</span> channel to recruit team members. Present your proposal at the weekly Roundtable to refine it further.
+- the problem and why it matters now;
+- the proposed approach and alternatives considered;
+- owner or party, milestones, and expected deliverables;
+- budget, payment path, and any use of escrow;
+- risks, dependencies, and success criteria; and
+- links to the relevant Portal and Discord discussion.
 
-### Making a Funding Proposal
+## Funding and Payment
 
-Once your team is ready, follow the steps outlined in Proposal Types to submit a formal request for DAO funding to bring your RIP to life.
+Define the release conditions before work begins. Smart Invoice or another escrow arrangement may be useful, but escrow is optional rather than a universal requirement. For paid contributors, follow the current [RaidGuild LLC and payment requirements](/docs/raids/getting-paid).
 
----
-
-## Deliverables and Accountability
-
-To improve transparency and accountability, we use an escrow system where the DAO approves the final deliverables before payment is released. To align expectations, clearly outline all expected deliverables in your proposal.
-
----
-
-## Escrow Options
-
-For RIP projects, we leverage [SmartInvoice](https://app.smartinvoice.xyz) from within [Dungeon Master](https://dm.raidguild.org). The recommended solution is to have [Ganggang](/docs/dao-operations/dao-roles#ganggang---quality-assurance-delegates) be the client (or release address)
-
-- DAO co-signature for fund releases
-- DAO control over funds, with the ability to withdraw if needed
-
-### Escrow Process
-
-1. **Proposal Acceptance**: Upon RIP approval, include escrow details (such as a shared minion address) in your proposal.
-2. **Fund Transfer**: Once accepted, funds are transferred to the chosen escrow.
-3. **RIP Execution**: The RIP party completes the project work.
-4. **Review Status**: The RIP moves to “Review” status and is discussed during the Roundtable.
-5. **Proposal for Fund Release**: After review, a proposal is submitted for DAO approval to release the funds.
-6. **DAO Approval and Payment**: The DAO votes to approve the release, transferring funds upon successful completion.
-
-### Dispute Resolution
-
-In cases of dispute, the process will depend on the escrow method. For example, a shared minion escrow could involve a resolution flow with LexDAO if necessary.
-
-> **Note**: As we continue to refine the escrow process, alternative escrow setups can be proposed for DAO consideration.
-
----
-
-RIPs are a cornerstone of Raid Guild’s evolution, and by carefully planning, funding, and executing these proposals, you contribute to our collective success and sustainability. Let’s build, improve, and strengthen the Guild together!
+After delivery, bring the result back to the Roundtable or relevant steward space, record what shipped, and make the outcome easy to find from the GitHub RIP.

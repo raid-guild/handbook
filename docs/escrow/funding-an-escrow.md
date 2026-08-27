@@ -4,6 +4,12 @@ title: Funding an Escrow
 sidebar_label: Funding an Escrow
 ---
 
+:::warning Verify before funding
+
+Smart Invoice is an optional tool. This page’s interface and transaction steps may change; verify the live escrow address, network, token, and amount with the Raid Party and client before sending funds.
+
+:::
+
 :::danger WARNING
 
 Before sending any funds to an escrow ensure that the client address can call the proper functions to `release` and `lock`

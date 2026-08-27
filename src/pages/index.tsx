@@ -1,131 +1,188 @@
 import type { ReactNode } from "react";
 import Link from "@docusaurus/Link";
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import styles from "./styles.module.css";
 
-type JourneyItem = {
+type RouteCardProps = {
+  index: string;
   title: string;
-  label: string;
   description: string;
-  icon: string;
+  image: string;
   to: string;
 };
 
-const journeys: JourneyItem[] = [
+const routes: RouteCardProps[] = [
   {
-    title: "Know the Guild",
-    label: "Overview",
+    index: "01",
+    title: "Find the Guild",
     description:
-      "Meet Raid Guild, learn our code of conduct, and understand the values behind how we work together.",
-    icon: "img/brand/icons/community.svg",
+      "Understand the fellowship, its values, and the shared operating system behind every Raid.",
+    image: "img/brand/louchi/spear-edge-problem-v1.webp",
     to: "/docs/overview/intro",
   },
   {
+    index: "02",
     title: "Join the Party",
-    label: "Membership",
     description:
-      "Find your path from applicant to apprentice to member, including roles, expectations, and guild shares.",
-    icon: "img/brand/icons/dao.svg",
+      "Move from Portal profile and cohort to trusted contributor and full DAO member.",
+    image: "img/brand/louchi/spear-applied-ai-v1.webp",
     to: "/docs/membership/join-the-guild",
   },
   {
-    title: "Go on a Raid",
-    label: "Raiding",
+    index: "03",
+    title: "Ship a Raid",
     description:
-      "Learn the practices, responsibilities, payment flows, and tools that keep client work moving smoothly.",
-    icon: "img/brand/icons/sprint.svg",
+      "Assemble the right party, make the work legible, and deliver at the frontier.",
+    image: "img/brand/louchi/spear-onchain-v1.webp",
     to: "/docs/raids/intro-to-raiding",
   },
 ];
 
-function JourneyCard({ title, label, description, icon, to }: JourneyItem) {
+function RouteCard({ index, title, description, image, to }: RouteCardProps) {
   return (
-    <Link className={styles.journeyCard} to={to}>
-      <img className={styles.journeyIcon} src={useBaseUrl(icon)} alt="" />
-      <p className={styles.cardLabel}>{label}</p>
+    <Link className={styles.routeCard} to={to}>
+      <div className={styles.routeImage}>
+        <img src={useBaseUrl(image)} alt="" />
+      </div>
+      <div className={styles.routeMeta}>
+        <span>{index}</span>
+        <span>Field route</span>
+      </div>
       <h3>{title}</h3>
       <p>{description}</p>
-      <span className={styles.cardLink} aria-hidden="true">
-        Explore <span>→</span>
+      <span className={styles.routeLink} aria-hidden="true">
+        Open route <span>↗</span>
       </span>
     </Link>
   );
 }
 
 export default function Home(): ReactNode {
-  const { siteConfig } = useDocusaurusContext();
-  const heroArtwork = useBaseUrl("img/brand/forge-fire.webp");
-  const guildSymbol = useBaseUrl("img/brand/symbol-m500.svg");
+  const builders = useBaseUrl("img/brand/louchi/guild-builders-v1.png");
+  const panorama = useBaseUrl(
+    "img/brand/louchi/raidguild-panorama-night-v1.webp",
+  );
+  const symbol = useBaseUrl("img/brand/symbol-black.svg");
 
   return (
-    <Layout title={siteConfig.title} description={siteConfig.tagline}>
+    <Layout
+      title="RaidGuild Handbook"
+      description="The field guide for joining RaidGuild, governing the DAO, and shipping frontier work."
+    >
       <header className={styles.hero}>
+        <div className={styles.heroOrbit} aria-hidden="true" />
         <div className={`container ${styles.heroGrid}`}>
           <div className={styles.heroCopy}>
-            <p className={styles.eyebrow}>Knowledge for the guild</p>
+            <p className={styles.kicker}>Field guide · Louchi reign · 2026</p>
             <h1>
-              RaidGuild <span>Handbook</span>
+              The map for where the Guild goes <em>next.</em>
             </h1>
             <p className={styles.heroLead}>
-              Your field guide to joining the guild, collaborating with fellow
-              raiders, and shipping excellent work together.
+              Join the fellowship. Learn the operating lore. Assemble a party
+              for ambitious work across Web3, applied AI, and the frontier
+              beyond.
             </p>
             <div className={styles.heroActions}>
               <Link className={styles.primaryAction} to="/docs/overview/intro">
-                Enter the handbook
+                Enter the handbook <span aria-hidden="true">↗</span>
               </Link>
               <Link
                 className={styles.secondaryAction}
-                href="https://raidguild.org"
+                href="https://portal.raidguild.org"
               >
-                Visit RaidGuild.org
+                Open Portal
               </Link>
             </div>
           </div>
-          <div className={styles.heroArtwork}>
+
+          <div className={styles.heroVisual}>
+            <div className={styles.coordinateLabel}>
+              <span>39.7392° N</span>
+              <span>Venture beyond</span>
+            </div>
             <img
-              src={heroArtwork}
-              alt="Raid Guild builders working together around a forge"
+              className={styles.builders}
+              src={builders}
+              alt="Three RaidGuild builders equipped for their work"
             />
+            <p className={styles.figureNote}>
+              A builder-owned collective for the next unknown.
+            </p>
+          </div>
+        </div>
+        <div className={styles.signalBar}>
+          <div className="container">
+            <span>Portal first</span>
+            <span>Monthly cohorts</span>
+            <span>Builder owned</span>
+            <span>Web3 + applied AI</span>
           </div>
         </div>
       </header>
 
       <main>
-        <section className={styles.journeys} aria-labelledby="journeys-title">
+        <section className={styles.routes} aria-labelledby="routes-title">
           <div className="container">
             <div className={styles.sectionHeading}>
-              <p className={styles.eyebrow}>Find your path</p>
-              <h2 id="journeys-title">Start where you are. Raid from there.</h2>
+              <p className={styles.kicker}>Choose a direction</p>
+              <h2 id="routes-title">Start where you are. Raid from there.</h2>
               <p>
-                The handbook is organized around the moments that matter most:
-                understanding the guild, becoming a member, and doing the work.
+                The handbook is organized around the moments that matter:
+                finding the Guild, entering the community, and doing excellent
+                work together.
               </p>
             </div>
-            <div className={styles.journeyGrid}>
-              {journeys.map((journey) => (
-                <JourneyCard key={journey.title} {...journey} />
+            <div className={styles.routeGrid}>
+              {routes.map((route) => (
+                <RouteCard key={route.index} {...route} />
               ))}
             </div>
           </div>
         </section>
 
-        <section className={styles.closingCta}>
-          <div className={`container ${styles.closingCtaInner}`}>
-            <img src={guildSymbol} alt="" />
+        <section className={styles.fieldNotes}>
+          <div className={`container ${styles.notesGrid}`}>
             <div>
-              <p className={styles.eyebrow}>A living document</p>
-              <h2>Built by the guild. Maintained by its members.</h2>
-              <p>
-                Use this handbook as a shared source of truth—and help improve
-                it as our practices evolve.
-              </p>
+              <p className={styles.kicker}>New field notes</p>
+              <h2>Specialize without losing the Guild.</h2>
             </div>
-            <Link className={styles.lightAction} to="/docs/overview/intro">
-              Start reading
+            <p>
+              Tips of the Spear develop focused practices while sharing the
+              network, reputation, contracts, and hard-won knowledge of
+              RaidGuild.
+            </p>
+            <Link to="/docs/spears/tips-of-the-spear">
+              Explore the Spears <span aria-hidden="true">→</span>
             </Link>
+          </div>
+        </section>
+
+        <section
+          className={styles.panorama}
+          style={{ backgroundImage: `url(${panorama})` }}
+          aria-labelledby="beyond-title"
+        >
+          <div className={styles.panoramaShade} />
+          <div className={`container ${styles.panoramaContent}`}>
+            <img src={symbol} alt="" />
+            <p className={styles.kicker}>The handbook is alive</p>
+            <h2 id="beyond-title">Venture beyond the page.</h2>
+            <p>
+              Use the handbook for durable patterns, Portal for the live Guild,
+              and Discord for the conversation unfolding now.
+            </p>
+            <div className={styles.heroActions}>
+              <Link
+                className={styles.lightAction}
+                href="https://portal.raidguild.org"
+              >
+                Enter Portal
+              </Link>
+              <Link className={styles.nightAction} to="/docs/agents/prism">
+                Meet Queen Raida
+              </Link>
+            </div>
           </div>
         </section>
       </main>

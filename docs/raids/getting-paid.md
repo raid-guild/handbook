@@ -1,42 +1,50 @@
 ---
 id: getting-paid
-title: Getting paid for your work on a Raid or RIP
+title: Getting Paid for Raid Work
 sidebar_label: Getting Paid
 ---
 
-# Getting Paid for Raids or RIPs
+# Getting Paid for Raid Work
 
-As a Raider completing work for a Raid or RIP, securing payment follows a structured process to ensure transparency and fairness. Here’s how to request your payment, manage Guild spoils, and optionally purchase shares to increase your stake in RaidGuild.
+RaidGuild uses a common legal and operating path for client work. The normal flow is:
 
----
+1. the client pays RaidGuild under the agreed contract and payment schedule;
+2. the Guild retains **10% of client revenue as spoils**; and
+3. the remainder is paid to the Raid Party according to the split agreed before the work.
 
-## Requesting Payment
+## RaidGuild LLC Registration
 
-To receive payment for a completed Raid or RIP, submit a **funding proposal** to RaidGuild DAO. This proposal should specify the amount requested, based on the terms agreed upon by the Raid Party.
+Paid contributors must be registered with **RaidGuild DAO LLC**, a Marshall Islands DAO LLC administered through MiDAO, and complete its light KYC process.
 
-You may elect to receive up to **20% of your payment in voting shares**, with the remaining amount provided in **Loot** or another approved token, such as **wxDAI**.
+:::warning Membership is not payroll registration
 
----
+Holding RaidGuild DAO shares does not automatically make you eligible to receive Raid payments. DAO membership and LLC registration are separate requirements.
 
-## Spoils and Shares
+:::
 
-### Guild Spoils Contribution (10%)
+Complete the current registration workflow before the party expects to distribute funds. Ask the responsible Cleric or finance steward for the live form and requirements rather than relying on a static link that may expire.
 
-For each payment made to a Raid Party, **10% of the total invoice** is contributed to RaidGuild as Guild spoils. This tribute supports the Guild’s infrastructure, covering resources and the network that helped bring in the client.
+## Agree on the Split First
 
-- **Example**: If a milestone payment from a client is 1,000 DAI, 100 DAI will be allocated to the Guild as spoils, leaving 900 DAI for distribution among Raid Party members.
+Before delivery begins, the party should record:
 
-This contribution ensures that RaidGuild’s ecosystem thrives and continues to provide opportunities for all members.
+- total scope and payment schedule;
+- the mandatory 10% Guild spoils;
+- each party member’s amount or percentage;
+- who is responsible for invoicing and distribution;
+- whether Smart Invoice or another escrow path will be used; and
+- what happens if scope, staffing, or timing changes.
 
-### Member Share Purchase (Optional, Up to 20%)
+## Payment and DAO Shares
 
-To strengthen their involvement within RaidGuild, members can use **up to 20% of their earnings** from any Raid to purchase voting shares as proof of contribution.
+Some members may choose to direct an approved portion of compensation toward DAO shares when the DAO’s current rules allow it. This is a governance action, not the default payroll path. Verify the live share price, cap, and proposal requirements before including shares in a payment plan.
 
-- **Share Cost**: Shares are valued at **5 wxDAI per share**.
-- **Example**: If a member receives 1,000 DAI for their work, they can allocate up to 200 DAI to purchase shares, acquiring up to 40 voting shares.
+## Before Funds Move
 
-This option allows members to increase their ownership within RaidGuild without diluting existing shares, as shares are purchased rather than issued for free. The 20% cap maintains balance and prevents excessive accumulation of shares in the Guild.
+- Confirm the client payment has cleared.
+- Confirm the invoice, spoils, and party split match the written agreement.
+- Confirm every recipient is eligible through the LLC process.
+- Confirm wallet or banking details through the approved private workflow.
+- Keep transaction and payment evidence available to the party and the appropriate Guild operators.
 
---- 
-
-Following these steps and understanding the Guild’s payment structure will ensure timely compensation and provide pathways for increased involvement and influence within RaidGuild.
+This page describes operating practice, not legal or tax advice. Contributors remain responsible for their own obligations in their jurisdiction.

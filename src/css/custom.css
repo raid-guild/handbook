@@ -8,6 +8,22 @@
 
 @font-face {
   font-display: swap;
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/UbuntuMono-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/UbuntuMono-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-display: swap;
   font-family: "Mazius Display";
   font-style: normal;
   font-weight: 700;
@@ -31,32 +47,44 @@
 }
 
 :root {
-  --rg-moloch-100: #faeeeb;
-  --rg-moloch-200: #efc5bb;
-  --rg-moloch-300: #e39b8b;
-  --rg-moloch-400: #d25c41;
-  --rg-moloch-500: #bd482d;
-  --rg-moloch-600: #8b3521;
-  --rg-moloch-700: #5c2316;
-  --rg-moloch-800: #29100a;
-  --rg-scroll-100: #f9f7e7;
-  --rg-scroll-200: #ece5ac;
-  --rg-scroll-300: #dccd6a;
-  --rg-scroll-400: #d2c141;
-  --rg-scroll-500: #b5a22c;
-  --rg-scroll-600: #837820;
-  --rg-scroll-700: #534a13;
-  --rg-scroll-800: #211e07;
-  --rg-neutral-100: #f1efee;
-  --rg-neutral-200: #d5cecd;
-  --rg-neutral-300: #b9aeac;
-  --rg-neutral-400: #9e8e8a;
-  --rg-neutral-500: #806f6b;
-  --rg-neutral-600: #645754;
-  --rg-neutral-700: #433937;
-  --rg-neutral-800: #221d1c;
-  --rg-neutral-white: #fafafa;
-  --rg-neutral-black: #0d0d0d;
+  --rg-ink: #102d2c;
+  --rg-deep-teal: #0a292b;
+  --rg-cyan: #b8e0df;
+  --rg-parchment: #efe9d7;
+  --rg-coral: #ee3c78;
+  --rg-acid: #d7e34d;
+  --rg-night-sky: #071722;
+  --rg-night-depth: #06141f;
+  --rg-moon-cyan: #8fe3ef;
+  --rg-night-parchment: #e8e6d9;
+  --rg-border: #9db2ac;
+  --rg-teal-700: #315654;
+  --rg-moloch-100: #e7f4f3;
+  --rg-moloch-200: #b8e0df;
+  --rg-moloch-300: #78c5c3;
+  --rg-moloch-400: #ee709a;
+  --rg-moloch-500: #ee3c78;
+  --rg-moloch-600: #b84067;
+  --rg-moloch-700: #315654;
+  --rg-moloch-800: #0a292b;
+  --rg-scroll-100: #efe9d7;
+  --rg-scroll-200: #e5dfc8;
+  --rg-scroll-300: #d7e34d;
+  --rg-scroll-400: #c7d13f;
+  --rg-scroll-500: #9fa82f;
+  --rg-scroll-600: #667325;
+  --rg-scroll-700: #102d2c;
+  --rg-scroll-800: #071c1d;
+  --rg-neutral-100: #e7eeea;
+  --rg-neutral-200: #cbd9d3;
+  --rg-neutral-300: #a7bdb7;
+  --rg-neutral-400: #799590;
+  --rg-neutral-500: #58746f;
+  --rg-neutral-600: #3e5d59;
+  --rg-neutral-700: #274440;
+  --rg-neutral-800: #102d2c;
+  --rg-neutral-white: #fffdf5;
+  --rg-neutral-black: #060609;
   --rg-font-display: "Mazius Display", Georgia, serif;
   --rg-font-body: "EB Garamond", Garamond, Georgia, serif;
   --rg-font-mono: "Ubuntu Mono", "SFMono-Regular", Consolas, monospace;
@@ -65,10 +93,10 @@
 
   --ifm-background-color: var(--rg-scroll-100);
   --ifm-background-surface-color: var(--rg-neutral-100);
-  --ifm-card-background-color: var(--rg-scroll-100);
+  --ifm-card-background-color: #f5f0e2;
   --ifm-color-primary: var(--rg-moloch-500);
   --ifm-color-primary-dark: var(--rg-moloch-600);
-  --ifm-color-primary-darker: #7e301e;
+  --ifm-color-primary-darker: #a6315a;
   --ifm-color-primary-darkest: var(--rg-moloch-700);
   --ifm-color-primary-light: var(--rg-moloch-400);
   --ifm-color-primary-lighter: var(--rg-moloch-300);
@@ -88,7 +116,7 @@
   --ifm-font-size-base: 18px;
   --ifm-heading-color: var(--rg-moloch-800);
   --ifm-heading-font-family: var(--rg-font-display);
-  --ifm-heading-font-weight: 700;
+  --ifm-heading-font-weight: 400;
   --ifm-heading-line-height: 1.18;
   --ifm-link-color: var(--rg-moloch-500);
   --ifm-link-hover-color: var(--rg-moloch-700);
@@ -100,7 +128,7 @@
   --ifm-navbar-height: 4.5rem;
   --ifm-navbar-link-color: var(--rg-moloch-800);
   --ifm-navbar-link-hover-color: var(--rg-moloch-500);
-  --ifm-footer-background-color: var(--rg-moloch-800);
+  --ifm-footer-background-color: var(--rg-night-depth);
   --ifm-footer-color: var(--rg-neutral-200);
   --ifm-footer-link-color: var(--rg-scroll-100);
   --ifm-footer-title-color: var(--rg-moloch-300);
@@ -125,51 +153,51 @@
 }
 
 html[data-theme="dark"] {
-  --ifm-background-color: var(--rg-moloch-800);
-  --ifm-background-surface-color: var(--rg-moloch-700);
-  --ifm-card-background-color: var(--rg-moloch-700);
-  --ifm-color-primary: var(--rg-moloch-300);
-  --ifm-color-primary-dark: var(--rg-moloch-400);
-  --ifm-color-primary-darker: var(--rg-moloch-500);
-  --ifm-color-primary-darkest: var(--rg-moloch-600);
-  --ifm-color-primary-light: var(--rg-moloch-200);
-  --ifm-color-primary-lighter: var(--rg-moloch-100);
-  --ifm-color-primary-lightest: var(--rg-scroll-100);
-  --ifm-color-emphasis-100: #36170f;
-  --ifm-color-emphasis-200: var(--rg-moloch-700);
-  --ifm-color-emphasis-300: var(--rg-moloch-600);
-  --ifm-color-emphasis-400: var(--rg-neutral-600);
-  --ifm-color-emphasis-500: var(--rg-neutral-500);
-  --ifm-color-emphasis-600: var(--rg-neutral-400);
-  --ifm-color-emphasis-700: var(--rg-neutral-300);
-  --ifm-color-emphasis-800: var(--rg-neutral-200);
-  --ifm-font-color-base: var(--rg-scroll-100);
-  --ifm-font-color-secondary: var(--rg-neutral-300);
-  --ifm-heading-color: var(--rg-scroll-100);
-  --ifm-link-color: var(--rg-moloch-300);
-  --ifm-link-hover-color: var(--rg-moloch-200);
+  --ifm-background-color: var(--rg-night-sky);
+  --ifm-background-surface-color: var(--rg-night-depth);
+  --ifm-card-background-color: #0a1f2d;
+  --ifm-color-primary: var(--rg-moon-cyan);
+  --ifm-color-primary-dark: #6bc7d3;
+  --ifm-color-primary-darker: #53b6c3;
+  --ifm-color-primary-darkest: #3b8f99;
+  --ifm-color-primary-light: #a8eaf2;
+  --ifm-color-primary-lighter: #bfeff5;
+  --ifm-color-primary-lightest: #d9f7fa;
+  --ifm-color-emphasis-100: #0a1f2d;
+  --ifm-color-emphasis-200: #163949;
+  --ifm-color-emphasis-300: #3e5d68;
+  --ifm-color-emphasis-400: #58747d;
+  --ifm-color-emphasis-500: #79959c;
+  --ifm-color-emphasis-600: #9db3b8;
+  --ifm-color-emphasis-700: #bfd0d1;
+  --ifm-color-emphasis-800: #d9e3df;
+  --ifm-font-color-base: var(--rg-night-parchment);
+  --ifm-font-color-secondary: #b8e0df;
+  --ifm-heading-color: #f1edde;
+  --ifm-link-color: var(--rg-moon-cyan);
+  --ifm-link-hover-color: #c4f4fa;
   --ifm-navbar-background-color: color-mix(
     in srgb,
-    var(--rg-moloch-800) 94%,
+    var(--rg-night-depth) 94%,
     transparent
   );
   --ifm-navbar-link-color: var(--rg-scroll-100);
   --ifm-navbar-link-hover-color: var(--rg-moloch-300);
-  --ifm-code-background: #36170f;
-  --ifm-code-color: var(--rg-moloch-200);
-  --ifm-menu-color-active: var(--rg-moloch-200);
-  --ifm-menu-color-background-active: #422017;
-  --ifm-toc-border-color: var(--rg-moloch-600);
-  --ifm-table-border-color: var(--rg-moloch-600);
-  --ifm-table-head-background: #422017;
+  --ifm-code-background: #0a1f2d;
+  --ifm-code-color: var(--rg-moon-cyan);
+  --ifm-menu-color-active: var(--rg-moon-cyan);
+  --ifm-menu-color-background-active: #173c4d;
+  --ifm-toc-border-color: #3e5d68;
+  --ifm-table-border-color: #3e5d68;
+  --ifm-table-head-background: #173c4d;
 
-  --search-local-modal-background: var(--rg-moloch-800);
-  --search-local-hit-background: var(--rg-moloch-700);
-  --search-local-hit-color: var(--rg-scroll-100);
-  --search-local-highlight-color: var(--rg-moloch-300);
-  --search-local-muted-color: var(--rg-neutral-300);
-  --search-local-hit-active-color: var(--rg-moloch-800);
-  --search-local-input-active-border-color: var(--rg-moloch-300);
+  --search-local-modal-background: var(--rg-night-depth);
+  --search-local-hit-background: #0a1f2d;
+  --search-local-hit-color: var(--rg-night-parchment);
+  --search-local-highlight-color: var(--rg-moon-cyan);
+  --search-local-muted-color: #b8e0df;
+  --search-local-hit-active-color: var(--rg-night-sky);
+  --search-local-input-active-border-color: var(--rg-moon-cyan);
 }
 
 html {
@@ -230,7 +258,8 @@ h6 {
 
 strong,
 b {
-  font-weight: 700;
+  color: var(--ifm-heading-color);
+  font-weight: inherit;
 }
 
 ::selection {
@@ -275,6 +304,21 @@ input:focus-visible {
   max-width: 10rem;
   object-fit: contain;
   width: auto;
+}
+
+html[data-theme="dark"] .navbar__logo img {
+  filter: invert(1);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: var(--rg-night-depth);
+  --ifm-footer-color: var(--rg-night-parchment);
+  --ifm-footer-link-color: var(--rg-night-parchment);
+  --ifm-footer-title-color: var(--rg-moon-cyan);
+}
+
+.footer__logo {
+  filter: invert(1);
 }
 
 .navbar__link {

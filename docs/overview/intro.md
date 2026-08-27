@@ -3,37 +3,36 @@ id: intro
 title: Intro
 sidebar_label: Intro
 ---
+
 # Introduction to the RaidGuild Handbook
 
-Welcome to the RaidGuild Handbook, the essential guide for all who embark on quests within our Guild. This compendium serves as both a map and a manual, laying out the key practices, principles, and protocols that define RaidGuild’s operations. Whether you are a fresh recruit or a seasoned Guild member, this handbook is designed to equip you with the knowledge and skills necessary to contribute effectively to the Guild and uphold its storied legacy.
+Welcome to RaidGuild’s field guide. This handbook maps the practices, principles, and protocols that help our builder-owned collective work together. It is useful whether you have just found the Guild, are moving through a cohort, or already carry years of Raid lore.
 
-### What to Expect in the Handbook
+RaidGuild brings together builders working in Web3, applied AI, and other frontier fields. The work changes; the through-line is a trusted network that learns together, assembles strong parties, and ships ambitious work.
 
-Each section of the handbook illuminates a critical aspect of Guild life, from the essentials of joining and contributing to navigating the intricacies of the DAO mechanism itself. As you journey through these pages, you’ll find comprehensive guidance on:
+:::tip Start with Portal
 
-1. **Guild Overview**  
-   Start here to grasp RaidGuild’s mission, values, and foundational principles. Understand what it means to be part of this decentralized alliance and the high standards we uphold across all our endeavors.
+[Portal](https://portal.raidguild.org) is the live home for profiles, cohort interest, sessions, posts, and Guild updates. Discord is where the day-to-day conversation happens; this handbook explains the durable patterns behind both.
 
-2. **Discord: Communication and Coordination**  
-   Learn the ins and outs of our primary communication hub. This section covers etiquette, onboarding, and meeting protocols, ensuring smooth collaboration across all projects and Guild initiatives.
+:::
 
-3. **Membership**  
-   This section outlines the path from Apprentice to full Guild Member, detailing roles, responsibilities, and the steps to deepen your commitment to the Guild. Understand how to earn your stripes and contribute meaningfully to our community.
+## What to Expect
 
-4. **DAO Operations**  
-   Discover how RaidGuild governs itself. This chapter explains decentralized decision-making, resource management, and the technical essentials of using tokens, our governance process, and proposals within our DAO.
+1. **Overview** — Learn RaidGuild’s mission, values, and shared standards.
+2. **Discord** — Find your way through the Guild hall, from first arrival to Raid coordination.
+3. **Membership** — Follow the path from cohort participant to graduate or apprentice, then to full member.
+4. **DAO Operations** — Understand proposals, shares, stewardship, and the tools used to govern the Guild.
+5. **Raids** — Learn how parties form, deliver client work, and share payment.
+6. **Escrow** — Use Smart Invoice when it fits the engagement; it is an optional payment tool, not the only path.
+7. **Tips of the Spear** — Explore specialized practices that inherit the Guild’s community, reputation, and operating backbone.
+8. **Prism / Queen Raida** — Understand the Guild’s agent system, durable memory, permissions, and shared workflows.
+9. **Resources** — Build context across Web3, applied AI, and RaidGuild language.
 
-5. **Raids: Project Lifecycle and SOPs**  
-   Prepare for battle with our detailed raiding procedures. From assembling Raid parties to delivering results, this section covers the steps to execute a Raid from start to finish, including payment and collaboration with clients.
+## How the Guild Is Structured
 
-6. **Escrow and Smart Invoicing**  
-   Understand our financial safeguard systems. Here, you'll learn how we use smart contracts to secure payment, manage escrow, and handle finances on your quests.
+- **The Guild** is the shared builder network, community, reputation system, DAO, and source of new practices.
+- **Stewards** are elected or appointed Hats roles with defined areas of responsibility. Roles turn over, so the handbook documents responsibilities rather than hardcoding wearer names.
+- **Tips of the Spear** are specialized practices within RaidGuild, including Applied AI and Onchain / Web3 work. Placement services are being explored within this model.
+- **RaidGuild LLC** is the common legal and operating path used for contracts and Raid payments. DAO membership and payroll eligibility are separate.
 
-7. **Resources for Growth and Mastery**  
-   Delve into our curated resources for Web3 knowledge, technical skill-building, and the RaidGuild glossary. This section is here to support your learning and ensure you have access to the tools needed for continuous growth.
-
-### Using the Handbook as Your Guide
-
-Refer back to this handbook as often as needed to stay aligned with the Guild’s best practices. Each section is designed to provide clarity and structure, allowing you to navigate the Guild with confidence and integrity. As you grow within RaidGuild, this guide will help you master the craft, uphold the Guild’s honor, and make a lasting impact in Web3.
-
-May this tome serve you well, guiding you in all your RaidGuild endeavors.
+Use the handbook as a map, then check Portal and the relevant Discord space for current dates, people, and active work. When reality changes, help the Keeper of Knowledge improve the map.

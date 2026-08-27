@@ -8,8 +8,14 @@ sidebar_label: Raid Guild Shares
 
 In the RaidGuild DAO, shares are non-transferable and specific to this Guild alone. Each share grants its holder a proportional claim on the Guild’s collective capital pool, along with one vote in Guild governance. At any time, members may “Ragequit” to exchange their shares for a corresponding portion of the Guild’s treasury.
 
-- **Issue Rate**: New shares are issued at a rate of **5 wxDAI per share**.
+- **Current new-member package**: **500 wxDAI for 100 shares**.
 - **New Member Cap**: New members can request up to **100 shares** upon joining.
+
+:::warning Verify before transacting
+
+DAO parameters can change. The August 2026 steward walkthrough confirmed the 500 wxDAI / 100 share package, but not every historic issuance rule. Check current DAO settings before submitting a membership proposal or transferring funds.
+
+:::
 
 ### Non-Voting Shares (Loot)
 

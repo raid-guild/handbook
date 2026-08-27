@@ -6,36 +6,29 @@ sidebar_label: Intro to Raiding
 
 # Introduction to Raiding
 
-Raiding is more than just executing work for a client; it's a disciplined and collaborative quest that unites skilled guild members to tackle high-stakes challenges and deliver solutions that make an impact in the Web3 world. Whether developing cutting-edge dApps, crafting compelling brand identities, or consulting on blockchain strategies, each raid offers the chance to showcase the guild’s expertise, build alliances, and gain renown.
+A **Raid** is a client engagement delivered by a focused party of RaidGuild builders. Parties form around the problem rather than a fixed company org chart, bringing together the craft, delivery, and client leadership the work requires.
 
-### The Spirit of Raiding
+RaidGuild’s work spans Web3, applied AI, design, product strategy, research, infrastructure, and other frontier problems. A Raid may arrive through a specialized Tip of the Spear, but it still draws on the Guild’s shared network, reputation, operating knowledge, and legal rails.
 
-Raiding is central to RaidGuild’s vision—a powerful blend of skill, purpose, and teamwork. Each raid assembles a team, or "party," of specialists who combine their talents to overcome challenges, align on objectives, and achieve extraordinary results. Every raid is a collective journey, with roles, expectations, and rewards that bring out the best in each member.
+## The Party Model
 
-### What to Expect from a Raid
+- **Cleric** — owns the client relationship, helps shape the engagement, and keeps commercial expectations clear.
+- **Monk** — guides delivery, coordinates the party, and keeps scope, milestones, and risks visible.
+- **Builders** — Warriors, Paladins, Wizards, Archers, Rangers, Druids, and other specialists contribute the craft needed for the Raid.
 
-Each raid is structured to maintain clarity, ensure high standards, and provide fair compensation for contributors. As a RaidGuild member, you can expect:
+One person may carry more than one role on a small Raid. Make responsibilities and compensation explicit before work begins.
 
-- **Clear Roles and Responsibilities**: Each raid party consists of members with specific roles, like Clerics (account managers), Monks (project managers), Warriors (developers), Archers (designers), and Rangers (researchers). Every member is accountable for their part in the quest.
-  
-- **Defined Objectives and Milestones**: Raids are mapped out with goals, timelines, and milestones, ensuring that every party member understands the mission’s purpose and progression. These checkpoints help us stay aligned with client needs while allowing room for iterative improvements.
+## A Healthy Raid
 
-- **Reward and Recognition**: Raiding brings rewards in multiple forms. Members are compensated in alignment with the project’s scope, and successful raids contribute to each member’s standing and reputation within the guild.
+1. Starts with a shared understanding of the client’s problem and the desired outcome.
+2. Names the party, responsibilities, scope, milestones, communication spaces, and payment split.
+3. Keeps **Raids** channels for internal coordination and **Camps** for client-shared communication.
+4. Uses escrow when it reduces risk for the engagement. Smart Invoice is available, but it is not mandatory for every Raid.
+5. Communicates progress and risks early, with no surprises for the party or client.
+6. Closes with accepted deliverables, final payment, a retrospective, and durable notes or a case study when appropriate.
 
-- **Client Collaboration**: The client is considered a valued ally, integral to the mission’s success. By maintaining open communication and alignment, we aim to exceed client expectations throughout the journey and form long lasting alliances against Moloch!
+## Finding Work
 
-### Types of Raids
+Client submissions and delivery operations live in the **Agency** area of Discord. Cohort graduates / apprentices may receive access to selected spaces such as Who Is Available. Follow the live channel instructions and contact the responsible Cleric when your skills fit an opportunity.
 
-RaidGuild embarks on a variety of raids, each focused on specific expertise:
-
-- **Development Raids**: Building dApps, smart contracts, and blockchain infrastructure.
-- **Design Raids**: Creating brand identities, UI/UX, and interactive prototypes.
-- **Consulting Raids**: Advising on strategy, tokenomics, and project architecture.
-
-There is no limit to the size or style of quest!
-
-### The Path to Joining a Raid
-
-All RaidGuild members have opportunities to join raids based on their expertise and availability. New raid opportunities are posted in the **#client-submissions** channel on Discord. If a raid aligns with your skills, you can express interest, contact the Cleric, and potentially become part of the raid party. 
-
-Raids in RaidGuild are a testament to our collective commitment, skill, and creativity, contributing to the guild's legendary reputation across Web3 realms.
+Before accepting paid work, read [Getting Paid](/docs/raids/getting-paid) and complete the RaidGuild LLC registration requirements.

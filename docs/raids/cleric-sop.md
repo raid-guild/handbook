@@ -6,6 +6,12 @@ sidebar_label: Cleric Standard Operating Procedure
 
 # Cleric Standard Operating Procedure (SOP)
 
+:::danger Verification required
+
+This legacy SOP is held for a Cleric-led rewrite. Dungeon Master steps, the 500 DAI consultation fee, mandatory escrow language, channel names, and suggested role splits may be stale. Do not use this page as the sole authority for a live client engagement. Confirm the current process with a practicing Cleric.
+
+:::
+
 As a Cleric of RaidGuild, you are the steward of client relationships and the orchestrator of successful Raids, seeing each project through from inception to completion. This detailed guide will walk you through every stage of the Cleric process using the **Dungeon Master** tool, with clear instructions on managing tasks, communication, payments, and final reporting.
 
 ### Introduction: The Role of the Cleric
@@ -144,4 +150,3 @@ For fair compensation, here’s a recommended payout structure:
 This is a flexible framework, and Raid payouts may vary. However, we require that **10% of the Raid’s revenue be tributed to the War Chest** upon completion.
 
 With these guidelines, you’re well-prepared to lead your Raid Party to victory.
-

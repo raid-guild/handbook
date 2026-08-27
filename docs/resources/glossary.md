@@ -8,6 +8,48 @@ sidebar_label: Glossary
 
 An evolving archive of RaidGuild terminology and key concepts. This lexicon adapts with the guild, reflecting our practices, tools, and shared values.
 
+## Current Additions
+
+### Camp
+
+A client-shared Discord space for an engagement. A **Raid** channel is internal; a **Camp** is a room where the client is present.
+
+### Cohort Graduate
+
+A participant whose Demo Day work has been accepted. The Guild currently also uses **Apprentice** for this stage before full membership.
+
+### Keeper of Knowledge
+
+The steward responsibility for durable Guild knowledge across the handbook and other surfaces. It replaces the narrower “Handbook Steward” name.
+
+### Placement
+
+A developing service that uses the Guild network to connect a member with an external role. The proposed fee and operating policy still require confirmation.
+
+### Portal
+
+RaidGuild’s profile, cohort, session, post, newsletter, blog, and CMS surface at [portal.raidguild.org](https://portal.raidguild.org).
+
+### Prism / Queen Raida
+
+RaidGuild’s organizational agent system. It supports durable memory and shared workflows across scoped Discord, chat, and app contexts.
+
+### RaidGuild LLC / MI DAO
+
+RaidGuild DAO LLC is the Guild’s Marshall Islands DAO LLC and common legal operating path for contracts and Raid payments. LLC registration and light KYC are required for paid contributors; DAO membership alone is not payroll eligibility.
+
+### Raider Roundtable
+
+The weekly member forum for strategy, governance, membership championing, and the Guild’s future.
+
+### Raider Roundup
+
+The weekly delivery standup for active jobs, coordination, and blockers.
+
+### Spear / Tip of the Spear
+
+A specialized practice within RaidGuild. A Spear develops focused expertise while inheriting the Guild’s builder network, reputation, legal rails, and operating knowledge.
+
 ---
 
 #### 1. **Apprentice**

@@ -4,49 +4,21 @@ title: Meetings
 sidebar_label: Meetings
 ---
 
-# Discord Meetings: Staying Connected with the Guild
+# Guild Meetings
 
-Regular meetings are essential to RaidGuild’s operations, keeping members aligned, informed, and engaged. Here’s a breakdown of our recurring community meetings, along with tools and best practices for hosting and coordinating them.
+Portal is the source of truth for current session times and access. Discord events may mirror selected sessions, but schedules in a static handbook can become stale.
 
----
+| Meeting | Who It Serves | Purpose | Cadence |
+| --- | --- | --- | --- |
+| **Raider Roundup** | Members and cohort graduates / apprentices involved in delivery | Weekly standup for active jobs, coordination, and blockers | Weekly; see Portal |
+| **Raider Roundtable** | Full members | Strategy, governance, membership championing, and the Guild’s future | Weekly; see Portal |
+| **Cohort Community Call** | Current and past cohort participants | Community support, knowledge sharing, and the path toward membership | Monthly, during the first week; see Portal for time |
 
-### Regular Community Meetings
+## Coordination Roles
 
-| **Meeting Name**         | **Who Attends?**                               | **Purpose**                          | **Schedule**                                              |
-|--------------------------|-----------------------------------------------|--------------------------------------|-----------------------------------------------------------|
-| **Raider Roundup**       | Full members and past cohort members           | Raid coordination and management     | Weekly, Tuesdays<br />6pm UTC          |
-| **Round Table**          | Full members only                              | Open forum for coordination          | Weekly, Thursdays<br />4pm UTC         |
-| **Token Talk**           | Full members and past cohort members           | Discuss the $RAID token and usage    | Weekly, Thursdays<br />10:30pm UTC|
-| **Cohort Community Call**| Open to past cohort members                    | Community support and membership     | Weekly, Wednesdays<br />7pm UTC        |
+- **Stewards** bring updates and context from their areas of responsibility.
+- **Jesters** keep meetings moving, guide the agenda, and make room for participation. An agent commonly supports note-taking so outcomes can become durable knowledge.
 
----
+## Hosting Resources
 
-### Roles in Meeting Coordination
-
-Two key roles keep our meetings organized and productive:
-
-- **Stewards**: Stewards look after particular aspects of Guild knowledge. They are often tapped to provide updates on their realm, which provides important structure for our knowledge sharing.
-  
-- **Jesters**: Jesters serve as emcees, leading discussions and keeping conversations engaging. The Sync Steward rotates this role to keep each meeting dynamic and focused.
-
-Together, Stewards and Jesters help maintain a productive meeting environment, ensuring that conversations stay on track and goals are achieved.
-
----
-
-### Essential Meeting Tools
-
-- **[LettuceMeet](https://lettucemeet.com/)**: Find group availability and schedule meetings. Syncing with Google Calendar is recommended for seamless scheduling.
-  
-- **[World Time Buddy](https://www.worldtimebuddy.com/)**: Easily convert time zones to accommodate members from around the world.
-  
-- **Sesh Bot**: Use `!list` in Discord to view upcoming events. Sesh Bot also offers RSVP and reminder functions to keep meetings organized. Learn more [here](https://handbook.raidguild.org/docs/discord-bots#sesh).
-
----
-
-### Hosting Resources
-
-For guidance on hosting effective meetings, refer to our [meeting hosting guide](https://hackmd.io/@raidguild/By3kIcxD5/%2FhAvilrVdS1C7sk18J3_BOA). This resource covers best practices, from setting agendas to handling follow-ups, ensuring that each meeting supports progress and collaboration.
-
----
-
-These gatherings and resources help us stay connected and focused on our Guild’s mission. See you at the next Roundup!
+The existing [meeting hosting guide](https://hackmd.io/@raidguild/By3kIcxD5/%2FhAvilrVdS1C7sk18J3_BOA) remains linked for review. Confirm its current owner and instructions before treating it as canonical.

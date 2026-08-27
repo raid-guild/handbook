@@ -4,6 +4,14 @@ title: Learn About Web3
 sidebar_label: Learn About Web3
 ---
 
+:::note Curated archive
+
+Web3 remains a core RaidGuild practice, but this list includes older ecosystem snapshots and should be read as a curated archive, not a claim that every project or tutorial is current. Prefer official documentation and verify tools, contracts, and security assumptions before using them.
+
+For the Guild’s parallel frontier practice, see [Learn About Applied AI](/docs/resources/learn-about-ai).
+
+:::
+
 ## General, Basics & Overview of Web3/Crypto
 
 1. [Crypto Reading — Dan Romero](https://danromero.org/crypto-reading/) - Let’s start with a reading list link to a reading list. This has a ton of great fundamental and mostly non tech basics.

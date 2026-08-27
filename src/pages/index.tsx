@@ -74,7 +74,7 @@ export default function Home(): ReactNode {
         <div className={styles.heroOrbit} aria-hidden="true" />
         <div className={`container ${styles.heroGrid}`}>
           <div className={styles.heroCopy}>
-            <p className={styles.kicker}>Field guide · Louchi reign · 2026</p>
+            <p className={styles.kicker}>RaidGuild Handbook</p>
             <h1>
               The map for where the Guild goes <em>next.</em>
             </h1>
@@ -125,7 +125,7 @@ export default function Home(): ReactNode {
         <section className={styles.routes} aria-labelledby="routes-title">
           <div className="container">
             <div className={styles.sectionHeading}>
-              <p className={styles.kicker}>Choose a direction</p>
+              <p className={styles.kicker}>Find what you’re looking for</p>
               <h2 id="routes-title">Start where you are. Raid from there.</h2>
               <p>
                 The handbook is organized around the moments that matter:
@@ -138,23 +138,6 @@ export default function Home(): ReactNode {
                 <RouteCard key={route.index} {...route} />
               ))}
             </div>
-          </div>
-        </section>
-
-        <section className={styles.fieldNotes}>
-          <div className={`container ${styles.notesGrid}`}>
-            <div>
-              <p className={styles.kicker}>New field notes</p>
-              <h2>Specialize without losing the Guild.</h2>
-            </div>
-            <p>
-              Tips of the Spear develop focused practices while sharing the
-              network, reputation, contracts, and hard-won knowledge of
-              RaidGuild.
-            </p>
-            <Link to="/docs/spears/tips-of-the-spear">
-              Explore the Spears <span aria-hidden="true">→</span>
-            </Link>
           </div>
         </section>
 

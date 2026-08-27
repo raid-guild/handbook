@@ -240,7 +240,6 @@
 }
 
 .sectionHeading h2,
-.fieldNotes h2,
 .panorama h2 {
   font-size: clamp(3rem, 6vw, 5.7rem);
   font-weight: 400;
@@ -249,8 +248,7 @@
   margin: 0;
 }
 
-.sectionHeading h2,
-.fieldNotes h2 {
+.sectionHeading h2 {
   color: var(--rg-ink);
 }
 
@@ -338,35 +336,6 @@
   text-transform: uppercase;
 }
 
-.fieldNotes {
-  background: var(--rg-cyan);
-  border-bottom: 1px solid var(--rg-ink);
-  border-top: 1px solid var(--rg-ink);
-  color: var(--rg-ink);
-  padding: clamp(4rem, 7vw, 7rem) 0;
-}
-
-.notesGrid {
-  align-items: end;
-  display: grid;
-  gap: 2rem 4rem;
-  grid-template-columns: minmax(0, 1.2fr) minmax(16rem, 0.65fr) auto;
-}
-
-.fieldNotes p:not(.kicker) {
-  font-size: 1.18rem;
-  line-height: 1.5;
-  margin: 0;
-}
-
-.fieldNotes a {
-  color: var(--rg-ink);
-  font-family: var(--rg-font-mono);
-  font-size: 0.82rem;
-  font-weight: 700;
-  white-space: nowrap;
-}
-
 .panorama {
   background-position: center;
   background-size: cover;
@@ -439,8 +408,7 @@
 
 @media (max-width: 996px) {
   .heroGrid,
-  .sectionHeading,
-  .notesGrid {
+  .sectionHeading {
     grid-template-columns: 1fr;
   }
 
@@ -454,10 +422,6 @@
 
   .routeCard {
     min-height: 30rem;
-  }
-
-  .fieldNotes a {
-    justify-self: start;
   }
 }
 
@@ -496,7 +460,6 @@
   }
 
   .sectionHeading h2,
-  .fieldNotes h2,
   .panorama h2 {
     font-size: clamp(3rem, 15vw, 4.4rem);
   }

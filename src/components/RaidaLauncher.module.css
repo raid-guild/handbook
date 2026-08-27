@@ -1,0 +1,69 @@
+.launcher {
+  align-items: center;
+  background: var(--rg-coral);
+  border: 1px solid var(--rg-ink);
+  border-radius: 999px;
+  bottom: 1.35rem;
+  box-shadow: 0 0.65rem 0 var(--rg-ink);
+  color: var(--rg-parchment);
+  display: inline-flex;
+  gap: 0.55rem;
+  min-height: 3.4rem;
+  padding: 0.7rem 1.15rem 0.7rem 0.85rem;
+  position: fixed;
+  right: 1.35rem;
+  text-decoration: none;
+  transition:
+    box-shadow 160ms ease,
+    transform 160ms ease;
+  z-index: 50;
+}
+
+.launcher:hover,
+.launcher:focus-visible {
+  box-shadow: 0 0.35rem 0 var(--rg-ink);
+  color: var(--rg-parchment);
+  transform: translateY(0.3rem);
+}
+
+.icon {
+  height: 1.7rem;
+  width: 1.7rem;
+}
+
+.label {
+  font-family: var(--rg-font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.035em;
+}
+
+.status {
+  background: var(--rg-acid);
+  border: 2px solid var(--rg-ink);
+  border-radius: 50%;
+  height: 0.75rem;
+  left: -0.05rem;
+  position: absolute;
+  top: -0.05rem;
+  width: 0.75rem;
+}
+
+@media (max-width: 576px) {
+  .launcher {
+    bottom: 1rem;
+    min-height: 3.2rem;
+    padding-right: 0.9rem;
+    right: 1rem;
+  }
+
+  .label {
+    font-size: 0.72rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .launcher {
+    transition: none;
+  }
+}

@@ -39,4 +39,6 @@ Always check the visible workflow and audience before sharing sensitive material
 
 Prism supports judgment; it does not replace it. Members remain responsible for checking sensitive claims, governance proposals, client commitments, financial instructions, permissions, and anything that acts outside a reversible draft workflow.
 
+Governance roles and sensitive infrastructure access must retain a named human owner. An agent may assist that person, but it should not become the ultimate holder of privileged authority. See the proposed accountability model in [DAO Roles and Hats Governance](/docs/dao-operations/dao-roles).
+
 Do not treat an agent response as ratified Guild policy. The handbook, final RIPs, onchain proposals, contracts, and decisions recorded by the responsible people remain the durable authorities for their respective domains.

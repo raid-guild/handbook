@@ -1,16 +1,82 @@
 ---
 id: dao-roles
-title: DAO Roles empowered with Hats
+title: DAO Roles and Hats Governance
 sidebar_label: DAO Roles (Hats)
 ---
 
-In order to make operations more efficient and reduce the coordination needed at the share holder level, we've elected to create some discreet roles and give them budgets and other decision-making authorities during their appointment.
+# DAO Roles and Hats Governance
 
-These roles are generally appointed by motivated individuals but elections can be facilitated if there are multiple Raiders interested in a role for the same term. These roles are created and appointed by the full community and can be removed/unwound in a similar fashion. We're continuing to use other good principal-agent hygiene by using quarterly budgets or streams in longer cases. Streams can be canceled with a proposal since the funds are flowing from the DAO itself.
+RaidGuild uses [Hats Protocol](https://app.hatsprotocol.xyz) to delegate operational responsibilities and limited authority without requiring every decision to happen at the full shareholder level. Governance roles should make it clear who is responsible, what authority they hold, how they are accountable, how they are compensated, and how control passes to a successor.
 
-The roles here are powered by [Hats Protocol](https://app.hatsprotocol.xyz). Skip to [the RG Hats Tree section](#roles-chart-hats-tree) to learn more about [RaidGuild Hats Tree](https://app.hatsprotocol.xyz/trees/100/92) and [proposing a role](#proposing-a-role).
+:::warning Review note · Meeting synthesis
 
-## Current Roles
+This proposal direction comes from a recent meeting synthesis. Speaker attribution was occasionally uncertain because the recording contained overlapping audio. The areas of alignment below are not yet a ratified tree design; the unresolved decisions still require member review and governance approval.
+
+:::
+
+## Direction for a Simpler Hats Tree
+
+The existing Hats tree has become more complex than current operations justify. The working direction is to simplify it before Q4 and make every retained role explicit enough that members can understand its purpose, powers, obligations, funding, and transition path.
+
+### Areas of Alignment
+
+- Separate elected steward positions from self-appointed archetype and member hats.
+- Keep a named human accountable for governance roles and sensitive infrastructure access. Agents may assist with research, reporting, reminders, and other workflows, but should not be the ultimate owner of privileged authority.
+- Introduce a **Hat Tree Steward** who requests quarterly steward reports, synthesizes findings, and proposes changes to the tree.
+- Preserve every member’s ability to propose a change independently; the Hat Tree Steward is a coordinator, not a gatekeeper.
+- Treat compensation as a forcing function. If RaidGuild will not fund a role, examine whether the role needs to exist.
+- Prefer recurring accountability and succession planning over rigid term limits.
+
+### Proposed Quarterly Accountability Loop
+
+1. **Steward report** — each steward reports on responsibilities, authority used, activity, budget, dependencies, risks, and transition readiness.
+2. **Hat Tree Steward synthesis** — the Hat Tree Steward compares the reports with the current tree and identifies gaps, overlap, inactivity, and structural changes to consider.
+3. **Public review** — members inspect the synthesis, challenge assumptions, and propose alternatives.
+4. **Proposed changes** — concrete changes to hats, charters, budgets, or appointments are prepared.
+5. **Governance approval** — members approve, reject, or amend the proposal through the appropriate governance process.
+6. **Updated tree and handoff documentation** — approved changes are executed and the handbook, permissions, budgets, and transition records are updated.
+
+### Recommended Handoff
+
+**Proposed owner:** ECWireless, supported by current stewards and open member feedback.
+
+**Proposed timing:** Gather feedback for approximately two weeks, then prepare a governance proposal before Q4.
+
+The proposed work should produce:
+
+| Deliverable | Minimum contents |
+| --- | --- |
+| **Current-tree audit** | Every hat’s holder, purpose, authority, budget, activity, and dependencies |
+| **Simplified-tree proposal** | Hats to retain, merge, create, or remove, with the rationale for each change |
+| **Standard steward charter** | Responsibilities, authorities, reporting cadence, compensation, challenge or removal process, and transition requirements |
+| **Hat Tree Steward specification** | Appointment, authority, reporting responsibilities, oversight, challenge, replacement, and boundaries |
+| **Infrastructure Steward specification** | Account administration, payment infrastructure, credential and key custody, human accountability, and agent boundaries |
+| **Infrastructure succession plan** | Restore the RaidGuild card in Q4, document operational handoffs, and prepare a successor for 2027 |
+
+:::warning Review note · Open governance decisions
+
+The following points remain unresolved:
+
+- which hats should be retained, merged, added, or removed;
+- whether hats should have minimum tenure, formal challenge procedures, or both;
+- what quarterly reports must contain and what happens when a steward is inactive;
+- who appoints, reviews, challenges, and replaces the Hat Tree Steward;
+- how budgets should map to responsibilities; and
+- the exact boundary between agent automation and human-controlled authority.
+
+Do not present these choices as policy until member review and governance approval are complete.
+
+:::
+
+> **Design principle:** Every privileged function should have a named human accountable for it, a visible review cycle, and a documented transition path.
+
+## Existing Role Inventory
+
+:::warning Review note · Inventory under audit
+
+The roles, holders, budgets, permissions, and appointment paths below describe the existing tree and historical operating model. They are inputs to the current-tree audit, not a decision about what the simplified tree will retain. Verify each item against the live [RaidGuild Hats Tree](https://app.hatsprotocol.xyz/trees/100/92), current stewards, and governance records.
+
+:::
 
 _loosely ordered by permanence/value shown so far_
 

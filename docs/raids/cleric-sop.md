@@ -8,7 +8,7 @@ sidebar_label: Cleric Standard Operating Procedure
 
 A Cleric is the client relationship lead for a Raid. The Cleric helps turn a qualified opportunity into a well-formed engagement, keeps commercial and client expectations clear during delivery, and coordinates a complete closeout.
 
-This SOP applies the shared [Raid Lifecycle](/docs/raids/raid-lifecycle). The CRM is the source of truth for the opportunity and commercial next action. Discord is the coordination surface. Portal holds durable project context. The responsible Treasury role and tooling hold the financial record.
+This SOP applies the shared [Raid Lifecycle](/docs/raids/raid-lifecycle). The CRM is the source of truth for the opportunity and commercial next action. Discord is the coordination surface. Portal holds durable project context. The Prism Raid Agent's dedicated channel is the primary interface for Clerics to maintain CRM and Portal records; direct use of either product UI is available when needed but is not the default workflow. The responsible Treasury role and tooling hold the financial record.
 
 ## Responsibilities
 
@@ -20,7 +20,7 @@ The Cleric:
 - assembles the prospective Raid Party with a Monk and the required builders;
 - coordinates scope, proposal, contract, payment schedule, and party split;
 - keeps the client informed and raises risks early;
-- ensures the Portal project represents active work accurately;
+- ensures, usually through the Raid Agent, that the Portal project represents active work accurately;
 - coordinates with the Treasury role without duplicating financial records in Portal or Discord; and
 - completes the relationship, documentation, payment, and archive handoffs.
 
@@ -50,7 +50,7 @@ Meet with the client or coordinate with the Hunter to understand:
 - constraints, dependencies, and material risks; and
 - the next decision or action needed to move forward.
 
-Keep factual findings and the next action in the CRM. Use the dedicated Raid Agent channel for capture or research support when helpful.
+Use the dedicated Raid Agent channel to capture factual findings and the next action in the CRM. A Cleric may edit the CRM directly when needed.
 
 There is no standard consultation fee. If paid discovery or scoping is appropriate, treat it as an explicitly scoped engagement with agreed deliverables and commercial terms.
 
@@ -112,11 +112,13 @@ When the engagement is authorized to start:
 
 1. Confirm the Monk and party responsibilities.
 2. Confirm the client and internal communication cadence.
-3. Create or update the Portal project, link it to the CRM opportunity and Raid channel when supported, and choose its visibility deliberately.
+3. Ask the Raid Agent to create or update the Portal project, link it to the CRM opportunity and Raid channel, and return a preview or change summary for review.
 4. Confirm where scope, decisions, deliverables, risks, and change requests will be documented.
 5. Update the CRM to reflect that delivery is active.
 
-Portal is the durable project context and presentation layer. It is not the commercial pipeline, the Raid's task manager, or the Treasury record.
+Portal is the durable project context and presentation layer. It is not the commercial pipeline, the Raid's task manager, or the Treasury record. Clerics normally maintain that context through the Raid Agent rather than manually operating the Portal UI.
+
+Before approving a new Portal project, confirm the title and summary, linked opportunity, project state, people, relevant links, source evidence, and intended visibility. Public narrative, case-study language, and visibility changes always require human review. See [Rendering a Project in Portal](/docs/raids/raid-lifecycle#rendering-a-project-in-portal) for the full handoff.
 
 ## 8. Maintain the Client Relationship
 
@@ -129,7 +131,7 @@ During delivery, the Cleric:
 - coordinates invoices and payment status with the responsible Treasury role; and
 - confirms that changes to scope, staffing, timing, or compensation are agreed and documented.
 
-The Raid Agent may review permitted Raid activity and propose CRM or Portal updates. Clear, factual, non-sensitive updates may be automated within its approved permissions. Conflicts, uncertain matches, sensitive changes, and public publishing decisions go to the dedicated Raid Agent channel for human review.
+The Raid Agent is the primary interface for routine CRM and Portal updates. It may review permitted Raid activity and propose or apply clear, factual, non-sensitive updates within its approved permissions. Conflicts, uncertain matches, sensitive changes, and public publishing decisions return to the dedicated Raid Agent channel for human review.
 
 ## 9. Close the Raid
 
@@ -138,7 +140,7 @@ When delivery concludes:
 1. Confirm acceptance of the final deliverables and identify any transition or support obligations.
 2. Coordinate final invoicing, payment, distributions, and **10% Guild spoils** with the responsible Treasury role.
 3. Confirm the CRM opportunity has the correct outcome, close reason when relevant, and final relationship next step.
-4. Mark the Portal project completed when that status is supported; until then, record the completion date and current state.
+4. Ask the Raid Agent to mark the Portal project completed when that status is supported; until then, have it record the completion date and current state.
 5. Hold a retrospective when useful and preserve durable lessons without exposing client-confidential information.
 6. Prepare or update a case study when appropriate and obtain the necessary client and publishing approval.
 7. Move inactive Raid and Camp channels to Valhalla according to the current archive practice.
@@ -163,7 +165,7 @@ Only the **10% Guild spoils** is fixed here. The remaining split is a suggestion
 
 - [ ] The client knows the final outcome and any remaining obligations.
 - [ ] The CRM status, summary, and next action are current.
-- [ ] The Portal project shows the correct completion context and visibility.
+- [ ] The Raid Agent's Portal preview or change summary has been reviewed, and the project shows the correct completion context and visibility.
 - [ ] Final payment, party distributions, and Guild spoils are confirmed through Treasury.
 - [ ] Confidential records remain in their approved systems.
 - [ ] The retrospective and case-study decision are recorded.

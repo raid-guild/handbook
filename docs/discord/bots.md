@@ -33,6 +33,6 @@ Read the full [Prism / Queen Raida guide](/docs/agents/prism) for boundaries, in
 
 ## Raid Agent
 
-The Raid Agent supports the Raid lifecycle through a dedicated Discord channel. That channel is the central place for direct requests, proposed CRM or Portal updates, reconciliation notices, conflicts, and exceptions requiring Cleric review.
+The Prism Raid Agent supports the Raid lifecycle through a dedicated Discord channel. That channel is the primary Cleric interface for creating and maintaining CRM and Portal records, as well as the central place for previews, reconciliation notices, conflicts, and exceptions requiring human review. Clerics may still use the CRM or Portal UI directly, but routine operation should not depend on it.
 
 The agent may read permitted internal Raid channels during its scheduled workflow, but it is not intended to act as a conversational bot in every Raid. It does not currently operate in client-shared Camps. Read the [Raid Lifecycle](/docs/raids/raid-lifecycle#raid-agent-review-loop) for the review model and current boundaries.

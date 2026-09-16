@@ -20,9 +20,9 @@ An engagement may leave the main path as **Nurture**, **Lost**, or **Cancelled**
 | **Agency Discord channels** | Intake notifications, opportunity triage, Hunter coordination, recruiting, and Raid operations. |
 | **Raid channel** | Internal coordination for Guild members working on a qualified opportunity or active engagement. |
 | **Camp channel** | Optional client-shared Discord space when Discord is convenient for the relationship. |
-| **Portal** | Project context, contributors, links, activity, and member-facing or public presentation for concrete work. It is not the sales pipeline or project-management system. |
+| **Portal** | Project context, contributors, links, activity, and member-facing or public presentation for concrete work. It is the rendered destination, not the primary Cleric interface, sales pipeline, or project-management system. |
 | **Treasury tooling** | Payment records, distributions, Guild spoils, and other financial operations managed by the responsible Treasury role. |
-| **Raid Agent channel** | Central place to ask the Raid Agent for help and review its notifications, proposed updates, conflicts, and exceptions. It is not a source of truth. |
+| **Raid Agent channel** | Primary operating interface for Clerics to create and maintain CRM and Portal records, review proposed updates, and resolve conflicts or exceptions. It is not itself a source of truth. |
 
 Email or a client-owned system may be the external communication surface instead of a Camp. The lifecycle does not depend on a Camp or Raid channel existing.
 
@@ -81,7 +81,7 @@ The client and RaidGuild agree on scope, milestones, responsibilities, commercia
 The party is delivering the agreed work.
 
 - **Owner:** Cleric for the client relationship and commercial expectations; Monk for delivery; named party members for their work.
-- **Required record:** Keep the CRM commercial state current. Create or link the Portal project and maintain its current context, contributors, links, and visibility. Treasury tooling holds the financial record.
+- **Required record:** Keep the CRM commercial state current. Ask the Raid Agent to create or link the Portal project and maintain its current context, contributors, links, and visibility. A Cleric may use the Portal UI directly when needed, but that is not the default workflow. Treasury tooling holds the financial record.
 - **Discord:** The Raid is the internal coordination surface. A Camp, email, or the client's system is the external surface.
 - **Advance when:** Deliverables are accepted and the party is ready to close the engagement.
 
@@ -112,7 +112,7 @@ The engagement has concluded and its durable record is current.
 
 ## Raid Agent Review Loop
 
-The Raid Agent has a dedicated Discord channel rather than acting as a conversational bot in every Raid.
+The Prism Raid Agent has a dedicated Discord channel rather than acting as a conversational bot in every Raid. This channel is the primary Cleric interface for structured CRM and Portal work; Clerics are not expected to perform every update through the Portal UI.
 
 1. The agent reviews permitted Raid activity, meeting outputs, CRM records, and Portal project records on its scheduled run.
 2. It searches for an existing record before proposing or making an update.
@@ -121,6 +121,24 @@ The Raid Agent has a dedicated Discord channel rather than acting as a conversat
 5. A Cleric or other responsible human gives direction, after which the agent updates the appropriate source of truth.
 
 Pricing, contractual commitments, legal decisions, payment instructions, confidential data, destructive record changes, and public publishing require human review. Agent-generated summaries are derived material and must not be treated as new source evidence.
+
+## Rendering a Project in Portal
+
+When a Raid reaches the appropriate lifecycle stage, the Cleric asks the Raid Agent to create or update its Portal representation. The agent should resolve the existing CRM opportunity, Portal project, and Raid channel before creating anything new.
+
+The agent prepares a preview or change summary containing:
+
+- project identity: title, summary, and the linked CRM opportunity;
+- lifecycle context: project status, current state, start or completion dates, and last meaningful activity;
+- people: Cleric or steward, Monk, and confirmed contributors;
+- collaboration links: Raid channel, optional Camp, working documents, repository, deployed product, and other approved links;
+- presentation controls: intended audience and visibility;
+- source evidence: the records or messages supporting each material update; and
+- review flags: conflicts, low-confidence inferences, missing required information, or content that may be confidential.
+
+The Cleric confirms that the agent has matched the correct project and reviews any flagged decisions. Creating a draft or applying approved factual updates may then be automated. Changes to visibility, public narrative, case-study language, or publication require explicit human review.
+
+Portal renders the resulting project record. The Raid Agent remains the normal control surface for maintaining it, while authorized users may use the Portal UI for direct review, correction, or editorial work.
 
 :::warning Review note · Camp access
 

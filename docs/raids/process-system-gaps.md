@@ -56,6 +56,34 @@ This register tracks gaps between the intended [Raid Lifecycle](/docs/raids/raid
 - **Proposed direction:** Create or require the Portal project when delivery becomes Active. Allow an earlier project only when a concrete collaboration surface already exists.
 - **Decision needed:** Whether a signed contract, payment event, explicit start authorization, or another event is the canonical trigger.
 
+### Implement agent-first Portal project rendering
+
+- **Desired process:** A Cleric asks the Prism Raid Agent to render a qualified project in Portal and receives a preview or change summary in the dedicated agent channel. Clerics are not required to enter the same information manually through the Portal UI.
+- **Current gap:** The intended agent interaction, required project packet, preview behavior, and publication controls are not yet a complete product contract.
+- **Affected systems:** Raid Agent, Portal, CRM, Discord.
+- **Proposed direction:** The agent resolves existing records, assembles a source-backed project packet, displays proposed fields and conflicts, and creates a draft or applies approved changes idempotently. Portal remains available for direct editorial review and corrections.
+- **Decision needed:** Which fields are required for initial rendering, which changes can be applied automatically, and where preview approval is recorded.
+
+Minimum project packet for implementation:
+
+| Area | Fields or behavior |
+| --- | --- |
+| Identity | Portal project ID when present, CRM opportunity ID, title, and concise summary |
+| State | Canonical lifecycle stage, Portal status, current state, start date, completion date, and last meaningful activity |
+| People | Cleric or steward, Monk, and confirmed contributors |
+| Links | CRM opportunity, Raid channel, optional Camp, working documents, repository, deployment, and other approved URLs |
+| Presentation | Intended audience, visibility, and optional public narrative or case-study content |
+| Evidence | Source references for material facts plus confidence or review flags |
+| Safety | No payment details, confidential material, or public publishing without the required human review |
+
+Expected interaction:
+
+1. A Cleric asks the Raid Agent to create, update, preview, or close a Portal project.
+2. The agent resolves the CRM opportunity and any existing Portal project using stable identifiers.
+3. The agent returns a proposed create packet or field-level change summary with sources and review flags.
+4. The Cleric resolves identity, visibility, confidentiality, or narrative questions.
+5. The agent performs an idempotent write and returns the Portal URL plus an audit summary.
+
 ## Raid Agent
 
 ### Define reconciliation authority and precedence

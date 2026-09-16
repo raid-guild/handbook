@@ -32,8 +32,10 @@ const sidebars: SidebarsConfig = {
     ],
     Raids: [
       "raids/intro-to-raiding",
+      "raids/raid-lifecycle",
       "raids/cleric-sop",
       "raids/getting-paid",
+      "raids/process-system-gaps",
       "raids/raiding-on-optimism-chain",
     ],
     Escrow: [

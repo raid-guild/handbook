@@ -27,8 +27,10 @@ One person may carry more than one role on a small Raid. Make responsibilities a
 5. Communicates progress and risks early, with no surprises for the party or client.
 6. Closes with accepted deliverables, final payment, a retrospective, and durable notes or a case study when appropriate.
 
+Follow the shared [Raid Lifecycle](/docs/raids/raid-lifecycle) from initial capture through completion. Not every lead becomes a Raid, and not every opportunity needs a Discord channel.
+
 ## Finding Work
 
-Client submissions and delivery operations live in the **Agency** area of Discord. Cohort graduates / apprentices may receive access to selected spaces such as Who Is Available. Follow the live channel instructions and contact the responsible Cleric when your skills fit an opportunity.
+Client submissions, opportunity triage, and delivery operations live in the **Agency** area of Discord. The CRM is the source of truth for leads, opportunities, owners, and next actions. Cohort graduates / apprentices may receive access to selected spaces such as Who Is Available. Follow the live channel instructions and contact the responsible Cleric when your skills fit an opportunity.
 
 Before accepting paid work, read [Getting Paid](/docs/raids/getting-paid) and complete the RaidGuild LLC registration requirements.

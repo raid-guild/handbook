@@ -4,149 +4,167 @@ title: Cleric SOP
 sidebar_label: Cleric Standard Operating Procedure
 ---
 
-# Cleric Standard Operating Procedure (SOP)
+# Cleric Standard Operating Procedure
 
-:::danger Review note · Verification required
+A Cleric is the client relationship lead for a Raid. The Cleric helps turn a qualified opportunity into a well-formed engagement, keeps commercial and client expectations clear during delivery, and coordinates a complete closeout.
 
-This legacy SOP is held for a Cleric-led rewrite. Dungeon Master steps, the 500 DAI consultation fee, mandatory escrow language, channel names, and suggested role splits may be stale. Do not use this page as the sole authority for a live client engagement. Confirm the current process with a practicing Cleric.
+This SOP applies the shared [Raid Lifecycle](/docs/raids/raid-lifecycle). The CRM is the source of truth for the opportunity and commercial next action. Discord is the coordination surface. Portal holds durable project context. The responsible Treasury role and tooling hold the financial record.
 
-:::
+## Responsibilities
 
-As a Cleric of RaidGuild, you are the steward of client relationships and the orchestrator of successful Raids, seeing each project through from inception to completion. This detailed guide will walk you through every stage of the Cleric process using the **Dungeon Master** tool, with clear instructions on managing tasks, communication, payments, and final reporting.
+The Cleric:
 
-### Introduction: The Role of the Cleric
-Clerics are pivotal figures within the Guild, acting as Account Managers who maintain client communications, assemble Raid Parties, and ensure smooth project operations. Your responsibilities include assessing client needs, guiding projects through scoping, securing payments, and coordinating team efforts. With the **Dungeon Master** tool, you will manage project statuses and logs, making it simple to keep all Raiders on the same page.
+- owns or clearly coordinates the client relationship;
+- confirms the client's need, desired outcome, budget context, timeline, and decision process;
+- keeps the CRM opportunity accurate or ensures its assigned owner does;
+- assembles the prospective Raid Party with a Monk and the required builders;
+- coordinates scope, proposal, contract, payment schedule, and party split;
+- keeps the client informed and raises risks early;
+- ensures the Portal project represents active work accurately;
+- coordinates with the Treasury role without duplicating financial records in Portal or Discord; and
+- completes the relationship, documentation, payment, and archive handoffs.
 
----
+On a small Raid, one person may serve as both Cleric and Monk. Name both sets of responsibilities explicitly so client management and delivery management are not lost between roles.
 
-## Step 1: Handling New Client Submissions
+## 1. Accept the Handoff
 
-1. **Monitor New Submissions**: In the **RaidGuild Discord**, watch the **#client-submissions** channel. New clients post their project requests here.
-2. **Claim Projects**: When a project interests you, claim it by reacting to the message with the **RaidGuild crossed swords emoji**. This action marks the project as "claimed," showing your intent to lead it and helping prevent overlap with other Clerics.
-3. **Coordinate with Fellow Clerics**: Chat with other Clerics if multiple submissions come in. Ensure a fair distribution of work, so no one is overburdened.
+Opportunities may begin with a web submission, a Hunter's relationship, a meeting, a referral, email, a direct message, or another channel. Not every opportunity needs a Discord channel.
 
-*Dungeon Master Status*: At this stage, submissions will not yet be in **Dungeon Master**. Once you confirm that you’ll be leading the project after consulting the client, create a new entry for the Raid in **Dungeon Master** and mark it as **New**.
+Before taking responsibility:
 
----
+1. Search the CRM for the person, account, lead, or opportunity to avoid duplicates.
+2. Confirm the opportunity has an owner, source, useful summary, and next action.
+3. Clarify the handoff with the Hunter, including relationship history and any promises already made.
+4. Record yourself as the Cleric or otherwise make the client relationship owner unambiguous.
 
-## Step 2: Initial Client Communication
+Web intake notifications arrive through `#client-submissions` in the Agency area. A submission notification is not a complete CRM record and does not automatically require a Raid channel.
 
-1. **Initial Contact**: Use the client’s submission details to introduce yourself and Raid Guild. Clarify that as their assigned Cleric, you’ll be guiding them through the process.
-2. **Needs Assessment**: Discuss the client’s vision, requirements, timeline, and budget to evaluate their project’s fit with the Guild’s capabilities.
-3. **Set Up a Consultation**: Schedule a formal consultation meeting to discuss project specifics in-depth and explain any consultation fees.
+## 2. Qualify the Engagement
 
-*Dungeon Master Status*: After initial contact and client alignment, update the project status in **Dungeon Master** to **Consulting**.
+Meet with the client or coordinate with the Hunter to understand:
 
----
+- the problem and desired outcome;
+- the people affected and the decision maker;
+- the likely services and skills required;
+- budget context and expected timing;
+- constraints, dependencies, and material risks; and
+- the next decision or action needed to move forward.
 
-## Step 3: Conducting the Consultation Meeting
+Keep factual findings and the next action in the CRM. Use the dedicated Raid Agent channel for capture or research support when helpful.
 
-Prepare a checklist to guide the consultation:
-   - **Problem Description**: Understand the core issue the client needs to resolve.
-   - **Proposed Solution**: If the client has ideas, explore these together to align expectations.
-   - **Required Skill Sets**: Determine the specific skills needed for this project (e.g., design, development, marketing).
-   - **Budget and Timeline**: Aim to clarify as many financial and scheduling details as possible.
+There is no standard consultation fee. If paid discovery or scoping is appropriate, treat it as an explicitly scoped engagement with agreed deliverables and commercial terms.
 
-*Consultation Fee*: Clients must pay a **500 DAI consultation fee** to Raid Guild, which covers the initial assessment work. This fee goes to compensating the Clerics involved. Collect this payment through **Dungeon Master**, which will automatically track fee receipt.
+## 3. Open the Internal Coordination Space
 
-*Dungeon Master Status*: Update the project to **Consultation Paid** once the fee is received.
+Create a channel in the **Raids** category when the qualified opportunity needs ongoing internal coordination among several Guild members. A Raid channel is internal and member-only.
 
----
+At the top of the channel, make it easy to find:
 
-## Step 4: Post-Consultation Actions
+- the client and opportunity summary;
+- the Cleric and Hunter;
+- the proposed Monk and party, when known;
+- the current lifecycle stage and next action;
+- links to the CRM opportunity and working documents; and
+- the Portal project, contract, or external communication links when they exist and the audience is appropriate.
 
-1. **Share Project at Raider Round-Up**: Attend the weekly **Raider Round-up** meeting (Tuesdays, 1 pm EDT / 10 am PST / 6 pm UTC) to provide a project overview. Announce the required roles and whether the Raid will proceed.
-2. **Mark as Recruiting**: If the project moves forward, update its status in **Dungeon Master** to **Recruiting**.
-3. **Post Recruitment Notice**: Share the project’s specifications in **#who-is-available** on Discord. Include role requirements, time commitment, budget, and other essential details.
+Do not put client-facing communication in the internal Raid channel.
 
-*Dungeon Master Status*: Ensure the project is updated to **Recruiting** in **Dungeon Master** and list the roles needed for transparency.
+## 4. Choose the Client Communication Surface
 
----
+Use the communication surface that fits the relationship:
 
-## Step 5: Setting Up Communication Channels
+- create a **Camp** when a shared Discord channel is convenient;
+- use email when that is the client's normal workflow; or
+- use the client's own platform when required.
 
-1. **Move Communications to Public Channels**: Transition all discussions to designated public channels within Raid Guild’s Discord.
-2. **Onboard the Client**: Assist the client in joining the Raid Guild server and brief them on communication channels and procedures.
-3. **Post Project Details**: In the **internal Raid channel**, post an outline of the project specs for easy reference by all Raiders.
+A Camp is optional and client-visible. Keep candid internal coordination in the Raid. Do not assume that the Raid Agent can read a Camp; client-shared access requires an approved confidentiality and permissions policy.
 
-*Dungeon Master Status*: At this stage, ensure that internal and client-facing channels in **Dungeon Master** reflect the accurate details and expectations of the project.
+## 5. Assemble the Party and Scope the Work
 
----
+Recruit through `#who-is-available` and direct outreach when appropriate. Work with the Monk and prospective party to define:
 
-## Step 6: Assembling the Raid Team
+- desired outcomes and deliverables;
+- scope boundaries and assumptions;
+- roles, responsibilities, and decision rights;
+- milestones, timeline, and dependencies;
+- budget and payment schedule;
+- risks and change-management expectations; and
+- the proposed compensation split.
 
-1. **Recruit Team Members**: Confirm that all essential roles are filled by reaching out through **#who-is-available** and tagging specific Raiders with necessary skills (e.g., Archer for design or Paladin for back-end).
-2. **Schedule a Follow-up Meeting**: Arrange a follow-up with the client to introduce the Raid Party and solidify the scope.
-3. **Draft a Scoping Proposal**: Prepare a high-level proposal outlining the project’s problem, possible solutions, required steps, and timelines.
+Keep commercial status and the next action in the CRM. Keep working detail in the Raid and the party's chosen project documents. A Portal project is optional during scoping and should be created early only when a concrete collaboration surface already exists.
 
-*Escrow Setup*: Guide the client to set up **escrow** for scoping or a design sprint, securing funds in advance. Work with the client to deposit an initial payment in **Dungeon Master’s escrow system**.
+## 6. Formalize the Engagement
 
-*Dungeon Master Status*: Mark the Raid as **Ready to Begin** in **Dungeon Master** once the team is in place, and escrow is confirmed.
+Before delivery begins:
 
----
+1. Confirm the scope, milestones, acceptance expectations, and client responsibilities in writing.
+2. Confirm the contract and payment schedule through the approved legal and Treasury processes.
+3. Record the agreed party split, including the mandatory **10% Guild spoils**.
+4. Confirm that paid contributors have completed the current RaidGuild DAO LLC and payment requirements.
+5. Decide whether escrow reduces risk for this engagement. Smart Invoice may be used, but escrow is not mandatory.
+6. Update the CRM opportunity and next action.
 
-## Step 7: Creating a Formal Proposal
+Never rely on Discord messages alone as the financial record. Payment instructions, wallet or banking details, distributions, and transaction evidence belong in the approved Treasury workflow.
 
-After completing the scoping phase, collaborate with the Raid Party to create a detailed proposal. This document should follow the standard Raid Guild template, including:
+## 7. Begin Delivery
 
-- **Problem Space**: Clearly define the challenge the project addresses.
-- **Methodology**: Outline how the Raid Party will approach and solve the problem.
-- **Milestones and Budget**: Provide a breakdown of work phases, deliverables, and payment associated with each milestone.
+When the engagement is authorized to start:
 
-*Proposal Submission*: Send the proposal to the client along with instructions on how to deposit the necessary funds into **Dungeon Master’s escrow** system.
+1. Confirm the Monk and party responsibilities.
+2. Confirm the client and internal communication cadence.
+3. Create or update the Portal project, link it to the CRM opportunity and Raid channel when supported, and choose its visibility deliberately.
+4. Confirm where scope, decisions, deliverables, risks, and change requests will be documented.
+5. Update the CRM to reflect that delivery is active.
 
-*Dungeon Master Status*: Update the project status to **Proposal Sent**.
+Portal is the durable project context and presentation layer. It is not the commercial pipeline, the Raid's task manager, or the Treasury record.
 
----
+## 8. Maintain the Client Relationship
 
-## Step 8: Beginning the Work Phase
+During delivery, the Cleric:
 
-1. **Confirm Funds**: Begin work only after confirming funds in escrow for the initial milestones.
-2. **Client Declines**: If the client decides not to proceed, note their reasoning and update **Dungeon Master** to mark the Raid as **Lost**.
+- gives the client clear updates at the agreed cadence;
+- works with the Monk to surface scope, timeline, budget, and delivery risks early;
+- records commercial changes and next actions in the CRM;
+- keeps Portal context accurate without exposing confidential or financial information;
+- coordinates invoices and payment status with the responsible Treasury role; and
+- confirms that changes to scope, staffing, timing, or compensation are agreed and documented.
 
-*Dungeon Master Status*: Update the project to **In Progress** once work begins.
+The Raid Agent may review permitted Raid activity and propose CRM or Portal updates. Clear, factual, non-sensitive updates may be automated within its approved permissions. Conflicts, uncertain matches, sensitive changes, and public publishing decisions go to the dedicated Raid Agent channel for human review.
 
----
+## 9. Close the Raid
 
-## Step 9: Managing the Work Phase
+When delivery concludes:
 
-1. **Provide Updates**: Regularly log progress in **Dungeon Master** to keep everyone on track.
-2. **Client Satisfaction**: Act as the main point of contact for client inquiries and feedback.
-3. **Milestone Communication**: Upon reaching each milestone, update the client, and coordinate fund release through **Dungeon Master**’s escrow features.
+1. Confirm acceptance of the final deliverables and identify any transition or support obligations.
+2. Coordinate final invoicing, payment, distributions, and **10% Guild spoils** with the responsible Treasury role.
+3. Confirm the CRM opportunity has the correct outcome, close reason when relevant, and final relationship next step.
+4. Mark the Portal project completed when that status is supported; until then, record the completion date and current state.
+5. Hold a retrospective when useful and preserve durable lessons without exposing client-confidential information.
+6. Prepare or update a case study when appropriate and obtain the necessary client and publishing approval.
+7. Move inactive Raid and Camp channels to Valhalla according to the current archive practice.
 
-*Dungeon Master Status*: Move the project through milestones in **Dungeon Master**, marking each as **Milestone Complete** once client approval and payment are confirmed.
+If an engagement ends early, record it as Cancelled rather than Completed, resolve outstanding contractual and Treasury obligations, and document the client handoff.
 
----
+## Suggested Party Split
 
-## Step 10: Project Completion
+The party may use this historical split as a starting point:
 
-1. **Final Confirmation**: Verify that the client is satisfied with the completed work.
-2. **Final Payment Release**: Guide the client through releasing the final escrowed payment.
-3. **Distribute Payments**: Use **Dungeon Master** to facilitate payment distribution among all Raiders involved.
+| Recipient | Suggested share |
+| --- | ---: |
+| Guild spoils | **10% mandatory** |
+| Hunter | 5% |
+| Cleric | 10% |
+| Monk | 15% |
+| Project team | 60% |
 
-*Tribute to War Chest*: Dedicate **10% of the Raid’s revenue** to the Raid Guild War Chest. This tribute can be paid in **wxDAI, WETH**, or other whitelisted tokens, sent directly to the **DAO Treasury (0x181e...63ac)**. Log the transaction hash in **#did-a-thing** for tracking.
+Only the **10% Guild spoils** is fixed here. The remaining split is a suggestion and should reflect the actual responsibilities, effort, risk, and agreement of the party. Record the final split before delivery and update it explicitly if the engagement changes.
 
-*Dungeon Master Status*: Mark the project as **Shipped** to signify completion. Archive project channels on Discord using the **/to-valhalla** command.
+## Cleric Closeout Checklist
 
----
-
-## Step 11: Documentation & Retrospective
-
-1. **Participate in Retrospective**: Join the retrospective session led by a Monk to reflect on the project’s successes and areas for improvement.
-2. **Document Case Study**: Summarize key learnings in the Guild’s case study format.
-3. **Submit for Portfolio**: Post the completed case study in the **#case-studies** channel to showcase in Raid Guild’s portfolio.
-
-This detailed Cleric SOP provides a clear roadmap to follow through every phase of a Raid, ensuring consistent client satisfaction, team coordination, and adherence to Guild standards. Following these steps with precision will set you up for successful Raids and contribute to Raid Guild’s legendary reputation.
-
-#### Structuring Raid Spoils
-For fair compensation, here’s a recommended payout structure:
-
-- **10%** – War Chest Treasury (mandatory)
-- **5%** – Hunter (Business Development)
-- **10%** – Cleric (Account Manager)
-- **15%** – Monk (Project Manager)
-- **60%** – Project Team (roles such as Wizard, Paladin, Archer, etc.)
-
-This is a flexible framework, and Raid payouts may vary. However, we require that **10% of the Raid’s revenue be tributed to the War Chest** upon completion.
-
-With these guidelines, you’re well-prepared to lead your Raid Party to victory.
+- [ ] The client knows the final outcome and any remaining obligations.
+- [ ] The CRM status, summary, and next action are current.
+- [ ] The Portal project shows the correct completion context and visibility.
+- [ ] Final payment, party distributions, and Guild spoils are confirmed through Treasury.
+- [ ] Confidential records remain in their approved systems.
+- [ ] The retrospective and case-study decision are recorded.
+- [ ] Raid and Camp channels are archived when no longer active.

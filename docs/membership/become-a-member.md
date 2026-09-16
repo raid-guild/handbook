@@ -6,7 +6,7 @@ sidebar_label: Become a Member
 
 # Become a Member
 
-Full RaidGuild membership recognizes sustained contribution, trusted relationships, and readiness to participate in DAO governance. It is not unlocked by staking RAID.
+Full RaidGuild membership recognizes sustained contribution, trusted relationships, and readiness to participate in DAO governance.
 
 ## Before You Seek a Champion
 

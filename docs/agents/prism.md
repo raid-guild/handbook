@@ -35,6 +35,12 @@ Always check the visible workflow and audience before sharing sensitive material
 - generating and reviewing code; and
 - helping turn activity into daily, weekly, and topic-level living documents.
 
+## Steward Agent Assistants
+
+Each steward or other accountable Hat wearer can have a dedicated Prism agent space and agent profile tailored to that role. This acts as the steward's agent assistant: it can work with the approved knowledge, recurring workflows, records, and tools relevant to the Hat while keeping that context separate from other roles.
+
+The profile should inherit the permissions and boundaries of the steward workflow, not the full access of the person wearing the Hat. Changing the human wearer must include reviewing the agent space, sources, credentials, pending work, and handoff context. The named human remains accountable for the role and for any sensitive action taken with agent assistance.
+
 ## Human Responsibility
 
 Prism supports judgment; it does not replace it. Members remain responsible for checking sensitive claims, governance proposals, client commitments, financial instructions, permissions, and anything that acts outside a reversible draft workflow.

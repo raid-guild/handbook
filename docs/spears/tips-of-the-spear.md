@@ -20,15 +20,9 @@ Spears are not separate organizations. They may look or sound distinct, but they
 
 The Guild’s longstanding onchain practice assembles parties for decentralized applications, smart contracts, protocol and DAO tooling, product strategy, design, and supporting infrastructure.
 
-### Placement Services — Proposed
+### Placement Services
 
 Placement uses the Guild’s trusted network to connect a member with an external role.
-
-:::warning Review note
-
-The August 2026 audit records a proposed **20% placement fee**, but both the amount and operating owner require confirmation before the handbook presents them as policy.
-
-:::
 
 ## How Spears Relate to Raids
 

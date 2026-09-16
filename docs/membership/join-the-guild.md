@@ -25,12 +25,6 @@ The August 2026 review found consistent support for the 500 wxDAI / 100 share pa
 
 :::
 
-:::info Shares, not RAID
-
-The membership asset is RaidGuild DAO shares. The current path does **not** require a Champion to stake RAID tokens.
-
-:::
-
 ## What Graduate / Apprentice Access Means
 
 Cohort graduates may gain access to selected Agency spaces, including opportunities shared through Who Is Available. They can join Raids and RIPs and build the body of work needed for full membership.

@@ -17,6 +17,16 @@ DAO parameters can change. The August 2026 steward walkthrough confirmed the 500
 
 :::
 
+## Optional Member Dues
+
+RaidGuild is introducing an optional monthly dues model for members. A participating member may be able to purchase DAO shares at a discount through the subscription. Participation is optional and does not replace the normal contribution, Champion, or governance requirements for membership.
+
+:::warning Review note · Terms in development
+
+The subscription price, share discount, purchase limits, payment route, cancellation behavior, and launch date still need to be documented before anyone transacts from this page. A subscription may also be offered to cohort participants, but non-members would not purchase DAO shares through it. Confirm whether cohort participation will require or merely offer a subscription.
+
+:::
+
 ### Non-Voting Shares (Loot)
 
 **Loot** refers to non-voting shares that, like regular shares, can be “Ragequit” to claim a proportional amount of the Guild’s assets held in the War Chest. Loot is often requested as compensation for completed work, providing members with wxDAI without adding voting rights.

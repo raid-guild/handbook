@@ -32,13 +32,9 @@ RaidGuild brings together builders working in Web3, applied AI, and other fronti
 
 - **The Guild** is the shared builder network, community, reputation system, DAO, and source of new practices.
 - **Stewards** are elected or appointed Hats roles with defined areas of responsibility.
-- **Tips of the Spear** are specialized practices within RaidGuild, including Applied AI and Onchain / Web3 work.
+- **Tips of the Spear** are specialized practices within RaidGuild. Visit [RaidGuild.org](https://raidguild.org) for the current practices and their public entry points.
 - **RaidGuild LLC** is the common legal and operating path used for contracts and Raid payments. DAO membership and payroll eligibility are separate.
 
-:::warning Review note
-
-Confirm how the handbook should present current steward wearers. This draft documents responsibilities without naming people because role assignments change. Placement services are also being explored within the Tips of the Spear model and are not yet settled Guild policy.
-
-:::
+The handbook documents steward responsibilities and governance structure. Members can view current Hat wearers in the members-only [Accounting app](https://accounting.raidguild.org/hat-stewards); the [DAO Roles and Hats Governance](/docs/dao-operations/dao-roles) page explains the roles themselves.
 
 Use the handbook as a map, then check Portal and the relevant Discord space for current dates, people, and active work. When reality changes, help the Keeper of Knowledge improve the map.

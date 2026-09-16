@@ -6,7 +6,7 @@ sidebar_label: DAO Assets Guide
 
 # DAO Shares, xDAI, and wxDAI
 
-RaidGuild membership is represented by **DAO shares**, not the RAID token. New members do not need to acquire or stake RAID as part of the current membership process.
+RaidGuild membership is represented by **DAO shares**.
 
 ## The Assets You Need to Know
 
@@ -40,7 +40,3 @@ To convert xDAI to wxDAI, use a current Gnosis-compatible interface and verify t
 Bridge and swap interfaces change frequently. Do not follow an old Polygon, Connext, Honeyswap, or WrapETH click path from a static handbook without checking current official documentation and contract addresses.
 
 :::
-
-## RAID Is Legacy Context
-
-RAID exists historically, and older proposals or articles may mention staking and Champion rewards. Those mechanics are not part of the current membership path. Consult original governance records when researching that history; do not treat them as present-day onboarding instructions.

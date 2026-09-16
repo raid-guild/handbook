@@ -8,8 +8,6 @@ sidebar_label: Champion a New Member
 
 Championing is a public act of trust. A Champion tells the membership why a cohort graduate / apprentice is ready, helps surface questions, and sponsors the onchain membership proposal.
 
-The current process does **not** require staking RAID tokens and does not include a RAID reward.
-
 ## Two Different Vouches
 
 1. **Cohort approval** — a cohort host gives a thumbs-up to the participant’s Demo Day work and confirms graduation.

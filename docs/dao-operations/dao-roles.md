@@ -8,12 +8,6 @@ sidebar_label: DAO Roles (Hats)
 
 RaidGuild uses [Hats Protocol](https://app.hatsprotocol.xyz) to delegate operational responsibilities and limited authority without requiring every decision to happen at the full shareholder level. Governance roles should make it clear who is responsible, what authority they hold, how they are accountable, how they are compensated, and how control passes to a successor.
 
-:::warning Review note · Meeting synthesis
-
-This proposal direction comes from a recent meeting synthesis. Speaker attribution was occasionally uncertain because the recording contained overlapping audio. The areas of alignment below are not yet a ratified tree design; the unresolved decisions still require member review and governance approval.
-
-:::
-
 ## Direction for a Simpler Hats Tree
 
 The existing Hats tree has become more complex than current operations justify. The working direction is to simplify it before Q4 and make every retained role explicit enough that members can understand its purpose, powers, obligations, funding, and transition path.
@@ -72,11 +66,7 @@ Do not present these choices as policy until member review and governance approv
 
 ## Existing Role Inventory
 
-:::warning Review note · Inventory under audit
-
-The roles, holders, budgets, permissions, and appointment paths below describe the existing tree and historical operating model. They are inputs to the current-tree audit, not a decision about what the simplified tree will retain. Verify each item against the live [RaidGuild Hats Tree](https://app.hatsprotocol.xyz/trees/100/92), current stewards, and governance records.
-
-:::
+The roles, budgets, permissions, and appointment paths below describe the existing tree and historical operating model. Use the live [RaidGuild Hats Tree](https://app.hatsprotocol.xyz/trees/100/92) for the current structure and the members-only [Accounting app](https://accounting.raidguild.org/hat-stewards) for current Hat wearers.
 
 _loosely ordered by permanence/value shown so far_
 
@@ -152,7 +142,6 @@ The _Infrastructure Maestro_ role requires holding two other roles in order to c
 The [_Brand Steward_](https://app.hatsprotocol.xyz/trees/100/92?hatId=92.1.4.1.4) is responsible for providing a cohesive brand across the feel & aesthetic of the Guild's digital domains. Several resources are offered to provide guidance to Guild members applying the brand to their project or implementation.
 
 - [Raid Guild design system](/docs/dao-operations/design-system) (to be converted to Tailwind theme/Shadcn components)
-- Raid Guild Design System Figma
 - <span class="channels">[#brand](https://discord.com/channels/684227450204323876/1176281724838232185)</span> and <span class="channels">[#dot-org](https://discord.com/channels/684227450204323876/1176281724838232185)</span> Discord channels
 
 The _Brand Steward_ requests a regular budget where needed to ensure the project and maintenance are advanced. The Steward will document goals for the current budget and provide regular updates throughout the duration of the epoch.

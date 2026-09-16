@@ -20,11 +20,7 @@ Current practices include:
 - **Onchain / Web3 solutions**, carrying forward the Guild’s deep experience with decentralized systems.
 - **Placement services**, connecting members with external roles through the network.
 
-:::warning Review note
-
-Placement is still a developing service. Its operating model, ownership, and fee require Guild review before this description becomes settled handbook guidance.
-
-:::
+Visit [RaidGuild.org](https://raidguild.org) for the current Tips of the Spear and their public sites.
 
 Every practice may have its own positioning and visual expression, but no single practice is the whole Guild.
 

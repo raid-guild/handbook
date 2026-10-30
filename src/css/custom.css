@@ -127,9 +127,9 @@ html[data-theme="dark"][data-brand-reign="louchi"] {
   --ifm-font-family-monospace: var(--rg-font-mono);
   --ifm-font-size-base: 18px;
   --ifm-heading-color: var(--foreground);
-  --ifm-heading-font-family: var(--rg-font-display);
-  --ifm-heading-font-weight: 400;
-  --ifm-heading-line-height: 1.18;
+  --ifm-heading-font-family: var(--rg-font-body);
+  --ifm-heading-font-weight: 700;
+  --ifm-heading-line-height: 1.25;
   --ifm-link-color: var(--primary);
   --ifm-link-hover-color: var(--reign-deep);
   --ifm-navbar-background-color: color-mix(
@@ -225,7 +225,7 @@ body {
     "pcap" 0,
     "c2pc" 0;
   letter-spacing: 0;
-  line-height: 1.6;
+  line-height: 1.65;
 }
 
 h1,
@@ -238,40 +238,39 @@ h6 {
 }
 
 .theme-doc-markdown h1 {
-  font-size: clamp(2.8rem, 5vw, 4.5rem);
-  letter-spacing: -0.015em;
-  line-height: 1;
+  font-size: clamp(2rem, 3.25vw, 2.44rem);
+  line-height: 1.2;
   margin-bottom: 2rem;
 }
 
 .theme-doc-markdown h2 {
   border-top: 1px solid var(--ifm-color-emphasis-300);
-  font-size: clamp(2rem, 3vw, 2.65rem);
+  font-size: clamp(1.55rem, 2.4vw, 1.78rem);
   margin-top: 3.5rem;
   padding-top: 2.5rem;
 }
 
 .theme-doc-markdown h3 {
   color: var(--ifm-color-primary);
-  font-size: 1.75rem;
+  font-size: clamp(1.28rem, 2vw, 1.45rem);
   margin-top: 2.5rem;
 }
 
 .theme-doc-markdown h4 {
-  font-size: 1.35rem;
+  font-size: 1.2rem;
   margin-top: 2rem;
 }
 
 .theme-doc-markdown > p,
 .theme-doc-markdown > ul,
 .theme-doc-markdown > ol {
-  max-width: 48rem;
+  max-width: 70ch;
 }
 
 strong,
 b {
   color: var(--ifm-heading-color);
-  font-weight: inherit;
+  font-weight: 700;
 }
 
 ::selection {
@@ -408,6 +407,7 @@ html[data-theme="dark"] .navbar__logo img {
   color: var(--ifm-font-color-base);
   font-size: 1.05rem;
   margin: 2rem 0;
+  max-width: 70ch;
   padding: 1.1rem 1.3rem;
 }
 
@@ -434,9 +434,9 @@ table thead tr {
 
 table th {
   color: var(--ifm-heading-color);
-  font-family: var(--rg-font-display);
-  font-size: 1.05rem;
-  font-weight: 400;
+  font-family: var(--rg-font-body);
+  font-size: 1rem;
+  font-weight: 700;
 }
 
 table td,
@@ -510,8 +510,9 @@ hr {
 }
 
 .pagination-nav__label {
-  font-family: var(--rg-font-display);
-  font-size: 1.2rem;
+  font-family: var(--rg-font-body);
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .button {
@@ -531,8 +532,9 @@ hr {
 }
 
 .footer__title {
-  font-family: var(--rg-font-display);
-  font-size: 1.25rem;
+  font-family: var(--rg-font-body);
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .footer__link-item {
@@ -743,11 +745,11 @@ figcaption {
 
 @media (max-width: 576px) {
   .theme-doc-markdown h1 {
-    font-size: 2.75rem;
+    font-size: 2rem;
   }
 
   .theme-doc-markdown h2 {
-    font-size: 2rem;
+    font-size: 1.55rem;
   }
 }
 

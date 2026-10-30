@@ -17,6 +17,7 @@ const sidebars: SidebarsConfig = {
     ],
     Membership: [
       "membership/join-the-guild",
+      "membership/member-benefits",
       "membership/become-an-apprentice",
       "membership/become-a-member",
       "membership/champion-a-member",

@@ -22,7 +22,7 @@ Prism does not have one universal level of access.
 - A channel may expose only a read-only slice of the knowledge base.
 - A workflow may allow the agent to create or update a specific kind of record.
 - Steward categories may use agent profiles tailored to their responsibilities.
-- Future member profiles may have different sources and actions.
+- Member profiles can have different sources and actions, tailored to the individual’s interests and approved access.
 
 Always check the visible workflow and audience before sharing sensitive material or asking the agent to act. Agent output should preserve source references when it summarizes Guild knowledge.
 
@@ -34,6 +34,12 @@ Always check the visible workflow and audience before sharing sensitive material
 - supporting steward workflows and recurring coordination;
 - generating and reviewing code; and
 - helping turn activity into daily, weekly, and topic-level living documents.
+
+## Member Agent Assistance
+
+Members can request personalized organizational AI assistance through the Infrastructure Maestro using the Guild’s current infrastructure. A member profile can surface relevant Guild updates, summarize the member’s activity, and suggest potential collaborators or projects based on approved sources and the member’s interests.
+
+Delivery can be tailored to supported channels, including email or Discord messages. Tell the Infrastructure Maestro what you want to follow and how you prefer to receive it. Setup and delivery are being automated further, but the benefit is available now. See [Member Benefits](/docs/membership/member-benefits) for the broader Guild Kit.
 
 ## Steward Agent Assistants
 

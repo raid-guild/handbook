@@ -2,6 +2,7 @@ import type { ReactNode } from "react";
 import Link from "@docusaurus/Link";
 import { useLocation } from "@docusaurus/router";
 import styles from "./RaidaLauncher.module.css";
+import { RAIDA_CHAT_URL } from "../constants/raida";
 
 export default function RaidaLauncher(): ReactNode {
   const { pathname } = useLocation();
@@ -13,8 +14,9 @@ export default function RaidaLauncher(): ReactNode {
   return (
     <Link
       className={styles.launcher}
-      to="/raida"
-      aria-label="Open the Chat with Raida concept"
+      to={RAIDA_CHAT_URL}
+      target="_self"
+      aria-label="Chat with Raida on the RaidGuild website"
     >
       <span className={styles.status} aria-hidden="true" />
       <svg

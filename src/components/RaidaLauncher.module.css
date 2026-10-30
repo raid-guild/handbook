@@ -5,7 +5,7 @@
   border-radius: 999px;
   bottom: 1.35rem;
   box-shadow: 0 0.65rem 0 var(--rg-ink);
-  color: var(--rg-parchment);
+  color: var(--rg-neutral-black);
   display: inline-flex;
   gap: 0.55rem;
   min-height: 3.4rem;
@@ -22,7 +22,7 @@
 .launcher:hover,
 .launcher:focus-visible {
   box-shadow: 0 0.35rem 0 var(--rg-ink);
-  color: var(--rg-parchment);
+  color: var(--rg-neutral-black);
   transform: translateY(0.3rem);
 }
 

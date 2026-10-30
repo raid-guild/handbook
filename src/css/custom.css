@@ -1,49 +1,60 @@
+@import "@raidguild/brand-system/fonts.css";
+@import "@raidguild/brand-system/tokens.css";
+
 @font-face {
-  font-display: swap;
-  font-family: "Mazius Display";
+  font-family: "Grinder";
+  src: url("/brand-fonts/louchi/Grinder-Refined-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/MAZIUSREVIEW20.09-Regular.woff") format("woff");
+  font-display: swap;
 }
 
 @font-face {
-  font-display: swap;
-  font-family: "Ubuntu Mono";
-  font-style: normal;
-  font-weight: 400;
-  src: url("/fonts/UbuntuMono-Regular.ttf") format("truetype");
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "Ubuntu Mono";
-  font-style: normal;
-  font-weight: 700;
-  src: url("/fonts/UbuntuMono-Bold.ttf") format("truetype");
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "Mazius Display";
-  font-style: normal;
-  font-weight: 700;
-  src: url("/fonts/MaziusDisplay-Bold.otf") format("opentype");
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "EB Garamond";
-  font-style: normal;
-  font-weight: 400 700;
-  src: url("/fonts/EBGaramond-VariableFont_wght.woff2") format("woff2");
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "EB Garamond";
+  font-family: "Grinder";
+  src: url("/brand-fonts/louchi/Grinder-Refined-Italic.woff2") format("woff2");
   font-style: italic;
-  font-weight: 400 700;
-  src: url("/fonts/EBGaramond-Italic-VariableFont_wght.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grinder Retalic";
+  src: url("/brand-fonts/louchi/Grinder-Refined-Retalic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Docusaurus owns data-theme; mirror the pinned package's Louchi night semantics
+   because its dark selector uses a separate .dark class. Keep this block aligned
+   with @raidguild/brand-system/tokens.css when changing the package pin. */
+html[data-theme="dark"][data-brand-reign="louchi"] {
+  --background: #191e4e;
+  --foreground: #efe9d7;
+  --card: #242953;
+  --card-foreground: #efe9d7;
+  --popover: #191e4e;
+  --popover-foreground: #efe9d7;
+  --primary: #ee3c78;
+  --primary-foreground: #efe9d7;
+  --secondary: #173c4d;
+  --secondary-foreground: #f1edde;
+  --muted: #163949;
+  --muted-foreground: #b8e0df;
+  --accent: #8fe3ef;
+  --accent-foreground: #071722;
+  --border: #3e5d68;
+  --input: #3e5d68;
+  --ring: #8fe3ef;
+  --sidebar: #06141f;
+  --sidebar-foreground: #e8e6d9;
+  --sidebar-accent: #173c4d;
+  --sidebar-accent-foreground: #f1edde;
+  --sidebar-border: #3e5d68;
+  --sidebar-ring: #8fe3ef;
+  --reign-deep: #06141f;
+  --reign-field: #e8e6d9;
+  --reign-highlight: #8fe3ef;
 }
 
 :root {
@@ -53,10 +64,10 @@
   --rg-parchment: #efe9d7;
   --rg-coral: #ee3c78;
   --rg-acid: #d7e34d;
-  --rg-night-sky: #071722;
-  --rg-night-depth: #06141f;
+  --rg-night-sky: #191e4e;
+  --rg-night-depth: #191e4e;
   --rg-moon-cyan: #8fe3ef;
-  --rg-night-parchment: #e8e6d9;
+  --rg-night-parchment: #efe9d7;
   --rg-border: #9db2ac;
   --rg-teal-700: #315654;
   --rg-moloch-100: #e7f4f3;
@@ -85,16 +96,17 @@
   --rg-neutral-800: #102d2c;
   --rg-neutral-white: #fffdf5;
   --rg-neutral-black: #060609;
-  --rg-font-display: "Mazius Display", Georgia, serif;
-  --rg-font-body: "EB Garamond", Garamond, Georgia, serif;
-  --rg-font-mono: "Ubuntu Mono", "SFMono-Regular", Consolas, monospace;
+  --rg-font-display: var(--font-display);
+  --rg-font-retalic: var(--font-retalic);
+  --rg-font-body: var(--font-body);
+  --rg-font-mono: var(--font-mono);
   --rg-radius: 0.625rem;
   --rg-radius-lg: 0.875rem;
 
-  --ifm-background-color: var(--rg-scroll-100);
+  --ifm-background-color: var(--background);
   --ifm-background-surface-color: var(--rg-neutral-100);
-  --ifm-card-background-color: #f5f0e2;
-  --ifm-color-primary: var(--rg-moloch-500);
+  --ifm-card-background-color: var(--card);
+  --ifm-color-primary: var(--primary);
   --ifm-color-primary-dark: var(--rg-moloch-600);
   --ifm-color-primary-darker: #a6315a;
   --ifm-color-primary-darkest: var(--rg-moloch-700);
@@ -109,17 +121,17 @@
   --ifm-color-emphasis-600: var(--rg-neutral-600);
   --ifm-color-emphasis-700: var(--rg-neutral-700);
   --ifm-color-emphasis-800: var(--rg-neutral-800);
-  --ifm-font-color-base: var(--rg-moloch-800);
-  --ifm-font-color-secondary: var(--rg-neutral-600);
+  --ifm-font-color-base: var(--foreground);
+  --ifm-font-color-secondary: var(--muted-foreground);
   --ifm-font-family-base: var(--rg-font-body);
   --ifm-font-family-monospace: var(--rg-font-mono);
   --ifm-font-size-base: 18px;
-  --ifm-heading-color: var(--rg-moloch-800);
+  --ifm-heading-color: var(--foreground);
   --ifm-heading-font-family: var(--rg-font-display);
   --ifm-heading-font-weight: 400;
   --ifm-heading-line-height: 1.18;
-  --ifm-link-color: var(--rg-moloch-500);
-  --ifm-link-hover-color: var(--rg-moloch-700);
+  --ifm-link-color: var(--primary);
+  --ifm-link-hover-color: var(--reign-deep);
   --ifm-navbar-background-color: color-mix(
     in srgb,
     var(--rg-scroll-100) 94%,
@@ -153,10 +165,10 @@
 }
 
 html[data-theme="dark"] {
-  --ifm-background-color: var(--rg-night-sky);
-  --ifm-background-surface-color: var(--rg-night-depth);
-  --ifm-card-background-color: #0a1f2d;
-  --ifm-color-primary: var(--rg-moon-cyan);
+  --ifm-background-color: var(--background);
+  --ifm-background-surface-color: var(--card);
+  --ifm-card-background-color: var(--card);
+  --ifm-color-primary: var(--accent);
   --ifm-color-primary-dark: #6bc7d3;
   --ifm-color-primary-darker: #53b6c3;
   --ifm-color-primary-darkest: #3b8f99;
@@ -171,10 +183,10 @@ html[data-theme="dark"] {
   --ifm-color-emphasis-600: #9db3b8;
   --ifm-color-emphasis-700: #bfd0d1;
   --ifm-color-emphasis-800: #d9e3df;
-  --ifm-font-color-base: var(--rg-night-parchment);
-  --ifm-font-color-secondary: #b8e0df;
-  --ifm-heading-color: #f1edde;
-  --ifm-link-color: var(--rg-moon-cyan);
+  --ifm-font-color-base: var(--foreground);
+  --ifm-font-color-secondary: var(--muted-foreground);
+  --ifm-heading-color: var(--foreground);
+  --ifm-link-color: var(--accent);
   --ifm-link-hover-color: #c4f4fa;
   --ifm-navbar-background-color: color-mix(
     in srgb,
@@ -183,13 +195,13 @@ html[data-theme="dark"] {
   );
   --ifm-navbar-link-color: var(--rg-scroll-100);
   --ifm-navbar-link-hover-color: var(--rg-moloch-300);
-  --ifm-code-background: #0a1f2d;
+  --ifm-code-background: var(--card);
   --ifm-code-color: var(--rg-moon-cyan);
   --ifm-menu-color-active: var(--rg-moon-cyan);
-  --ifm-menu-color-background-active: #173c4d;
+  --ifm-menu-color-background-active: var(--secondary);
   --ifm-toc-border-color: #3e5d68;
   --ifm-table-border-color: #3e5d68;
-  --ifm-table-head-background: #173c4d;
+  --ifm-table-head-background: var(--secondary);
 
   --search-local-modal-background: var(--rg-night-depth);
   --search-local-hit-background: #0a1f2d;
@@ -424,7 +436,7 @@ table th {
   color: var(--ifm-heading-color);
   font-family: var(--rg-font-display);
   font-size: 1.05rem;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 table td,

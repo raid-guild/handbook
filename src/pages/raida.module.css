@@ -41,7 +41,7 @@
   font-size: clamp(3.8rem, 7vw, 7rem);
   font-weight: 400;
   letter-spacing: -0.045em;
-  line-height: 0.9;
+  line-height: 1.05;
   margin: 0;
   max-width: 10ch;
 }
@@ -208,7 +208,7 @@
 
 .raidaMessage {
   align-self: flex-start;
-  background: #173c4d;
+  background: var(--secondary);
   border: 1px solid #3e5d68;
 }
 
@@ -246,7 +246,7 @@
 
 .starters button:hover,
 .starters button:focus-visible {
-  background: #173c4d;
+  background: var(--secondary);
 }
 
 .composer {
@@ -267,7 +267,7 @@
 }
 
 .composer input {
-  background: #0a1f2d;
+  background: var(--card);
   border: 1px solid #3e5d68;
   border-radius: 0;
   color: var(--rg-night-parchment);
@@ -285,7 +285,7 @@
 .composer button {
   background: var(--rg-coral);
   border: 1px solid var(--rg-coral);
-  color: var(--rg-parchment);
+  color: var(--rg-neutral-black);
   cursor: pointer;
   font-family: var(--rg-font-mono);
   font-size: 0.78rem;
@@ -349,4 +349,34 @@
     align-items: stretch;
     flex-direction: column;
   }
+}
+
+:global(html[data-theme="dark"]) .page {
+  background:
+    radial-gradient(
+      circle at 85% 12%,
+      rgb(143 227 239 / 14%),
+      transparent 18rem
+    ),
+    var(--background);
+  color: var(--foreground);
+}
+
+:global(html[data-theme="dark"]) .intro h1,
+:global(html[data-theme="dark"]) .contextPanel h2 {
+  color: var(--foreground);
+}
+
+:global(html[data-theme="dark"]) .intro > p:last-child,
+:global(html[data-theme="dark"]) .contextPanel li p {
+  color: var(--muted-foreground);
+}
+
+:global(html[data-theme="dark"]) .contextPanel {
+  background: var(--card);
+  border-color: var(--border);
+}
+
+:global(html[data-theme="dark"]) .contextPanel li {
+  border-color: var(--border);
 }

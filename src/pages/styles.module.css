@@ -79,18 +79,20 @@
   font-size: clamp(4rem, 7.4vw, 7.6rem);
   font-weight: 400;
   letter-spacing: -0.045em;
-  line-height: 0.86;
+  line-height: 1.02;
   margin: 0;
   max-width: 11ch;
 }
 
 .heroCopy h1 em {
   color: var(--rg-coral);
+  font-family: var(--rg-font-retalic);
+  font-style: normal;
   font-weight: 400;
 }
 
 .heroLead {
-  color: var(--rg-teal-700);
+  color: var(--muted-foreground);
   font-size: clamp(1.25rem, 2vw, 1.55rem);
   line-height: 1.45;
   margin: 2rem 0 0;
@@ -100,7 +102,7 @@
 .heroActions {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
+  gap: 1.5rem;
   margin-top: 2.25rem;
 }
 
@@ -109,17 +111,17 @@
 .lightAction,
 .nightAction {
   align-items: center;
-  border: 1px solid transparent;
-  border-radius: 999px;
+  border: 2px solid transparent;
+  border-radius: 100px;
   display: inline-flex;
   font-family: var(--rg-font-mono);
   font-size: 0.9rem;
   font-weight: 700;
-  gap: 0.75rem;
-  justify-content: center;
+  gap: 1rem;
+  justify-content: space-between;
   letter-spacing: 0.025em;
-  min-height: 3.35rem;
-  padding: 0.95rem 1.45rem;
+  min-height: 3.5rem;
+  padding: 0.75rem 2.5rem 0.75rem 1.5rem;
   text-decoration: none;
   transition:
     transform 180ms ease,
@@ -129,7 +131,17 @@
 
 .primaryAction {
   background: var(--rg-coral);
-  color: var(--rg-parchment);
+  color: var(--rg-neutral-black);
+}
+
+.primaryAction span {
+  align-items: center;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  display: inline-flex;
+  height: 1.75rem;
+  justify-content: center;
+  width: 1.75rem;
 }
 
 .primaryAction:hover,
@@ -225,7 +237,7 @@
 }
 
 .routes {
-  background: var(--rg-parchment);
+  background: var(--background);
   padding: clamp(5rem, 9vw, 9rem) 0;
 }
 
@@ -244,7 +256,7 @@
   font-size: clamp(3rem, 6vw, 5.7rem);
   font-weight: 400;
   letter-spacing: -0.035em;
-  line-height: 0.95;
+  line-height: 1.08;
   margin: 0;
 }
 
@@ -253,7 +265,7 @@
 }
 
 .sectionHeading > p:last-child {
-  color: var(--rg-teal-700);
+  color: var(--muted-foreground);
   font-size: 1.25rem;
   line-height: 1.5;
   margin: 0;
@@ -268,7 +280,8 @@
 
 .routeCard {
   border: 1px solid var(--rg-border);
-  color: var(--rg-ink);
+  background: var(--card);
+  color: var(--card-foreground);
   display: flex;
   flex-direction: column;
   min-height: 35rem;
@@ -311,7 +324,7 @@
 }
 
 .routeCard h3 {
-  color: var(--rg-ink);
+  color: var(--card-foreground);
   font-size: clamp(2.2rem, 3.2vw, 3.3rem);
   font-weight: 400;
   line-height: 1;
@@ -319,7 +332,7 @@
 }
 
 .routeCard p {
-  color: var(--rg-teal-700);
+  color: var(--muted-foreground);
   font-size: 1.08rem;
   line-height: 1.5;
 }
@@ -381,7 +394,7 @@
 }
 
 .panoramaContent > p:not(.kicker) {
-  color: #c8d8d6;
+  color: var(--rg-night-parchment);
   font-size: 1.2rem;
   line-height: 1.5;
   margin-top: 1.5rem;
@@ -402,7 +415,7 @@
 .nightAction:hover {
   background: var(--rg-coral);
   border-color: var(--rg-coral);
-  color: var(--rg-night-parchment);
+  color: var(--rg-neutral-black);
   transform: translateY(-2px);
 }
 
@@ -478,4 +491,68 @@
   .routeImage img {
     transition: none;
   }
+}
+
+:global(html[data-theme="dark"]) .hero {
+  background:
+    radial-gradient(
+      circle at 72% 25%,
+      rgb(143 227 239 / 14%),
+      transparent 22rem
+    ),
+    var(--background);
+  color: var(--foreground);
+}
+
+:global(html[data-theme="dark"]) .heroOrbit,
+:global(html[data-theme="dark"]) .heroOrbit::before,
+:global(html[data-theme="dark"]) .heroOrbit::after {
+  border-color: rgb(143 227 239 / 22%);
+}
+
+:global(html[data-theme="dark"]) .heroCopy h1,
+:global(html[data-theme="dark"]) .sectionHeading h2,
+:global(html[data-theme="dark"]) .routeCard h3 {
+  color: var(--foreground);
+}
+
+:global(html[data-theme="dark"]) .heroCopy h1 em,
+:global(html[data-theme="dark"]) .kicker {
+  color: var(--accent);
+}
+
+:global(html[data-theme="dark"]) .heroLead,
+:global(html[data-theme="dark"]) .sectionHeading > p:last-child,
+:global(html[data-theme="dark"]) .routeCard p {
+  color: var(--muted-foreground);
+}
+
+:global(html[data-theme="dark"]) .routes {
+  background: var(--background);
+}
+
+:global(html[data-theme="dark"]) .routeCard {
+  border-color: var(--border);
+  color: var(--card-foreground);
+}
+
+:global(html[data-theme="dark"]) .routeCard:hover,
+:global(html[data-theme="dark"]) .routeCard:focus-visible {
+  background: var(--secondary);
+  color: var(--foreground);
+}
+
+:global(html[data-theme="dark"]) .routeLink {
+  border-color: var(--border);
+}
+
+:global(html[data-theme="dark"]) .secondaryAction {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+:global(html[data-theme="dark"]) .secondaryAction:hover,
+:global(html[data-theme="dark"]) .secondaryAction:focus-visible {
+  background: var(--accent);
+  color: var(--accent-foreground);
 }

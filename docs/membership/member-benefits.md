@@ -49,6 +49,8 @@ Ownership means helping steward the organization as well as benefiting from it. 
 
 See [Raid Guild Shares](/docs/membership/raid-guild-shares) for share rights and [DAO Roles and Hats Governance](/docs/dao-operations/dao-roles) for delegated responsibilities.
 
+The [RaidGuild DAO LLC Operating Agreement (July 7, 2025 reference copy, PDF)](https://remotion-service-production.up.railway.app/render-outputs/remotion/documents/raidguild/operating-agreement-2025-07-07.pdf) describes membership interests (Article III), member rights and duties (Article IV), and governance and authority to act for the company (Article V). This copy specifies an effective date of July 14, 2025; its execution line is blank. It is provided as a reference copy, without representing that it establishes execution or incorporates later amendments.
+
 ## Resources for Ideas and Contributions
 
 ### RaidGuild Improvement Proposals

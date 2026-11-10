@@ -21,7 +21,7 @@
     "@docusaurus/core": "^3.10.2",
     "@docusaurus/preset-classic": "^3.10.2",
     "@easyops-cn/docusaurus-search-local": "^0.55.3",
-    "@raidguild/brand-system": "https://raidguild-brand-guide-production.up.railway.app/packages/raidguild-brand-system-0.1.0-dev.sha68ace65.tgz",
+    "@raidguild/brand-system": "file:vendor/raidguild-brand-system-0.1.0-dev.sha1d3f250.tgz",
     "@vercel/analytics": "^2.0.1",
     "classnames": "^2.5.1",
     "react": "^19.2.8",

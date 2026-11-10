@@ -77,18 +77,31 @@
 .heroCopy h1 {
   color: var(--rg-ink);
   font-family: var(--rg-font-display);
-  font-size: clamp(64px, 5.4vw, 80px);
-  font-weight: 400;
+  font-size: clamp(3.25rem, 5vw, 4.75rem);
+  font-weight: 700;
   letter-spacing: 0;
   line-height: 1.1;
   margin: 0;
 }
 
-.heroCopy h1 em {
-  color: var(--rg-coral);
+.headingTop,
+.headingBottom {
+  display: block;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.headingTop {
   font-family: var(--rg-font-retalic);
   font-style: normal;
-  font-weight: 400;
+  font-synthesis: none;
+}
+
+.headingBottom {
+  color: var(--rg-coral);
+  font-family: "Last Duel Extended 2", var(--rg-font-display);
+  font-style: italic;
+  font-synthesis: style;
 }
 
 .heroLead {
@@ -106,61 +119,8 @@
   margin-top: 1.5rem;
 }
 
-.primaryAction,
-.secondaryAction,
-.lightAction,
-.nightAction {
-  align-items: center;
-  border: 2px solid transparent;
-  border-radius: 100px;
-  display: inline-flex;
-  font-family: var(--rg-font-mono);
-  font-size: 0.9rem;
-  font-weight: 700;
-  gap: 1rem;
-  justify-content: space-between;
-  letter-spacing: 0.025em;
-  min-height: 3.5rem;
-  padding: 0.75rem 2.5rem 0.75rem 1.5rem;
-  text-decoration: none;
-  transition:
-    transform 180ms ease,
-    background-color 180ms ease,
-    color 180ms ease;
-}
-
-.primaryAction {
-  background: var(--rg-coral);
-  color: var(--rg-neutral-black);
-}
-
-.primaryAction span {
-  align-items: center;
-  border: 1px solid currentColor;
-  border-radius: 50%;
-  display: inline-flex;
-  height: 1.75rem;
-  justify-content: center;
-  width: 1.75rem;
-}
-
-.primaryAction:hover,
-.primaryAction:focus-visible {
-  background: var(--rg-deep-teal);
-  color: var(--rg-parchment);
-  transform: translateY(-2px);
-}
-
-.secondaryAction {
-  border-color: var(--rg-ink);
-  color: var(--rg-ink);
-}
-
-.secondaryAction:hover,
-.secondaryAction:focus-visible {
-  background: var(--rg-ink);
-  color: var(--rg-parchment);
-  transform: translateY(-2px);
+.heroActions :global(.rg-brand-action) {
+  flex-shrink: 0;
 }
 
 .heroVisual {
@@ -255,8 +215,8 @@
 .panorama h2 {
   font-family: var(--rg-font-display);
   font-size: clamp(2.5rem, 3.7vw, 3.25rem);
-  font-weight: 400;
-  letter-spacing: 0;
+  font-weight: 700;
+  letter-spacing: -0.015em;
   line-height: 1.1;
   margin: 0;
 }
@@ -403,24 +363,6 @@
   max-width: 35rem;
 }
 
-.lightAction {
-  background: var(--rg-moon-cyan);
-  color: var(--rg-night-sky);
-}
-
-.nightAction {
-  border-color: var(--rg-night-parchment);
-  color: var(--rg-night-parchment);
-}
-
-.lightAction:hover,
-.nightAction:hover {
-  background: var(--rg-coral);
-  border-color: var(--rg-coral);
-  color: var(--rg-neutral-black);
-  transform: translateY(-2px);
-}
-
 @media (max-width: 996px) {
   .heroGrid,
   .sectionHeading {
@@ -450,7 +392,7 @@
   }
 
   .heroCopy h1 {
-    font-size: clamp(40px, 10.9vw, 48px);
+    font-size: clamp(2rem, 8.5vw, 2.75rem);
   }
 
   .heroActions {
@@ -458,10 +400,7 @@
     flex-direction: column;
   }
 
-  .primaryAction,
-  .secondaryAction,
-  .lightAction,
-  .nightAction {
+  .heroActions :global(.rg-brand-action) {
     width: 100%;
   }
 
@@ -488,10 +427,6 @@
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .primaryAction,
-  .secondaryAction,
-  .lightAction,
-  .nightAction,
   .routeCard,
   .routeImage img {
     transition: none;
@@ -521,7 +456,7 @@
   color: var(--foreground);
 }
 
-:global(html[data-theme="dark"]) .heroCopy h1 em,
+:global(html[data-theme="dark"]) .heroCopy h1 .headingBottom,
 :global(html[data-theme="dark"]) .kicker {
   color: var(--accent);
 }
@@ -549,15 +484,4 @@
 
 :global(html[data-theme="dark"]) .routeLink {
   border-color: var(--border);
-}
-
-:global(html[data-theme="dark"]) .secondaryAction {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-
-:global(html[data-theme="dark"]) .secondaryAction:hover,
-:global(html[data-theme="dark"]) .secondaryAction:focus-visible {
-  background: var(--accent);
-  color: var(--accent-foreground);
 }

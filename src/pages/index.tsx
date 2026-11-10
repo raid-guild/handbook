@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
 import Link from "@docusaurus/Link";
+import { BrandAction } from "@raidguild/brand-system/components";
 import useBaseUrl from "@docusaurus/useBaseUrl";
 import Layout from "@theme/Layout";
 import styles from "./styles.module.css";
@@ -76,7 +77,8 @@ export default function Home(): ReactNode {
           <div className={styles.heroCopy}>
             <p className={styles.kicker}>RaidGuild Handbook</p>
             <h1>
-              The Guild’s <em>field guide.</em>
+              <span className={styles.headingTop}>The Guild’s</span>
+              <em className={styles.headingBottom}>field guide.</em>
             </h1>
             <p className={styles.heroLead}>
               The map for where the Guild goes next. Join the fellowship. Learn
@@ -84,15 +86,19 @@ export default function Home(): ReactNode {
               Web3, applied AI, and the frontier beyond.
             </p>
             <div className={styles.heroActions}>
-              <Link className={styles.primaryAction} to="/docs/overview/intro">
-                Enter the handbook <span aria-hidden="true">↗</span>
-              </Link>
-              <Link
-                className={styles.secondaryAction}
+              <BrandAction
+                href={useBaseUrl("docs/overview/intro")}
+                direction="up-right"
+              >
+                Enter the handbook
+              </BrandAction>
+              <BrandAction
                 href="https://portal.raidguild.org"
+                variant="secondary"
+                direction="up-right"
               >
                 Open Portal
-              </Link>
+              </BrandAction>
             </div>
           </div>
 
@@ -156,15 +162,19 @@ export default function Home(): ReactNode {
               and Discord for the conversation unfolding now.
             </p>
             <div className={styles.heroActions}>
-              <Link
-                className={styles.lightAction}
+              <BrandAction
                 href="https://portal.raidguild.org"
+                direction="up-right"
               >
                 Enter Portal
-              </Link>
-              <Link className={styles.nightAction} to="/docs/agents/prism">
+              </BrandAction>
+              <BrandAction
+                href={useBaseUrl("docs/agents/prism")}
+                variant="secondary"
+                direction="up-right"
+              >
                 Meet Queen Raida
-              </Link>
+              </BrandAction>
             </div>
           </div>
         </section>

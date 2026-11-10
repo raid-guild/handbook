@@ -1,27 +1,60 @@
 @import "@raidguild/brand-system/fonts.css";
 @import "@raidguild/brand-system/tokens.css";
+@import "@raidguild/brand-system/brand-action.css";
 
 @font-face {
-  font-family: "Grinder";
-  src: url("/brand-fonts/louchi/Grinder-Refined-Regular.woff2") format("woff2");
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-Ex2.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Grinder";
-  src: url("/brand-fonts/louchi/Grinder-Refined-Italic.woff2") format("woff2");
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-BoldEx2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-Oblique.woff2") format("woff2");
   font-style: italic;
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Grinder Retalic";
-  src: url("/brand-fonts/louchi/Grinder-Refined-Retalic.woff2") format("woff2");
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-BoldOblique.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel Retalic";
+  src: url("/brand-fonts/louchi/LastDuel-Ex2Retalic.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel Retalic";
+  src: url("/brand-fonts/louchi/LastDuel-BoldEx2Retalic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel Extended 2";
+  src: url("/brand-fonts/louchi/LastDuel-BoldEx2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
   font-display: swap;
 }
 
@@ -31,7 +64,7 @@
 html[data-theme="dark"][data-brand-reign="louchi"] {
   --background: #191e4e;
   --foreground: #efe9d7;
-  --card: #242953;
+  --card: #252a61;
   --card-foreground: #efe9d7;
   --popover: #191e4e;
   --popover-foreground: #efe9d7;
@@ -47,13 +80,13 @@ html[data-theme="dark"][data-brand-reign="louchi"] {
   --input: #3e5d68;
   --ring: #8fe3ef;
   --sidebar: #06141f;
-  --sidebar-foreground: #e8e6d9;
+  --sidebar-foreground: #efe9d7;
   --sidebar-accent: #173c4d;
   --sidebar-accent-foreground: #f1edde;
   --sidebar-border: #3e5d68;
   --sidebar-ring: #8fe3ef;
   --reign-deep: #06141f;
-  --reign-field: #e8e6d9;
+  --reign-field: #efe9d7;
   --reign-highlight: #8fe3ef;
 }
 
@@ -339,6 +372,12 @@ html[data-theme="dark"] .navbar__logo img {
 
 .navbar__link--active {
   color: var(--ifm-color-primary);
+}
+
+/* Keep the search widget's invisible width probe inside the mobile navbar. */
+.navbar__search pre[style*="visibility: hidden"] {
+  left: auto;
+  right: 0;
 }
 
 .navbar__search-input {

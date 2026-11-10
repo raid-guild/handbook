@@ -76,12 +76,12 @@ export default function Home(): ReactNode {
           <div className={styles.heroCopy}>
             <p className={styles.kicker}>RaidGuild Handbook</p>
             <h1>
-              The map for where the Guild goes <em>next.</em>
+              The Guild’s <em>field guide.</em>
             </h1>
             <p className={styles.heroLead}>
-              Join the fellowship. Learn the operating lore. Assemble a party
-              for ambitious work across Web3, applied AI, and the frontier
-              beyond.
+              The map for where the Guild goes next. Join the fellowship. Learn
+              the operating lore. Assemble a party for ambitious work across
+              Web3, applied AI, and the frontier beyond.
             </p>
             <div className={styles.heroActions}>
               <Link className={styles.primaryAction} to="/docs/overview/intro">

@@ -19,6 +19,11 @@ const config: Config = {
   },
   headTags: [
     {
+      tagName: "script",
+      attributes: {},
+      innerHTML: "document.documentElement.dataset.brandReign='louchi';",
+    },
+    {
       tagName: "meta",
       attributes: {
         name: "theme-color",

@@ -8,6 +8,8 @@ sidebar_label: Become a Member
 
 Full RaidGuild membership recognizes sustained contribution, trusted relationships, and readiness to participate in DAO governance.
 
+See [Member Benefits](/docs/membership/member-benefits) for the shared business foundation, ownership and governance, funding opportunities, and Guild Kit available to members.
+
 ## Before You Seek a Champion
 
 Build enough shared context for a member to vouch for your work and judgment:

@@ -6,6 +6,8 @@ sidebar_label: Raid Guild Shares
 
 # Raid Guild Shares
 
+For the company-level membership and governance provisions, see the [RaidGuild DAO LLC Operating Agreement (July 7, 2025 reference copy, PDF)](https://remotion-service-production.up.railway.app/render-outputs/remotion/documents/raidguild/operating-agreement-2025-07-07.pdf), particularly Articles III–V. The reference copy specifies a July 14, 2025 effective date and has a blank execution line; it is not presented as proof of execution or as a record of later amendments.
+
 In the RaidGuild DAO, shares are non-transferable and specific to this Guild alone. Each share grants its holder a proportional claim on the Guild’s collective capital pool, along with one vote in Guild governance. At any time, members may “Ragequit” to exchange their shares for a corresponding portion of the Guild’s treasury.
 
 - **Current new-member package**: **500 wxDAI for 100 shares**.

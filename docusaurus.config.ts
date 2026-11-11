@@ -49,6 +49,7 @@ const config: Config = {
     },
   ],
   themeConfig: {
+    image: "img/brand/handbook-social-2026.png",
     colorMode: {
       defaultMode: "light",
       respectPrefersColorScheme: true,

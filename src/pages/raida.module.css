@@ -1,0 +1,52 @@
+.page {
+  background: var(--ifm-background-color);
+  min-height: calc(100vh - var(--ifm-navbar-height));
+  padding: clamp(2.5rem, 6vw, 5rem) 0;
+}
+
+.content {
+  max-width: 48rem;
+}
+
+.kicker {
+  color: var(--ifm-link-color);
+  font-family: var(--rg-font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.065em;
+  text-transform: uppercase;
+}
+
+.content h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.2;
+}
+
+.actions {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.primaryAction {
+  align-items: center;
+  background: var(--rg-coral);
+  border: 2px solid var(--rg-coral);
+  border-radius: 100px;
+  color: var(--rg-neutral-black);
+  display: inline-flex;
+  font-family: var(--rg-font-mono);
+  font-weight: 700;
+  gap: 1rem;
+  min-height: 3.5rem;
+  padding: 0.75rem 1.5rem;
+}
+
+.primaryAction:hover,
+.primaryAction:focus-visible {
+  background: var(--ifm-font-color-base);
+  border-color: var(--ifm-font-color-base);
+  color: var(--ifm-background-color);
+  text-decoration: none;
+}

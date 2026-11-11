@@ -1,74 +1,147 @@
+@import "@raidguild/brand-system/fonts.css";
+@import "@raidguild/brand-system/tokens.css";
+@import "@raidguild/brand-system/brand-action.css";
+
 @font-face {
-  font-display: swap;
-  font-family: "Mazius Display";
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-Ex2.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/MAZIUSREVIEW20.09-Regular.woff") format("woff");
+  font-display: swap;
 }
 
 @font-face {
-  font-display: swap;
-  font-family: "Mazius Display";
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-BoldEx2.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
-  src: url("/fonts/MaziusDisplay-Bold.otf") format("opentype");
+  font-display: swap;
 }
 
 @font-face {
-  font-display: swap;
-  font-family: "EB Garamond";
-  font-style: normal;
-  font-weight: 400 700;
-  src: url("/fonts/EBGaramond-VariableFont_wght.woff2") format("woff2");
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "EB Garamond";
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-Oblique.woff2") format("woff2");
   font-style: italic;
-  font-weight: 400 700;
-  src: url("/fonts/EBGaramond-Italic-VariableFont_wght.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel";
+  src: url("/brand-fonts/louchi/LastDuel-BoldOblique.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel Retalic";
+  src: url("/brand-fonts/louchi/LastDuel-Ex2Retalic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel Retalic";
+  src: url("/brand-fonts/louchi/LastDuel-BoldEx2Retalic.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Last Duel Extended 2";
+  src: url("/brand-fonts/louchi/LastDuel-BoldEx2.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Docusaurus owns data-theme; mirror the pinned package's Louchi night semantics
+   because its dark selector uses a separate .dark class. Keep this block aligned
+   with @raidguild/brand-system/tokens.css when changing the package pin. */
+html[data-theme="dark"][data-brand-reign="louchi"] {
+  --background: #191e4e;
+  --foreground: #efe9d7;
+  --card: #252a61;
+  --card-foreground: #efe9d7;
+  --popover: #191e4e;
+  --popover-foreground: #efe9d7;
+  --primary: #ee3c78;
+  --primary-foreground: #efe9d7;
+  --secondary: #173c4d;
+  --secondary-foreground: #f1edde;
+  --muted: #163949;
+  --muted-foreground: #b8e0df;
+  --accent: #8fe3ef;
+  --accent-foreground: #071722;
+  --border: #3e5d68;
+  --input: #3e5d68;
+  --ring: #8fe3ef;
+  --sidebar: #06141f;
+  --sidebar-foreground: #efe9d7;
+  --sidebar-accent: #173c4d;
+  --sidebar-accent-foreground: #f1edde;
+  --sidebar-border: #3e5d68;
+  --sidebar-ring: #8fe3ef;
+  --reign-deep: #06141f;
+  --reign-field: #efe9d7;
+  --reign-highlight: #8fe3ef;
 }
 
 :root {
-  --rg-moloch-100: #faeeeb;
-  --rg-moloch-200: #efc5bb;
-  --rg-moloch-300: #e39b8b;
-  --rg-moloch-400: #d25c41;
-  --rg-moloch-500: #bd482d;
-  --rg-moloch-600: #8b3521;
-  --rg-moloch-700: #5c2316;
-  --rg-moloch-800: #29100a;
-  --rg-scroll-100: #f9f7e7;
-  --rg-scroll-200: #ece5ac;
-  --rg-scroll-300: #dccd6a;
-  --rg-scroll-400: #d2c141;
-  --rg-scroll-500: #b5a22c;
-  --rg-scroll-600: #837820;
-  --rg-scroll-700: #534a13;
-  --rg-scroll-800: #211e07;
-  --rg-neutral-100: #f1efee;
-  --rg-neutral-200: #d5cecd;
-  --rg-neutral-300: #b9aeac;
-  --rg-neutral-400: #9e8e8a;
-  --rg-neutral-500: #806f6b;
-  --rg-neutral-600: #645754;
-  --rg-neutral-700: #433937;
-  --rg-neutral-800: #221d1c;
-  --rg-neutral-white: #fafafa;
-  --rg-neutral-black: #0d0d0d;
-  --rg-font-display: "Mazius Display", Georgia, serif;
-  --rg-font-body: "EB Garamond", Garamond, Georgia, serif;
-  --rg-font-mono: "Ubuntu Mono", "SFMono-Regular", Consolas, monospace;
+  --rg-ink: #102d2c;
+  --rg-deep-teal: #0a292b;
+  --rg-cyan: #b8e0df;
+  --rg-parchment: #efe9d7;
+  --rg-coral: #ee3c78;
+  --rg-acid: #d7e34d;
+  --rg-night-sky: #191e4e;
+  --rg-night-depth: #191e4e;
+  --rg-moon-cyan: #8fe3ef;
+  --rg-night-parchment: #efe9d7;
+  --rg-border: #9db2ac;
+  --rg-teal-700: #315654;
+  --rg-moloch-100: #e7f4f3;
+  --rg-moloch-200: #b8e0df;
+  --rg-moloch-300: #78c5c3;
+  --rg-moloch-400: #ee709a;
+  --rg-moloch-500: #ee3c78;
+  --rg-moloch-600: #b84067;
+  --rg-moloch-700: #315654;
+  --rg-moloch-800: #0a292b;
+  --rg-scroll-100: #efe9d7;
+  --rg-scroll-200: #e5dfc8;
+  --rg-scroll-300: #d7e34d;
+  --rg-scroll-400: #c7d13f;
+  --rg-scroll-500: #9fa82f;
+  --rg-scroll-600: #667325;
+  --rg-scroll-700: #102d2c;
+  --rg-scroll-800: #071c1d;
+  --rg-neutral-100: #e7eeea;
+  --rg-neutral-200: #cbd9d3;
+  --rg-neutral-300: #a7bdb7;
+  --rg-neutral-400: #799590;
+  --rg-neutral-500: #58746f;
+  --rg-neutral-600: #3e5d59;
+  --rg-neutral-700: #274440;
+  --rg-neutral-800: #102d2c;
+  --rg-neutral-white: #fffdf5;
+  --rg-neutral-black: #060609;
+  --rg-font-display: var(--font-display);
+  --rg-font-retalic: var(--font-retalic);
+  --rg-font-body: var(--font-body);
+  --rg-font-mono: var(--font-mono);
   --rg-radius: 0.625rem;
   --rg-radius-lg: 0.875rem;
 
-  --ifm-background-color: var(--rg-scroll-100);
+  --ifm-background-color: var(--background);
   --ifm-background-surface-color: var(--rg-neutral-100);
-  --ifm-card-background-color: var(--rg-scroll-100);
-  --ifm-color-primary: var(--rg-moloch-500);
+  --ifm-card-background-color: var(--card);
+  --ifm-color-primary: var(--primary);
   --ifm-color-primary-dark: var(--rg-moloch-600);
-  --ifm-color-primary-darker: #7e301e;
+  --ifm-color-primary-darker: #a6315a;
   --ifm-color-primary-darkest: var(--rg-moloch-700);
   --ifm-color-primary-light: var(--rg-moloch-400);
   --ifm-color-primary-lighter: var(--rg-moloch-300);
@@ -81,17 +154,17 @@
   --ifm-color-emphasis-600: var(--rg-neutral-600);
   --ifm-color-emphasis-700: var(--rg-neutral-700);
   --ifm-color-emphasis-800: var(--rg-neutral-800);
-  --ifm-font-color-base: var(--rg-moloch-800);
-  --ifm-font-color-secondary: var(--rg-neutral-600);
+  --ifm-font-color-base: var(--foreground);
+  --ifm-font-color-secondary: var(--muted-foreground);
   --ifm-font-family-base: var(--rg-font-body);
   --ifm-font-family-monospace: var(--rg-font-mono);
   --ifm-font-size-base: 18px;
-  --ifm-heading-color: var(--rg-moloch-800);
-  --ifm-heading-font-family: var(--rg-font-display);
+  --ifm-heading-color: var(--foreground);
+  --ifm-heading-font-family: var(--rg-font-body);
   --ifm-heading-font-weight: 700;
-  --ifm-heading-line-height: 1.18;
-  --ifm-link-color: var(--rg-moloch-500);
-  --ifm-link-hover-color: var(--rg-moloch-700);
+  --ifm-heading-line-height: 1.25;
+  --ifm-link-color: var(--primary);
+  --ifm-link-hover-color: var(--reign-deep);
   --ifm-navbar-background-color: color-mix(
     in srgb,
     var(--rg-scroll-100) 94%,
@@ -100,7 +173,7 @@
   --ifm-navbar-height: 4.5rem;
   --ifm-navbar-link-color: var(--rg-moloch-800);
   --ifm-navbar-link-hover-color: var(--rg-moloch-500);
-  --ifm-footer-background-color: var(--rg-moloch-800);
+  --ifm-footer-background-color: var(--rg-night-depth);
   --ifm-footer-color: var(--rg-neutral-200);
   --ifm-footer-link-color: var(--rg-scroll-100);
   --ifm-footer-title-color: var(--rg-moloch-300);
@@ -125,51 +198,51 @@
 }
 
 html[data-theme="dark"] {
-  --ifm-background-color: var(--rg-moloch-800);
-  --ifm-background-surface-color: var(--rg-moloch-700);
-  --ifm-card-background-color: var(--rg-moloch-700);
-  --ifm-color-primary: var(--rg-moloch-300);
-  --ifm-color-primary-dark: var(--rg-moloch-400);
-  --ifm-color-primary-darker: var(--rg-moloch-500);
-  --ifm-color-primary-darkest: var(--rg-moloch-600);
-  --ifm-color-primary-light: var(--rg-moloch-200);
-  --ifm-color-primary-lighter: var(--rg-moloch-100);
-  --ifm-color-primary-lightest: var(--rg-scroll-100);
-  --ifm-color-emphasis-100: #36170f;
-  --ifm-color-emphasis-200: var(--rg-moloch-700);
-  --ifm-color-emphasis-300: var(--rg-moloch-600);
-  --ifm-color-emphasis-400: var(--rg-neutral-600);
-  --ifm-color-emphasis-500: var(--rg-neutral-500);
-  --ifm-color-emphasis-600: var(--rg-neutral-400);
-  --ifm-color-emphasis-700: var(--rg-neutral-300);
-  --ifm-color-emphasis-800: var(--rg-neutral-200);
-  --ifm-font-color-base: var(--rg-scroll-100);
-  --ifm-font-color-secondary: var(--rg-neutral-300);
-  --ifm-heading-color: var(--rg-scroll-100);
-  --ifm-link-color: var(--rg-moloch-300);
-  --ifm-link-hover-color: var(--rg-moloch-200);
+  --ifm-background-color: var(--background);
+  --ifm-background-surface-color: var(--card);
+  --ifm-card-background-color: var(--card);
+  --ifm-color-primary: var(--accent);
+  --ifm-color-primary-dark: #6bc7d3;
+  --ifm-color-primary-darker: #53b6c3;
+  --ifm-color-primary-darkest: #3b8f99;
+  --ifm-color-primary-light: #a8eaf2;
+  --ifm-color-primary-lighter: #bfeff5;
+  --ifm-color-primary-lightest: #d9f7fa;
+  --ifm-color-emphasis-100: #0a1f2d;
+  --ifm-color-emphasis-200: #163949;
+  --ifm-color-emphasis-300: #3e5d68;
+  --ifm-color-emphasis-400: #58747d;
+  --ifm-color-emphasis-500: #79959c;
+  --ifm-color-emphasis-600: #9db3b8;
+  --ifm-color-emphasis-700: #bfd0d1;
+  --ifm-color-emphasis-800: #d9e3df;
+  --ifm-font-color-base: var(--foreground);
+  --ifm-font-color-secondary: var(--muted-foreground);
+  --ifm-heading-color: var(--foreground);
+  --ifm-link-color: var(--accent);
+  --ifm-link-hover-color: #c4f4fa;
   --ifm-navbar-background-color: color-mix(
     in srgb,
-    var(--rg-moloch-800) 94%,
+    var(--rg-night-depth) 94%,
     transparent
   );
   --ifm-navbar-link-color: var(--rg-scroll-100);
   --ifm-navbar-link-hover-color: var(--rg-moloch-300);
-  --ifm-code-background: #36170f;
-  --ifm-code-color: var(--rg-moloch-200);
-  --ifm-menu-color-active: var(--rg-moloch-200);
-  --ifm-menu-color-background-active: #422017;
-  --ifm-toc-border-color: var(--rg-moloch-600);
-  --ifm-table-border-color: var(--rg-moloch-600);
-  --ifm-table-head-background: #422017;
+  --ifm-code-background: var(--card);
+  --ifm-code-color: var(--rg-moon-cyan);
+  --ifm-menu-color-active: var(--rg-moon-cyan);
+  --ifm-menu-color-background-active: var(--secondary);
+  --ifm-toc-border-color: #3e5d68;
+  --ifm-table-border-color: #3e5d68;
+  --ifm-table-head-background: var(--secondary);
 
-  --search-local-modal-background: var(--rg-moloch-800);
-  --search-local-hit-background: var(--rg-moloch-700);
-  --search-local-hit-color: var(--rg-scroll-100);
-  --search-local-highlight-color: var(--rg-moloch-300);
-  --search-local-muted-color: var(--rg-neutral-300);
-  --search-local-hit-active-color: var(--rg-moloch-800);
-  --search-local-input-active-border-color: var(--rg-moloch-300);
+  --search-local-modal-background: var(--rg-night-depth);
+  --search-local-hit-background: #0a1f2d;
+  --search-local-hit-color: var(--rg-night-parchment);
+  --search-local-highlight-color: var(--rg-moon-cyan);
+  --search-local-muted-color: #b8e0df;
+  --search-local-hit-active-color: var(--rg-night-sky);
+  --search-local-input-active-border-color: var(--rg-moon-cyan);
 }
 
 html {
@@ -185,7 +258,7 @@ body {
     "pcap" 0,
     "c2pc" 0;
   letter-spacing: 0;
-  line-height: 1.6;
+  line-height: 1.65;
 }
 
 h1,
@@ -198,38 +271,38 @@ h6 {
 }
 
 .theme-doc-markdown h1 {
-  font-size: clamp(2.8rem, 5vw, 4.5rem);
-  letter-spacing: -0.015em;
-  line-height: 1;
+  font-size: clamp(2rem, 3.25vw, 2.44rem);
+  line-height: 1.2;
   margin-bottom: 2rem;
 }
 
 .theme-doc-markdown h2 {
   border-top: 1px solid var(--ifm-color-emphasis-300);
-  font-size: clamp(2rem, 3vw, 2.65rem);
+  font-size: clamp(1.55rem, 2.4vw, 1.78rem);
   margin-top: 3.5rem;
   padding-top: 2.5rem;
 }
 
 .theme-doc-markdown h3 {
   color: var(--ifm-color-primary);
-  font-size: 1.75rem;
+  font-size: clamp(1.28rem, 2vw, 1.45rem);
   margin-top: 2.5rem;
 }
 
 .theme-doc-markdown h4 {
-  font-size: 1.35rem;
+  font-size: 1.2rem;
   margin-top: 2rem;
 }
 
 .theme-doc-markdown > p,
 .theme-doc-markdown > ul,
 .theme-doc-markdown > ol {
-  max-width: 48rem;
+  max-width: 70ch;
 }
 
 strong,
 b {
+  color: var(--ifm-heading-color);
   font-weight: 700;
 }
 
@@ -277,6 +350,21 @@ input:focus-visible {
   width: auto;
 }
 
+html[data-theme="dark"] .navbar__logo img {
+  filter: invert(1);
+}
+
+.footer--dark {
+  --ifm-footer-background-color: var(--rg-night-depth);
+  --ifm-footer-color: var(--rg-night-parchment);
+  --ifm-footer-link-color: var(--rg-night-parchment);
+  --ifm-footer-title-color: var(--rg-moon-cyan);
+}
+
+.footer__logo {
+  filter: invert(1);
+}
+
 .navbar__link {
   font-size: 1rem;
   font-weight: 600;
@@ -284,6 +372,12 @@ input:focus-visible {
 
 .navbar__link--active {
   color: var(--ifm-color-primary);
+}
+
+/* Keep the search widget's invisible width probe inside the mobile navbar. */
+.navbar__search pre[style*="visibility: hidden"] {
+  left: auto;
+  right: 0;
 }
 
 .navbar__search-input {
@@ -352,6 +446,7 @@ input:focus-visible {
   color: var(--ifm-font-color-base);
   font-size: 1.05rem;
   margin: 2rem 0;
+  max-width: 70ch;
   padding: 1.1rem 1.3rem;
 }
 
@@ -378,8 +473,8 @@ table thead tr {
 
 table th {
   color: var(--ifm-heading-color);
-  font-family: var(--rg-font-display);
-  font-size: 1.05rem;
+  font-family: var(--rg-font-body);
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -454,8 +549,9 @@ hr {
 }
 
 .pagination-nav__label {
-  font-family: var(--rg-font-display);
-  font-size: 1.2rem;
+  font-family: var(--rg-font-body);
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .button {
@@ -475,8 +571,9 @@ hr {
 }
 
 .footer__title {
-  font-family: var(--rg-font-display);
-  font-size: 1.25rem;
+  font-family: var(--rg-font-body);
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .footer__link-item {
@@ -687,11 +784,11 @@ figcaption {
 
 @media (max-width: 576px) {
   .theme-doc-markdown h1 {
-    font-size: 2.75rem;
+    font-size: 2rem;
   }
 
   .theme-doc-markdown h2 {
-    font-size: 2rem;
+    font-size: 1.55rem;
   }
 }
 

@@ -60,6 +60,12 @@ DAO proposals in RaidGuild empower members to contribute ideas, manage funding, 
 
 ### Contract Addresses
 
+:::warning Review note
+
+Several contract rows below still contain `TBD` values, and the table mixes current xDAI contracts with deprecated Mainnet and historical Optimism references. Verify the intended scope and every address before treating this table as a canonical registry.
+
+:::
+
 | Name                    | xDAI Address                               | Mainnet Address (deprecated)               | Optimism Address                          |
 | ----------------------- | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
 | DAO                     | 0xf02fd4286917270cb94fbc13a0f4e1ed76f7e986 | 0xbeb3e32355a933501c247e2dbde6e6ca2489bf3d | 0xf4f65a5c6590fbc15b3869510e5f1e7114041c53 |
@@ -72,4 +78,3 @@ DAO proposals in RaidGuild empower members to contribute ideas, manage funding, 
 | NFT Sale Trading Cards  | TBD                                        | 0x3480a5E2E8A381F200F2e547f5aE6c3042e67449 | TBD                                        |
 | Public Resolver         | TBD                                        | 0xDaaF96c344f63131acadD0Ea35170E7892d3dfBA | TBD                                        |
 | Spoils Manager          | TBD                                        | N/A                                        | 0x9aFA71188fC0cd4445AbC4e671B466C2ea405130 |
-

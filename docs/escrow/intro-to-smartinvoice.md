@@ -4,6 +4,12 @@ title: Intro to Smart Invoice
 sidebar_label: Intro to Smart Invoice
 ---
 
+:::info Optional payment tool
+
+Smart Invoice is still used for some Raids and RIPs, but it is not required for every engagement or the only payment path. Confirm the chosen flow with the responsible Cleric and client before creating an escrow.
+
+:::
+
 # Introduction to Smart Invoice
 
 RaidGuild has partnered with [SmartInvoice](https://smartinvoice.xyz) to facilitate Escrow services, ensuring secure and transparent transactions. SmartInvoice, originally created within the guild, has since grown to become an independent tool, supporting both clients and guild members in maintaining trust throughout their projects.
@@ -66,6 +72,10 @@ The Spoils Manager contract allows the DAO to update the treasury address and se
 
 ### Testing and Auditing
 
-While SmartInvoice contracts are thoroughly tested, they have not been formally audited. The contract involves minimal risk, as it does not directly hold funds, leveraging established tools within the ecosystem.
+:::danger Review note · Security claim
+
+This page says the SmartInvoice contracts are tested but not formally audited and characterizes their risk as minimal. Verify the current audit status and replace that characterization with evidence-backed security guidance before publication.
 
 **Proceed with caution and use at your own risk.**
+
+:::

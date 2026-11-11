@@ -4,6 +4,12 @@ title: Funding an Escrow
 sidebar_label: Funding an Escrow
 ---
 
+:::warning Review note · Verify before funding
+
+Smart Invoice is an optional tool. This page’s interface and transaction steps may change; verify the live escrow address, network, token, and amount with the Raid Party and client before sending funds.
+
+:::
+
 :::danger WARNING
 
 Before sending any funds to an escrow ensure that the client address can call the proper functions to `release` and `lock`
@@ -38,9 +44,9 @@ Connecting via WalletConnect or the Safe Apps should allow you to follow the sam
 
 If you are paying Raid Guild from a Gnosis Safe, follow the below instructions to generate the correct transaction from the Gnosis Safe itself. Alternatively, you can use the WalletConnect app in the Gnosis Safe to interact with the Raid Guild Escrow app directly (e.g., as if you were using Metamask).
 
-:::note INFO
+:::warning Review note · Legacy Safe flow
 
-Using the transaction builder used to be necessary. Now you should be able to use WalletConnect or connect to a safe via Safe Apps so this **should\* no longer be needed.**
+The transaction builder used to be necessary. Confirm whether WalletConnect or Safe Apps now covers this flow before removing or updating the legacy instructions below.
 
 :::
 

@@ -19,10 +19,15 @@ const config: Config = {
   },
   headTags: [
     {
+      tagName: "script",
+      attributes: {},
+      innerHTML: "document.documentElement.dataset.brandReign='louchi';",
+    },
+    {
       tagName: "meta",
       attributes: {
         name: "theme-color",
-        content: "#f9f7e7",
+        content: "#efe9d7",
       },
     },
     {
@@ -51,8 +56,8 @@ const config: Config = {
     navbar: {
       logo: {
         alt: "Raid Guild",
-        src: "img/brand/full-m500.svg",
-        srcDark: "img/brand/full-s100.svg",
+        src: "img/brand/symbol-black.svg",
+        srcDark: "img/brand/symbol-black.svg",
       },
       items: [
         {
@@ -60,6 +65,11 @@ const config: Config = {
           label: "Handbook",
           position: "left",
           activeBaseRegex: "^/docs/",
+        },
+        {
+          href: "https://portal.raidguild.org",
+          label: "Portal",
+          position: "right",
         },
         {
           href: "https://www.brand.raidguild.org",
@@ -77,9 +87,9 @@ const config: Config = {
       style: "dark",
       logo: {
         alt: "Raid Guild",
-        src: "img/brand/full-s100.svg",
-        width: 210,
-        height: 55,
+        src: "img/brand/symbol-black.svg",
+        width: 64,
+        height: 64,
       },
       links: [
         {
@@ -105,6 +115,10 @@ const config: Config = {
             {
               label: "RaidGuild.org",
               href: "https://raidguild.org",
+            },
+            {
+              label: "Portal",
+              href: "https://portal.raidguild.org",
             },
             {
               label: "Brand Guide",

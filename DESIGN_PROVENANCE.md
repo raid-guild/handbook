@@ -1,0 +1,11 @@
+# Handbook design provenance
+
+The handbook follows the current Louchi Storybook from the RaidGuild brand guide. It uses the generated semantic tokens, Ubuntu body and Ubuntu Mono utility fonts, and `BrandAction` CTA styles from `@raidguild/brand-system` `0.1.0-dev.sha1d3f250` (brand revision `1d3f250`). The original published package archive is pinned locally at `vendor/raidguild-brand-system-0.1.0-dev.sha1d3f250.tgz` because an earlier revision-specific Railway package URL stopped resolving. The archive's SHA-512 is `sha512-yNQ4HmeVt++yWU5rbt/l5tXty7d+JgacuAgmoOuplBJnVF7CfNB/XRQckCTJS/X+gJOhG1fQsL4W8PCrwV6Vsg==`, matching the package manifest. The vendor archive is the unmodified published artifact. It contains no Last Duel webfonts.
+
+`src/css/custom.css` imports that package and maps its Louchi semantics to Docusaurus/Infima. Docusaurus controls `data-theme`, so the CSS adapter mirrors the package's current Louchi Night values under `html[data-theme=dark][data-brand-reign=louchi]`. A short head script sets the Louchi reign before first paint. Keep the adapter aligned with `dist/tokens.css` when updating the package pin.
+
+Last Duel is a first-party site font under `static/brand-fonts/louchi`; its six webfont cuts are copied byte-for-byte from brand revision `1d3f250`. The two-line homepage heading follows the authoritative website `review/venture-beyond-redesign` at `7d0e878`: native Bold Extended 2 Retalic on the upper line and synthesized italic Bold Extended 2 on the lower line. Ordinary documentation headings use native Bold Extended 2 without splitting CMS copy. Older Grinder files remain for historical provenance but are inactive. Last Duel is excluded from the reusable package and is not offered as a download.
+
+The homepage retains its three handbook routes, illustrations, and navigation. It uses the package's `BrandAction` component and CTA CSS while the docs retain readable Ubuntu typography and Docusaurus search and controls.
+
+Sources: [Storybook](https://brand-storybook-production.up.railway.app/), [brand package manifest](https://raidguild-brand-guide-production.up.railway.app/packages/brand-system.json), [brand repository](https://github.com/raid-guild/brand/tree/feat/versioned-brand-reigns), and [authoritative website branch](https://github.com/raid-guild/website/tree/review/venture-beyond-redesign).

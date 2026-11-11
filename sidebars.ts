@@ -17,6 +17,7 @@ const sidebars: SidebarsConfig = {
     ],
     Membership: [
       "membership/join-the-guild",
+      "membership/member-benefits",
       "membership/become-an-apprentice",
       "membership/become-a-member",
       "membership/champion-a-member",
@@ -32,8 +33,10 @@ const sidebars: SidebarsConfig = {
     ],
     Raids: [
       "raids/intro-to-raiding",
+      "raids/raid-lifecycle",
       "raids/cleric-sop",
       "raids/getting-paid",
+      "raids/process-system-gaps",
       "raids/raiding-on-optimism-chain",
     ],
     Escrow: [
@@ -41,7 +44,13 @@ const sidebars: SidebarsConfig = {
       "escrow/create-an-escrow",
       "escrow/funding-an-escrow",
     ],
-    Resources: ["resources/learn-about-web3", "resources/glossary"],
+    Spears: ["spears/tips-of-the-spear"],
+    Agents: ["agents/prism"],
+    Resources: [
+      "resources/learn-about-web3",
+      "resources/learn-about-ai",
+      "resources/glossary",
+    ],
   },
 };
 

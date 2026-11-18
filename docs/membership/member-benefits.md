@@ -83,6 +83,8 @@ Get a web presence for your personal site, local initiative, or Tip of the Spear
 
 Bring a short description of the site or initiative, the desired address, and any existing repository to the Infrastructure Maestro. They can coordinate deployment, domain configuration, and ongoing infrastructure needs. A custom domain you control is distinct from a Guild-provided subdomain.
 
+Ready to share or host something? See [Share What You Build](/docs/resources/share-what-you-build).
+
 ### Personalized Organizational AI Assistance
 
 Use [Prism / Queen Raida](/docs/agents/prism) to stay connected to the Guild in a way that fits your interests and work. Personalized assistance can help you:

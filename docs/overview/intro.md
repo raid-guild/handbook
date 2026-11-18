@@ -38,3 +38,5 @@ RaidGuild brings together builders working in Web3, applied AI, and other fronti
 The handbook documents steward responsibilities and governance structure. Members can view current Hat wearers in the members-only [Accounting app](https://accounting.raidguild.org/hat-stewards); the [DAO Roles and Hats Governance](/docs/dao-operations/dao-roles) page explains the roles themselves.
 
 Use the handbook as a map, then check Portal and the relevant Discord space for current dates, people, and active work. When reality changes, help the Keeper of Knowledge improve the map.
+
+Made something you want others to see or try? [Share What You Build](/docs/resources/share-what-you-build) starts with the Discord forum and explains the Guild’s hosting options.

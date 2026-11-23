@@ -57,6 +57,16 @@ pnpm build
 
 This output can be hosted on any static content hosting service.
 
+### Brand typography
+
+The Louchi handbook uses the pinned `@raidguild/brand-system` tarball in
+`vendor/` for Venture Beyond display fonts and brand tokens. The three Latin-subset variable
+WOFF2 faces are derived from Archivo 2.001 under the SIL Open Font License 1.1;
+their license, source, and checksums are included in the tarball under
+`dist/fonts/venture-beyond/`. The previous Last Duel files were removed from the public site after the
+Eurostile metadata audit. Ubuntu remains the reading and interface
+font, with Ubuntu Mono for utility text.
+
 ### Quality Checks
 
 Run formatting, linting, TypeScript, and production-build checks together:

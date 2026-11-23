@@ -87,7 +87,9 @@
 .headingTop,
 .headingBottom {
   display: block;
-  font-weight: 700;
+  font-weight: 900;
+  font-stretch: 125%;
+  letter-spacing: -0.005em;
   text-transform: uppercase;
 }
 
@@ -99,9 +101,9 @@
 
 .headingBottom {
   color: var(--rg-coral);
-  font-family: "Last Duel Extended 2", var(--rg-font-display);
+  font-family: var(--rg-font-display);
   font-style: italic;
-  font-synthesis: style;
+  font-synthesis: none;
 }
 
 .heroLead {

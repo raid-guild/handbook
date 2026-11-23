@@ -2,62 +2,6 @@
 @import "@raidguild/brand-system/tokens.css";
 @import "@raidguild/brand-system/brand-action.css";
 
-@font-face {
-  font-family: "Last Duel";
-  src: url("/brand-fonts/louchi/LastDuel-Ex2.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Last Duel";
-  src: url("/brand-fonts/louchi/LastDuel-BoldEx2.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Last Duel";
-  src: url("/brand-fonts/louchi/LastDuel-Oblique.woff2") format("woff2");
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Last Duel";
-  src: url("/brand-fonts/louchi/LastDuel-BoldOblique.woff2") format("woff2");
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Last Duel Retalic";
-  src: url("/brand-fonts/louchi/LastDuel-Ex2Retalic.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Last Duel Retalic";
-  src: url("/brand-fonts/louchi/LastDuel-BoldEx2Retalic.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Last Duel Extended 2";
-  src: url("/brand-fonts/louchi/LastDuel-BoldEx2.woff2") format("woff2");
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-}
-
 /* Docusaurus owns data-theme; mirror the pinned package's Louchi night semantics
    because its dark selector uses a separate .dark class. Keep this block aligned
    with @raidguild/brand-system/tokens.css when changing the package pin. */

@@ -89,7 +89,7 @@
   display: block;
   font-weight: 900;
   font-stretch: 125%;
-  letter-spacing: -0.005em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 

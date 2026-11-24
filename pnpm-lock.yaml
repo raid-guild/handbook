@@ -23,8 +23,8 @@ importers:
         specifier: ^0.55.3
         version: 0.55.3(@docusaurus/theme-common@3.10.2(@docusaurus/plugin-content-docs@3.10.2(@mdx-js/react@3.1.1(@types/react@19.2.18)(react@19.2.8))(postcss@8.5.25)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(typescript@6.0.3))(postcss@8.5.25)(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(@mdx-js/react@3.1.1(@types/react@19.2.18)(react@19.2.8))(postcss@8.5.25)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)(typescript@6.0.3)
       '@raidguild/brand-system':
-        specifier: file:vendor/raidguild-brand-system-0.1.0-dev.sha6e3ed06.tgz
-        version: file:vendor/raidguild-brand-system-0.1.0-dev.sha6e3ed06.tgz(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react-is@16.13.1)(react@19.2.8)(redux@5.0.1)
+        specifier: file:vendor/raidguild-brand-system-0.1.0-dev.shad93ebc9.tgz
+        version: file:vendor/raidguild-brand-system-0.1.0-dev.shad93ebc9.tgz(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react-is@16.13.1)(react@19.2.8)(redux@5.0.1)
       '@vercel/analytics':
         specifier: ^2.0.1
         version: 2.0.1(react@19.2.8)
@@ -2208,9 +2208,9 @@ packages:
   '@radix-ui/rect@1.1.3':
     resolution: {integrity: sha512-JtyZR+mqgBibTo8xea3B6ZRmzZiM/YeVBtUkas6zMuXjAlfIFIW2FgqeM9eLyvEaYX66vr6DJMK+4U6LV0KhNw==}
 
-  '@raidguild/brand-system@file:vendor/raidguild-brand-system-0.1.0-dev.sha6e3ed06.tgz':
-    resolution: {integrity: sha512-rMwUdXPpOCOn9uo6C6QXhqoulnJPgS3+U4zxupu/t08C+5Gb5pvHV+U51xXnK4s7ZDYCNxDiAhdtfqxmtjixhw==, tarball: file:vendor/raidguild-brand-system-0.1.0-dev.sha6e3ed06.tgz}
-    version: 0.1.0-dev.sha6e3ed06
+  '@raidguild/brand-system@file:vendor/raidguild-brand-system-0.1.0-dev.shad93ebc9.tgz':
+    resolution: {integrity: sha512-RBLg7t8pIFQMtQf9nVSnJtH8XXhaPtfoXLhr5H+ktX/VftgneRWmyfuEYE1b/fHXum0rXfVFA2J02zShRSwhfg==, tarball: file:vendor/raidguild-brand-system-0.1.0-dev.shad93ebc9.tgz}
+    version: 0.1.0-dev.shad93ebc9
     peerDependencies:
       react: '>=18 <20'
       react-dom: '>=18 <20'
@@ -10082,7 +10082,7 @@ snapshots:
 
   '@radix-ui/rect@1.1.3': {}
 
-  '@raidguild/brand-system@file:vendor/raidguild-brand-system-0.1.0-dev.sha6e3ed06.tgz(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react-is@16.13.1)(react@19.2.8)(redux@5.0.1)':
+  '@raidguild/brand-system@file:vendor/raidguild-brand-system-0.1.0-dev.shad93ebc9.tgz(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react-is@16.13.1)(react@19.2.8)(redux@5.0.1)':
     dependencies:
       '@radix-ui/react-accordion': 1.3.1(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       '@radix-ui/react-checkbox': 1.4.1(@types/react-dom@19.2.4(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.2.8(react@19.2.8))(react@19.2.8)

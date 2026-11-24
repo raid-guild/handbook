@@ -60,7 +60,7 @@ This output can be hosted on any static content hosting service.
 ### Brand typography
 
 The Louchi handbook uses the pinned `@raidguild/brand-system` tarball in
-`vendor/` for Venture Beyond display fonts and brand tokens. The three Latin-subset variable
+`vendor/` for Venture Beyond display fonts and brand tokens. The current package is `0.1.0-dev.shad93ebc9`, aligned to the merged website typography in [PR #111](https://github.com/raid-guild/website/pull/111). The three Latin-subset variable
 WOFF2 faces are derived from Archivo 2.001 under the SIL Open Font License 1.1;
 their license, source, and checksums are included in the tarball under
 `dist/fonts/venture-beyond/`. The previous Last Duel files were removed from the public site after the
